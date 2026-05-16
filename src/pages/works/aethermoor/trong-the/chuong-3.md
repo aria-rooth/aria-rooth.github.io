@@ -90,6 +90,6 @@ Từ khoảng cách này, cô có thể thấy cổng Đoàn, hai người gác 
 
 Tòa nhà vẫn đứng. Đá và gỗ và ngói không đi đến đâu. Cổng vẫn có người gác. Ngọn cờ hiệu của Đoàn — con dấu đỏ trên nền đen, biểu tượng của Trọng Nham Hỏa Đạo — vẫn treo ở cột cổng theo cái cách mà cờ hiệu treo khi gió đủ nhẹ để nó không phất mạnh, chỉ rũ xuống theo hình dạng của mình.
 
-Nhưng không có ai bên trong đó cô cần quay lại vì.
+Nhưng không có ai bên trong đó là nguyên nhân cô cần quay lại.
 
 Sera xoay người và đi vào rừng.
