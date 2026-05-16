@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ChapterLayout.astro
 title: "Chương 6: Bóng Hình Đầu Tiên"
 ---
 

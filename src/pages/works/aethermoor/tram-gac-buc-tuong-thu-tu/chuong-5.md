@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ChapterLayout.astro
 title: "Chương 5: Đội Thám Hiểm"
 ---
 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ChapterLayout.astro
 title: "Chương 2: Tro Và Thề Ước"
 ---
 
@@ -54,7 +55,7 @@ Thanh kiếm nặng hơn sáng nay so với đêm qua. Cô đã thử mấy lầ
 
 Chỉ có thanh kiếm là nặng hơn.
 
-Thệ Vang đang lớn lên. Cô không chắc mình đang cảm thấy điều đó hay tưởng tượng ra — cô không được dạy nhiều về cơ chế bên trong của kiếm Thiết Thệ, chỉ được dạy cách sử dụng và bảo quản. Nhưng nếu những thề ước của hai mươi mấy người đêm qua đã đổ vào kiếm này — và không có nơi nào khác để đi — thì có lẽ trọng lượng là biểu hiện vật lý của điều đó.
+Thệ Vang đang lớn lên. Cô không chắc mình đang cảm thấy điều đó hay tưởng tượng ra — cô không được dạy nhiều về cơ chế bên trong của kiếm Thệ Thiết, chỉ được dạy cách sử dụng và bảo quản. Nhưng nếu những thề ước của hai mươi mấy người đêm qua đã đổ vào kiếm này — và không có nơi nào khác để đi — thì có lẽ trọng lượng là biểu hiện vật lý của điều đó.
 
 Cô đứng lại ở giữa hành lang, nhắm mắt, và cố nghe.
 

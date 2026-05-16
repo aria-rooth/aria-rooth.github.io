@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ChapterLayout.astro
 title: "Chương 6: Giọng Nói Từ Thép"
 ---
 
@@ -8,7 +9,7 @@ Rừng hoang phía tây biến thành đất đá trống — kiểu địa hìn
 
 Lần đầu tiên cô rút kiếm ra không phải để chiến đấu hay luyện tập. Cô rút để nhìn.
 
-Thanh Thiết Thệ trông không khác ngày cô nhận nó — bốn năm trước, trong lễ kết nạp, khi Chấp Sự Mordren tự tay đặt cán kiếm vào tay cô và nói: *"Kiếm này không thuộc về ngươi. Ngươi chỉ cầm hộ. Khi ngươi buông, nó tìm người khác."*
+Thanh Thệ Thiết trông không khác ngày cô nhận nó — bốn năm trước, trong lễ kết nạp, khi Chấp Sự Mordren tự tay đặt cán kiếm vào tay cô và nói: *"Kiếm này không thuộc về ngươi. Ngươi chỉ cầm hộ. Khi ngươi buông, nó tìm người khác."*
 
 Nhưng hôm nay, có gì đó khác. Dọc lưỡi kiếm, nơi thép đánh bóng phản chiếu ánh sáng, có những vệt sáng mờ — không phải phản chiếu. Chúng phát ra từ trong thép, mỏng như chỉ, chạy từ chuôi đến mũi, rồi tắt. Rồi chạy lại. Như mạch đập.
 
@@ -54,7 +55,7 @@ Sera không tính toán. Không cần. Thệ Vang không kích hoạt — nhưng
 
 Tên dẫn đầu chém. Cô bước sang trái, lướt dưới lưỡi kiếm, đâm vào kẽ hở giữa áo giáp da và cổ tay. Máu. Hắn rút tay lại. Kiếm rơi.
 
-Tên thứ hai đến từ bên phải. Cô xoay người, chém xuống — đòn mà Jorin dạy, để kiếm tự rơi — và lưỡi Thiết Thệ cắt qua áo choàng xám, ngập vào vai. Hắn la. Lùi.
+Tên thứ hai đến từ bên phải. Cô xoay người, chém xuống — đòn mà Jorin dạy, để kiếm tự rơi — và lưỡi Thệ Thiết cắt qua áo choàng xám, ngập vào vai. Hắn la. Lùi.
 
 Tên thứ ba chậm hơn. Hắn cố vòng ra sau. Cô đã ở vị trí đó trong đầu trước khi hắn di chuyển — đòn thứ ba, khoát vòng, hạ thấp. Lưỡi kiếm chạm xương sườn. Hắn đổ xuống.
 

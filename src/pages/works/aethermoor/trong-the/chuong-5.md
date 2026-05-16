@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ChapterLayout.astro
 title: "Chương 5: Những Gì Không Được Phép Chết"
 ---
 

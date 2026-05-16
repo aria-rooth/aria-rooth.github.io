@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ChapterLayout.astro
 title: "Chương 3: Người Duy Nhất Chạy"
 ---
 

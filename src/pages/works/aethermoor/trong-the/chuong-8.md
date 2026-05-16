@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ChapterLayout.astro
 title: "Chương 8: Caelmyr, Thành Phố Không Chọn Phe"
 ---
 
@@ -32,7 +33,7 @@ Quán ồn dần khi tối đến. Người say bắt đầu nói to hơn, cư�
 
 Rồi một giọng cắt qua ồn ào — không to, nhưng sắc, kiểu giọng của người đã nói một câu nhiều lần đến mức nó mất hết cảm xúc:
 
-*"Aldric thợ rèn. Cái ông già ở ven thành. Người duy nhất biết cách đọc Thiết Thệ."*
+*"Aldric thợ rèn. Cái ông già ở ven thành. Người duy nhất biết cách đọc Thệ Thiết."*
 
 Sera không xoay đầu. Cô nhìn vào bình ale, tay đặt nhẹ trên bàn, và nghe tiếp. Nhưng giọng đó không nói thêm. Người nói — một đàn ông trung niên, râu lún phún, mắt đỏ — đã chuyển sang câu chuyện khác, về một con ngựa đua bị gãy chân.
 
@@ -46,7 +47,7 @@ Sera đứng dậy, để tiền trên bàn, và rời quán.
 
 Đêm Caelmyr sáng hơn nông thôn — đuốc mỗi mười bước trên đường chính, đèn trong cửa hàng, tiếng người vẫn rỉ rả từ quán này sang quán khác. Cô đi về phía khu thương nhân, tìm trọ, và không ngủ.
 
-Ngồi trên giường cứng trong phòng trọ, kiếm ngang đùi, cô nghĩ về cái tên. Aldric thợ rèn. Người duy nhất biết cách đọc Thiết Thệ.
+Ngồi trên giường cứng trong phòng trọ, kiếm ngang đùi, cô nghĩ về cái tên. Aldric thợ rèn. Người duy nhất biết cách đọc Thệ Thiết.
 
 Nếu Aldric còn sống — và người say nói như thể ông còn — thì ông là người tiếp theo cô cần gặp. Không phải vì nhật ký Chấp Sự hay vì Thệ Vang. Mà vì cô đang mang bốn mươi bảy mảnh thề ước trong tay, và cô không biết chúng nói gì.
 

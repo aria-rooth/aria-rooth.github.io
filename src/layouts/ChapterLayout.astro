@@ -1,0 +1,41 @@
+---
+import BaseLayout from './BaseLayout.astro';
+const { frontmatter } = Astro.props;
+---
+
+<BaseLayout title={frontmatter.title}>
+  <article class="chapter-content">
+    <slot />
+  </article>
+</BaseLayout>
+
+<style>
+  .chapter-content {
+    max-width: 680px;
+    margin: 0 auto;
+  }
+  .chapter-content h1 {
+    font-size: 1.6rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.3;
+  }
+  .chapter-content h2 {
+    font-size: 1.3rem;
+    margin: 2rem 0 0.75rem;
+  }
+  .chapter-content p {
+    margin-bottom: 1.2rem;
+    line-height: 1.8;
+  }
+  .chapter-content em {
+    font-style: italic;
+  }
+  .chapter-content strong {
+    font-weight: 600;
+  }
+  .chapter-content hr {
+    border: none;
+    border-top: 1px solid var(--border);
+    margin: 2rem 0;
+  }
+</style>

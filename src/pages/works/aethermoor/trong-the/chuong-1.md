@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ChapterLayout.astro
 title: "Chương 1: Đêm Không Có Ngọn Lửa"
 ---
 
@@ -6,7 +7,7 @@ title: "Chương 1: Đêm Không Có Ngọn Lửa"
 
 Hầm tối không có mùi ẩm mốc. Đó là điều đầu tiên Sera nhận ra khi bị nhốt vào đây, ba đêm trước. Người ta xây hầm này bằng đá tốt, khô ráo, thông khí qua những khe hẹp trên trần — đủ để không chết ngạt, không đủ để thấy bầu trời. Trọng Nham Hỏa Đạo không phạt bằng cách giết. Họ phạt bằng cách nhắc nhở rằng ngươi vẫn đang thở nhờ sự cho phép của họ.
 
-Sera ngồi dựa lưng vào tường, đầu gối gập lại, tay đặt trên đùi. Thanh kiếm vẫn còn với cô — họ không tịch thu, vì kiếm Oath-Iron (Thiết Thệ) không thuộc về cô, nó thuộc về Đoàn. Tước đi kiếm cũng như tước đi một phần của Đoàn khỏi tay cô, và điều đó không phải là quyết định của một Chấp Sự cấp thấp trong một phiên kỷ luật thông thường.
+Sera ngồi dựa lưng vào tường, đầu gối gập lại, tay đặt trên đùi. Thanh kiếm vẫn còn với cô — họ không tịch thu, vì kiếm Oath-Iron (Thệ Thiết) không thuộc về cô, nó thuộc về Đoàn. Tước đi kiếm cũng như tước đi một phần của Đoàn khỏi tay cô, và điều đó không phải là quyết định của một Chấp Sự cấp thấp trong một phiên kỷ luật thông thường.
 
 Vi phạm của cô đơn giản: cô đã giết tên lính thay vì bắt giữ hắn.
 
@@ -38,11 +39,11 @@ Bốn mươi đến sáu mươi. Không có tiếng kiếm.
 
 Sau một trăm, cô không còn nghe thấy gì từ bên trên ngoài tiếng gió thổi qua sân. Và mùi đó — mùi khét lẹt — không còn tăng nữa, như thể nguồn phát đã tắt, hoặc đã hoàn thành việc của mình.
 
-Cô nhìn cái khóa trên cửa hầm. Ổ khóa sắt tốt, loại mà Đoàn dùng cho những căn phòng quan trọng. Cô không có chìa. Cô có một thanh kiếm Thiết Thệ và ba ngày ngồi trong bóng tối để quan sát cấu trúc bản lề.
+Cô nhìn cái khóa trên cửa hầm. Ổ khóa sắt tốt, loại mà Đoàn dùng cho những căn phòng quan trọng. Cô không có chìa. Cô có một thanh kiếm Thệ Thiết và ba ngày ngồi trong bóng tối để quan sát cấu trúc bản lề.
 
 Bản lề lắp từ bên trong. Ai đó đã không suy nghĩ kỹ khi xây hầm này.
 
-Mất bảy phút để tháo bản lề bằng cái cách mà cô sẽ không giải thích cho ai, vì nó liên quan đến việc dùng mũi kiếm Thiết Thệ theo những góc không phải vũ khí này được thiết kế ra để làm. Cô đẩy cửa ra theo góc khác với lẽ thường. Bậc thang lên phía trên hiện ra — đá xám, không có đèn.
+Mất bảy phút để tháo bản lề bằng cái cách mà cô sẽ không giải thích cho ai, vì nó liên quan đến việc dùng mũi kiếm Thệ Thiết theo những góc không phải vũ khí này được thiết kế ra để làm. Cô đẩy cửa ra theo góc khác với lẽ thường. Bậc thang lên phía trên hiện ra — đá xám, không có đèn.
 
 Sân Đoàn trong đêm tháng Mười ở Caelmyr thường có ít nhất bốn ngọn đuốc cháy ở bốn góc tường. Đêm nay không có ngọn lửa nào.
 
@@ -56,7 +57,7 @@ Sera rút kiếm.
 
 Không phải vì có mối đe dọa trước mặt. Mà vì trong bốn năm cô mang thanh kiếm này, cô chưa bao giờ rút nó trong sân nhà mà không cảm thấy sự kỳ lạ của cử chỉ đó. Đêm nay cô cần cảm giác kỳ lạ để biết mình vẫn đang hoạt động bình thường.
 
-Thanh kiếm nặng hơn bình thường. Cô nhận ra ngay, vì kiếm Thiết Thệ không thay đổi trọng lượng — nó là kim loại, nó tuân theo vật lý. Nhưng trong tay cô lúc này, nó nặng theo cái cách mà đôi khi vật mang theo ký ức nặng hơn bản thân nó.
+Thanh kiếm nặng hơn bình thường. Cô nhận ra ngay, vì kiếm Thệ Thiết không thay đổi trọng lượng — nó là kim loại, nó tuân theo vật lý. Nhưng trong tay cô lúc này, nó nặng theo cái cách mà đôi khi vật mang theo ký ức nặng hơn bản thân nó.
 
 Cô đi qua sân.
 

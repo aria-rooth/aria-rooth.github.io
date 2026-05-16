@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ChapterLayout.astro
 title: "Chương 4: Trọng Lượng Của Kiếm"
 ---
 
@@ -10,7 +11,7 @@ Thanh kiếm nặng hơn mỗi giờ.
 
 Cô nhận ra điều này theo cách cô nhận ra mọi thứ: bằng cách đo lường. Buổi sáng, cô có thể đi hai trăm bước trước khi cảm thấy cần đổi tay. Trưa hôm đó, một trăm hai mươi. Buổi chiều, dưới một trăm. Đến khi mặt trời chạm ngọn cây ở hướng tây, cô phải dừng lại sau mỗi năm mươi bước, đặt kiếm ngang đùi, xoa bàn tay phải cho máu lưu thông trở lại.
 
-Cô kiểm tra: cánh tay không yếu. Nhấc đá, nhấc cành gỗ khô, nhấc ba lô — tất cả bình thường. Chỉ có cán kiếm Thiết Thệ là nặng theo cách mà vật lý không giải thích được. Nó không nặng ở đầu lưỡi hay ở cán. Nó nặng ở bên trong — như thể thép đang đặc lại từ trong ra.
+Cô kiểm tra: cánh tay không yếu. Nhấc đá, nhấc cành gỗ khô, nhấc ba lô — tất cả bình thường. Chỉ có cán kiếm Thệ Thiết là nặng theo cách mà vật lý không giải thích được. Nó không nặng ở đầu lưỡi hay ở cán. Nó nặng ở bên trong — như thể thép đang đặc lại từ trong ra.
 
 Trước hoàng hôn, cô thấy một ngôi nhà.
 

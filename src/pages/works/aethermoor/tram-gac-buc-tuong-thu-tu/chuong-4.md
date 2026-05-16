@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ChapterLayout.astro
 title: "Chương 4: Nhịp Điệu Của Tường"
 ---
 

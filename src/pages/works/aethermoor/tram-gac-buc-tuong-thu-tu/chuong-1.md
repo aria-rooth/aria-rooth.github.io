@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ChapterLayout.astro
 title: "Chương 1: Trạm Gác Thứ Tư"
 ---
 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ChapterLayout.astro
 title: "Chương 7: Thẩm Vấn Giả Và Câu Hỏi"
 ---
 
