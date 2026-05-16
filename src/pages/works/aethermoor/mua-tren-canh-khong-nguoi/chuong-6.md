@@ -1,5 +1,8 @@
 ---
 layout: ../../../../layouts/ChapterLayout.astro
+chapter: 6
+story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
+total: 8
 title: "Chương 6: Bóng Hình Đầu Tiên"
 ---
 

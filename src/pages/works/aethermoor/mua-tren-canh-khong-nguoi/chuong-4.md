@@ -1,5 +1,8 @@
 ---
 layout: ../../../../layouts/ChapterLayout.astro
+chapter: 4
+story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
+total: 8
 title: "Chương 4: Bình Thường"
 ---
 

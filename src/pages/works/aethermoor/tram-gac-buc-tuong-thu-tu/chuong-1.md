@@ -1,5 +1,8 @@
 ---
 layout: ../../../../layouts/ChapterLayout.astro
+chapter: 1
+story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
+total: 8
 title: "Chương 1: Trạm Gác Thứ Tư"
 ---
 

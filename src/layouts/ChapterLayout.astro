@@ -1,12 +1,31 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 const { frontmatter } = Astro.props;
+const chapter = frontmatter.chapter;
+const total = frontmatter.total;
+const story = frontmatter.story;
+const prevCh = chapter > 1 ? chapter - 1 : null;
+const nextCh = chapter < total ? chapter + 1 : null;
 ---
 
 <BaseLayout title={frontmatter.title}>
   <article class="chapter-content">
     <slot />
   </article>
+
+  <nav class="chapter-nav">
+    {prevCh ? (
+      <a href={`${story}/chuong-${prevCh}`} class="prev">&larr; Chương {prevCh}</a>
+    ) : (
+      <span></span>
+    )}
+    <a href={story} class="toc">Mục lục</a>
+    {nextCh ? (
+      <a href={`${story}/chuong-${nextCh}`} class="next">Chương {nextCh} &rarr;</a>
+    ) : (
+      <span></span>
+    )}
+  </nav>
 </BaseLayout>
 
 <style>
@@ -37,5 +56,27 @@ const { frontmatter } = Astro.props;
     border: none;
     border-top: 1px solid var(--border);
     margin: 2rem 0;
+  }
+
+  .chapter-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 680px;
+    margin: 3rem auto 0;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border);
+    font-family: system-ui, sans-serif;
+  }
+  .chapter-nav a {
+    color: var(--accent);
+    text-decoration: none;
+    font-size: 0.95rem;
+  }
+  .chapter-nav a:hover {
+    text-decoration: underline;
+  }
+  .chapter-nav .toc {
+    color: var(--muted);
   }
 </style>

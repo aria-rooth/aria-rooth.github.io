@@ -1,5 +1,8 @@
 ---
 layout: ../../../../layouts/ChapterLayout.astro
+chapter: 5
+story: "/works/aethermoor/trong-the"
+total: 8
 title: "Chương 5: Những Gì Không Được Phép Chết"
 ---
 
