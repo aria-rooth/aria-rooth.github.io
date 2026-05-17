@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 11
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 13
+total: 20
 title: "Chương 11: Vỡ Ra"
 ---
 

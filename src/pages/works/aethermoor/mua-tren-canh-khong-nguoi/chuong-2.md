@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 2
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 8
+total: 20
 title: "Chương 2: Nhật Ký"
 ---
 

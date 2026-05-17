@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 5
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 8
+total: 20
 title: "Chương 5: Người Đầu Tiên"
 ---
 

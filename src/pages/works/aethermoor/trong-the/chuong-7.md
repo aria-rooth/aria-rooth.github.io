@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 7
 story: "/works/aethermoor/trong-the"
-total: 8
+total: 20
 title: "Chương 7: Thẩm Vấn Giả Và Câu Hỏi"
 ---
 

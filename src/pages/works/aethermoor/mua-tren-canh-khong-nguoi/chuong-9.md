@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 9
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 13
+total: 20
 title: "Chương 9: Đêm Thứ Mười Ba"
 ---
 

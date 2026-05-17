@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 14
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 15
+total: 20
 title: "Chương 14: Cô Bé"
 ---
 

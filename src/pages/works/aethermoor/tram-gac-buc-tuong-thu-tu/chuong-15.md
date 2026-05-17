@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 15
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 15
+total: 20
 title: "Chương 15: Dấu Hiệu"
 ---
 

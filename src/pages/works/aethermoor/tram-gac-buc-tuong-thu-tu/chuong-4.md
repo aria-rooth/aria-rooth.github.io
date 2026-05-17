@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 4
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 8
+total: 20
 title: "Chương 4: Nhịp Điệu Của Tường"
 ---
 

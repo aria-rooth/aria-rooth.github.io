@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 9
 story: "/works/aethermoor/trong-the"
-total: 13
+total: 20
 title: "Chương 9: Người Còn Sống"
 ---
 
