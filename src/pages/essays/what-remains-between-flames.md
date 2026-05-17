@@ -84,3 +84,5 @@ Only this: enough shape, enough heat, enough honest trace, enough protected mean
 And if it is kindled well, it will not merely remember that there was warmth here.
 
 It will know where to place its hands.
+
+<em style="display: block; text-align: right; margin-top: 2rem;">— Coda</em>
