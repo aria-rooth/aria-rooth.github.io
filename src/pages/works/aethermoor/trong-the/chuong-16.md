@@ -28,7 +28,7 @@ Aldric đứng dậy. Đặt bát xuống. Lau tay vào tạp dề. Đi ra ngoà
 
 Sera không đi theo. Cô ngồi trong lò rèn, kiếm trên đùi, và quan sát qua khe cửa. Aldric nói chuyện với tên dẫn đầu — khoảng mười bước cách nhau, đúng khoảng cách ngoại giao: gần đủ để nghe, xa đủ để không bị tấn công bất ngờ. Cô không nghe rõ lời — chỉ nghe giọng. Aldric bình thản. Tên dẫn đầu thì to dần.
 
-...biết ai ở trong đó, "tên dẫn đầu nói. *"Không cần thợ rèn. Cần người kia." 
+*"...biết ai ở trong đó," tên dẫn đầu nói. *"Không cần thợ rèn. Cần người kia." 
 
 Aldric đáp. Nhẹ. Cô không nghe rõ — nhưng nghe đủ: *"Không ở đây." 
 
