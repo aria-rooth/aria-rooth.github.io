@@ -2,11 +2,11 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 25
 story: "/works/aethermoor/trong-the"
-total: 25
+total: 30
 title: "Chương 25: Bức Thư Không Gửi Đi"
 ---
 
-← [Chương 24](chuong-24)  **Chương 25/25**
+← [Chương 24](chuong-24)  **Chương 25/30**  → [Chương 26](chuong-26)
 
 ---
 
@@ -54,4 +54,4 @@ Lira uống nước. Sera uống nước. Ngoài cửa sổ, thị trấn Harren
 
 ---
 
-← [Chương 24](chuong-24)  **Chương 25/25**
+← [Chương 24](chuong-24)  **Chương 25/30**  → [Chương 26](chuong-26)

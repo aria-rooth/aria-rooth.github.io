@@ -2,11 +2,11 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 25
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 25: Cấp Độ"
 ---
 
-← [Chương 24](chuong-24)  **Chương 25/25**
+← [Chương 24](chuong-24)  **Chương 25/35**  → [Chương 26](chuong-26)
 
 ---
 
@@ -78,4 +78,4 @@ Vela không trả lời. Nhưng câu hỏi ở lại — như "muộn" trong cu�
 
 ---
 
-← [Chương 24](chuong-24)  **Chương 25/25**
+← [Chương 24](chuong-24)  **Chương 25/35**  → [Chương 26](chuong-26)
