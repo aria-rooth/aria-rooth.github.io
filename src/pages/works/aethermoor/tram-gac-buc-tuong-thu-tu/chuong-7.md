@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 7: Đêm Thứ Ba"
 ---
+
+← [Chương 6](chuong-6)  **Chương 7/25**  [Chương 8](chuong-8) →
+
+---
+
 ## Những gì đội Essam không biết
 
 Đêm thứ ba, Pale Frontier sống động hơn bình thường.
@@ -53,6 +58,10 @@ Vela lấy nước, trở lên tháp.
 
 Cô không giải thích. Không phải vì giấu — vì không cần. Họ không hỏi thì cô không nói. Và nếu họ hỏi, cô sẽ nói thật: một con Bạch Ám Thú, đã xử lý, không nguy hiểm. Đủ.
 
-Nhưng họ không hỏi. Và cô ghi nhận điều đó — ghi nhận theo cách cô ghi nhận mọi thứ: im lặng, trong đầu, không viết vào sổ.
+Nhưng họ không hỏi. Và cô ghi nhận điều đó — ghi nhận theo cách cô ghi nhận mọi thứ: im lặng, trong đầu, không viết vào sổ. Viết ra sẽ làm nó thành sự thật đã ghi nhận, và sự thật đã ghi nhận không thể xóa.
 
 ---
+
+---
+
+← [Chương 6](chuong-6)  **Chương 7/25**  [Chương 8](chuong-8) →

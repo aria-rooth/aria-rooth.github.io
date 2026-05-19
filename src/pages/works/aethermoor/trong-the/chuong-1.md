@@ -5,6 +5,11 @@ story: "/works/aethermoor/trong-the"
 total: 25
 title: "Chương 1: Đêm Không Có Ngọn Lửa"
 ---
+
+**Chương 1/25**  [Chương 2](chuong-2) →
+
+---
+
 Hầm tối không có mùi ẩm mốc. Đó là điều đầu tiên Sera nhận ra khi bị nhốt vào đây, ba đêm trước. Người ta xây hầm này bằng đá tốt, khô ráo, thông khí qua những khe hẹp trên trần — đủ để không chết ngạt, không đủ để thấy bầu trời. Trọng Nham Hỏa Đạo không phạt bằng cách giết. Họ phạt bằng cách nhắc nhở rằng ngươi vẫn đang thở nhờ sự cho phép của họ.
 
 Sera ngồi dựa lưng vào tường, đầu gối gập lại, tay đặt trên đùi. Thanh kiếm vẫn còn với cô — họ không tịch thu, vì kiếm Oath-Iron (Thệ Thiết) không thuộc về cô, nó thuộc về Đoàn. Tước đi kiếm cũng như tước đi một phần của Đoàn khỏi tay cô, và điều đó không phải là quyết định của một Chấp Sự cấp thấp trong một phiên kỷ luật thông thường.
@@ -71,7 +76,9 @@ Không phải vỡ theo nghĩa có vết nứt hay bị đập vỡ từ bên ng
 
 Những mảnh vỡ nằm trên bệ đá. Chúng không sắc cạnh như thủy tinh vỡ — chúng mờ, như đá vôi, như thứ gì đó đã mất đi ánh sáng bên trong.
 
-Sera đứng nhìn những mảnh vỡ đó trong một lúc. Thanh kiếm trong tay cô nặng hơn nữa. Cô hiểu tại sao rồi.
+Sera đứng nhìn những mảnh vỡ đó trong một lúc. Thanh kiếm trong tay cô nặng hơn nữa — nặng không chỉ ở cổ tay, mà chảy dọc khuỷu, vào vai, xuống sống lưng như thể ai đó đang bám vào cô từ phía sau, hai tay đặt lên hai vai.
+
+Cô hiểu tại sao rồi.
 
 Oath Echo (Thệ Vang) trong kiếm — tiếng vọng của tất cả những thề ước từ những người đã chết trước đây, truyền vào thép qua nhiều thế hệ — bây giờ đang nhận thêm. Không phải nhận thêm từ những người đã chết từ lâu. Nhận thêm từ hai mươi mấy người vừa nằm xuống ngoài sân.
 
@@ -82,3 +89,7 @@ Thệ Hạch vỡ, nhưng những thề ước không mất. Chúng đi vào nơ
 Và cô là người duy nhất còn cầm thanh kiếm đó.
 
 ---
+
+---
+
+**Chương 1/25**  [Chương 2](chuong-2) →

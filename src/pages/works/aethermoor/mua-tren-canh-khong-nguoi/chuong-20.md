@@ -6,6 +6,10 @@ total: 25
 title: "Chương 20: Sự Thật Của Lyss"
 ---
 
+← [Chương 19](chuong-19)  **Chương 20/25**  [Chương 21](chuong-21) →
+
+---
+
 Tối hôm sau. Elara không chờ hoàng hôn. Cô ngồi cách cổng một bước từ chiều muộn. Đèn dầu sáng. *Người Đứng* đóng — không mở, không ghi, đêm nay không ghi chép. Đêm nay nói.
 
 Lyss đến. Vẫy tay. Ngồi xuống. Cùng vị trí. Nhìn Elara.
@@ -81,3 +85,7 @@ Lyss nhìn cô. Nhìn khoảng trống. Nhìn hai mươi chín người phía sa
 *Tiếp theo: Chương 21 — Qua Cổng.*
 
 *← [Chương 14–15](../published/europa-ch14-15-final.md)*
+
+---
+
+← [Chương 19](chuong-19)  **Chương 20/25**  [Chương 21](chuong-21) →

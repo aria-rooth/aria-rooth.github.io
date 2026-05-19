@@ -5,6 +5,11 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 25
 title: "Chương 6: Bóng Hình Đầu Tiên"
 ---
+
+← [Chương 5](chuong-5)  **Chương 6/25**  [Chương 7](chuong-7) →
+
+---
+
 Elara nhận ra anh ta ngay lập tức.
 
 Hoàng hôn. Ánh sáng cuối ngày nghiêng từ phía tây, kéo dài bóng đổ qua hoang nguyên. Cô đang ngồi trên tảng đá — vị trí quen thuộc, quen đến mức cô có thể ngồi xuống trong bóng tối mà không cần nhìn — khi cô thấy.
@@ -41,7 +46,12 @@ Mười.
 
 Trời tối hoàn toàn.
 
-Elara vẫn ngồi. Tay đặt trên đùi, không run. Trường kiếm nằm cạnh, không rút. Cô đã không rút kiếm trong ba năm — lần cuối là khi một con sói hoang lạc vào bán kính tuần tra. Cô không rút bây giờ. Lenn không phải sói.
+
+Elara vẫn ngồi. Tay đặt trên đùi, không run — không phải vì không sợ, vì cô không biết mình có đang sợ hay không. Cô chỉ biết rằng nếu đứng lên, cô sẽ phải làm gì đó. Và làm gì đó đòi hỏi quyết định. Quyết định đòi hỏi lý do. Cô không có lý do để đi, cũng không có lý do để ở. Nên cô ngồi.
+
+Trường kiếm nằm cạnh, không rút. Cô đã không rút kiếm trong ba năm — lần cuối là khi một con sói hoang lạc vào bán kính tuần tra. Cô không rút bây giờ. Lenn không phải sói.
+
+Đêm lạnh. Lạnh theo cách mà Pale Frontier lạnh — không đột ngột, mà tích lũy, từng phân tử từng phân tử, như nước ngấm vào đá. Đầu gối cô cứng sau giờ thứ hai. Lưng cô căng sau giờ thứ ba. Đến giờ thứ tư, cô không còn cảm thấy lạnh — cô cảm thấy tê, và tê nặng hơn lạnh vì nó không kêu cứu, nó chỉ im.
 
 Cô ngồi cho đến khi bình minh.
 
@@ -72,3 +82,7 @@ Ra ngoài. Tuần tra buổi sáng như mọi buổi sáng. Nhưng lần này, k
 Cô tiếp tục đi.
 
 ---
+
+---
+
+← [Chương 5](chuong-5)  **Chương 6/25**  [Chương 7](chuong-7) →

@@ -5,6 +5,11 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 25
 title: "Chương 16: Quyết Định Đầu Tiên"
 ---
+
+← [Chương 15](chuong-15)  **Chương 16/25**  [Chương 17](chuong-17) →
+
+---
+
 Sáng.
 
 Elara ngồi trên phiến đá, *Người Đứng* mở trên đùi, nhưng cô không viết. Bút chì nằm ngang giữa hai trang, bất động. Cô nhìn về phía Huyền Môn Cốt — không có ai, tất nhiên, sáng là thời gian của đá trống và cỏ khô — nhưng cô nhìn như thể vẫn có thể thấy cô bé đứng ở đó.
@@ -58,3 +63,7 @@ Nhưng cuối cùng hoàng hôn cũng đến. Và cô đứng sẵn.
 *Kết chương*
 
 ---
+
+---
+
+← [Chương 15](chuong-15)  **Chương 16/25**  [Chương 17](chuong-17) →

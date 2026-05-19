@@ -5,6 +5,11 @@ story: "/works/aethermoor/trong-the"
 total: 25
 title: "Chương 18: Ra Đi Lần Thứ Hai"
 ---
+
+← [Chương 17](chuong-17)  **Chương 18/25**  [Chương 19](chuong-19) →
+
+---
+
 Sera dọn dẹp buổi chiều. Không phải vì cô muốn dọn — vì Aldric muốn, và cô nợ ông đủ để làm theo. Họ chôn năm xác phía sau lò rèn, dưới gốc cây sồi già, đất đào nông — đủ để thú không đào lên, không đủ để người sống còn quan tâm. Aldric đào mộ — ông quen, ba cuộc chiến, ba lần đào mộ cho người vừa cố giết ông. Ông không buồn. Ông không vui. Ông đào vì người chết cần đất, và đất cần người chết — vòng tuần hoàn mà ông không nghĩ về nhiều nữa. Cô phụ: đặt xác vào hố, lấp đất, đắp nhẹ. Không đánh dấu. Không đếm. Năm người chết trong chiến đấu không khác năm người chết trong trận — cùng kết quả, cùng đất. Đất không hỏi ai đúng. Đất chỉ nhận.
 
 Cô không lấy thêm gì từ xác. Giấy thông hành — giả, không dùng được. Tiền — cô lấy một túi, để lại hai túi cạnh mộ. Ai đó sẽ tìm. Ai đó cần hơn cô. Cô lấy vũ khí — năm thanh kiếm thép thường, còn dùng được. Cô không cần, nhưng bỏ lại năm thanh kiếm trên xác năm Thẩm Vấn Giả là bỏ lại bằng chứng. Aldric sẽ nung và đúc lại — thép nào cũng là thép, không nhớ ai từng cầm nó.
@@ -46,3 +51,7 @@ Lần thứ hai Sera rời bỏ nơi có người còn sống. Lần đầu: Đo
 Sera tiếp tục đi. Thanh kiếm nặng như thường. Cô mang bốn mươi bảy mảnh thề ước, nhật ký Mordren, lệnh Giáo Hội, và một cái tên. Nặng đủ. Nhưng lần đầu tiên, cô mang vì cô chọn mang — không vì không còn ai khác để mang.
 
 ---
+
+---
+
+← [Chương 17](chuong-17)  **Chương 18/25**  [Chương 19](chuong-19) →

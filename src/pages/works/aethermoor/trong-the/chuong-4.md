@@ -5,6 +5,11 @@ story: "/works/aethermoor/trong-the"
 total: 25
 title: "Chương 4: Trọng Lượng Của Kiếm"
 ---
+
+← [Chương 3](chuong-3)  **Chương 4/25**  [Chương 5](chuong-5) →
+
+---
+
 Sera đi về phía Tây vì đó là hướng không ai theo dõi. Con đường đông dẫn về Caelmyr — nơi có Thẩm Vấn Giả. Con đường bắc cắt qua lãnh thổ Vorthane — rừng, không có sẵn lương thực. Con đường tây chạy dọc theo các trang trại nhỏ ven chân đồi, ít người, ít mắt.
 
 Thanh kiếm nặng hơn mỗi giờ.
@@ -54,3 +59,7 @@ Cô mở mắt. Đặt tay lên cán kiếm.
 Cô nằm trong bóng tối, tay trên cán kiếm, và chờ. Nó không quay lại. Nhưng cô biết — giống cách cô biết thanh kiếm đang nặng hơn — rằng nó sẽ quay lại. Và lần sau, cô sẽ không mở mắt.
 
 ---
+
+---
+
+← [Chương 3](chuong-3)  **Chương 4/25**  [Chương 5](chuong-5) →

@@ -3,8 +3,13 @@ layout: ../../../../layouts/ChapterLayout.astro
 chapter: 19
 story: "/works/aethermoor/trong-the"
 total: 25
-title: "Chương 19: Những Gì Đất Ghi Nhớ"
+title: "Chương 19: Những Gì Đất Ghi Nhớ (Thiên Địa Hữu Ký)"
 ---
+
+← [Chương 18](chuong-18)  **Chương 19/25**  [Chương 20](chuong-20) →
+
+---
+
 Bốn ngày đi bộ. Sera tránh đường lớn, đi theo đường mòn — cũ, ít người, cỏ cao ngang gối. Mỗi đêm cô luyện kiếm. Mỗi ngày kiếm nặng hơn một chút. Nhưng khác trước: cô biết tại sao. Bốn mươi bảy mảnh thề ước đang chờ, và mỗi ngày không hoàn thành là mỗi ngày chúng nặng thêm. Aldric đã nói: Thệ Vang phân phối nhiệm vụ cho người cuối cùng. Phân phối — từ nặng. Như chia gánh, nhưng gánh không giảm, chỉ dịch chuyển.
 
 Luyện kiếm ban đêm — cô chọn đêm vì ban ngày có thể bị phát hiện, và vì ban đêm Thệ Vang dễ chảy. Aldric giải thích: "Ban ngày quá nhiều tiếng ồn. Linh Nguyên chảy theo mặt trời, theo cây cối, theo mọi thứ đang sống và đang thở. Ban đêm, tất cả tĩnh. Thệ Vang dễ nghe hơn khi nền tĩnh." Cô không biết ông đúng hay sai — cô chỉ biết ban đêm khi cô múa kiếm, kiếm sáng hơn, và mỗi đường chém để lại vệt sáng mỏng trong bóng tối, như đuôi sao băng chậm.
@@ -56,3 +61,7 @@ Bà gật đầu. Mỉm cười — nụ cười của người đi cảm tạ, 
 Cô ghi nhận: Phong Quang Thánh Giáo không phải chỉ là kẻ thù. Họ còn là nơi người thường đặt niềm tin. Điều này không thay đổi gì. Nhưng cô ghi nhận.
 
 ---
+
+---
+
+← [Chương 18](chuong-18)  **Chương 19/25**  [Chương 20](chuong-20) →

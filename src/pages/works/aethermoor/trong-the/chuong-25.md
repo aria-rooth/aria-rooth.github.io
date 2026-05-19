@@ -5,6 +5,11 @@ story: "/works/aethermoor/trong-the"
 total: 25
 title: "Chương 25: Bức Thư Không Gửi Đi"
 ---
+
+← [Chương 24](chuong-24)  **Chương 25/25**
+
+---
+
 Sáng. Thị trấn thức — chợ mở, người đi, ngựa hí. Sera ngồi ở bàn phòng trọ, mực và giấy trước mặt — mượn từ chủ quán, người không hỏi tại sao khách thuê cần mực lúc sáng sớm. Cô viết.
 
 Không phải thư gửi đi. Không có người nhận. Cô viết để sắp xếp — như người xếp đồ trước khi chuyển nhà: lấy ra, nhìn, quyết định giữ hay bỏ. Đầu óc cô là căn nhà cần dọn, và suy nghĩ là đồ đạc nằm rải rác, và cô cần xếp chúng lại trước khi bước tiếp.
@@ -46,3 +51,7 @@ Lira uống nước. Sera uống nước. Ngoài cửa sổ, thị trấn Harren
 
 
 *→ [Chương 26–30](2b-ch26-30.md)*
+
+---
+
+← [Chương 24](chuong-24)  **Chương 25/25**

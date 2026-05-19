@@ -5,6 +5,11 @@ story: "/works/aethermoor/trong-the"
 total: 25
 title: "Chương 21: Lira"
 ---
+
+← [Chương 20](chuong-20)  **Chương 21/25**  [Chương 22](chuong-22) →
+
+---
+
 Nhà kho cũ. Dầu mài. Kim loại. Gỗ mục. Sera đứng trước Lira, và Lira đứng trước cô, và giữa hai người là một khoảng trống vừa đủ cho một người rút kiếm — nhưng không ai rút.
 
 Lira không ngồi lại. Cô ta đứng — trọng tâm thấp, chân trước hơi chùng, chân sau chắc. Tư thế của người đã đứng trong phòng chứa quá nhiều lần, chờ cửa mở, chờ người đến, chờ lý do để rút kiếm hoặc rút chân. Free Sword không đứng như Hiệp Sĩ Đoàn — Đoàn đứng thẳng, vì Đoàn có người bảo vệ lưng. Free Sword đứng co, vì Free Sword tự bảo lưng mình.
@@ -74,3 +79,7 @@ Bước cuối ngõ, Lira nói một câu. Không phải với Sera — như th�
 Sera không đáp. Ghi nhận. Rồi tiếp tục đi.
 
 ---
+
+---
+
+← [Chương 20](chuong-20)  **Chương 21/25**  [Chương 22](chuong-22) →

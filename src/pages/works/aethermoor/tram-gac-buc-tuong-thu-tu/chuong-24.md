@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 24: Đêm Không Có Tấn Công"
 ---
+
+← [Chương 23](chuong-23)  **Chương 24/25**  [Chương 25](chuong-25) →
+
+---
+
 *Đôi khi thứ đáng sợ nhất là không có gì để đánh.*
 
 Một đêm hiếm hoi: hoàn toàn yên. Không có tiếng móng vuốt trên đá, không có tiếng thở khò khè từ bóng tối, không có rung động dưới chân báo hiệu đàn đến. Trăng mỏng — chỉ là vết xước trên trời — nhưng đủ sáng để thấy mười hai dặm tường trống trải, không một bóng dáng Bạch Quái Thú.
@@ -52,3 +57,7 @@ Vela nhìn anh ta. Nhìn cách anh ta đặt bút xuống — đặt chậm, đ�
 *Có lẽ đó là đủ cho hôm nay — một từ, một câu hỏi, một cửa hơi hé. Không cần mở rộng. Chỉ cần biết nó ở đó.*
 
 ---
+
+---
+
+← [Chương 23](chuong-23)  **Chương 24/25**  [Chương 25](chuong-25) →

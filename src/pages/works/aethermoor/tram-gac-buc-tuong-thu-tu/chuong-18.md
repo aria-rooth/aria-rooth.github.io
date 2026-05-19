@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 18: Rời Đi"
 ---
+
+← [Chương 17](chuong-17)  **Chương 18/25**  [Chương 19](chuong-19) →
+
+---
+
 *Bảy người đến. Năm người về. Một người ở lại.*
 
 Ngày hôm sau, Kael quyết định phải di chuyển về Essam ngay. Quyết định được đưa ra từ đêm trước, khi cô nằm cạnh Lyre và thấy mạch đập của Lyre yếu đi từng giờ, hơi thở ngày càng nông, da bắt đầu chuyển màu xám nơi vết thương. Vết cào từ móng Bạch Ám Thú — một vết rách dài từ vai xuống nửa lưng — bắt đầu hoại tử. Một quầng xanh đen lan từ mép vết thương ra xung quanh, da chết từng milimet. Cần pháp thuật y tế thực sự — thứ Essam có, nhưng trên tường này không có gì ngoài đá và gió và vô tận của Pale Frontier. Kain cần xương sườn được nắn và cố định — nếu không, mảnh vỡ có thể thủng phổi bất cứ lúc nào, và ở đây Vela chỉ biết kỹ thuật sơ cứu, không phải phẫu thuật.
@@ -44,3 +49,7 @@ Cô không gật đầu. Không nói. Chỉ đứng, và anh ta ở lại. Cô n
 **Kết chương:** Đội Essam mất dạng trên thảo nguyên — bốn người trong thế giới của người sống, hai người dưới áo choàng xám không thể về cùng. Vela nhìn họ khuất sau đường chân trời, nơi thảo nguyên gặp bầu trời xám, rồi quay lại. Người còn đứng trên tường là Theo. Anh ta nhìn cô, không nhìn theo đội. Cô không hiểu. Nhưng cô không đuổi. Và không đuổi là câu trả lời duy nhất cô có thể đưa ra hôm nay.
 
 *Cô không hiểu. Nhưng cô không ngăn. Và không ngăn, cô nhận ra, cũng là một loại câu trả lời — loại câu trả lời cô nhận ra mình có thể nói.*
+
+---
+
+← [Chương 17](chuong-17)  **Chương 18/25**  [Chương 19](chuong-19) →

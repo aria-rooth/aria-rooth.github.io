@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 17: Sau Đó"
 ---
+
+← [Chương 16](chuong-16)  **Chương 17/25**  [Chương 18](chuong-18) →
+
+---
+
 *Chiến thắng không bao giờ trông như trong truyện.*
 
 Vela giết Titan một mình. Hai mươi phút chiến đấu liên tục — bị thương tám lần: vai phải xé, ngực thủng, đùi cắm, mắt phải mờ vì máu từ vết trán, và bốn vết nhỏ hơn mà cô không đếm. Lành lại mỗi lần. Đau mỗi lần. Đau không biến mất khi vết thương lành — nó ở lại, một lớp dày dưới da, nhắc cô rằng cơ thể này vẫn biết đau dù có lành thế nào. Cô đã trải qua cảm giác này bao nhiêu lần rồi? Đủ để không còn ngạc nhiên, không đủ để quen. Cô nghe tiếng xương mình gắn lại, tiếng thịt mình kéo liền, như tiếng vải cũ bị kéo căng — và biết rằng mỗi lần lành là mỗi lần cô mất đi một phần gì đó không lành được.
@@ -50,3 +55,7 @@ Hai từ. Chúng nằm giữa họ. Không đủ. Vela biết rằng dù cô đ�
 *Cô quen chết. Chưa quen biết tên người chết.*
 
 ---
+
+---
+
+← [Chương 16](chuong-16)  **Chương 17/25**  [Chương 18](chuong-18) →

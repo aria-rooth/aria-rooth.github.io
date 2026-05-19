@@ -5,6 +5,11 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 25
 title: "Chương 5: Người Đầu Tiên"
 ---
+
+← [Chương 4](chuong-4)  **Chương 5/25**  [Chương 6](chuong-6) →
+
+---
+
 Ngày thứ tư nghìn ba trăm tám mươi lăm. Hoặc 4.385 — cô không chắc. Cô đã ngừng đếm chính xác từ năm thứ sáu, khi nhận ra rằng việc biết chính xác ngày thứ bao nhiêu không thay đổi gì. Bây giờ cô chỉ ghi số vào nhật ký và để số tự tăng. Nếu có sai lệch, cô không biết. Nếu có ngày bị bỏ qua, cô không nhận ra. Điều đó cũng là một phần của bình thường.
 
 Người đàn ông xuất hiện từ hướng nam vào khoảng giữa trưa.
@@ -59,6 +64,9 @@ Elara đứng nhìn theo.
 
 Lâu hơn bình thường. Không phải vì cô lo lắng. Không phải vì cô hối hận. Chỉ là cô đứng, và việc dừng việc đứng đòi hỏi một quyết định, và quyết định ấy không cần được đưa ra ngay lúc này. Cô đứng cho đến khi Edrin biến thành một chấm nhỏ, rồi chấm nhỏ biến mất vào đường chân trời.
 
+
+Tay phải cô vẫn đặt trên cán kiếm — không siết, chỉ đặt. Nhưng cô cảm thấy ngón tay mình hơi cứng hơn khi Edrin quay lưng. Cơ hàm cô căng — không vì giận, vì cô không giận. Vì cô vừa làm điều mà mười hai năm duy trì đòi hỏi: từ chối một người sống. Lần đầu tiên trong ba năm. Cơ thể cô nhớ cách từ chối. Cơ thể không nhớ cách giải thích.
+
 Khi bóng anh ta biến mất, cô quay về tháp canh.
 
 Mở tập thứ mười hai. Viết:
@@ -69,6 +77,9 @@ Cô nhấc bút. Nghĩ. Viết tiếp:
 
 *Người đầu tiên trong ba năm.*
 
+
+Ba năm. Cô nhìn dòng chữ. Ba năm không phải con số ghi trên giấy — ba năm là độ dày của bụi trên cửa sổ, là số lần cô sửa mái lều, là số vòng tuần tra đủ để mòn một lối điên trên đất. Ba năm không có người. Và bây giờ một người đến, và cô đuổi anh ta đi — không phải vì anh ta xấu. Vì anh ta sống. Và sự sống, từ một phía, trông giống mối đe dọa hơn là khách.
+
 Cô nhìn dòng chữ. Ba năm. Lần trước là Davin — thương nhân đi tuyến đường cũ, gặp cô năm thứ tám. Davin không đòi đi qua cổng. Chỉ hỏi cô làm gì ở đây. Cô trả lời. Anh ta gật đầu và đi. Edrin khác — Edrin muốn đi qua. Và cô đã ngăn lại mà không biết tại sao.
 
 Cô đóng nhật ký. Ra ngoài. Tiếp tục tuần tra.
@@ -78,3 +89,7 @@ Vòng chiều bình thường. Nhưng cô bước chậm hơn một chút ở g�
 ---
 
 *→ [Chương 6–10](europa-ch6-10-final.md)*
+
+---
+
+← [Chương 4](chuong-4)  **Chương 5/25**  [Chương 6](chuong-6) →

@@ -5,6 +5,11 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 25
 title: "Chương 1: Thứ Ba"
 ---
+
+**Chương 1/25**  [Chương 2](chuong-2) →
+
+---
+
 Bình minh đến không có màu sắc.
 
 Mây che kín từ đêm trước, và ánh sáng lọc qua chỉ là một sự nhạt dần của bóng tối — xám thay đen, sau đó xám nhạt hơn. Elara nhận ra sự thay đổi không qua mắt mà qua thân thể. Cơ bắp thay đổi trạng thái khi đủ sáng để di chuyển. Xương cốt chuyển từ chế độ nghỉ sang chế độ canh trước khi não kịp ghi nhận.
@@ -65,6 +70,11 @@ Không phải khổ hạnh. Không phải nghi lễ. Chỉ là cô đứng ở �
 
 Mưa rơi. Huyền Môn Cốt đứng.
 
-Elara quan sát.
+
+Elara quan sát. Nước chảy xuống gáy, xuống lưng, xuống hai khuỷu tay để buông. Áo da dê nặng hơn mỗi phút. Cô cảm thấy lạnh — không phải lạnh của người chịu đựng, mà lạnh của người quen. Mười hai mùa thu đã dạy cơ thể cách đứng trong mưa mà không run. Run là đòi hỏi sự chú ý. Cô không đòi.
 
 ---
+
+---
+
+**Chương 1/25**  [Chương 2](chuong-2) →

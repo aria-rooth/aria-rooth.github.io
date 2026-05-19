@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 20: Quyết Định Không Được Đặt Tên"
 ---
+
+← [Chương 19](chuong-19)  **Chương 20/25**  [Chương 21](chuong-21) →
+
+---
+
 *Không phải lựa chọn — chỉ là dừng không đuổi đi.*
 
 Một tháng kể từ khi đội Essam đến và đi. Vela và Theo có nhịp điệu riêng — một thứ ngôn ngữ không lời xây dựng từ những ngày bên nhau. Anh ta biết khi nào cô sắp đứng dậy trong đêm — ba mươi giây trước khi đàn đến, nhịp thở cô thay đổi, một chuyển dịch nhỏ đến mức hầu như không nhận ra, nhưng anh ta nhận ra. Cô biết khi nào anh ta đang đọc điều quan trọng — bút dừng, mắt hẹp, môi mím lại thành một đường. Họ không phải bạn. Không phải đồng đội. Là thứ giữa — chưa có tên, không cần tên.
@@ -49,3 +54,7 @@ Không có sai lệch đáng kể. Tất cả chương 16–20 bám sát outline
 - Ch.20: Một tháng, nhịp điệu riêng, mảnh ký ức từ bình yên, "tôi không nói đuổi đi", cột mốc Arc 1. ✅
 
 Quy tắc LORE_BIBLE tuân thủ: Titan, Bạch Lang Thần Thú, Bạch Ám Thú, Bạch Ảnh, lãnh vực.
+
+---
+
+← [Chương 19](chuong-19)  **Chương 20/25**  [Chương 21](chuong-21) →

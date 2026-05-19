@@ -5,6 +5,11 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 25
 title: "Chương 23: Breakthrough Tự Nhiên"
 ---
+
+← [Chương 22](chuong-22)  **Chương 23/25**  [Chương 24](chuong-24) →
+
+---
+
 Một tuần sau đêm Lyss bước qua.
 
 Elara không cho thêm ai qua. Không phải vì không muốn — mà vì cô cần hiểu điều gì xảy ra. Lyss bước qua, ngồi, nói, rồi biến mất khi bình minh đến. Cô bé biến mất từ bên này — đi đâu? Về bên kia? Về nơi cô bé không nhớ? Về chỗ hai mươi chín người kia đứng? Elara không biết. Và trước khi biết, cô không thể tiếp tục.
@@ -56,3 +61,7 @@ Cô dừng. Nghĩ. Viết thêm:
 *Kết chương*
 
 ---
+
+---
+
+← [Chương 22](chuong-22)  **Chương 23/25**  [Chương 24](chuong-24) →

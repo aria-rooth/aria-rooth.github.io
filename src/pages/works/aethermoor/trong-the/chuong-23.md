@@ -5,6 +5,11 @@ story: "/works/aethermoor/trong-the"
 total: 25
 title: "Chương 23: Đoàn Đang Hấp Hối"
 ---
+
+← [Chương 22](chuong-22)  **Chương 23/25**  [Chương 24](chuong-24) →
+
+---
+
 Bạch Linh Mạc Đoàn đóng quân ở thị trấn Harren's Cross — ngã ba đường giữa Vorthane và biên giới Essam. Thị trấn lớn hơn thị trấn cô gặp Lira: khoảng năm mươi ngôi nhà, chợ tuần, trạm đổi ngựa, hai quán rượu. Nhưng *lớn hơn* không có nghĩa *sống hơn*. Sera đi qua thị trấn và thấy: cửa hàng đóng, quán vắng, chợ tuần chỉ còn ba sạp. Năm năm trước nơi này hẳn đông — hợp đồng bảo vệ hành trình tạo ra tiền, tiền tạo ra người, người tạo ra hoạt động. Bây giờ hoạt động chảy ra như nước từ ly nứt.
 
 Lò rèn Đoàn nằm ở rìa thị trấn — tòa nhà gỗ hai tầng, rộng, xám, nhưng còn đứng. Cờ Đoàn treo trên cột门前 — cờ trắng việt quất, dòng chữ thêu nhỏ: *Bạch Linh Mạc*. Cờ vẫn treo nhưng phai — màu trắng ngả vàng, việt quất nhạt thành hồng. Như cờ của người muốn báo hiệu mình vẫn ở đây, nhưng không còn đủ lực để cờ bay.
@@ -64,3 +69,7 @@ Pattern. Sera nhìn pattern. Trọng Nham Hỏa Đạo — phát hiện di tích
 Cô cần xem danh sách.
 
 ---
+
+---
+
+← [Chương 22](chuong-22)  **Chương 23/25**  [Chương 24](chuong-24) →

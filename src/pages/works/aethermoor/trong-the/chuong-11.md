@@ -5,6 +5,11 @@ story: "/works/aethermoor/trong-the"
 total: 25
 title: "Chương 11: Cái Giá Của Việc Bỏ Xuống"
 ---
+
+← [Chương 10](chuong-10)  **Chương 11/25**  [Chương 12](chuong-12) →
+
+---
+
 Aldric nói. Không phải vì cô hỏi — mà vì cô cần biết.
 
 *"Hai cách. Hoàn thành các thề ước, hoặc phá hủy thanh kiếm."*
@@ -41,7 +46,9 @@ Aldric gật đầu. Không phải gật đồng ý. Gật nhận — như ngư�
 
 *"Vậy thì chúng ta bắt đầu ngày mai."*
 
-Sera đặt chén xuống. Định nói cảm ơn — và không nói. Không phải vì không biết nói. Mà vì Aldric đã ngồi góc bếp Đoàn hai mươi năm, và cô chưa bao giờ nói cảm ơn khi ông đặt bát canh trước mặt cô. Cô chỉ ăn. Ông chỉ nấu. Đó là cách họ — không cần lời. Cảm ơn lúc này sẽ nhẹ hơn so với việc cô chưa từng nói nó trước, và nhẹ ở đây không phải tốt. Nhẹ ở đây là thừa.
+Sera đặt chén xuống. Định nói cảm ơn — và không nói. Không phải vì không biết nói. Mà vì Aldric đã ngồi góc bếp Đoàn hai mươi năm, và cô chưa bao giờ nói cảm ơn khi ông đặt bát canh trước mặt cô.
+
+Cô nuốt. Cổ họng cô nóng — không phải nóng của nước. Nóng của thứ gì đó đang trào lên từ ngực. Cô không khóc. Cô không khóc trước mặt ông. Nhưng cô nuốt lần thứ hai, và lần này khó hơn lần đầu. Cô chỉ ăn. Ông chỉ nấu. Đó là cách họ — không cần lời. Cảm ơn lúc này sẽ nhẹ hơn so với việc cô chưa từng nói nó trước, và nhẹ ở đây không phải tốt. Nhẹ ở đây là thừa.
 
 Ngoài cửa lò rèn, trời đã tối. Ánh lửa từ bệ rèn chiếu lên tường — đỏ, đều. Lửa phản chiếu trên đe, trên cán kiếm, trên mặt Aldric. Cô định nằm xuống chỗ ông chỉ — thảm dọc góc tường, chăn mỏng — khi cô thấy gì đó ngoài khe cửa.
 
@@ -58,3 +65,7 @@ Aldric đã quay lại bệ rèn, dọn dẹp — xếp búa vào giá, phủ th
 Ông gật đầu. *"Tốt. Ngày mai chúng ta bắt đầu sớm."*
 
 ---
+
+---
+
+← [Chương 10](chuong-10)  **Chương 11/25**  [Chương 12](chuong-12) →

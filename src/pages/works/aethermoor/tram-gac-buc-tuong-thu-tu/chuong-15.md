@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 15: Dấu Hiệu"
 ---
+
+← [Chương 14](chuong-14)  **Chương 15/25**  [Chương 16](chuong-16) →
+
+---
+
 ## Thứ đến từ phía Bắc lần này khác
 
 Ba ngày trước khi đội Essam dự định rời đi.
@@ -37,7 +42,7 @@ Anh ta gật đầu. Không hỏi thêm. Anh ta biết điều này có nghĩa g
 
 *"Chúng tôi ở lại,"* Kael nói. Không phải quyết định mới — cô đã quyết định từ trước, khi Kain bị thương, khi Lyre cần thêm thời gian. Nhưng bây giờ lý do khác. Không phải vì Kain hay Lyre. Vì có thứ đang đến, và nếu đội đi ngay bây giờ, họ sẽ gặp nó trên đường về, không có tường che, không có Vela.
 
-Vela gật đầu. Cô không đuổi họ đi — và bây giờ cô cũng không muốn họ đi. Đây là thay đổi. Cô nhận ra: trước đây, cô không muốn họ ở. Bây giờ, cô không muốn họ đi. Hai thứ khác nhau. Một là trung lập — không quan tâm. Một là muốn — muốn có người ở gần khi thứ lớn đến. Cô không quen muốn. Nhưng cô nhận ra muốn.
+Vela gật đầu. Cô không đuổi họ đi — và bây giờ cô cũng không muốn họ đi. Đây là thay đổi. Cô nhận ra: trước đây, cô không muốn họ ở. Bây giờ, cô không muốn họ đi. Hai thứ khác nhau. Một là trung lập — không quan tâm. Một là muốn — muốn có người ở gần khi thứ lớn đến. Cô không quen muốn. Nhưng cô nhận ra muốn: một cảm giác nhẹ ở bụng, như cơn co thắt, không đau, chỉ là nhắc cô rằng cơ thể vẫn biết cần.
 
 Đêm đó, không có tấn công.
 
@@ -51,7 +56,7 @@ Theo leo lên tháp. Không mang balo — chỉ sổ nhỏ. Ngồi cạnh cô. K
 
 Họ ngồi trong im lặng. Cô nhìn phía Bắc. Anh ta nhìn theo. Và trong lúc ngồi đó, Vela nhận ra: cô đang chờ. Không phải chờ tấn công — chờ *thứ gì đó*. Cô không biết nó là gì. Nhưng cô biết nó đang đến. Và cô biết khi nó đến, cô sẽ đánh. Và cô biết sau khi đánh, cô sẽ lành. Và cô biết sau khi lành, cô sẽ tiếp tục. Đó là chuỗi. Đó là tất cả những gì cô biết về tương lai: đánh, lành, tiếp tục.
 
-Nhưng lần này có người ngồi cạnh. Và người đó cũng đang chờ. Và chờ cùng nhau khác chờ một mình — cô đã biết điều đó từ đêm đầu tiên anh ta ngồi cạnh trên thềm tháp. Chờ cùng nhau là có ai đó chia khoảng trống. Không phải ít trống hơn — mà là trống có người, và trống có người thì khác trống không có.
+Nhưng lần này có người ngồi cạnh. Và người đó cũng đang chờ. Và chờ cùng nhau khác chờ một mình — cô đã biết điều đó từ đêm đầu tiên anh ta ngồi cạnh trên thềm tháp. Chờ cùng nhau là có ai đó chia khoảng trống. Không phải ít trống hơn — mà là trống có người, và trống có người thì khác trống không có. Như hai người chèo thuyền trong đêm: không cần nói, chỉ cần nghe tiếng chèo bên cạnh, và biết mình không chèo một mình.
 
 *"Cô cảm thấy gì?"* anh ta hỏi. Nhẹ. Không phải hỏi lớn — hỏi nhỏ, trong đêm, kiểu hỏi mà người ta hỏi khi không muốn phá vỡ im lặng nhưng cần biết.
 
@@ -85,7 +90,7 @@ Anh ta chờ. Đúng cách. Không kéo.
 
 *"Cô cảm thấy gì khi đứng trước người đó?"*
 
-Vela nghĩ về cảm giác còn sót lại. Sợ là gì? Cô đã cảm thấy sợ — mảnh ký ức cho cô biết: sợ cho ai đó, sợ không kịp. Nhưng sợ cho mình? Cô không nhớ. Có thể đã sợ, lâu lắm rồi, khi cô mới đến đây và chưa biết mình không chết được. Bây giờ thì không. Chết là dữ liệu. Chết là số trong sổ — cộng thêm một, hoặc không cộng vì sổ không ghi số lần chết, chỉ ghi số lần lành.
+Vela nghĩ về cảm giác còn sót lại. Sợ là gì? Cô đã cảm thấy sợ — mảnh ký ức cho cô biết: sợ cho ai đó, sợ không kịp. Sợ cho người khác đau hơn sợ cho mình: sợ cho mình thì chết là điểm kết, còn sợ cho người khác thì không có điểm kết nào, chỉ có chờ. Nhưng sợ cho mình? Cô không nhớ. Có thể đã sợ, lâu lắm rồi, khi cô mới đến đây và chưa biết mình không chết được. Bây giờ thì không. Chết là dữ liệu. Chết là số trong sổ — cộng thêm một, hoặc không cộng vì sổ không ghi số lần chết, chỉ ghi số lần lành.
 
 *"Sợ,"* cô nói. *"Nhưng không phải vì tôi có thể bị đau."*
 
@@ -161,3 +166,7 @@ Cô không biết điều đó có nghĩa gì. Nhưng cô ghi nhận.
 - Beat chính giữ nguyên: Pale Creatures rút có trật tự, Vela báo Kael, im lặng trước cơn bão, đêm không tấn công.
 
 *→ [Chương 16–20](eve-ch16-20-final.md)*
+
+---
+
+← [Chương 14](chuong-14)  **Chương 15/25**  [Chương 16](chuong-16) →

@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 4: Nhịp Điệu Của Tường"
 ---
+
+← [Chương 3](chuong-3)  **Chương 4/25**  [Chương 5](chuong-5) →
+
+---
+
 ## Sáng quét, trưa kiểm tra, chiều nhìn về phía Bắc
 
 Bức Tường Thứ Tư có nhịp điệu riêng — không phải nhịp điệu ai đặt ra, mà là nhịp điệu tự hình thành từ việc lặp đi lặp lại đủ lâu. Sáng quét đường. Trưa kiểm tra đá. Chiều nhìn về phía Bắc. Vela không nhớ khi nào bắt đầu làm theo nhịp này. Có thể từ đầu. Có thể sau một trăm năm thì tự nhiên hóa. Không quan trọng. Nhịp điệu không cần lý do.
@@ -46,3 +51,7 @@ Vela không hỏi tại sao mình làm. Không phải vì không có câu trả 
 Cô trét đất sét vào vết nứt. Sẽ không giữ được lâu. Nhưng hôm nay thì giữ.
 
 ---
+
+---
+
+← [Chương 3](chuong-3)  **Chương 4/25**  [Chương 5](chuong-5) →

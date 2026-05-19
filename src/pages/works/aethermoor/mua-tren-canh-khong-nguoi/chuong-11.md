@@ -5,6 +5,11 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 25
 title: "Chương 11: Một Bóng Hình Cử Động"
 ---
+
+← [Chương 10](chuong-10)  **Chương 11/25**  [Chương 12](chuong-12) →
+
+---
+
 Đêm thứ chín. Trăng tròn.
 
 Elara không cần đèn lồng. Ánh trăng sáng đến mức cô thấy bóng của chính mình trên mặt đất — dài, méo, vạt áo phồng lên như cánh chim bị gãy. Cô đứng trước Huyền Môn Cốt và lần đầu tiên nhìn thấy họ rõ.
@@ -107,3 +112,7 @@ Không có dấu vết. Đất không bị đạp nhiều hơn bình thường. 
 Nhưng cô có tập *Người Đứng.* Và cô đã viết.
 
 ---
+
+---
+
+← [Chương 10](chuong-10)  **Chương 11/25**  [Chương 12](chuong-12) →

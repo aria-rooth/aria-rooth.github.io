@@ -5,6 +5,11 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 25
 title: "Chương 14: Cô Bé"
 ---
+
+← [Chương 13](chuong-13)  **Chương 14/25**  [Chương 15](chuong-15) →
+
+---
+
 Đêm thứ mười ba.
 
 Elara ngồi trên phiến đá từ trước hoàng hôn. *Người Đứng* mở trên đùi, bút chì sẵn trong tay. Cô đã ghi chép cả ngày — mức Linh Nguyên, thời tiết, hướng gió, vòng tuần tra — nhưng mục quan sát đêm vẫn trống. Cô chờ.
@@ -86,3 +91,7 @@ Cô đóng sổ. Ngồi đợi bình minh. Gió bắc yếu dần. Trời chuy�
 Cô bé khác.
 
 ---
+
+---
+
+← [Chương 13](chuong-13)  **Chương 14/25**  [Chương 15](chuong-15) →

@@ -5,6 +5,11 @@ story: "/works/aethermoor/trong-the"
 total: 25
 title: "Chương 16: Trận Chiến Đầu Tiên Có Chủ Đích"
 ---
+
+← [Chương 15](chuong-15)  **Chương 16/25**  [Chương 17](chuong-17) →
+
+---
+
 Sera viết suốt đêm. Ba tờ giấy dày đầy chữ — không đều, không đẹp, nhưng đầy. Cô ghi lại bằng ngôn ngữ của mình: ngắn, chia đoạn, không hoa. Di vật. Pale Frontier. Mordren Thứ Hai. Cửa. Thệ Hạch vỡ — mảnh nằm ở đâu? Giáo Hội đã lấy chưa? Ghi thêm: không biết. Cần xác minh.
 
 Lúc cô xong, Aldric đã ngủ. Ông nằm dựa tường, chăn gấp nửa dưới sườn, tay phải co nhẹ — tư thế của người đã ngủ quá nhiều năm trên giường quân đội và không còn biết ngủ kiểu khác. Lò rèn tắt. Duy nhất ánh sáng từ mỏ than hắt ra, đỏ mờ, không đủ để đọc.
@@ -38,6 +43,8 @@ Sera đứng dậy. Cô không vội — không phải vì bình thản, mà vì
 Cô mở bực cửa. Bước ra ngoài.
 
 Sáu Thẩm Vấn Giả quay nhìn. Tên dẫn đầu nhìn cô. Hắn mỉm cười — không phải nụ cười thiện ý, là nụ cười của người đã tìm được thứ mình tìm.
+
+Cô cảm thấy máu chảy nhanh hơn ở thái dương. Không phải sợ. Là sẵn sàng. Cô không ngoái lại nhìn Aldric — nhìn lại sẽ làm hắn biết cô có người cần bảo vệ. Cô chỉ đứng, để kiếm tìm chỗ trong xương cô, và chờ.
 
 "Sera Voss," hắn nói. "Trọng Nham Hỏa Đạo. Nhân viên cuối cùng."
 
@@ -78,3 +85,7 @@ Sera nhìn xuống kiếm. Vệt sáng trên lưỡi đang tắt dần — như 
 Aldric gật đầu. Quay vào lò. Nấu tiếp bữa sáng bị gián đoạn.
 
 ---
+
+---
+
+← [Chương 15](chuong-15)  **Chương 16/25**  [Chương 17](chuong-17) →

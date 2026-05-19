@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 19: Một"
 ---
+
+← [Chương 18](chuong-18)  **Chương 19/25**  [Chương 20](chuong-20) →
+
+---
+
 *Không phải hai người — một người và một người. Điều đó khác nhau quan trọng.*
 
 Vela và Theo. Hai người trên mười hai dặm tường. Không phải hai người như đội Essam — cùng mục tiêu, cùng rời đi. Là một người và một người, mỗi người ở đây vì lý do riêng, và lý do riêng đó đang hòa vào nhau theo cách cả hai thấy nhưng chưa đặt tên.
@@ -38,3 +43,7 @@ Sau trận, anh ta xuống tháp, mặt hồng vì hồi hộp — lần đầu 
 **Kết chương:** Vela nhắm mắt, nghe tiếng bút trên giấy, tiếng lửa lách tách, tiếng thở đều của người khác trong không gian của cô. Cảm giác lạ. Nhưng ấm — ấm theo cách cô đã quên mình từng biết. Trong hai trăm năm, cô không biết mình thiếu gì — chỉ biết có thứ gì đó vắng mặt, một khoảng trống không tên. Bây giờ cô biết: thiếu tiếng thở của người khác trong đêm của mình, thiếu bóng ai đó dưới ánh lửa khi cô quay đầu. Và khi cô ngủ, lần đầu tiên sau hai trăm năm, cô không mơ thấy tuyết. Cô mơ thấy ánh sáng.
 
 *Cô không biết mình cần điều đó đến khi không còn thiếu nó nữa.*
+
+---
+
+← [Chương 18](chuong-18)  **Chương 19/25**  [Chương 20](chuong-20) →

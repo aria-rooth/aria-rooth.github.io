@@ -5,6 +5,11 @@ story: "/works/aethermoor/trong-the"
 total: 25
 title: "Chương 6: Giọng Nói Từ Thép"
 ---
+
+← [Chương 5](chuong-5)  **Chương 6/25**  [Chương 7](chuong-7) →
+
+---
+
 Rừng hoang phía tây biến thành đất đá trống — kiểu địa hình mà người địa phương gọi là "bãi xương," vì không gì lớn mọc được ngoài cỏ gai và rêu đá. Sera dừng ở mép rừng, nơi cây cối nhường chỗ cho đá, và rút kiếm.
 
 Lần đầu tiên cô rút kiếm ra không phải để chiến đấu hay luyện tập. Cô rút để nhìn.
@@ -23,7 +28,9 @@ Trống rỗng. Đầu tiên là trống rỗng. Cô không ép thêm. Chờ.
 
 Rồi nó đến.
 
-Lần này không phải một giây. Lần này dài hơn — đủ để nghe hơn áp lực, hơn cảm giác. Lần này có giọng nói. Rõ ràng. Không phải tiếng hô chiến trường. Một câu, nói bình thản, như người đang nói điều gì đó trong phòng nhỏ:
+Lần này không phải một giây. Lần này dài hơn — đủ để nghe hơn áp lực, hơn cảm giác. Lần này có giọng nói. Rõ ràng.
+
+Cô cảm thấy nóng bừng ở sau gáy — không phải nóng của lửa, mà nóng của máu chảy nhanh hơn. Da gà nổi dọc cánh tay cầm kiếm. Cô không sợ. Cô chỉ đang nghe. Không phải tiếng hô chiến trường. Một câu, nói bình thản, như người đang nói điều gì đó trong phòng nhỏ:
 
 *"Hoàn thành điều chưa xong."*
 
@@ -63,6 +70,8 @@ Toàn bộ: mười một giây.
 
 Cô đứng giữa ba người. Một gục ngã, hai bị thương đang cố lết ra xa. Máu trên lưỡi kiếm — máu Thẩm Vấn Giả, không phải máu Đoàn.
 
+Máu Thẩm Vấn Giả chảy chậm hơn máu Đoàn. Hoặc có thể chỉ là cô nhìn khác. Bốn năm trước, máu này sẽ làm cô buồn nôn. Bây giờ, cô chỉ thấy nó là chất lỏng cần lau. Cô không biết mình đã mất gì để đến chỗ này. Cô chỉ biết mình đã đến.
+
 Cô lau kiếm bằng vạt áo. Đang lau, cô nhận ra.
 
 Thanh kiếm nhẹ.
@@ -74,3 +83,7 @@ Khi chiến đấu, thanh kiếm không còn nặng nữa.
 Cô đứng giữa khoảng trống, kiếm trên tay, máu trên lưỡi, và suy nghĩ về điều đó trong im lặng.
 
 ---
+
+---
+
+← [Chương 5](chuong-5)  **Chương 6/25**  [Chương 7](chuong-7) →

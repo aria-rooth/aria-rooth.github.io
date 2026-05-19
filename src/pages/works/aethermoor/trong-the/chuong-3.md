@@ -5,6 +5,11 @@ story: "/works/aethermoor/trong-the"
 total: 25
 title: "Chương 3: Người Duy Nhất Chạy"
 ---
+
+← [Chương 2](chuong-2)  **Chương 3/25**  [Chương 4](chuong-4) →
+
+---
+
 Sera không chạy. Cô chưa bao giờ chạy khỏi thứ gì — không phải vì kiêu ngạo mà vì chạy là hành vi của người không có lựa chọn, và cô luôn tìm ra lựa chọn tốt hơn.
 
 Lựa chọn bây giờ là lên mái nhà kho phía tây.
@@ -81,6 +86,8 @@ Cô bước vào bóng cây và dừng lại. Sau lưng cô, không có tiếng 
 
 Cô đứng dựa vào thân cây và thở một hơi bình thường. Không phải hơi thở nhẹ nhõm — cô không biết mình cảm thấy gì đủ để gọi là nhẹ nhõm. Chỉ là hơi thở của người vừa hoàn thành một việc.
 
+Cô thấy tay mình run. Rất nhẹ, như run của người vừa buông vật nặng. Cô nhìn tay — vẫn cầm kiếm, vẫn chắc. Nhưng các đầu ngón run. Cô không sợ. Cô chỉ mới biết mình còn sống.
+
 Cô nhìn lại.
 
 Từ khoảng cách này, cô có thể thấy cổng Đoàn, hai người gác vẫn đứng đó, và phía sau họ là mái của tòa nhà chính nhô lên khỏi tường bao. Bốn năm cô sống trong tòa nhà đó. Cô biết từng hành lang, từng chỗ sàn kêu, từng cửa sổ nhìn ra hướng nào vào buổi sáng.
@@ -90,3 +97,7 @@ Tòa nhà vẫn đứng. Đá và gỗ và ngói không đi đến đâu. Cổng
 Nhưng không có ai bên trong đó là nguyên nhân cô cần quay lại.
 
 Sera xoay người và đi vào rừng.
+
+---
+
+← [Chương 2](chuong-2)  **Chương 3/25**  [Chương 4](chuong-4) →

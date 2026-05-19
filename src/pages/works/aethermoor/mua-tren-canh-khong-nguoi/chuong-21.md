@@ -5,6 +5,11 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 25
 title: "Chương 21: Qua Cổng"
 ---
+
+← [Chương 20](chuong-20)  **Chương 21/25**  [Chương 22](chuong-22) →
+
+---
+
 Lyss bước tới.
 
 Một bước. Hai bước. Ba. Cô bé đi chậm — không phải vì sợ, mà vì cẩn trọng. Bàn chân nhỏ chạm đất như thể cô bé kiểm tra từng chỗ đặt: đất có chắc không, cỏ có sắc không, không khí có nặng không. Cô bé đi giống cách người vừa ngồi xong đứng dậy — cẩn thận, nhưng không ngần ngại.
@@ -74,3 +79,7 @@ Cô dừng. Đóng bút. Rồi viết thêm, dòng nhỏ hơn, góc trang:
 *Kết chương*
 
 ---
+
+---
+
+← [Chương 20](chuong-20)  **Chương 21/25**  [Chương 22](chuong-22) →

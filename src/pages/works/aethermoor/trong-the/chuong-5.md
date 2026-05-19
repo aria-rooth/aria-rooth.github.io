@@ -5,6 +5,11 @@ story: "/works/aethermoor/trong-the"
 total: 25
 title: "Chương 5: Những Gì Không Được Phép Chết"
 ---
+
+← [Chương 4](chuong-4)  **Chương 5/25**  [Chương 6](chuong-6) →
+
+---
+
 Sáng. Ông già không có ở nhà.
 
 Bữa sáng để sẵn trên bàn đá: hai củ khoai luộc, một miếng bánh mì đen, một bình nước. Bên cạnh bình nước là một mảnh giấy, chữ run giống như người già hay viết — cứng, thẳng, không cong:
@@ -60,3 +65,7 @@ Một giây. Đủ để biết Thệ Vang không chỉ là áp lực. Nó là k
 ---
 
 *→ [Chương 6–10](2b-ch6-10-final.md)*
+
+---
+
+← [Chương 4](chuong-4)  **Chương 5/25**  [Chương 6](chuong-6) →

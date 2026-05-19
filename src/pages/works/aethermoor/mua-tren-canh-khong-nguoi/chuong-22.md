@@ -5,6 +5,11 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 25
 title: "Chương 22: Thay Đổi Nhận Thức"
 ---
+
+← [Chương 21](chuong-21)  **Chương 22/25**  [Chương 23](chuong-23) →
+
+---
+
 Sáng.
 
 Elara viết. Nhiều hơn bao giờ hết — không chỉ ghi chép, mà viết. Viết suy nghĩ. Viết câu hỏi. Viết điều cô nhận ra đêm qua và không biết cách đặt vào dòng nhật ký cho đến lúc bút chạm giấy.
@@ -46,3 +51,7 @@ Cô viết vào *Người Đứng*:
 *Kết chương*
 
 ---
+
+---
+
+← [Chương 21](chuong-21)  **Chương 22/25**  [Chương 23](chuong-23) →

@@ -5,6 +5,11 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 25
 title: "Chương 2: Nhật Ký Quan Sát, Ngày 4.380"
 ---
+
+← [Chương 1](chuong-1)  **Chương 2/25**  [Chương 3](chuong-3) →
+
+---
+
 Tập thứ mười hai bắt đầu từ tháng trước.
 
 Elara mở ra trên bàn — mặt ván thông, không đánh bóng, mặt gỗ có màu xám vì khói và ẩm ướt tích lũy qua nhiều mùa đông. Bút lông, mực khô, bình nước. Đèn dầu ở góc phải, ngọn lửa không lay vì không có gió bên trong. Ngoài cửa sổ, mưa đã bước sang ngày thứ hai.
@@ -35,6 +40,9 @@ Cô nhìn trang nhật ký. Năm thứ ba, cô đã kiểm tra Linh Nguyên ba l
 
 Hay cô tự nói như vậy.
 
+
+Cô nhìn dòng chữ *Như hầu hết các ngày* trên trang giấy. Năm thứ ba, cô ghi chép như người nói chuyện với bạn. Năm thứ mười hai, cô ghi như người nói với tường — ngắn, gọn, không thừa, vì tường không đáp lại. Cô không biết mình từ bao giờ bắt đầu viết cho tường.
+
 Cô lật sang trang khác. Năm thứ ba, cô viết nhiều hơn — mô tả chi tiết về cổng, về màu đá vào các giờ khác nhau trong ngày, về cách Linh Nguyên tạo hình dạng mờ xung quanh hai trụ khi mặt trời ở góc thấp. Cô ghi chép những thứ đó như người tin rằng ai đó sẽ đọc, rằng thông tin sẽ có ích. Chữ nhỏ, dày đặc, không lề.
 
 Bây giờ cô viết ít hơn. Ngắn hơn. Chỉ những gì thay đổi so với ngày hôm trước. Không ghi lại những gì vẫn như cũ.
@@ -62,3 +70,7 @@ Mưa vẫn rơi ngoài cửa sổ.
 Elara để âm thanh ấy đi vào giấc ngủ cùng cô.
 
 ---
+
+---
+
+← [Chương 1](chuong-1)  **Chương 2/25**  [Chương 3](chuong-3) →

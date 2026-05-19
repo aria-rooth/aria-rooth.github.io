@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 25: Cấp Độ"
 ---
+
+← [Chương 24](chuong-24)  **Chương 25/25**
+
+---
+
 *Anh ta học nhanh. Cô không ngờ điều đó.*
 
 Đêm. Đàn Bạch Lang đến — mười bốn con, Bạch Ám Thú hai, kết hợp. Trận vừa phải. Nhưng lần này, khác.
@@ -70,3 +75,7 @@ Vela không trả lời. Nhưng câu hỏi ở lại — như "muộn" trong cu�
 - Lỗi ngữ pháp sửa: 3
 - Chỗ hiệu đính giọng văn: 1 (bổ sung chiều sâu)
 - Intentional style giữ nguyên: toàn bộ prose Vela (nhịp chậm, nội tâm mơ hồ)
+
+---
+
+← [Chương 24](chuong-24)  **Chương 25/25**

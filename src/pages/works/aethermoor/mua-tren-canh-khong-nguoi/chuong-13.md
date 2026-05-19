@@ -5,6 +5,11 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 25
 title: "Chương 13: Tôi Muốn Biết"
 ---
+
+← [Chương 12](chuong-12)  **Chương 13/25**  [Chương 14](chuong-14) →
+
+---
+
 Sáng. Không mưa. Không nắng. Chỉ là một sự nhạt dần của bóng tối thành xám, rồi xám nhạt hơn — bình minh kiểu Pale Frontier, không có khoảnh khắc rực rỡ nào.
 
 Elara thức dậy sau bốn tiếng ngủ. Cơ thể bật dậy theo thói quen, nhưng hôm nay cô không đi tuần tra ngay. Cô ngồi trên giường, chân buông xuống sàn, và nhìn vào khoảng không trước mặt.
@@ -128,3 +133,7 @@ Elara đứng. Chờ.
 *Arc 2 — Người Trở Về*
 
 ---
+
+---
+
+← [Chương 12](chuong-12)  **Chương 13/25**  [Chương 14](chuong-14) →

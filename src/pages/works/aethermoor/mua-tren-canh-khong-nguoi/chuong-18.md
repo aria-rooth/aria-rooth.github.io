@@ -5,6 +5,11 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 25
 title: "Chương 18: Mưa Và Quyết Định"
 ---
+
+← [Chương 17](chuong-17)  **Chương 18/25**  [Chương 19](chuong-19) →
+
+---
+
 Một tuần.
 
 Mỗi tối, Elara ngồi cách cổng một bước. Mỗi tối, Lyss ngồi cách cổng ba bước bên kia. Họ nói chuyện — hoặc nói đủ để hiểu nhau, bằng hình miệng, cử chỉ, và thứ gì đó mờ hơn mà Elara không định nghĩa được. Linh Nguyên. Cô cảm nhận nó — yếu, mờ, như ánh nến xa — mỗi khi Lyss nói. Không phải từ lời nói. Từ ý định. Từ việc Lyss muốn cô hiểu. Linh Nguyên ở đây không phải sức mạnh, mà là cầu nối — mong muốn giao tiếp tạo ra kênh giao tiếp, yếu nhưng thật.
@@ -68,3 +73,7 @@ Mưa lớn. Cổng mờ. Elara ướt. Cô ngồi, và chờ, và nghĩ, và kh�
 *Kết chương*
 
 ---
+
+---
+
+← [Chương 17](chuong-17)  **Chương 18/25**  [Chương 19](chuong-19) →

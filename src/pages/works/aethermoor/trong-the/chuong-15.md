@@ -5,6 +5,11 @@ story: "/works/aethermoor/trong-the"
 total: 25
 title: "Chương 15: Trang Cuối Cùng Của Chấp Sự"
 ---
+
+← [Chương 14](chuong-14)  **Chương 15/25**  [Chương 16](chuong-16) →
+
+---
+
 Sera lấy cuốn nhật ký ra khỏi áo. Cô đã giữ nó ở đó — vị trí gần người nhất — kể từ đêm rời Đoàn. Nó nằm trong lớp vải lót áo choàng, ép sát sườn, ấm từ nhiệt cơ thể cô. Cuốn nhật ký nhỏ — khoảng bằng bàn tay người lớn, da bọc màu nâu sẫm, đóng bằng chỉ lanh. Mordren viết nhỏ, cẩn thận, từng chữ đều đặn, kiểu chữ của người ghi số liệu hơn kể chuyện.
 
 Cô không đọc ngay. Cô cầm cuốn nhật ký, đặt trên đùi, và nhìn bìa. Bìa không có tiêu đề. Không có tên. Chỉ có một vệt mực ở góc — mực đỏ, không phải đen — giống dấu ngón tay cái. Ai đó đã chạm vào bìa bằng tay dính mực đỏ. Cô không biết khi nào. Có thể Mordren. Có thể ai khác.
@@ -84,3 +89,7 @@ Di vật ở Pale Frontier. Mordren Thứ Hai. Phong Quang Thánh Giáo. Kệ Th
 Cô bắt đầu viết.
 
 *→ [Chương 16–20](2b-ch16-20-final.md)*
+
+---
+
+← [Chương 14](chuong-14)  **Chương 15/25**  [Chương 16](chuong-16) →

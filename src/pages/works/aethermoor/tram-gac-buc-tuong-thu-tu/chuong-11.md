@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 11: Vỡ Ra"
 ---
+
+← [Chương 10](chuong-10)  **Chương 11/25**  [Chương 12](chuong-12) →
+
+---
+
 ## Không phải chết — chỉ là gần đủ
 
 Đêm thứ mười hai. Vela đang bắt đầu quen — không phải quen với đội Essam, mà quen với việc có người ở gần. Sự khác biệt đó tinh tế: ban đầu cô biết họ ở đó vì nghe tiếng, thấy lửa, cảm nhận chuyển động. Bây giờ cô không còn ghi nhận sự hiện diện của họ — chỉ ghi nhận sự vắng mặt khi họ đi quá xa. Ngày xưa cô đứng trên thềm tháp và nghe toàn bộ bối cảnh: gió, đá, sương, im lặng. Bây giờ bối cảnh đã khác — có thêm tiếng cành gỗ gãy dưới chân người nào đó ở trại, có thêm mùi khói bếp trộn với bụi Pale Frontier, có thêm ánh lửa phản chiếu lên mặt đá chân tường mỗi đêm. Thứ nhỏ. Thứ cô không ghi vào sổ. Nhưng có.
@@ -45,7 +50,7 @@ Cô gái trẻ. Mái tóc tối, dài qua vai. Đôi mắt màu — không thấ
 
 Rồi cảm giác. Sợ hãi thực sự. Không phải sợ đau — cô đã ngừng sợ đau từ lâu, đau là dữ liệu, đau cho biết vết ở đâu và nặng thế nào. Là sợ thứ khác. Sợ cho ai đó. Sợ cho người đang nhìn cô bằng đôi mắt đó. Sợ rằng mình không kịp — không kịp làm gì, cô không biết, nhưng sợ đó đặc và nóng và nó chiếm toàn bộ ngực cô trong khoảnh khắc đó, mạnh hơn bất kỳ đau đớn thể xác nào cô từng chịu trong hai trăm năm.
 
-Mảnh vỡ trôi đi. Nhanh. Trôi đi trước khi cô nắm được.
+Mảnh vỡ trôi đi. Nhanh. Trôi đi trước khi cô nắm được. Cô cảm thấy nó đi — như nước chảy qua kẽ ngón tay, ướt nhưng không giữ được.
 
 Vela mở mắt.
 
@@ -67,6 +72,10 @@ Không phải vì Titan. Vì mảnh ký ức. Khuôn mặt. Đôi mắt. Sợ h�
 
 *Quan trọng.* Cô biết mặt đó quan trọng. Chỉ không biết tại sao. Chỉ không biết tên. Chỉ không biết cô gái đó còn hay mất. Chỉ không biết tại sao sợ cho người đó mạnh hơn sợ bất kỳ thứ gì đã đến từ phía Bắc trong hai trăm năm.
 
-Cô không ghi vào sổ. Chưa. Chưa có số để ghi.
+Cô không ghi vào sổ. Chưa. Chưa có số để ghi. Cô cầm sổ, ngón tay trên trang giấy trắng — nhưng không viết. Không có số cho cảm giác này.
 
 ---
+
+---
+
+← [Chương 10](chuong-10)  **Chương 11/25**  [Chương 12](chuong-12) →

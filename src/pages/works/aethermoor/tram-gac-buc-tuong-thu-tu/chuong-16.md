@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 16: Làn Sóng"
 ---
+
+← [Chương 15](chuong-15)  **Chương 16/25**  [Chương 17](chuong-17) →
+
+---
+
 *Hơn bao giờ hết. Và họ chưa sẵn sàng.*
 
 Bình minh. Mặt trời chưa hẳn lên — chỉ là chuyển từ đen sang xám, từ xám sang nhạt, một quá trình kéo dài như chính ranh giới giữa đêm và ngày nơi Bức Tường. Vela đã đứng trên tường. Đứng từ đêm. Không ngủ. Không cần ngủ — hoặc cần nhưng không cho phép mình, vì ngủ có nghĩa là bất tỉnh, và bất tỉnh ở đây có nghĩa là chết nếu bạn không lành lại được. Và dù cô lành, người khác thì không.
@@ -48,3 +53,7 @@ Chỉ còn Vela trước Titan.
 *Cô đã biết điều này sẽ xảy ra. Cô vẫn không có cách làm khác.*
 
 ---
+
+---
+
+← [Chương 15](chuong-15)  **Chương 16/25**  [Chương 17](chuong-17) →

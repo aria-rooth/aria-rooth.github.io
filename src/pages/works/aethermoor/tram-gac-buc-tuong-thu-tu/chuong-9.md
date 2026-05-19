@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 9: Câu Hỏi Không Có Câu Trả Lời"
 ---
+
+← [Chương 8](chuong-8)  **Chương 9/25**  [Chương 10](chuong-10) →
+
+---
+
 ## Anh ta hỏi những điều cô không nghĩ đến từ lâu lắm rồi
 
 Đêm yên. Không có đàn. Không có áp lực từ phía Bắc — thứ áp lực vô hình mà Vela cảm nhận như người trên biển cảm nhận bão: không phải gió, không phải sóng, mà là thứ chảy trong không khí trước khi gió đến. Hôm nay không khí nhẹ. Màn sương mờ nhạt như mọi đêm, gió từ hướng đông bắc thổi nhẹ và đều, mang theo bụi trắng lấp lánh trong ánh sao. Nhiệt độ ổn định — loại đêm mà Vela vẫn canh vì đó là việc cô làm, không vì cần. Sẽ không có gì đến. Cô biết điều đó theo cách cô biết mọi thứ về đêm trên Pale Frontier: bằng cách đã sống đủ đêm để phân biệt đêm yên và đêm sắp không yên.
@@ -61,9 +66,12 @@ Không phải lời đề nghị. Không phải lời hứa. Chỉ là tự gi�
 
 Vela không trả lời. Nhưng cô không đứng dậy bỏ đi.
 
+
 Họ ngồi cạnh nhau trên thềm tháp, nhìn về phía Bắc, trong im lặng. Không phải im lặng chờ — ai cũng không chờ ai nói thêm. Là im lặng cùng. Cùng nhìn một hướng. Cùng ở một nơi. Và trong lúc ngồi đó, Vela nhận ra: đây là lần đầu tiên trong ba năm, hoặc mười năm, hoặc hai trăm năm, có ai đó đang thấy thứ cô thấy mỗi đêm. Màn sương phương Bắc. Bóng tối dưới màn sương. Khoảng trống sau bóng tối. Cô nhìn nó mỗi đêm một mình. Đêm nay, có người ngồi cạnh và nhìn cùng.
 
 Không khác trên màn sương. Không khác dưới chân tường. Nhưng khác ở chỗ cô đang ngồi. Cô đang ngồi cạnh người khác và không cần bảo vệ họ, không cần canh chừng họ, không cần đếm khoảng cách giữa họ và thứ nguy hiểm. Chỉ cần ngồi.
+
+Vela không nghĩ. Lâu. Phía Bắc vẫn trống. Cô nhớ cảm giác mảnh ký ức trôi qua tay: không đau, nhưng lưỡi trong đầu cứ tìm chỗ trống, như lưỡi tìm răng đã mất.
 
 Bầu trời bắt đầu sáng. Màn sương phương Bắc mờ đi một chút khi ánh sáng chạm vào — luôn như vậy, mỗi sáng, ánh nắng làm màn sương nhạt đi một chút rồi đậm lại khi mặt trời lên cao. Bình thường. Mỗi ngày. Nhưng hôm nay có ai đó đang nhìn cùng cô, và khi màn sương nhạt đi, anh ta nói khẽ: *"Nó mờ đi rồi lại đậm. Mỗi sáng?"*
 
@@ -74,3 +82,7 @@ Anh ta ghi chú. Việc nhỏ. Việc không quan trọng. Nhưng anh ta ghi ch�
 Vela không biết điều đó có nghĩa gì. Nhưng cô ghi nhận nó — cùng cách cô ghi nhận mọi thứ.
 
 ---
+
+---
+
+← [Chương 8](chuong-8)  **Chương 9/25**  [Chương 10](chuong-10) →

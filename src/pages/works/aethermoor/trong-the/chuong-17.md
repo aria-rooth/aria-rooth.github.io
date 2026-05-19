@@ -5,6 +5,11 @@ story: "/works/aethermoor/trong-the"
 total: 25
 title: "Chương 17: Dấu Vết"
 ---
+
+← [Chương 16](chuong-16)  **Chương 17/25**  [Chương 18](chuong-18) →
+
+---
+
 Aldric không hỏi cô cảm thấy thế nào sau breakthrough. Ông nấu bữa sáng — thêm đĩa cho năm xác không cần ăn — rồi dọn dẹp bát đũa. Sera dọn dẹp bên ngoài. Khác loại dọn dẹp.
 
 Năm Thẩm Vấn Giả nằm trên đất sét trước lò rèn. Máu đã ngập vào đất — đất sét hút nhanh, như bọt biển. Cô lục soát từng người theo thứ tự: gần nhất trước, xa nhất sau. Nhanh, có kiểm soát, không phá hủy chứng cứ. Đời sống tư nhân của kẻ chết không liên quan cô — cô chỉ cần điều họ mang theo vì nhiệm vụ.
@@ -23,7 +28,9 @@ Tàn dư. Cô là tàn dư. Như mảnh vỡ của thứ gì đó đã vỡ, ch�
 
 Cô gấp lệnh lại. Nhét vào túi áo ngoài, khác vị trí với nhật ký. Hai mảnh giấy quan trọng nhất cô mang — nhật ký Mordren và lệnh Giáo Hội — nằm ở hai vị trí khác nhau. Nếu mất một, vẫn còn hai. Đây là thói quen cô học từ Đoàn: không bao giờ để tất cả cùng một chỗ. Đó cũng là lý do cô vẫn sống.
 
-Cô đứng giữa năm xác và nghĩ về từ *tàn dư*. Tàn dư là phần còn lại sau khi lửa tắt — tro, xám, nhẹ. Cô không nhẹ. Cô nặng — bốn mươi bảy mảnh thề ước trên vai, kiếm trên lưng, nhật ký bên sườn. Tàn dư không trả đòn. Tàn dư không giết năm người trong mười một giây. Giáo Hội gọi cô tàn dư vì họ cần cô là tàn dư — vô hình, vô trọng, dễ quét. Nhưng tàn dư không mang Thệ Thiết. Tàn dư không breakthrough. Cô không phải tàn dư. Cô là người cuối — và người cuối khác tàn dư ở chỗ: người cuối vẫn chọn.
+Cô đứng giữa năm xác và nghĩ về từ *tàn dư*. Tàn dư là phần còn lại sau khi lửa tắt — tro, xám, nhẹ. Cô không nhẹ.
+
+Mùi máu bám vào áo cô — không nhiều, nhưng đủ để cô ngửi thấy khi cúi xuống lục soát. Máu Thẩm Vấn Giả có mùi khác máu Đoàn. Cô không biết khác ở đâu. Chỉ biết nó làm cô buồn nôn nhẹ — không phải vì giết, mà vì cô đã quen với việc giết quá nhanh. Cô nặng — bốn mươi bảy mảnh thề ước trên vai, kiếm trên lưng, nhật ký bên sườn. Tàn dư không trả đòn. Tàn dư không giết năm người trong mười một giây. Giáo Hội gọi cô tàn dư vì họ cần cô là tàn dư — vô hình, vô trọng, dễ quét. Nhưng tàn dư không mang Thệ Thiết. Tàn dư không breakthrough. Cô không phải tàn dư. Cô là người cuối — và người cuối khác tàn dư ở chỗ: người cuối vẫn chọn.
 
 Aldric ra ngoài khi cô xong. Ông nhìn năm xác — bình thản, như nhìn năm khúc gỗ thừa sau khi chặt. Không buồn. Không phẫn nộ. Mệt — mệt theo cách người già mệt mỏi khi thấy điều mình đã đoán thành hiện thực.
 
@@ -56,3 +63,7 @@ Sera nhìn cái tên. Lira. Năm chữ cái, một tên, không thêm gì — kh
 "Không biết," Aldric nói. "Nhưng cô ấy sẽ nghe. Người ghét thề ước luôn nghe — vì họ muốn biết ai dám thề trước mặt họ."
 
 ---
+
+---
+
+← [Chương 16](chuong-16)  **Chương 17/25**  [Chương 18](chuong-18) →

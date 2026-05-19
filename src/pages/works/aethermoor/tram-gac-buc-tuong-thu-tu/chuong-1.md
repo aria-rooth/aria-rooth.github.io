@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 1: Công Việc"
 ---
+
+**Chương 1/25**  [Chương 2](chuong-2) →
+
+---
+
 ## Ngày thứ bảy mươi ba nghìn, sáu trăm lẻ bốn
 
 Máu khô không có mùi nữa.
@@ -67,6 +72,8 @@ Vela đứng yên. Vai trái tê dần theo cách quen thuộc.
 
 Cô mở nanh ra khỏi thịt — chậm rãi, theo chiều nanh cắm vào, không kéo thẳng. Đã làm điều này đủ lần để biết kéo thẳng sẽ rách thêm. Máu chảy theo ngón tay xuống cổ tay. Ấm. Thứ đó vẫn còn cảm giác.
 
+Tê dần lan từ vai xuống khuỷu, như có ai đổ nước đá vào mạch máu. Cô biết cảm giác này: lời nguyền đang chuẩn bị làm việc, và việc đó sẽ đau.
+
 Cô nhìn vào vết thương.
 
 Đếm. Một. Hai. Ba.
@@ -88,3 +95,7 @@ Xác sói nằm rải rác quanh thềm tháp. Ngày mai sẽ khô dưới gió 
 Không phải than thở. Không phải tuyệt vọng. Chỉ là sự ghi nhận của người biết lịch.
 
 ---
+
+---
+
+**Chương 1/25**  [Chương 2](chuong-2) →

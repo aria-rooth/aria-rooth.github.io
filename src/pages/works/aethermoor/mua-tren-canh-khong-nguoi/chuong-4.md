@@ -5,6 +5,11 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 25
 title: "Chương 4: Bình Thường"
 ---
+
+← [Chương 3](chuong-3)  **Chương 4/25**  [Chương 5](chuong-5) →
+
+---
+
 Elara gọi đây là bình thường.
 
 Bình minh — cô kiểm tra Linh Nguyên. Không phải bằng thiết bị: cô đã không còn thiết bị chuẩn từ năm thứ năm, khi pin năng lượng cạn và không có ai thay thế. Cô kiểm tra bằng cảm nhận — đứng yên, mở ra, để Linh Nguyên trong không khí chảy qua nhận thức như gió chảy qua khe cửa. Mức nền. Không đột biến. Không dòng chảy có hướng. Quá trình mất chín phút. Cô không đếm thời gian bằng đồng hồ — bằng hơi thở, mười hai hơi thở chậm, mỗi hơi bốn giây vào, bốn giây giữ, bốn giây ra. Ba lần mười hai. Chín phút. Con số đó không thay đổi trong mười hai năm, dù cô không cố giữ. Cơ thể tự đếm.
@@ -43,4 +48,11 @@ Giống mọi ngày.
 
 Đó chính là điều đáng nói.
 
+
+Elara nằm xuống. Cơ bắp căng ra trên chiếu cói — cô không giường, chỉ có chiếu dày gấp ba lần. Lưng cô nhớ mặt đất lạnh qua chiếu. Gối cô nhớ hình dạng đầu mình. Mọi thứ ở đây đều nhớ nhau. Cô nhớ mọi thứ. Mọi thứ nhớ cô. Đó không phải hạnh phúc. Đó là sự nhẹ — như khi cơ thể cuối cùng cũng nặng vừa đủ để không bị gió thổi bay.
+
 ---
+
+---
+
+← [Chương 3](chuong-3)  **Chương 4/25**  [Chương 5](chuong-5) →

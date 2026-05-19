@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 5: Đội Thám Hiểm"
 ---
+
+← [Chương 4](chuong-4)  **Chương 5/25**  [Chương 6](chuong-6) →
+
+---
+
 ## Những người đầu tiên trong ba năm
 
 Tiếng đến trước. Không phải tiếng bước chân — cách đây quá xa để nghe bước chân từ chân tường. Là tiếng kim loại chạm kim loại, tiếng dây thừng kéo qua ròng rọc, tiếng người nói chuyện với nhau bằng giọng không giấu. Giọng Essam chuẩn — âm cuối rõ, chữ đầu sắc, kiểu nói của người được dạy phát âm đúng trước khi học cách nói tự nhiên.
@@ -33,6 +38,8 @@ Cảm giác lạ.
 
 Không phải lạ theo cách đáng sợ hay đáng vui. Lạ theo kiểu cơ thể nhận ra thứ gì đó không còn quen — như cơ bắp được dùng sau thời gian dài, hoặc âm thanh nghe thấy sau năm tháng tĩnh lặng. Có người ở gần. Đang nói chuyện. Đang di chuyển. Đang thắp lửa. Hoạt động của người, không phải của thú, không phải của gió hay đá.
 
+Mùi của họ cũng lạ — mồ hôi, da, vải dệt từ nơi khác, hơi lửa pha với thứ gì đó cô không đặt tên được, nhưng nó đánh vào mũi theo cách mà bụi trắng và máu khô không bao giờ làm. Nó nói với cô: đây là người sống từ nơi còn mùa xuân.
+
 Vela quay vào tháp. Không phải vì khó chịu. Vì đã nhìn đủ để biết họ không gây nguy hiểm — cho cô. Với Bức Tường thì khác. Nhưng đó không phải vấn đề của hôm nay.
 
 Cô ngồi xuống cạnh cửa sổ không kính, mở cuốn sổ, ghi.
@@ -46,3 +53,7 @@ Cô đóng sổ lại. Không xóa. Cũng không đọc lại.
 ---
 
 *→ [Chương 6–10](eve-ch6-10-final.md)*
+
+---
+
+← [Chương 4](chuong-4)  **Chương 5/25**  [Chương 6](chuong-6) →

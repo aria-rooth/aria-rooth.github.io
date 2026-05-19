@@ -5,6 +5,11 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 25
 title: "Chương 12: Hai Mươi Chín"
 ---
+
+← [Chương 11](chuong-11)  **Chương 12/25**  [Chương 13](chuong-13) →
+
+---
+
 Đêm thứ mười hai.
 
 Hai mươi chín.
@@ -102,3 +107,7 @@ Hai mươi chín.
 Con số đi theo cô vào giấc ngủ. Không phải ác mộng. Chỉ là con số. Lặp đi lặp lại. Hai mươi chín. Hai mươi chín. Hai mươi chín.
 
 ---
+
+---
+
+← [Chương 11](chuong-11)  **Chương 12/25**  [Chương 13](chuong-13) →

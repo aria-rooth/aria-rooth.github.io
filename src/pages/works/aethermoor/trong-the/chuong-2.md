@@ -5,6 +5,11 @@ story: "/works/aethermoor/trong-the"
 total: 25
 title: "Chương 2: Tro Và Thề Ước"
 ---
+
+← [Chương 1](chuong-1)  **Chương 2/25**  [Chương 3](chuong-3) →
+
+---
+
 Bình minh ở Caelmyr đến chậm vào tháng Mười, ánh sáng xám trước khi vàng, và trong khoảng thời gian đó màu sắc của mọi thứ đều không trung thực. Máu trông nâu thay vì đỏ. Da người trông xanh thay vì nhợt. Sera làm việc trong ánh sáng xám đó và không bận tâm đến màu sắc.
 
 Cô đã dành nửa đêm còn lại ngồi trên bậc thềm Phòng Thề, lưng thẳng, kiếm ngang đùi, chờ trời sáng. Không phải vì cô không có việc làm — mà vì một số việc nên làm trong ánh sáng thay vì bóng tối, không phải vì lý do tâm linh mà vì lý do thực tế: cô cần nhìn thấy rõ.
@@ -20,6 +25,8 @@ Phòng ngủ của Hiệp Sĩ cấp cao: năm xác. Jorin không ở đây — c
 Phòng bếp: không có xác. Lò bếp nguội, nồi cháo buổi sáng chưa được bắt đầu. Bếp trưởng — một ông lão tên Aldric, không phải Hiệp Sĩ nhưng đã làm việc cho Đoàn hai mươi năm — không có ở đây. Cô tìm thấy ông ở kho thực phẩm phía sau, ngồi dựa vào tường, hai tay đặt trên đùi theo cái tư thế của người đang nghỉ ngơi chứ không phải đang chết.
 
 Sera đứng nhìn ông trong một lúc. Ông Aldric không có thề ước, không có Oath Bond (Thệ Liên), không phải thành viên chính thức của Đoàn. Nhưng ông vẫn chết theo cùng cách đó.
+
+Cô quỳ xuống. Chạm vào tay ông — lạnh, khô, như gỗ đã ngâm nước. Cô chưa bao giờ chạm vào Aldric trước đây. Bốn năm ăn cơm ông nấu, bốn năm nhìn ông dọn bát, và cô chưa bao giờ chạm vào ông. Lần đầu tiên — và ông không biết.
 
 Điều này thay đổi thứ cô đang nghĩ.
 
@@ -78,3 +85,7 @@ Họ đến từ hướng đông, từ Caelmyr, và họ đi theo nhóm.
 Sera đứng ở cửa sổ và tính toán thời gian. Mười lăm phút, có thể hai mươi nếu họ đi cẩn thận. Cô không biết họ đến vì điều gì đã xảy ra tối qua — hoặc vì họ biết trước điều gì sẽ xảy ra. Cả hai khả năng đều dẫn đến cùng một kết quả: không có lý do gì để người duy nhất còn sống trong tòa nhà này tự giới thiệu với họ.
 
 ---
+
+---
+
+← [Chương 1](chuong-1)  **Chương 2/25**  [Chương 3](chuong-3) →

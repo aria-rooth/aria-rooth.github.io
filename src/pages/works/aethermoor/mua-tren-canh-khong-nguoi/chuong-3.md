@@ -5,6 +5,11 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 25
 title: "Chương 3: Những Gì Ở Lại"
 ---
+
+← [Chương 2](chuong-2)  **Chương 3/25**  [Chương 4](chuong-4) →
+
+---
+
 Elara gia nhập Bạch Hành Linh Đoàn năm hai mươi lăm tuổi vì hai lý do.
 
 Lý do thứ nhất: lương tốt.
@@ -31,6 +36,7 @@ Không phải vì trận chiến. Không phải vì kẻ địch đánh bại h�
 
 Bạch Hành Linh Đoàn tan vì tranh chấp ngân sách.
 
+
 Elara biết điều này từ một báo cáo ngắn gửi đến tất cả thành viên đang thực địa: "Do bất đồng không thể giải quyết về phân bổ nguồn lực trong hội đồng lãnh đạo, Bạch Hành Linh Đoàn sẽ chính thức giải thể vào ngày..." — cô nhớ đọc ngày, nhớ ngồi trên tảng đá trước Huyền Môn Cốt, nhớ ánh nắng vào buổi chiều.
 
 Báo cáo ghi thêm rằng tất cả nhiệm vụ đang hoạt động sẽ được "xem xét và chuyển giao cho các tổ chức phù hợp." Không ghi tổ chức nào. Không ghi thời hạn xem xét.
@@ -43,6 +49,9 @@ Cô quay về Huyền Môn Cốt.
 
 Không phải vì cô quyết định ở lại. Mà vì cô đứng ở ngã tư và không có hướng nào khác hiện ra rõ ràng hơn. Hướng quay về có nghĩa là quay về cái gì — thành phố, nghề nghiệp mới, cuộc sống theo kiểu khác? Những thứ ấy không hiện hình. Chỉ có con đường trở lại trạm canh là con đường cô biết từng bước.
 
+
+Cô nhớ bước chân mình trên đường về — không nhanh, không chậm, chỉ là bước. Mỗi bước đất Pale Frontier mềm hơn đất thị trấn, và cô cảm thấy mềm đó quen hơn đường lát đá. Đất này không hỏi cô là ai. Đất này không hỏi cô đi đâu. Đất này chỉ chịu đựng bước chân cô, như đã chịu đựng mười hai năm.
+
 Năm thứ tư, cô lập hệ thống tài chính độc lập: bẫy, thu hái, trao đổi nhỏ với thương nhân đi qua mỗi vài tháng một lần. Đủ sống. Không dư.
 
 Năm thứ sáu, cô gặp một người tên Davin — thương nhân trẻ, tuyến đường mới, đi ngang Pale Frontier lần đầu. Anh ta hỏi cô làm gì ở đây. Cô nói canh giữ Huyền Môn Cốt. Anh ta hỏi cho ai. Cô nói không còn cho ai. Anh ta nhìn cô với vẻ mặt mà cô không đọc được — tò mò, hay bối rối, hay cái gì đó ở giữa — rồi tiếp tục đường của mình.
@@ -54,6 +63,9 @@ Năm thứ tám, cô gặp Davin lần thứ hai. Anh ta đi cùng tuyến đư�
 Một điểm mốc. Một thứ ở đó. Một thứ không thay đổi khi mọi thứ khác thay đổi.
 
 Không phải anh hùng. Không phải cảnh báo. Không phải di tích. Chỉ là một điểm tham chiếu trong địa hình.
+
+
+Cô đứng đó cho đến khi tuyến đường của Davin biến mất vào đường chân trời. Rồi cô quay lại. Bước đầu tiên về phía Huyền Môn Cốt nặng hơn bước thứ hai. Không phải vì mệt. Vì bước đầu là bước chấp nhận — chấp nhận rằng cô không phải người trong câu chuyện của người khác. Chỉ là đá. Chỉ là rêu. Chỉ là điểm mốc.
 
 ---
 
@@ -98,3 +110,7 @@ Cô tiếp tục tuần tra.
 *Câu chuyện của Elara Stonewatch — Bạch Hành Linh Đoàn, trạm canh Huyền Môn Cốt, năm thứ mười hai.*
 
 ---
+
+---
+
+← [Chương 2](chuong-2)  **Chương 3/25**  [Chương 4](chuong-4) →

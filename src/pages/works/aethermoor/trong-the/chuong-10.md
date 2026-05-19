@@ -5,6 +5,11 @@ story: "/works/aethermoor/trong-the"
 total: 25
 title: "Chương 10: Đếm Những Gì Chưa Xong"
 ---
+
+← [Chương 9](chuong-9)  **Chương 10/25**  [Chương 11](chuong-11) →
+
+---
+
 Cách Aldric đọc kiếm không giống bất kỳ cách đọc mà Sera từng thấy. Không có sách, không có thần chú, không có nghi lễ. Ông chỉ đặt kiếm lên đe, chạm lưỡi bằng ngón tay — từng ngón một, từ chuôi đến mũi, dừng lại ở những điểm mà vệt sáng mờ phất lên khi tay ông chạm qua.
 
 Ông chạm khác cách cô chạm. Cô cầm kiếm bằng tay nắm — toàn bàn tay, ngón cái ép lên cán, kiểu cầm mà người chiến đấu cầm. Aldric chạm bằng đầu ngón — nhẹ, chậm, như người đọc chữ nổi. Mỗi lần ngón tay ông chạm một điểm trên lưỡi, vệt sáng mờ ở đó sáng lên mạnh hơn — không phải phản ứng với áp lực, mà phản ứng với *ông*. Kiếm biết tay ông. Bốn mươi bảy thề ước chưa biết cô, nhưng kiếm biết Aldric từ trước khi cô sinh ra.
@@ -62,3 +67,7 @@ Aldric nhìn cô. Lâu. Trong ánh lửa rèn, mặt ông như mặt người đ
 ---
 
 *→ [Chương 11–15](2b-ch11-15-final.md)*
+
+---
+
+← [Chương 9](chuong-9)  **Chương 10/25**  [Chương 11](chuong-11) →

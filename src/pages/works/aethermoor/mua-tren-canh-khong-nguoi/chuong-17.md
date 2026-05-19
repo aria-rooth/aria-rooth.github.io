@@ -5,6 +5,11 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 25
 title: "Chương 17: Cuộc Trò Chuyện Qua Cổng"
 ---
+
+← [Chương 16](chuong-16)  **Chương 17/25**  [Chương 18](chuong-18) →
+
+---
+
 Ba mươi người. Lyss ở vị trí cũ — cách hàng cuối năm bước, lệch trái. Vẫy tay khi thấy Elara.
 
 Elara vẫy lại. Nhanh hơn đêm qua. Tự nhiên hơn. Cô không phải nghĩ — tay nâng lên trước khi cô quyết định, như thể cơ thể nhớ cách vẫy tay, cho dù tâm trí đã quên từ lâu. Rồi cô bước đến — năm bước, bốn, ba, hai, một — và ngồi xuống.
@@ -82,3 +87,7 @@ Cô đóng sổ. Ngồi trong sáng sớm. Lạnh. Lạnh của gió bắc, lạ
 *Kết chương*
 
 ---
+
+---
+
+← [Chương 16](chuong-16)  **Chương 17/25**  [Chương 18](chuong-18) →

@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 3: Lành"
 ---
+
+← [Chương 2](chuong-2)  **Chương 3/25**  [Chương 4](chuong-4) →
+
+---
+
 ## Sáu mươi giây là một cuộc đời
 
 Con Bạch Ám Thú đến từ trên cao.
@@ -35,13 +40,15 @@ Bầu trời Pale Frontier không có gì đặc biệt — xanh nhạt, đôi k
 
 Không phải việc không chết. Mà là việc lành lại không phải không đau — chỉ là không kết thúc. Thịt mọc lại theo từng lớp, và cô cảm nhận được từng lớp, ngứa ran kiểu ngứa không gãi được, từ bên trong ra ngoài. Xương nếu bị nứt thì chỉnh lại — cô đã học không di chuyển trong lúc đó. Cơ quan nội tạng — cô không chắc điều gì xảy ra bên trong, chỉ biết đau dần dần thay đổi chất, từ đau sắc sang đau âm ỉ sang không đau, và quá trình đó mất thời gian.
 
+Cô đếm. Một. Hai. Ba. Không phải vì cần biết bao lâu để lành — cô đã biết. Mà vì đếm là chứng cớ rằng cô vẫn còn ở đây, vẫn còn cảm nhận, vẫn chưa trở thành đá.
+
 Đám mây đi khỏi tầm nhìn. Một đám khác thay vào.
 
 Cô nhìn lên trời và nhận ra mình không biết mình thích màu gì.
 
 Không phải chưa bao giờ nghĩ đến — là nghĩ đến và không có câu trả lời. Màu xanh của bầu trời hôm nay trung lập, không kéo gì trong người cô. Màu cam của hoàng hôn cũng vậy. Màu trắng của đàn sói hay màu đen của bóng tối — cô ghi nhận chúng như dữ liệu, không như thứ gì đó làm tim đập khác đi.
 
-Cô không ghét câu hỏi. Chỉ thấy nó lạ.
+Cô không ghét câu hỏi. Chỉ thấy nó lạ — như người bị tê lưỡi tự hỏi mình từng thích vị gì, biết rằng từng có, nhưng không còn cách nếm lại.
 
 Như phát hiện ra mình không biết tay thuận là tay nào, sau đó nhìn xuống và thấy tay phải cầm kiếm tự nhiên hơn, và thứ lạ không phải là câu trả lời mà là việc không bao giờ hỏi trước đây.
 
@@ -122,3 +129,7 @@ Bóng tối không trả lời. Cô cũng không hỏi.
 *Vela Ashmarch — Pale Frontier, Aethermoor*
 
 ---
+
+---
+
+← [Chương 2](chuong-2)  **Chương 3/25**  [Chương 4](chuong-4) →

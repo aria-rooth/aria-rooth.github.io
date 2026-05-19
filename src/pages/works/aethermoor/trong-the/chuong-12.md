@@ -5,6 +5,11 @@ story: "/works/aethermoor/trong-the"
 total: 25
 title: "Chương 12: Bài Học Lắng Nghe"
 ---
+
+← [Chương 11](chuong-11)  **Chương 12/25**  [Chương 13](chuong-13) →
+
+---
+
 Aldric không dạy cô vào ban ngày. Ông dạy cô vào lúc rạng đông — khoảng thời gian giữa tối và sáng khi không khí lạnh nhất và tiếng động ngoài đường chưa bắt đầu. *"Thệ Vang cần im lặng,"* ông nói. *"Không phải yên tĩnh bên ngoài — yên tĩnh bên trong. Ngay cả tiếng gió cũng là tiếng. Ngay cả hơi thở cũng là tiếng. Nhưng vào lúc rạng đông, cơ thể cô đã quá mệt để tạo ra thêm tiếng ồn."*
 
 Cô không ngủ ngon đêm. Không phải vì chăn mỏng hay nền đá lạnh — cô đã ngủ ở nơi tệ hơn. Mà vì kiếm. Khi cô nằm xuống, kiếm đặt dọc bên người, cô cảm thấy nó nặng hơn lúc đứng. Không phải vì cánh tay yếu đi khi nằm — mà vì khi nằm, cô không làm gì với kiếm, và kiếm biết điều đó. Khi cô dùng kiếm, nó nhẹ. Khi cô để yên, nó nặng. Như thể nó đang nhắc: *dùng tôi hoặc mang tôi, nhưng đừng bỏ tôi đó.*
@@ -30,6 +35,8 @@ Chờ. Cô chờ. Năm phút. Mười phút. Cô không biết bao lâu — cô 
 Rồi trống rỗng.
 
 Không phải trống rỗng hoàn toàn — cô vẫn biết mình đang ngồi, vẫn biết kiếm trên đùi, vẫn biết Aldric đối diện. Nhưng trống rỗng đủ để có chỗ cho thứ khác vào. Như căn phòng có hai mươi ba người đã rời đi, và giờ còn chỗ cho ai đó nói.
+
+Cô cảm thấy lưỡi kiếm rung nhẹ trên đùi — không phải rung của kim loại lạnh, mà rung của thứ gì đó đang thức dậy. Da cô nổi gai ở cổ. Không phải sợ. Là cảm giác của người sắp nghe điều mình không thể bỏ qua.
 
 Và nó đến.
 
@@ -70,3 +77,7 @@ Cô gật đầu. Đứng dậy. Lấy kiếm. Đặt vào vỏ.
 Ngoài cửa lò rèn, trời đã sáng. Trinh sát chưa quay lại — hoặc đã quay lại mà cô không thấy. Sẽ có lúc hắn quay lại, và không phải một mình. Cô biết điều đó. Aldric biết điều đó. Nhưng hôm nay, cô ngồi với một mảnh thề ước của người trẻ đã hứa sẽ về, và đó là đủ.
 
 ---
+
+---
+
+← [Chương 11](chuong-11)  **Chương 12/25**  [Chương 13](chuong-13) →

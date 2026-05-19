@@ -5,6 +5,11 @@ story: "/works/aethermoor/trong-the"
 total: 25
 title: "Chương 8: Caelmyr, Thành Phố Không Chọn Phe"
 ---
+
+← [Chương 7](chuong-7)  **Chương 8/25**  [Chương 9](chuong-9) →
+
+---
+
 Caelmyr lớn hơn cách cô nhớ. Lần cuối cô đến đây là hai năm trước, theo lệnh Đoàn để hộ tống một thương nhân qua vùng ngoại ô. Lần đó cô không vào thành — chỉ đợi ở trạm gác bên ngoài, nhận tiền, quay về. Lần này cô vào.
 
 Cổng thành Caelmyr có bốn cửa, mỗi cửa mười lính, và mười lính đó không thuộc bất kỳ phe nào — chúng thuộc thành phố. Caelmyr không có quân đội riêng theo nghĩa chiến đấu. Nó có lực lượng giữ trật tự, trả lương bằng thuế thương mại, và lực lượng đó trung thành với đồng tiền hơn là với bất kỳ ngọn cờ nào.
@@ -54,3 +59,7 @@ Nếu Aldric còn sống — và người say nói như thể ông còn — thì
 Cô cần ai đó đọc giúp. Và ở Caelmyr, có một người biết cách.
 
 ---
+
+---
+
+← [Chương 7](chuong-7)  **Chương 8/25**  [Chương 9](chuong-9) →

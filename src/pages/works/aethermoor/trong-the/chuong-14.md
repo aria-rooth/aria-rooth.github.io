@@ -5,6 +5,11 @@ story: "/works/aethermoor/trong-the"
 total: 25
 title: "Chương 14: Điều Aldric Biết"
 ---
+
+← [Chương 13](chuong-13)  **Chương 14/25**  [Chương 15](chuong-15) →
+
+---
+
 Ngày thứ hai. Sera ngồi trên nền đất lò rèn lúc rạng đông, kiếm ngang đùi, và thử nghe Thệ Vang lần thứ hai. Cô đã học đủ từ buổi đầu: đừng cố, đừng ép, chờ. Trống rỗng đến sau khi cô ngừng tạo ra tiếng ồn trong đầu mình, và nó đến đúng lúc — không phải lúc cô muốn, mà lúc cô đã sẵn sàng.
 
 Mảnh thứ hai: nữ, già hơn, giọng thấp và chắc. *"Tôi sẽ trả. Bao giờ cũng trả."* Rồi tắt. Ngắn hơn mảnh đầu. Sera mở mắt và ngồi với nó — ai đó đã nợ thứ gì đó, và kiên quyết trả, nhưng chưa kịp. Kiếm ghi lại sự kiên quyết mà không ghi kết quả. Kiếm không quan tâm người đó trả chưa. Kiếm chỉ ghi: *người này đã hứa.*
@@ -88,3 +93,7 @@ Nhật ký Chấp Sự. Cô đã chỉ đọc trang cuối. *"Họ biết. Chún
 Và Jorin không phải người nói lời thừa. Ông hoàn thành mọi thứ ông nhận. Nếu ông nói đọc nhật ký, thì nhật ký có thứ cô cần.
 
 ---
+
+---
+
+← [Chương 13](chuong-13)  **Chương 14/25**  [Chương 15](chuong-15) →

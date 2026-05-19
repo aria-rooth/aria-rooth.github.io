@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 23: Dấu Vết"
 ---
+
+← [Chương 22](chuong-22)  **Chương 23/25**  [Chương 24](chuong-24) →
+
+---
+
 *Lịch sử không ghi tên những người chỉ đứng ở một chỗ.*
 
 Tài liệu mới từ Essam đến — lần này không phải về Bức Tường. Là về Thần Chiến. Cụ thể: về Velhar the Chained.
@@ -48,3 +53,7 @@ Vela không trả lời ngay. Cô nhìn kiếm trong tay — lưỡi sứt mẻ,
 *Nhưng ký ức không hỏi ý kiến của cô. Nó đến khi muốn, và cô không thể không nghe.*
 
 ---
+
+---
+
+← [Chương 22](chuong-22)  **Chương 23/25**  [Chương 24](chuong-24) →

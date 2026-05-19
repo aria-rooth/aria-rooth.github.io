@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 22: Trước Khi"
 ---
+
+← [Chương 21](chuong-21)  **Chương 22/25**  [Chương 23](chuong-23) →
+
+---
+
 *Trước bức tường là gì? Cô không biết. Điều đó đáng sợ hơn cô nghĩ.*
 
 Theo đào sâu hơn. Anh ta gửi thư về Học Viện — yêu cầu thêm tài liệu, càng xa càng tốt, càng cũ càng tốt. Trong lúc chờ, anh ta lục lại mọi thứ mình mang theo — sách, bản đồ, ghi chép từ các học giả trước. Anh ta tìm tên Vela Ashmarch trong mọi tài liệu có thể. Không tìm thấy gì trực tiếp. Tên cô không xuất hiện trong biên niên sử, không có trong hồ sơ quân sự, không được nhắc trong thư tín ngoại giao. Như thể cô không tồn tại trước khi đứng ở đây — hoặc tồn tại dưới tên khác, trong hồ sơ khác, ở nơi không còn ai đọc.
@@ -40,3 +45,7 @@ Cô cúi xuống, chạm tay vào đá tường. Đá lạnh, đá cũ, đá đ�
 *Cô muốn bảo vệ ai đó. Điều đó cô biết rồi. Nhưng ai?*
 
 ---
+
+---
+
+← [Chương 21](chuong-21)  **Chương 22/25**  [Chương 23](chuong-23) →

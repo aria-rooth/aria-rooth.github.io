@@ -5,11 +5,19 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 25
 title: "Chương 8: Số Lượng"
 ---
+
+← [Chương 7](chuong-7)  **Chương 8/25**  [Chương 9](chuong-9) →
+
+---
+
 Đêm thứ ba: bảy người.
 
 Đêm thứ tư: mười hai người.
 
 Elara không ngủ ban ngày nữa. Cô ngủ hai tiếng vào lúc trưa — đủ để không ngã — và dành phần còn lại để chuẩn bị. Cô vẽ sơ đồ trên giấy mỏng: vị trí cổng, vị trí của từng bóng hình, khoảng cách ước lượng. Cô lấy giấy từ cuối tập thứ mười hai — những trang còn trống, cô xé ra để dùng riêng. Không phải vì cô sợ lẫn lộn. Chỉ là cô muốn sơ đồ tách biệt.
+
+
+Mắt cô cát — loại cát không chày nước rửa được, loại cát của người thiếu ngủ dài hạn. Lưỡi cô thô, và nước không giúp. Cơ thể cô nặng hơn bình thường, không phải vì mệt, mà vì cô đang kéo nó theo một nhịp mà nó không muốn. Nhưng cô không ngủ thêm. Vì nếu ngủ, cô có thể ngủ qua hoàng hôn — và nếu ngủ qua hoàng hôn, cô có thể bỏ lỡ đêm họ đến nhiều hơn. Ba đêm, số tăng. Đêm nay, bao nhiêu? Không ngủ. Không bỏ lỡ.
 
 Bảy người đêm thứ ba đứng theo hình vòng cung — không hoàn hảo, nhưng gần. Mỗi người cách nhau khoảng mười bước. Lenn vẫn ở trung tâm. Hai người mới: một người đàn ông già, lưng còng, mặc áo choàng không nhận ra. Một thanh niên, không áo giáp, tóc dài đến vai.
 
@@ -81,3 +89,7 @@ Và đợi bình minh.
 *Câu chuyện của Elara Stonewatch — Bạch Hành Linh Đoàn, trạm canh Huyền Môn Cốt, năm thứ mười hai.*
 
 ---
+
+---
+
+← [Chương 7](chuong-7)  **Chương 8/25**  [Chương 9](chuong-9) →

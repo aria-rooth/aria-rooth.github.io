@@ -6,6 +6,10 @@ total: 25
 title: "Chương 19: Đặt Điều Kiện"
 ---
 
+← [Chương 18](chuong-18)  **Chương 19/25**  [Chương 20](chuong-20) →
+
+---
+
 Tối hôm sau. Mưa tạnh. Không dần dần — mà đột ngột, như ai đó tắt vòi. Đất ướt. Cỏ ướt. Đá ướt. Không khí trong — sạch theo cách mà chỉ có không khí sau mưa lớn mới trong, rửa sạch bụi, rửa sạch mùi, rửa sạch mọi thứ trừ câu hỏi.
 
 Lyss đến. Vẫy tay. Ngồi xuống. Elara ngồi xuống. Cùng vị trí. Cách cổng một bước và ba bước. Đèn dầu — mới đầy — cháy sáng hơn thường.
@@ -71,3 +75,7 @@ Elara gật đầu. Nhẹ. *Tôi sẽ nói. Nhưng chưa.* Lyss gật đầu. Ti
 *Kết chương*
 
 ---
+
+---
+
+← [Chương 18](chuong-18)  **Chương 19/25**  [Chương 20](chuong-20) →

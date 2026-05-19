@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 10: Hai Thế Giới"
 ---
+
+← [Chương 9](chuong-9)  **Chương 10/25**  [Chương 11](chuong-11) →
+
+---
+
 ## Họ nhìn thấy khác nhau hoàn toàn
 
 Tuần thứ hai, đội Essam bắt đầu tìm nhịp.
@@ -68,3 +73,7 @@ Nên cô không nói gì. Kael cũng không chờ. Đi tiếp việc.
 ---
 
 *→ [Chương 11–15](eve-ch11-15-final.md)*
+
+---
+
+← [Chương 9](chuong-9)  **Chương 10/25**  [Chương 11](chuong-11) →

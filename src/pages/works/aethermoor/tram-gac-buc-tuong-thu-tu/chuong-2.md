@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 2: Đếm"
 ---
+
+← [Chương 1](chuong-1)  **Chương 2/25**  [Chương 3](chuong-3) →
+
+---
+
 ## Không phải ngày tháng — mà là lần
 
 Cuốn sổ không còn bìa từ lâu.
@@ -80,3 +85,7 @@ Bên ngoài cửa sổ không kính, Pale Frontier ngủ dưới màn sương ph
 Vela thổi tắt nến và nằm xuống.
 
 ---
+
+---
+
+← [Chương 1](chuong-1)  **Chương 2/25**  [Chương 3](chuong-3) →

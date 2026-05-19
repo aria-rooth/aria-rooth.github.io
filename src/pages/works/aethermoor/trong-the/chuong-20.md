@@ -3,8 +3,13 @@ layout: ../../../../layouts/ChapterLayout.astro
 chapter: 20
 story: "/works/aethermoor/trong-the"
 total: 25
-title: "Chương 20: Tên Trên Tờ Giấy"
+title: "Chương 20: Cuối Arc 1 — Tên Trên Tờ Giấy"
 ---
+
+← [Chương 19](chuong-19)  **Chương 20/25**  [Chương 21](chuong-21) →
+
+---
+
 Vorthane. Vùng biên giới. Rừng bắt đầu nơi đồng cỏ kết thúc — không phải ranh giới rõ, mà là sự chuyển đổi chậm: cỏ thấp dần, cây cao dần, mây thấp dần, không khí đặc dần. Mạch Linh Nguyên tự nhiên chảy qua rừng — cô cảm nhận được, như bước từ phòng lạnh ra ngoài nắng: khác biệt, nhưng không khó chịu. Ở Caelmyr, Linh Nguyên chảy qua đá và thép, qua đường ống con người tạo. Ở Vorthane, Linh Nguyên chảy qua gỗ và rễ và lá, qua đường ống tự nhiên đã tồn tại trước khi bất kỳ người nào biết tận dụng. Cô đi trong rừng và cảm nhận mạch đập của thứ gì đó không phải con người, không phải thần thánh — chỉ là đất, đang sống theo cách đất sống.
 
 Thị trấn nhỏ. Không tên trên bản đồ lớn — Aldric vẽ dấu X trên bản đồ ông cho cô, cạnh ký hiệu quán Cửa Đen. Thị trấn khoảng hai chục ngôi nhà, quán rượu duy nhất cũng là bưu điện, trạm đổi ngựa, và nơi mua muối. Mọi thứ xây bằng gỗ sồi — cũ, xám, nhưng chắc. Rừng Vorthane cho gỗ tốt, và người ở đây biết dùng. Kính cửa sổ làm từ sừng đục mỏng — sáng hơn kính thường nhưng dễ vỡ, nên người Vorthane không đập cửa. Họ gõ. Hai tiếng. Ba tiếng. Mật mã nhà này khác nhà kia, và ai nghe đủ lâu sẽ biết ai đang đến nhà ai. Sera không nghe đủ lâu — cô chỉ biết: nơi này có quy tắc, và quy tắc đó không phải của cô.
@@ -60,3 +65,7 @@ Im lặng. Lira nhìn túi tiền. Nhìn kiếm Thệ Thiết. Nhìn Sera. Rồi
 "Được," Lira nói. "Nói tôi nghe."
 
 *→ [Chương 21–25](2b-ch21-25.md)*
+
+---
+
+← [Chương 19](chuong-19)  **Chương 20/25**  [Chương 21](chuong-21) →

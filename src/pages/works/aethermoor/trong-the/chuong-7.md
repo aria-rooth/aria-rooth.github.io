@@ -5,6 +5,11 @@ story: "/works/aethermoor/trong-the"
 total: 25
 title: "Chương 7: Thẩm Vấn Giả Và Câu Hỏi"
 ---
+
+← [Chương 6](chuong-6)  **Chương 7/25**  [Chương 8](chuong-8) →
+
+---
+
 Tên bị thương nặng nhất — tên dẫn đầu, Linh Kỵ — vẫn còn tỉnh. Cô để hắn tỉnh bằng cách không chém thêm, và băng vết thương ở cổ tay bằng dải vải xé từ áo choàng của chính hắn. Không phải vì nhân từ. Băng để hắn không chết trước khi nói xong.
 
 Hắn dựa lưng vào gốc cây, tay phải bất động, máu rỉ qua dải vải. Mặt trắng. Nhìn cô bằng ánh mắt mà cô đã thấy trước — của người vừa nhận ra mình đứng nhầm phe.
@@ -47,6 +52,8 @@ Hắn nhìn cô. Đã thấy cô đứng dậy nhiều lần trong mười phút
 
 Hắn không hiểu. Cô thấy điều đó trên mặt hắn — không phải nhẹ nhõm, mà là bối rối. Nếu cô giết hắn, hắn hiểu: địch thủ. Nếu cô thả hắn, hắn không biết xếp cô vào đâu.
 
+Cô cảm thấy chân mình run nhẹ. Không phải mệt — cô còn đủ sức đi thêm mười dặm. Là run của người vừa giết ba người trong mười một giây và giờ đứng yên. Cô không để hắn thấy. Cô đứng thẳng, đếm đến năm, và run qua.
+
 *"Tại sao?"*
 
 *"Vì tôi cần anh biết rằng tôi không trốn chạy."*
@@ -60,3 +67,7 @@ Thanh kiếm nhẹ hơn. Nhưng cô biết: nhẹ hơn không có nghĩa là b�
 Cô đi về hướng đông. Bước đều. Kiếm trên hông. Không chạy.
 
 ---
+
+---
+
+← [Chương 6](chuong-6)  **Chương 7/25**  [Chương 8](chuong-8) →

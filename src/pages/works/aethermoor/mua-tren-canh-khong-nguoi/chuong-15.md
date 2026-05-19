@@ -5,6 +5,11 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 25
 title: "Chương 15: Lần Đầu Tiên Giao Tiếp"
 ---
+
+← [Chương 14](chuong-14)  **Chương 15/25**  [Chương 16](chuong-16) →
+
+---
+
 Ngày hôm sau dài hơn bình thường.
 
 Elara tuần tra như mọi ngày — bốn vòng, hai trăm bước mỗi vòng, kiểm tra Linh Nguyên, ghi chép thời tiết. Nhưng mỗi hành động mang theo một câu hỏi: đêm nay cô bé có trở lại không? Cô bé có vẫy tay nữa không? Cô nên làm gì nếu cô bé vẫy?
@@ -63,9 +68,12 @@ Cô nói to. Giọng khàn — vì không nói chuyện nhiều ngày. Tiếng n
 
 Elara đặt đèn xuống đất. Cẩn thận. Đứng thẳng. Nhìn cô bé.
 
+
 Rồi cô đặt tay lên cổng.
 
 Lòng bàn tay phải chạm vào mặt đá trụ bên trái. Đá lạnh. Lạnh theo cách vật lý — nhiệt độ của granite vào ban đêm trên Pale Frontier, khoảng năm độ, có thể thấp hơn. Lạnh từ từ truyền qua da, qua cơ, vào xương bàn tay. Cô giữ tay ở đó. Không đẩy. Không ép. Chỉ đặt.
+
+Đây là lần đầu cô đặt tay lên cổng vì muốn, không phải vì kiểm tra. Mười hai năm, cô chạm vào đá hàng nghìn lần — kiểm tra độ ẩm, kiểm tra nứt, kiểm tra rêu. Nhưng không bao giờ chạm để cảm nhận người bên kia. Lạnh từ đá chảy vào tay cô, và cô biết — không phải biết bằng lý trí, biết bằng da — rằng bên kia có người. Không phải vì cô bé đứng đó. Vì lạnh từ đá khác lạnh từ không khí. Lạnh từ đá có trọng lượng. Và trọng lượng đó là trọng lượng của người đặt tay lên đá từ phía bên kia.
 
 Cô bé nhìn thấy.
 
@@ -116,3 +124,7 @@ Bình minh còn xa.
 *Tiếp theo: Chương 16 — Quyết Định Đầu Tiên.*
 
 *→ [Chương 16–20](europa-ch16-20-final.md)*
+
+---
+
+← [Chương 14](chuong-14)  **Chương 15/25**  [Chương 16](chuong-16) →

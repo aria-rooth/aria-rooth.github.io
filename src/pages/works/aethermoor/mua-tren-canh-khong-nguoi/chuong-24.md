@@ -5,6 +5,11 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 25
 title: "Chương 24: Người Đàn Ông Hung Hãn"
 ---
+
+← [Chương 23](chuong-23)  **Chương 24/25**  [Chương 25](chuong-25) →
+
+---
+
 Tối.
 
 Hai mươi chín người xuất hiện. Hoặc nhiều hơn — Elara không đếm, không ghi vị trí, không vẽ sơ đồ. Cô chỉ nhìn, và nhìn khác. Nhưng đêm nay, khác cũng.
@@ -62,3 +67,7 @@ Cô dừng. Nhìn dòng mình viết. Thêm:
 *Kết chương*
 
 ---
+
+---
+
+← [Chương 23](chuong-23)  **Chương 24/25**  [Chương 25](chuong-25) →

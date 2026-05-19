@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 14: Học"
 ---
+
+← [Chương 13](chuong-13)  **Chương 14/25**  [Chương 15](chuong-15) →
+
+---
+
 ## Anh ta học về cô. Cô học về bản thân mình qua những gì anh ta tìm thấy
 
 Theo mang tài liệu lên tháp.
@@ -98,3 +103,7 @@ Vela ngồi lại một mình. Nhìn về phía Bắc. Màn sương mờ. Gió n
 *Không biết.* Hai chữ. Đủ. Không phải câu trả lời mà người ta muốn nghe — nhưng là câu trả lời thành thật nhất cô có thể đưa ra. Và thành thật, cô đã học từ lâu, là tất cả những gì cô có thể cho.
 
 ---
+
+---
+
+← [Chương 13](chuong-13)  **Chương 14/25**  [Chương 15](chuong-15) →

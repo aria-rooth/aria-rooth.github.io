@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 8: Họ Ở Lại"
 ---
+
+← [Chương 7](chuong-7)  **Chương 8/25**  [Chương 9](chuong-9) →
+
+---
+
 ## Một tuần
 
 Ngày thứ tư, Kael gọi cả đội họp. Vela không tham gia — cô ở trên tháp, nghe thấy tiếng nói chuyện nhưng không phân biệt chữ. Không phải chuyện của cô.
@@ -53,6 +58,8 @@ Cô uống hết trà. Đặt bát xuống. Nhìn ra phía Bắc.
 
 Vela gật đầu. Không buồn. Không nhẹ nhõm. Chỉ là ghi nhận: ba năm không nói chuyện với ai. Điều đó không làm cô buồn. Nhưng cô ghi nhận nó — giống như ghi nhận vết nứt trên tường, ghi nhận đàn sói, ghi nhận thời tiết. Sự thật. Dữ liệu. Phần của bức tranh.
 
+Cô đặt tay lên ngực. Không phải đau — là cảm giác 'có thứ gì đó đã từng ở đây'. Nói ra thành lời làm cho nó thật hơn, và thật hơn thì nặng hơn, dù chỉ một chút.
+
 Anh ta đứng dậy, mang bát đi. Chân bước xuống bậc thang, từng bước cẩn thận. Tiếng bước mờ dần.
 
 Vela ngồi lại một mình. Nhưng khác trước. Trước khi anh ta đến, cô ngồi một mình và đó là mặc định. Bây giờ cô ngồi một mình và đó là lựa chọn — vì anh ta đã đi, không vì không ai ở.
@@ -82,3 +89,7 @@ Chỉ là người. Đó là đủ.
 *Vela Ashmarch — Pale Frontier, Aethermoor*
 
 ---
+
+---
+
+← [Chương 7](chuong-7)  **Chương 8/25**  [Chương 9](chuong-9) →

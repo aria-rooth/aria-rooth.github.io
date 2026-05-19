@@ -5,6 +5,11 @@ story: "/works/aethermoor/trong-the"
 total: 25
 title: "Chương 22: Quy Tắc Của Lira"
 ---
+
+← [Chương 21](chuong-21)  **Chương 22/25**  [Chương 23](chuong-23) →
+
+---
+
 Họ đi suốt đêm. Lira muốn đi đêm — ban ngày mắt nhiều, ban đêm tai nhiều, và tai dễ lừa hơn mắt. Cô ta biết Vorthane: con đường nào có trạm kiểm soát, con đường nào chỉ có thú, con đường nào đất nhớ máu. Sera theo. Không phải vì tin — vì Lira đúng.
 
 Đêm Vorthane khác đêm Thessault. Thessault đêm vẫn sáng — đèn đường, đèn cửa, đèn canh gác. Vorthane đêm tối đúng nghĩa: cây che, mây che, ánh sáng duy nhất từ mạch Linh Nguyên chảy sâu dưới rễ, hắt lên mặt đất thành vệt xanh nhạt, mỏng như chỉ, như tĩnh mạch của đất. Sera đi trên vệt xanh và nghĩ: đây là thứ Aldric muốn cô nhìn. Đất sống. Đất thở. Linh Nguyên chảy tự nhiên, không qua thép hay đá, qua rễ và mùn và giun đất.
@@ -64,3 +69,7 @@ Một từ. Rõ. Không do dự. Nhưng rồi im lặng thêm — im lặng mà 
 Sera không hỏi thêm. Ghi nhận. Rồi canh tiếp. Lira nhắm mắt lại. Rừng Vorthane thở quanh họ — cây, rễ, đất, Linh Nguyên xanh nhạt dưới chân — và hai người nằm trong hốc đá, kiếm cạnh người, cách nhau đúng hai bước, cùng hướng về phía một Đoàn đang hấp hối.
 
 ---
+
+---
+
+← [Chương 21](chuong-21)  **Chương 22/25**  [Chương 23](chuong-23) →

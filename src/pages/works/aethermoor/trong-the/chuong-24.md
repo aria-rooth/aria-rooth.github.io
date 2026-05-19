@@ -5,6 +5,11 @@ story: "/works/aethermoor/trong-the"
 total: 25
 title: "Chương 24: Danh Sách"
 ---
+
+← [Chương 23](chuong-23)  **Chương 24/25**  [Chương 25](chuong-25) →
+
+---
+
 Kellen đưa danh sách không phải vì tin Sera và Lira — vì ông không còn gì để mất. Khi Đoàn đang chết, bí mật không còn giá trị. Bí mật có giá khi Đoàn sống — Đoàn chết thì bí mật chỉ là giấy thừa.
 
 Ông dẫn họ vào tòa nhà Đoàn. Bên trong: trống. Không phải trống hoàn toàn — bàn ghế còn, kiếm còn trên giá, chăn còn trên giường. Nhưng trống theo cách mà nhà trống khi người rời đi: mọi thứ để lại, không ai mang theo, vì mang theo nghĩa là thừa nhận mình sẽ không trở lại.
@@ -56,3 +61,7 @@ Sera không ngủ được. Cô nằm và mang ba giọng, và ba giọng nằm 
 Bên kia vách, Lira cũng thức. Sera không thấy — nhưng cô nghe: tiếng giường cọt kẹt nhẹ, tiếng kiếm đặt lại trên bàn, tiếng nước đổ vào ly. Lira cũng không ngủ. Hai người không ngủ, cách nhau một vách gỗ, cùng mang thứ không thể nói ra, và cùng im về nó. Đây có thể là im lặng gần nhất với *cùng nhau* mà hai người từng có.
 
 ---
+
+---
+
+← [Chương 23](chuong-23)  **Chương 24/25**  [Chương 25](chuong-25) →

@@ -5,6 +5,11 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 25
 title: "Chương 13: Giá Của Sự Hiện Diện"
 ---
+
+← [Chương 12](chuong-12)  **Chương 13/25**  [Chương 14](chuong-14) →
+
+---
+
 ## Cô đã biết điều này sẽ xảy ra
 
 Hai tuần.
@@ -74,3 +79,7 @@ Sự hiện diện có giá. Vela biết điều đó bây giờ. Không phải 
 *Vela Ashmarch — Pale Frontier, Aethermoor*
 
 ---
+
+---
+
+← [Chương 12](chuong-12)  **Chương 13/25**  [Chương 14](chuong-14) →
