@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 2
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 20
-title: "Chương 2: Hai Mươi Bảy Loài"
+total: 25
+title: "Chương 2: Đếm"
 ---
-
-# Chương 2: Đếm
-
 ## Không phải ngày tháng — mà là lần
 
 Cuốn sổ không còn bìa từ lâu.

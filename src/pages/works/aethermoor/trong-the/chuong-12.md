@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 12
 story: "/works/aethermoor/trong-the"
-total: 20
+total: 25
 title: "Chương 12: Bài Học Lắng Nghe"
 ---
-
-## Chương 12: Bài Học Lắng Nghe
-
 Aldric không dạy cô vào ban ngày. Ông dạy cô vào lúc rạng đông — khoảng thời gian giữa tối và sáng khi không khí lạnh nhất và tiếng động ngoài đường chưa bắt đầu. *"Thệ Vang cần im lặng,"* ông nói. *"Không phải yên tĩnh bên ngoài — yên tĩnh bên trong. Ngay cả tiếng gió cũng là tiếng. Ngay cả hơi thở cũng là tiếng. Nhưng vào lúc rạng đông, cơ thể cô đã quá mệt để tạo ra thêm tiếng ồn."*
 
 Cô không ngủ ngon đêm. Không phải vì chăn mỏng hay nền đá lạnh — cô đã ngủ ở nơi tệ hơn. Mà vì kiếm. Khi cô nằm xuống, kiếm đặt dọc bên người, cô cảm thấy nó nặng hơn lúc đứng. Không phải vì cánh tay yếu đi khi nằm — mà vì khi nằm, cô không làm gì với kiếm, và kiếm biết điều đó. Khi cô dùng kiếm, nó nhẹ. Khi cô để yên, nó nặng. Như thể nó đang nhắc: *dùng tôi hoặc mang tôi, nhưng đừng bỏ tôi đó.*

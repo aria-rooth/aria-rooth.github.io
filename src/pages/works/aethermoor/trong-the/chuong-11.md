@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 11
 story: "/works/aethermoor/trong-the"
-total: 20
+total: 25
 title: "Chương 11: Cái Giá Của Việc Bỏ Xuống"
 ---
-
-## Chương 11: Cái Giá Của Việc Bỏ Xuống
-
 Aldric nói. Không phải vì cô hỏi — mà vì cô cần biết.
 
 *"Hai cách. Hoàn thành các thề ước, hoặc phá hủy thanh kiếm."*

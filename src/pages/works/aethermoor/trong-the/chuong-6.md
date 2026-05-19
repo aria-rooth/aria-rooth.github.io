@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 6
 story: "/works/aethermoor/trong-the"
-total: 20
+total: 25
 title: "Chương 6: Giọng Nói Từ Thép"
 ---
-
-## Chương 6: Giọng Nói Từ Thép
-
 Rừng hoang phía tây biến thành đất đá trống — kiểu địa hình mà người địa phương gọi là "bãi xương," vì không gì lớn mọc được ngoài cỏ gai và rêu đá. Sera dừng ở mép rừng, nơi cây cối nhường chỗ cho đá, và rút kiếm.
 
 Lần đầu tiên cô rút kiếm ra không phải để chiến đấu hay luyện tập. Cô rút để nhìn.

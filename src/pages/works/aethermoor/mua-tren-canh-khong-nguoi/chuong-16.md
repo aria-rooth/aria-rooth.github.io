@@ -2,10 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 16
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 20
+total: 25
 title: "Chương 16: Quyết Định Đầu Tiên"
 ---
-
 Sáng.
 
 Elara ngồi trên phiến đá, *Người Đứng* mở trên đùi, nhưng cô không viết. Bút chì nằm ngang giữa hai trang, bất động. Cô nhìn về phía Huyền Môn Cốt — không có ai, tất nhiên, sáng là thời gian của đá trống và cỏ khô — nhưng cô nhìn như thể vẫn có thể thấy cô bé đứng ở đó.
@@ -16,7 +15,11 @@ Tên đó nằm trong *Người Đứng* từ đêm qua, viết bằng mực nha
 
 Câu hỏi nằm ở đây: cô bé là gì?
 
-Hai mươi chín người kia — ba mươi, nếu kể Lyss — không cử động bình thường. Họ đứng. Nhìn. Không chớp. Không xoay người. Không dịch chuyển trọng lượng từ chân này sang chân kia. Họ ở đó, như cột đá, như phần mở rộng của Huyền Môn Cốt. Elara đã quan sát họ mười ba đêm. Ghi chép. Phân loại vị trí. Thử nghiệm phản ứng. Kết luận của cô: họ không phải người sống. Bóng hình. Dấu vết. Thứ gì đó bị kẹt.
+Hai mươi chín người kia — ba mươi, nếu kể Lyss — không cử động như người bình thường.
+
+Họ đứng. Nhìn. Không chớp. Không xoay người. Không dịch chuyển trọng lượng từ chân này sang chân kia. Họ ở đó, như cột đá, như một phần của Huyền Môn Cốt.
+
+Elara đã quan sát họ mười ba đêm. Ghi chép. Phân loại vị trí. Thử nghiệm phản ứng. Kết luận của cô: họ không phải người sống. Bóng hình. Dấu vết. Thứ gì đó bị kẹt.
 
 Nhưng Lyss vẫy tay. Lyss mỉm cười. Lyss nhìn trăng, nhìn đất, nhìn xung quanh. Lyss hỏi: *Chị lạnh không?*
 

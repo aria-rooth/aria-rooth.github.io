@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 10
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 20
-title: "Chương 10: Những Gì Họ Không Nói"
+total: 25
+title: "Chương 10: Nhật Ký Mới"
 ---
-
-## Chương 10: Nhật Ký Mới
-
 Sáng. Mưa.
 
 Không phải mưa như đêm đầu tiên — mưa này nhẹ hơn, thưa hơn, loại mưa mà người ta không chắc có nên gọi là mưa hay chỉ là không khí quá ẩm để giữ hình dạng. Elara ngồi bên cửa sổ tháp canh, nhìn ra Huyền Môn Cốt, và biết mình sẽ không ra ngoài hôm nay.
@@ -109,3 +106,5 @@ Trong ba ngày, cô chỉ ra ngoài để kiểm tra Linh Nguyên và lấy nư�
 Chờ điều gì? Cô không trả lời câu hỏi đó. Không trong đầu, không trên giấy. Nhưng cô chờ.
 
 ---
+
+*→ [Chương 11–15](europa-ch11-15-final.md)*

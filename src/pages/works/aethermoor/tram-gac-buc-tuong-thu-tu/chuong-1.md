@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 1
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 20
-title: "Chương 1: Trạm Gác Thứ Tư"
+total: 25
+title: "Chương 1: Công Việc"
 ---
-
-# Chương 1: Công Việc
-
 ## Ngày thứ bảy mươi ba nghìn, sáu trăm lẻ bốn
 
 Máu khô không có mùi nữa.

@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 19
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 20
+total: 25
 title: "Chương 19: Đặt Điều Kiện"
 ---
 

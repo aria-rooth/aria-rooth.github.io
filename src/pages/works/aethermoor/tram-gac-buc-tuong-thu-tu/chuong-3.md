@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 3
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 20
-title: "Chương 3: Sổ"
+total: 25
+title: "Chương 3: Lành"
 ---
-
-# Chương 3: Lành
-
 ## Sáu mươi giây là một cuộc đời
 
 Con Bạch Ám Thú đến từ trên cao.
@@ -24,7 +21,7 @@ Nó rơi xuống. Cô rơi xuống theo.
 
 Không phải ngã — cô ngồi xuống, có kiểm soát, vì chân không còn chắc như thường. Bàn tay trái áp vào ngực. Máu chảy qua kẽ ngón tay theo nhịp tim, nhanh hơn bình thường vì lần này tim cô không bình thường.
 
-Đây là khác với những vết thương bình thường.
+Đây khác với những vết thương bình thường.
 
 Cô biết vì đau. Đau thực sự, không phải cái đau nhói rồi tê như vết cắt thông thường. Đây là đau của thứ gì đó bên trong bị ảnh hưởng — phổi, có thể, hoặc gần đó. Mỗi hơi thở kéo theo cảm giác như ai đó đang vặn cơ từ bên trong.
 
@@ -119,3 +116,9 @@ Bóng tối không trả lời. Cô cũng không hỏi.
 ---
 
 *Hết Chương 1–3*
+
+# Trạm Gác Bức Tường Thứ Tư
+
+*Vela Ashmarch — Pale Frontier, Aethermoor*
+
+---

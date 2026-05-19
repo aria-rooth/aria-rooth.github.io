@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 7
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 20
+total: 25
 title: "Chương 7: Đêm Thứ Ba"
 ---
-
-# Chương 7: Đêm Thứ Ba
-
 ## Những gì đội Essam không biết
 
 Đêm thứ ba, Pale Frontier sống động hơn bình thường.

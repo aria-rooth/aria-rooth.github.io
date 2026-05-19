@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 20
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 20
+total: 25
 title: "Chương 20: Sự Thật Của Lyss"
 ---
 

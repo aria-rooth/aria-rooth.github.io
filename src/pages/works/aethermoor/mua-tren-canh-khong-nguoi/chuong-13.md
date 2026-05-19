@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 13
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 20
-title: "Chương 13: Mưa Trên Cảnh Không Người"
+total: 25
+title: "Chương 13: Tôi Muốn Biết"
 ---
-
-## Chương 13: Tôi Muốn Biết
-
 Sáng. Không mưa. Không nắng. Chỉ là một sự nhạt dần của bóng tối thành xám, rồi xám nhạt hơn — bình minh kiểu Pale Frontier, không có khoảnh khắc rực rỡ nào.
 
 Elara thức dậy sau bốn tiếng ngủ. Cơ thể bật dậy theo thói quen, nhưng hôm nay cô không đi tuần tra ngay. Cô ngồi trên giường, chân buông xuống sàn, và nhìn vào khoảng không trước mặt.
@@ -16,7 +13,7 @@ Hai mươi chín.
 
 Số đó vẫn ở đó. Trong đầu. Không phai.
 
-Cô đứng dậy. Không mặc áo ngoài — còn mặc áo hôm qua, còn vết bùn ở gối, còn mùi khói từ nến. Cô đi đến bàn. Mở tập *Người Đứng.* Lật đến một trang trắng.
+Cô đứng dậy. Không mặc áo ngoài — còn mặc áo hôm qua, còn vết bùn ở gối, còn mùi khói từ nến. Cô đi đến bàn. Mở tập *Người Đứng*. Lật đến một trang trắng.
 
 Trang trắng. Giữa tập đã viết đến trang thứ mười lăm. Cô không mở trang tiếp theo. Cô lật đến một trang giữa, trống, chưa viết.
 
@@ -66,7 +63,9 @@ Vì không có kẻ địch.
 
 Không có gì để chém ở Pale Frontier. Không có gì để đâm. Không có gì để đánh. Kiếm là vũ khí, và vũ khí cần mục tiêu. Cô không có mục tiêu trong mười hai năm.
 
-Cô cầm kiếm. Không rút. Chỉ cầm cán, cảm nhận trọng lượng, cảm nhận da đã chai ở lòng bàn tay vì không cầm kiếm quá lâu.
+Cô đặt tay lên cán kiếm.
+
+Gỗ cán mịn. Ấm hơn cô tưởng — hoặc có thể chỉ vì tay cô lạnh. Ngón tay quen với vân gỗ, với chỗ lõm do bàn tay cô, hoặc bàn tay người trước cô, bóp mòn qua nhiều năm. Cô nắm chặt. Không rút. Chỉ nắm. Trọng lượng thanh kiếm truyền qua cán, vào lòng bàn tay, dọc cánh tay, tới vai. Trọng lượng đó quen. Quen như phiến đá dưới đùi. Quen như khoảng cách hai mươi bước đến cổng. Quen như mức nền Linh Nguyên. Ba năm chưa cảm thấy lưỡi kiếm trong tay. Ba năm chưa nghe tiếng thép rời vỏ. Hôm nay, chỉ bằng cách đặt tay lên cán, cô nhớ lại tất cả.
 
 Hai mươi chín người đứng bên kia cổng. Họ không tấn công. Họ không nói. Họ không đến gần. Họ chỉ đứng.
 
@@ -88,7 +87,7 @@ Bây giờ, cầm kiếm trong tay, cô cảm thấy một sự khác biệt nh�
 
 Cô cất kiếm. Không vội. Lưỡi kiếm trượt vào vỏ với tiếng sắt ma sát gỗ — một tiếng mà cô chưa nghe trong ba năm, và tiếng đó nghe lạ trong im lặng của tháp canh.
 
-Cô ngồi xuống bàn. Mở tập *Người Đứng.* Trang trắng vẫn ở đó, với dòng chữ "Tôi muốn biết."
+Cô ngồi xuống bàn. Mở tập *Người Đứng*. Trang trắng vẫn ở đó, với dòng chữ "Tôi muốn biết."
 
 Cô viết thêm:
 
@@ -123,3 +122,9 @@ Elara đứng. Chờ.
 ---
 
 *Tiếp theo: Arc 2 — Người Trở Về.*
+
+
+# Mưa Trên Cảnh Không Người
+*Arc 2 — Người Trở Về*
+
+---

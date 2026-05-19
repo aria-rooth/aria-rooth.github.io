@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 9
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 20
+total: 25
 title: "Chương 9: Câu Hỏi Không Có Câu Trả Lời"
 ---
-
-# Chương 9: Câu Hỏi Không Có Câu Trả Lời
-
 ## Anh ta hỏi những điều cô không nghĩ đến từ lâu lắm rồi
 
 Đêm yên. Không có đàn. Không có áp lực từ phía Bắc — thứ áp lực vô hình mà Vela cảm nhận như người trên biển cảm nhận bão: không phải gió, không phải sóng, mà là thứ chảy trong không khí trước khi gió đến. Hôm nay không khí nhẹ. Màn sương mờ nhạt như mọi đêm, gió từ hướng đông bắc thổi nhẹ và đều, mang theo bụi trắng lấp lánh trong ánh sao. Nhiệt độ ổn định — loại đêm mà Vela vẫn canh vì đó là việc cô làm, không vì cần. Sẽ không có gì đến. Cô biết điều đó theo cách cô biết mọi thứ về đêm trên Pale Frontier: bằng cách đã sống đủ đêm để phân biệt đêm yên và đêm sắp không yên.

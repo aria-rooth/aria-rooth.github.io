@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 14
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 20
+total: 25
 title: "Chương 14: Học"
 ---
-
-# Chương 14: Học
-
 ## Anh ta học về cô. Cô học về bản thân mình qua những gì anh ta tìm thấy
 
 Theo mang tài liệu lên tháp.

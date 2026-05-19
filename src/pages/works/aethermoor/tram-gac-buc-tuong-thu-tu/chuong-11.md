@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 11
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 20
+total: 25
 title: "Chương 11: Vỡ Ra"
 ---
-
-# Chương 11: Vỡ Ra
-
 ## Không phải chết — chỉ là gần đủ
 
 Đêm thứ mười hai. Vela đang bắt đầu quen — không phải quen với đội Essam, mà quen với việc có người ở gần. Sự khác biệt đó tinh tế: ban đầu cô biết họ ở đó vì nghe tiếng, thấy lửa, cảm nhận chuyển động. Bây giờ cô không còn ghi nhận sự hiện diện của họ — chỉ ghi nhận sự vắng mặt khi họ đi quá xa. Ngày xưa cô đứng trên thềm tháp và nghe toàn bộ bối cảnh: gió, đá, sương, im lặng. Bây giờ bối cảnh đã khác — có thêm tiếng cành gỗ gãy dưới chân người nào đó ở trại, có thêm mùi khói bếp trộn với bụi Pale Frontier, có thêm ánh lửa phản chiếu lên mặt đá chân tường mỗi đêm. Thứ nhỏ. Thứ cô không ghi vào sổ. Nhưng có.
@@ -20,7 +17,7 @@ Tiếng động từ phía Bắc đến muộn — gần nửa đêm, muộn hơ
 
 Cô đứng dậy trước khi ý thức xử lý xong. Phản xạ. Cơ thể đã đứng trước đầu kịp phân tích.
 
-Vela nhìn xuống trại Essam. Kael đã thức — luôn thức, người dẫn đội không ngủ sâu, và đêm nay anh ta ngồi cạnh lửa thay vì nằm, kiếm đặt ngang đùi, kiểu ngồi của người đang chờ. Các chiến binh khác bắt đầu cử động. Chậm. Quá chậm. Họ chưa nghe được thứ cô nghe — họ không có hai trăm năm để học cách nghe đất nói.
+Vela nhìn xuống trại Essam. Kael đã thức — luôn thức, người dẫn đội không ngủ sâu, và đêm nay cô ngồi cạnh lửa thay vì nằm, kiếm đặt ngang đùi, kiểu ngồi của người đang chờ. Các chiến binh khác bắt đầu cử động. Chậm. Quá chậm. Họ chưa nghe được thứ cô nghe — họ không có hai trăm năm để học cách nghe đất nói.
 
 Nó đến từ phía Bắc.
 

@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 1
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 20
-title: "Chương 1: Huyền Môn Cốt"
+total: 25
+title: "Chương 1: Thứ Ba"
 ---
-
-# Chương 1: Thứ Ba
-
 Bình minh đến không có màu sắc.
 
 Mây che kín từ đêm trước, và ánh sáng lọc qua chỉ là một sự nhạt dần của bóng tối — xám thay đen, sau đó xám nhạt hơn. Elara nhận ra sự thay đổi không qua mắt mà qua thân thể. Cơ bắp thay đổi trạng thái khi đủ sáng để di chuyển. Xương cốt chuyển từ chế độ nghỉ sang chế độ canh trước khi não kịp ghi nhận.

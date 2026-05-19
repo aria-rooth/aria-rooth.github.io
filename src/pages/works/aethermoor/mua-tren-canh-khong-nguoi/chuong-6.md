@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 6
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 20
+total: 25
 title: "Chương 6: Bóng Hình Đầu Tiên"
 ---
-
-## Chương 6: Bóng Hình Đầu Tiên
-
 Elara nhận ra anh ta ngay lập tức.
 
 Hoàng hôn. Ánh sáng cuối ngày nghiêng từ phía tây, kéo dài bóng đổ qua hoang nguyên. Cô đang ngồi trên tảng đá — vị trí quen thuộc, quen đến mức cô có thể ngồi xuống trong bóng tối mà không cần nhìn — khi cô thấy.

@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 4
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 20
+total: 25
 title: "Chương 4: Bình Thường"
 ---
-
-## Chương 4: Bình Thường
-
 Elara gọi đây là bình thường.
 
 Bình minh — cô kiểm tra Linh Nguyên. Không phải bằng thiết bị: cô đã không còn thiết bị chuẩn từ năm thứ năm, khi pin năng lượng cạn và không có ai thay thế. Cô kiểm tra bằng cảm nhận — đứng yên, mở ra, để Linh Nguyên trong không khí chảy qua nhận thức như gió chảy qua khe cửa. Mức nền. Không đột biến. Không dòng chảy có hướng. Quá trình mất chín phút. Cô không đếm thời gian bằng đồng hồ — bằng hơi thở, mười hai hơi thở chậm, mỗi hơi bốn giây vào, bốn giây giữ, bốn giây ra. Ba lần mười hai. Chín phút. Con số đó không thay đổi trong mười hai năm, dù cô không cố giữ. Cơ thể tự đếm.

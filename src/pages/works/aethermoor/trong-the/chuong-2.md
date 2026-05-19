@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 2
 story: "/works/aethermoor/trong-the"
-total: 20
+total: 25
 title: "Chương 2: Tro Và Thề Ước"
 ---
-
-# Chương 2: Tro Và Thề Ước
-
 Bình minh ở Caelmyr đến chậm vào tháng Mười, ánh sáng xám trước khi vàng, và trong khoảng thời gian đó màu sắc của mọi thứ đều không trung thực. Máu trông nâu thay vì đỏ. Da người trông xanh thay vì nhợt. Sera làm việc trong ánh sáng xám đó và không bận tâm đến màu sắc.
 
 Cô đã dành nửa đêm còn lại ngồi trên bậc thềm Phòng Thề, lưng thẳng, kiếm ngang đùi, chờ trời sáng. Không phải vì cô không có việc làm — mà vì một số việc nên làm trong ánh sáng thay vì bóng tối, không phải vì lý do tâm linh mà vì lý do thực tế: cô cần nhìn thấy rõ.

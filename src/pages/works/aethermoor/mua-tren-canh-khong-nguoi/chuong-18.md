@@ -2,10 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 18
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 20
+total: 25
 title: "Chương 18: Mưa Và Quyết Định"
 ---
-
 Một tuần.
 
 Mỗi tối, Elara ngồi cách cổng một bước. Mỗi tối, Lyss ngồi cách cổng ba bước bên kia. Họ nói chuyện — hoặc nói đủ để hiểu nhau, bằng hình miệng, cử chỉ, và thứ gì đó mờ hơn mà Elara không định nghĩa được. Linh Nguyên. Cô cảm nhận nó — yếu, mờ, như ánh nến xa — mỗi khi Lyss nói. Không phải từ lời nói. Từ ý định. Từ việc Lyss muốn cô hiểu. Linh Nguyên ở đây không phải sức mạnh, mà là cầu nối — mong muốn giao tiếp tạo ra kênh giao tiếp, yếu nhưng thật.
@@ -44,7 +43,9 @@ Mưa lớn. Loại mưa hiếm trên Pale Frontier — nơi thường chỉ có 
 
 Mưa rền. Tiếng nước đập lên đá, lên đất, lên da cô, lên vải áo choàng, lên mọi thứ. Tiếng ồn lớn đến mức cô không thể nghe gì khác — không nghe gió, không nghe bước chân, không nghe chính mình thở. Chỉ mưa.
 
-Lyss không đến. Hoặc đến mà cô không thấy — mưa che, mưa chắn, mưa làm mờ mọi thứ thành tường nước xám. Hai mươi chín người có thể đang đứng ở đó và cô không biết. Mưa dày đến mức cổng chỉ là bóng mờ cách cô mười bước.
+Lyss không đến. Hoặc đến mà cô không thấy — mưa che, mưa chắn, mưa làm mờ mọi thứ thành tường nước xám. Hai mươi chín người vẫn đứng ở đó và cô không biết.
+
+Mưa dày đến mức cổng chỉ là bóng mờ cách cô mười bước.
 
 Elara ngồi trong mưa. Nước chảy xuống mặt, xuống tóc, xuống cổ, vào trong áo, xuống lưng, xuống thắt lưng, xuống đất. Lạnh. Lạnh thật — không phải lạnh không nhiệt độ từ phía bên kia. Lạnh của mưa. Lạnh của người ướt ngồi trên đá ướt giữa hoang nguyên ướt vào ban đêm.
 

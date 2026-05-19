@@ -2,10 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 20
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 20
+total: 25
 title: "Chương 20: Quyết Định Không Được Đặt Tên"
 ---
-
 *Không phải lựa chọn — chỉ là dừng không đuổi đi.*
 
 Một tháng kể từ khi đội Essam đến và đi. Vela và Theo có nhịp điệu riêng — một thứ ngôn ngữ không lời xây dựng từ những ngày bên nhau. Anh ta biết khi nào cô sắp đứng dậy trong đêm — ba mươi giây trước khi đàn đến, nhịp thở cô thay đổi, một chuyển dịch nhỏ đến mức hầu như không nhận ra, nhưng anh ta nhận ra. Cô biết khi nào anh ta đang đọc điều quan trọng — bút dừng, mắt hẹp, môi mím lại thành một đường. Họ không phải bạn. Không phải đồng đội. Là thứ giữa — chưa có tên, không cần tên.
@@ -20,9 +19,9 @@ Một buổi sáng, không có gì đặc biệt — bầu trời xám như mọ
 
 Và một mảnh ký ức đến. Không phải từ gần chết. Không phải từ nguy hiểm. Từ bình yên — thứ xa lạ nhất với cô. Hai người ngồi bên lửa — cô và ai đó nhỏ hơn, tay cầm cốc giống hệt cốc của Theo bây giờ, đang cười. Tiếng cười ấm, nhẹ, như gió qua cỏ mùa hè — âm thanh cô chưa nghe trong hai trăm năm. Cảm giác: ấm áp, thuộc về, bình yên đến mức không cần biết ngày mai là gì, không cần biết mình là ai, chỉ cần biết mình đang ở đây với người này.
 
-Rồi mất — nhanh như nó đến. Để lại khoảng trống trong lồng ngực, một cái hố nơi ký ức đã ở và giờ không còn. Vela đứng im, tay trên kiếm, nhìn lửa qua anh ta, nhìn mảnh ký ức chìm vào nơi cô không thể với tới. Cô không biết người đó là ai. Không biết đó là ký ức thật hay mảnh vỡ của một thề ước chưa hoàn thành. Nhưng cô biết: đã có lúc, cô từng ngồi bên ai đó như thế này. Và cảm giác đó — ấm áp, thuộc về — vẫn còn trong cơ thể cô, dù ký ức đã mất.
+Rồi nó biến mất — nhanh như nó đến. Để lại khoảng trống trong lồng ngực, một cái hố nơi ký ức đã ở và giờ không còn. Vela đứng im. Tay trên kiếm nhưng không cầm. Nhìn lửa qua anh ta, nhìn mảnh ký ức chìm vào nơi không thể với tới. Cô không biết người đó là ai. Không biết đó là ký ức thật hay mảnh vỡ của một lời thề chưa hoàn thành. Nhưng cô biết: đã có lúc, cô từng ngồi bên ai đó như vậy, và cảm giác đó — ấm áp, thuộc về — vẫn còn trong cơ thể cô, dù ký ức đã mất.
 
-Vela đứng im. Tay trên kiếm nhưng không cầm. Nhìn lửa qua anh ta, nhìn mảnh ký ức chìm vào nơi không thể với tới. Anh ta không nhận ra — đang rót trà, bình thường. Cô không nói. Có những điều không thể nói thành lời, và cô đã học điều đó từ lâu.
+Anh ta không nhận ra — đang rót trà, bình thường. Cô không nói. Có những điều không thể nói thành lời, và cô đã học điều đó từ lâu.
 
 Buổi tối, một đợt tấn công vừa phải — Bạch Lang và hai Bạch Ám Thú. Họ phối hợp trơn tru hơn mọi lần — cô dưới sân, anh ta trên tháp, gọi vị trí, hướng, thời gian. "Đông, ba, sắp tới. Tây, một, chờ. Trung tâm, bốn, giữ." Mỗi lời là một bước, mỗi bước là một mạng sống. Trận kết thúc nhanh, sạch — máu trên đá, xác trên tường, không ai bị thương.
 
@@ -46,7 +45,7 @@ Không có sai lệch đáng kể. Tất cả chương 16–20 bám sát outline
 - Ch.16: Làn sóng đa hướng, Bạch Lang + Bạch Ám Thú + Bạch Ảnh + Titan, Rynn và Maren chết, đội vỡ. ✅
 - Ch.17: Vela giết Titan một mình 20 phút 8 thương, xếp Rynn/Maren phủ áo choàng, "tôi đã cảnh báo. Không đủ." ✅
 - Ch.18: Kael quyết định rời, Vela giúp cáng Lyre, "không cần", Kain gật đầu, Theo ở lại. ✅
-- Ch.19: Awkward ban đầu, Theo thiết lập thói quen, trận nhỏ anh ta gọi vị trí, Vela ngủ được. ✅
+- Ch.19: Gượng gạo ban đầu, Theo thiết lập thói quen, trận nhỏ anh ta gọi vị trí, Vela ngủ được. ✅
 - Ch.20: Một tháng, nhịp điệu riêng, mảnh ký ức từ bình yên, "tôi không nói đuổi đi", cột mốc Arc 1. ✅
 
 Quy tắc LORE_BIBLE tuân thủ: Titan, Bạch Lang Thần Thú, Bạch Ám Thú, Bạch Ảnh, lãnh vực.

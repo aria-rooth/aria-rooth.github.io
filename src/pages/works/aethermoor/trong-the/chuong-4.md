@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 4
 story: "/works/aethermoor/trong-the"
-total: 20
+total: 25
 title: "Chương 4: Trọng Lượng Của Kiếm"
 ---
-
-## Chương 4: Trọng Lượng Của Kiếm
-
 Sera đi về phía Tây vì đó là hướng không ai theo dõi. Con đường đông dẫn về Caelmyr — nơi có Thẩm Vấn Giả. Con đường bắc cắt qua lãnh thổ Vorthane — rừng, không có sẵn lương thực. Con đường tây chạy dọc theo các trang trại nhỏ ven chân đồi, ít người, ít mắt.
 
 Thanh kiếm nặng hơn mỗi giờ.

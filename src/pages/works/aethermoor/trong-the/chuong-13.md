@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 13
 story: "/works/aethermoor/trong-the"
-total: 20
+total: 25
 title: "Chương 13: Trinh Sát"
 ---
-
-## Chương 13: Trinh Sát
-
 Hắn đến nửa đêm. Sera biết không phải vì nghe — mà vì Thệ Vang. Không phải tiếng hay giọng nói. Là cảm giác, giống trước khi áp lực hướng về cô: lần này nó đến từ ngoài, như ai đó đang nhìn vào cô từ xa và kiếm phản ứng. Cảm giác khác với khi Thệ Vang mang ký ức — khi nó mang ký ức, nó đến từ trong kiếm ra. Lần này nó đến từ ngoài kiếm vào. Như thể có ai đó đang chạm vào thanh kiếm từ xa, không phải bằng tay, bằng thứ gì đó khác — ý thức, hoặc sự chú ý, hoặc tầm nhìn.
 
 Cô mở mắt. Nằm im. Phòng tối — Aldric đã tắt lò rèn từ nhiều giờ trước, chỉ còn ánh đỏ mờ từ tàn than dưới đe. Ánh đủ để thấy hình dạng: bệ rèn, đe, giá dụng cụ, chăn Aldric ở góc đối diện — ông đang ngủ, hơi thở đều. Cô không gọi ông. Chuyện này cô tự xử lý được.
@@ -67,3 +64,5 @@ Cô gật đầu. Không ép. Cô đã học từ Aldric — không phải từ 
 Ngoài ngõ, có tiếng bước chân đi ngang qua. Bình thường. Không dừng. Cô không nhìn.
 
 Ba ngày. Ba mảnh thề ước. Rồi phải đi.
+
+---

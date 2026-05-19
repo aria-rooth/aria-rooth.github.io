@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 8
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 20
+total: 25
 title: "Chương 8: Họ Ở Lại"
 ---
-
-# Chương 8: Họ Ở Lại
-
 ## Một tuần
 
 Ngày thứ tư, Kael gọi cả đội họp. Vela không tham gia — cô ở trên tháp, nghe thấy tiếng nói chuyện nhưng không phân biệt chữ. Không phải chuyện của cô.
@@ -78,4 +75,10 @@ Chỉ là người. Đó là đủ.
 
 ---
 
-*Hết Chương 4–8*
+
+
+# Trạm Gác Bức Tường Thứ Tư
+
+*Vela Ashmarch — Pale Frontier, Aethermoor*
+
+---

@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 9
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 20
-title: "Chương 9: Đêm Thứ Mười Ba"
+total: 25
+title: "Chương 9: Thử Nghiệm"
 ---
-
-## Chương 9: Thử Nghiệm
-
 Đêm thứ năm. Elara đếm mười tám bóng.
 
 Cô không gọi họ là người. Chưa. Họ có hình dạng người — đầu, vai, hai chân đứng — nhưng sự im lặng của họ không phải im lặng của người. Im lặng của người có ranh giới: người ta ngừng nói, người ta nín thở, người ta chờ. Im lặng này không có ranh giới. Nó là trạng thái, không phải hành động. Như đá im lặng. Như cổng im lặng.

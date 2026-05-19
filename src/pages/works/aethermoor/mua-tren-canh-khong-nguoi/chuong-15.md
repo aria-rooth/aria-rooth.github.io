@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 15
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 20
+total: 25
 title: "Chương 15: Lần Đầu Tiên Giao Tiếp"
 ---
-
-## Chương 15: Lần Đầu Tiên Giao Tiếp
-
 Ngày hôm sau dài hơn bình thường.
 
 Elara tuần tra như mọi ngày — bốn vòng, hai trăm bước mỗi vòng, kiểm tra Linh Nguyên, ghi chép thời tiết. Nhưng mỗi hành động mang theo một câu hỏi: đêm nay cô bé có trở lại không? Cô bé có vẫy tay nữa không? Cô nên làm gì nếu cô bé vẫy?
@@ -117,3 +114,5 @@ Bình minh còn xa.
 ---
 
 *Tiếp theo: Chương 16 — Quyết Định Đầu Tiên.*
+
+*→ [Chương 16–20](europa-ch16-20-final.md)*

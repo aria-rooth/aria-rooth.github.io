@@ -2,10 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 17
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 20
+total: 25
 title: "Chương 17: Cuộc Trò Chuyện Qua Cổng"
 ---
-
 Ba mươi người. Lyss ở vị trí cũ — cách hàng cuối năm bước, lệch trái. Vẫy tay khi thấy Elara.
 
 Elara vẫy lại. Nhanh hơn đêm qua. Tự nhiên hơn. Cô không phải nghĩ — tay nâng lên trước khi cô quyết định, như thể cơ thể nhớ cách vẫy tay, cho dù tâm trí đã quên từ lâu. Rồi cô bước đến — năm bước, bốn, ba, hai, một — và ngồi xuống.
@@ -28,7 +27,9 @@ Lyss nhìn về phía cô chỉ. Nghĩ. Rồi cô bé đặt tay lên ngực mì
 
 *Làng... nhỏ... phía Nam.*
 
-Phía Nam. Elara không biết làng nào. Nhưng phía Nam — đồng bằng, vùng nông nghiệp, nhiều làng nhỏ. Có lẽ hàng trăm làng. Có lẽ không còn làng nào tồn tại từ hai trăm năm trước. Cô muốn hỏi thêm — tên làng, tên mẹ — nhưng mỗi câu hỏi qua hình miệng tốn nỗ lực, và Lyss đã mệt. Không mệt cơ thể — mệt vì cố gắng. Cô bé nói chậm, lớn miệng, lặp lại khi Elara không đọc được. Đó là việc khó, và cô bé mười tuổi đang làm nó.
+Phía Nam. Elara không biết làng nào. Nhưng phía Nam — đồng bằng, vùng nông nghiệp, nhiều làng nhỏ. Có lẽ hàng trăm làng. Có lẽ không có làng nào tồn tại từ hai trăm năm trước.
+
+Cô muốn hỏi thêm — tên làng, tên mẹ — nhưng mỗi câu hỏi qua hình miệng tốn nỗ lực, và Lyss đã mệt. Không mệt cơ thể — mệt vì cố gắng. Cô bé nói chậm, lớn miệng, lặp lại khi Elara không đọc được. Đó là việc khó, và cô bé mười tuổi đang làm nó.
 
 Cô hỏi tiếp. Đặt tay lên môi, rồi chỉ vào Lyss: *Bao lâu?* — cô giơ ngón trỏ chỉ thời gian, cử chỉ chung chung, hy vọng cô bé hiểu.
 

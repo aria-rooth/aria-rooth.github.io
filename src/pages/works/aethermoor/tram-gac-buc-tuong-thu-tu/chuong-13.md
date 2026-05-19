@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 13
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 20
+total: 25
 title: "Chương 13: Giá Của Sự Hiện Diện"
 ---
-
-# Chương 13: Giá Của Sự Hiện Diện
-
 ## Cô đã biết điều này sẽ xảy ra
 
 Hai tuần.
@@ -52,7 +49,7 @@ Vela không trả lời. Không phải vì không có câu trả lời. Vì cô 
 
 Đêm đó cô canh gác một mình. Như mọi đêm. Đứng trên thềm tháp, kiếm trên đùi, nhìn về phía Bắc. Màn sương phương Bắc vẫn ở đó — luôn ở đó, không bao giờ tan, không bao giờ dày thêm. Gió nhẹ từ đông bắc. Không có đàn. Không có áp lực.
 
-Nhưng lần này có ánh lửa sau lưng. Trại Essam vẫn cháy — canh theo ca, đúng quy tắc, nhưng lửa không tắt. Kain nằm trong lều, đùi băng, đang ngủ hoặc cố ngủ. Lyre ngồi ngoài, tay trên trán, mệt nhưng thức. Kael đứng ở rìa trại hướng bắc, canh, và ánh lửa từ trại chiếu lên mặt anh ta thành nửa sáng nửa tối. Và trong trại có người bị thương, có người lo lắng, có người đang ngủ mà không biết đêm qua có gì, có người đang thức và biết.
+Nhưng lần này có ánh lửa sau lưng. Trại Essam vẫn cháy — canh theo ca, đúng quy tắc, nhưng lửa không tắt. Kain nằm trong lều, đùi băng, đang ngủ hoặc cố ngủ. Lyre ngồi ngoài, tay trên trán, mệt nhưng thức. Kael đứng ở rìa trại hướng bắc, canh, và ánh lửa từ trại chiếu lên mặt cô thành nửa sáng nửa tối. Và trong trại có người bị thương, có người lo lắng, có người đang ngủ mà không biết đêm qua có gì, có người đang thức và biết.
 
 Cô không quay lại nhìn lửa. Nhưng cô biết nó ở đó. Và biết rằng ánh lửa đó không chỉ sưởi ấm họ — nó sưởi ấm cô theo cách mà cô không thể ghi vào sổ, không thể đếm, không thể phân loại. Nó sưởi ấm cô bằng cách cho cô biết: có người ở sau lưng. Có người mà cô đang đứng giữa họ và phía Bắc. Có người mà cô bảo vệ dù không ai yêu cầu, dù không ai biết, dù cô không quyết định bảo vệ — chỉ là cô đứng đó, và phía Bắc ở đó, và họ ở sau lưng, và vị trí đó tự thành vị trí bảo vệ mà cô không chọn.
 
@@ -70,4 +67,10 @@ Sự hiện diện có giá. Vela biết điều đó bây giờ. Không phải 
 
 ---
 
-*Hết Chương 9–13*
+
+
+# Trạm Gác Bức Tường Thứ Tư
+
+*Vela Ashmarch — Pale Frontier, Aethermoor*
+
+---

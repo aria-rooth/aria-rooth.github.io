@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 5
 story: "/works/aethermoor/trong-the"
-total: 20
+total: 25
 title: "Chương 5: Những Gì Không Được Phép Chết"
 ---
-
-## Chương 5: Những Gì Không Được Phép Chết
-
 Sáng. Ông già không có ở nhà.
 
 Bữa sáng để sẵn trên bàn đá: hai củ khoai luộc, một miếng bánh mì đen, một bình nước. Bên cạnh bình nước là một mảnh giấy, chữ run giống như người già hay viết — cứng, thẳng, không cong:
@@ -61,3 +58,5 @@ Sera ngồi trên mặt đất lạnh, tay vẫn trên cán kiếm, và chờ. N
 Một giây. Đủ để biết Thệ Vang không chỉ là áp lực. Nó là ký ức. Và nó đang chờ cơ hội để được nghe.
 
 ---
+
+*→ [Chương 6–10](2b-ch6-10-final.md)*

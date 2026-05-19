@@ -2,10 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 16
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 20
+total: 25
 title: "Chương 16: Làn Sóng"
 ---
-
 *Hơn bao giờ hết. Và họ chưa sẵn sàng.*
 
 Bình minh. Mặt trời chưa hẳn lên — chỉ là chuyển từ đen sang xám, từ xám sang nhạt, một quá trình kéo dài như chính ranh giới giữa đêm và ngày nơi Bức Tường. Vela đã đứng trên tường. Đứng từ đêm. Không ngủ. Không cần ngủ — hoặc cần nhưng không cho phép mình, vì ngủ có nghĩa là bất tỉnh, và bất tỉnh ở đây có nghĩa là chết nếu bạn không lành lại được. Và dù cô lành, người khác thì không.
@@ -20,11 +19,11 @@ Vela cầm kiếm. Hai thanh. Lưỡi phải vẫn còn, lưỡi trái mới s�
 
 "Kael," cô nói, không quay đầu. Giọng cô đều — không cao, không thấp, không vội. "Đội anh chị giữ hai cánh. Không để Bạch Ảnh chọc qua. Tôi giữ trung tâm."
 
-Không phải xin phép. Không phải đề nghị. Là phân công — như người thợ phân công tay cho từng phần việc. Kael hiểu. Không hỏi thêm. Chỉ gật đầu và ra lệnh đội. Hắn nói ngắn, dứt — giọng của người đã quen mất người và không muốn mất thêm hôm nay.
+Không phải xin phép. Không phải đề nghị. Là phân công — như người thợ phân công tay cho từng phần việc. Kael hiểu. Không hỏi thêm. Chỉ gật đầu và ra lệnh đội. Cô nói ngắn, dứt — giọng của người đã quen mất người và không muốn mất thêm hôm nay.
 
 Trận bắt đầu.
 
-Mười lăm phút đầu: Vela ở trung tâm, giữ Titan và nửa đàn Bạch Lang Thần Thú. Cô chém, lách, bị cắm, lành, tiếp tục. Mỗi vết thương là một cơn đau nhói — đau có thật, dù lành trong vài giây — và cô đã quen đau đến mức phân loại đau theo mức độ nguy hiểm: có thể bỏ qua, cần phòng thủ, và "thoát ngay" (chưa có lần nào ở mức ba với Titan, nhưng luôn có lần đầu). Đội Essam giữ cánh — khá hơn trước. Kael và Kain phối hợp tốt, Lyre giăng khiên sáng chặn Bạch Ảnh, Rynn và Maren dọn quấy ở tuyến sau.
+Mười lăm phút đầu: Vela ở trung tâm, giữ Titan và nửa đàn Bạch Lang Thần Thú. Cô chém, lách, bị cắm, lành, tiếp tục. Mỗi vết thương là một cơn đau nhói — đau có thật, dù lành trong vài giây — và cô đã quen đau đến mức phân loại đau theo mức độ nguy hiểm: có thể bỏ qua, cần phòng thủ, và "thoát ngay" (chưa có lần nào ở mức ba với Titan, nhưng luôn có lần đầu). Đội Essam giữ cánh — khá hơn trước. Kael và Kain phối hợp tốt, Lyre giương khiên sáng chặn Bạch Ảnh; Rynn và Maren dọn quái ở tuyến sau.
 
 Nhưng áp lực tăng. Không phải dần dần — là đột ngột, như bước từ nước nông sang nước sâu. Số lượng quái dị quá nhiều cho tám người trên mười hai dặm tường. Mỗi khi một con ngã, hai con khác tràn vào khoảng trống. Tường vốn rộng đủ cho ba người đứng ngang — nhưng khi có cả Titan, không gian co lại.
 
@@ -36,11 +35,11 @@ Vela nghe tiếng Rynn ngừng. Cô không quay đầu. Không phải vì không
 
 Maren — người thứ năm — chết khi cố kéo Lyre ra khỏi đàn Bạch Lang mới. Lyre đã bất tỉnh sau đòn Bạch Ám Thú, máu vẫn chảy, mặt trắng bệch. Maren kéo cô ta bằng một tay, tay kia cầm kiếm mở đường. Và Bạch Ảnh đến. Maren không thấy Bạch Ảnh — nó vô hình khi không nhìn thẳng, và cô ta đang nhìn Lyre. Không nghe Bạch Ảnh — nó không tạo âm thanh. Chỉ thấy Lyre cần giúp, và chạy tới. Bạch Ảnh đi qua cô ta như đi qua giấy, như đi qua không khí, như thể cơ thể cô ta không phải vật cản. Cô ta ngã. Không kêu. Không có tiếng chạm đất. Chỉ là im lặng thêm một chỗ.
 
-Vela thấy. Từ trung tâm, cách mười lăm bước, cô thấy Maren ngã. Cô thấy cơ thể cô ta gập lại trước khi chạm đá — Bạch Ảnh rút ra, để lại một cơ thể còn nguyên hình dáng bên ngoài nhưng bên trong không còn gì. Cô di chuyển — bước một — nhưng Titan chặn. Nó đập xuống, đá nứt dưới tay nó, và Vela phải lùi, phải tránh, phải chọn: chạy đến Maren hay giữ Titan không cho phá tường. Chọn giữ. Không phải vì không quan tâm Maren. Mà vì Titan phá tường nghĩa là tất cả đều chết. Một người đã mất. Không thêm được nữa. Cô nghĩ điều này trong nửa giây, rồi không nghĩ nữa — chỉ đánh.
+Vela thấy. Từ trung tâm, cách mười lăm bước, cô thấy Maren ngã. Cô thấy cơ thể cô ta gập lại trước khi chạm đá — Bạch Ảnh rút ra, để lại một cơ thể còn nguyên hình dáng bên ngoài nhưng bên trong không còn gì. Cô di chuyển — bước một — nhưng Titan chặn. Nó đập xuống, đá nứt dưới tay nó, và Vela phải lùi, phải tránh, phải chọn: chạy đến Maren hay giữ Titan không cho phá tường. Chọn giữ. Không phải vì không quan tâm Maren. Mà vì Titan phá tường nghĩa là tất cả đều chết. Một người đã mất. Không thêm được nữa. Cô nghĩ điều này trong nửa giây, rồi không nghĩ nữa — chỉ đánh, không do dự.
 
 Đội Essam vỡ. Kain bị Titan hất ngã khi cố đến cạnh Vela — anh ta bay qua mép tường, rơi xuống phía Nam, một bóng người xoay vòng trong không trung, may mà phía Nam là thảo nguyên chứ không phải lãnh vực. Rơi từ tường cao — hơn ba mươi thước — nghĩa là xương sườn vỡ, có thể gãy thêm vài chỗ khác. Anh ta không kêu — hoặc kêu mà Vela không nghe vì tiếng Titan gầm.
 
-Kael — cánh tay phải gãy vì chặn đòn Titan dành cho Lyre — vẫn đứng. Hắn chuyển kiếm sang tay trái, mặt đẫm máu từ vết thương trên trán, hơi thở gấp. Nhưng đứng. Mắt hắn nhìn Titan, không phải nhìn những người đã ngã. Hắn không bỏ chạy. Vela nhận ra điều đó và ghi nhận: Kael là người đáng tin.
+Kael — cánh tay phải gãy vì chặn đòn Titan dành cho Lyre — vẫn đứng. Cô chuyển kiếm sang tay trái, mặt đẫm máu từ vết thương trên trán, hơi thở gấp. Nhưng đứng. Mắt cô nhìn Titan, không phải nhìn những người đã ngã. Cô không bỏ chạy. Vela nhận ra điều đó và ghi nhận: Kael là người đáng tin.
 
 Chỉ còn Vela trước Titan.
 

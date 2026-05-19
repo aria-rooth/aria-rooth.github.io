@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 8
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 20
+total: 25
 title: "Chương 8: Số Lượng"
 ---
-
-## Chương 8: Số Lượng
-
 Đêm thứ ba: bảy người.
 
 Đêm thứ tư: mười hai người.
@@ -77,3 +74,10 @@ Và đợi bình minh.
 ---
 
 *Tiếp theo: Chương 9 — Người Đến Thứ Hai.*
+
+
+# Mưa Trên Cảnh Không Người
+
+*Câu chuyện của Elara Stonewatch — Bạch Hành Linh Đoàn, trạm canh Huyền Môn Cốt, năm thứ mười hai.*
+
+---

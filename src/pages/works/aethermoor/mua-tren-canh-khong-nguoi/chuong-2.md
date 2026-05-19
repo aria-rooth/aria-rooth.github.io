@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 2
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 20
-title: "Chương 2: Nhật Ký"
+total: 25
+title: "Chương 2: Nhật Ký Quan Sát, Ngày 4.380"
 ---
-
-# Chương 2: Nhật Ký Quan Sát, Ngày 4.380
-
 Tập thứ mười hai bắt đầu từ tháng trước.
 
 Elara mở ra trên bàn — mặt ván thông, không đánh bóng, mặt gỗ có màu xám vì khói và ẩm ướt tích lũy qua nhiều mùa đông. Bút lông, mực khô, bình nước. Đèn dầu ở góc phải, ngọn lửa không lay vì không có gió bên trong. Ngoài cửa sổ, mưa đã bước sang ngày thứ hai.

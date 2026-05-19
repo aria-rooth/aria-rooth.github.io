@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 3
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 20
-title: "Chương 3: Năm Thứ Mười Hai"
+total: 25
+title: "Chương 3: Những Gì Ở Lại"
 ---
-
-# Chương 3: Những Gì Ở Lại
-
 Elara gia nhập Bạch Hành Linh Đoàn năm hai mươi lăm tuổi vì hai lý do.
 
 Lý do thứ nhất: lương tốt.
@@ -95,3 +92,9 @@ Cô tiếp tục tuần tra.
 ---
 
 *Tiếp theo: Chương 4 — Lyss và cái bóng trước cổng.*
+
+# Mưa Trên Cảnh Không Người
+
+*Câu chuyện của Elara Stonewatch — Bạch Hành Linh Đoàn, trạm canh Huyền Môn Cốt, năm thứ mười hai.*
+
+---

@@ -2,15 +2,14 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 19
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 20
+total: 25
 title: "Chương 19: Một"
 ---
-
 *Không phải hai người — một người và một người. Điều đó khác nhau quan trọng.*
 
 Vela và Theo. Hai người trên mười hai dặm tường. Không phải hai người như đội Essam — cùng mục tiêu, cùng rời đi. Là một người và một người, mỗi người ở đây vì lý do riêng, và lý do riêng đó đang hòa vào nhau theo cách cả hai thấy nhưng chưa đặt tên.
 
-Vài ngày đầu awkward, nặng nề. Vela không quen có ai xung quanh mà không phải mối đe dọa hay người cần bảo vệ. Với đội Essam, cô luôn ở chế độ — canh chừng, sẵn sàng đứng giữa họ và thứ đang đến từ Bắc. Với chỉ Theo, chế độ đó không còn phù hợp. Anh ta không cần bảo vệ, không cần chỉ huy. Anh ta chỉ — ở. Hiện diện trong không gian của cô theo cách vừa đủ để cô biết anh ta ở đó, nhưng không đủ để cô cảm thấy xâm phạm. Và cô không biết làm gì với "chỉ ở." Cô chưa từng học. Trong hai trăm năm, cô chỉ biết hai trạng thái: chiến đấu và chờ chiến đấu. "Ở cạnh ai đó" không nằm trong hai trạng thái đó.
+Vài ngày đầu gượng gạo, nặng nề. Vela không quen có ai xung quanh mà không phải mối đe dọa hay người cần bảo vệ. Với đội Essam, cô luôn ở chế độ — canh chừng, sẵn sàng đứng giữa họ và thứ đang đến từ Bắc. Với chỉ Theo, chế độ đó không còn phù hợp. Anh ta không cần bảo vệ, không cần chỉ huy. Anh ta chỉ — ở. Hiện diện trong không gian của cô theo cách vừa đủ để cô biết anh ta ở đó, nhưng không đủ để cô cảm thấy xâm phạm. Và cô không biết làm gì với "chỉ ở." Cô chưa từng học. Trong hai trăm năm, cô chỉ biết hai trạng thái: chiến đấu và chờ chiến đấu. "Ở cạnh ai đó" không nằm trong hai trạng thái đó.
 
 Cô để ý những chi tiết nhỏ mà trước đây cô không để ý ở người khác — cách anh ta ngồi, cách anh ta lật trang sách, cách anh ta uống nước. Tất cả đều bình thường, không có gì đặc biệt, nhưng cô để ý vì chúng là dấu hiệu của một người đang sống trong không gian của cô. Và lần đầu tiên, cô tự hỏi: mình có để ý không vì sợ, hay vì quan tâm? Cô không biết. Cô chưa từng phải phân biệt.
 
@@ -27,8 +26,6 @@ Những ngày trôi qua, và Vela nhận ra mình bắt đầu biết trước g
 Một buổi tối, đàn Bạch Lang Thần Thú đến. Mười sáu con — đủ để cần chú ý — tiếng móng vuốt cào trên đá, tiếng thở khò khè đặc trưng. Vela đứng, kiếm trong tay, cảm nhận đàn qua rung động của tường dưới chân.
 
 Và lần này, trước khi cô đi, Theo nói: "Bốn con từ phía Đông. Ba con chờ dưới mép tường. Bảy con ở giữa. Hai con phía Tây."
-
-Giọng đều, như đọc ghi chép. Không run. Lần đầu tiên làm việc này, anh ta không run.
 
 Giọng đều, như đọc ghi chép — như thể anh ta đã luyện tập điều này trong đầu từ lâu. Từ điểm cao của tháp, anh ta nhìn thấy toàn bộ cục diện, phân tích trong thời gian thực. Vela nghe — không quay đầu — nhưng bước thay đổi. Phía Đông trước — bốn con, đúng chỗ, xử lý trong ba mươi giây. Mép tường — ba con. Trung tâm. Tây. Trận kết thúc nhanh hơn mọi lần — không vì ít quái, mà vì cô không mất thời gian định vị.
 

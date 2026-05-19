@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 6
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 20
+total: 25
 title: "Chương 6: Theo"
 ---
-
-# Chương 6: Theo
-
 ## Người hỏi
 
 Anh ta đến vào buổi tối hôm sau — leo lên tháp bằng bậc thang mòn, từng bước cẩn thận, tay vịn vào tường. Không phải vì sợ ngã. Vì tôn trọng — kiểu tôn trọng của người biết mình đang đi vào chỗ của ai khác.

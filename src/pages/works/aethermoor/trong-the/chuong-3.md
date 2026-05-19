@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 3
 story: "/works/aethermoor/trong-the"
-total: 20
+total: 25
 title: "Chương 3: Người Duy Nhất Chạy"
 ---
-
-# Chương 3: Người Duy Nhất Chạy
-
 Sera không chạy. Cô chưa bao giờ chạy khỏi thứ gì — không phải vì kiêu ngạo mà vì chạy là hành vi của người không có lựa chọn, và cô luôn tìm ra lựa chọn tốt hơn.
 
 Lựa chọn bây giờ là lên mái nhà kho phía tây.

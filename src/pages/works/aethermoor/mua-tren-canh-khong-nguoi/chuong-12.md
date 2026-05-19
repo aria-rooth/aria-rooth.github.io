@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 12
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 20
-title: "Chương 12: Dưới Ánh Trăng"
+total: 25
+title: "Chương 12: Hai Mươi Chín"
 ---
-
-## Chương 12: Hai Mươi Chín
-
 Đêm thứ mười hai.
 
 Hai mươi chín.

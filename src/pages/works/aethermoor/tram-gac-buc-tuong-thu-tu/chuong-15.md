@@ -2,12 +2,9 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 15
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 20
+total: 25
 title: "Chương 15: Dấu Hiệu"
 ---
-
-# Chương 15: Dấu Hiệu
-
 ## Thứ đến từ phía Bắc lần này khác
 
 Ba ngày trước khi đội Essam dự định rời đi.
@@ -30,7 +27,7 @@ Cô đếm. Không phải đếm con — đếm hướng. Tất cả đều về
 
 Cô quay về trại. Kael đang kiểm tra trang bị — thói quen buổi sáng, kiểm tra trước khi đi, dù ngày mai mới đi. Cô gọi lên: *"Pale Creatures đang rút. Phía Bắc. Có tổ chức."*
 
-Kael dừng. Nhìn cô. Mặt không thay đổi — người dẫn đội không thay đổi mặt khi nghe tin — nhưng tay anh ta dừng trên khoá ba lô một giây trước khi tiếp tục.
+Kael dừng. Nhìn cô. Mặt không thay đổi — người dẫn đội không thay đổi mặt khi nghe tin — nhưng tay cô dừng trên khoá ba lô một giây trước khi tiếp tục.
 
 *"Rút kiểu nào?"*
 
@@ -38,7 +35,7 @@ Kael dừng. Nhìn cô. Mặt không thay đổi — người dẫn đội khôn
 
 Anh ta gật đầu. Không hỏi thêm. Anh ta biết điều này có nghĩa gì — hoặc biết đủ để không cần hỏi thêm. Khi sinh vật rút có trật tự, có thứ lớn hơn đang đến. Khi tất cả về phía một hướng, thứ đó đang đến từ hướng đó.
 
-*"Chúng tôi ở lại,"* Kael nói. Không phải quyết định mới — anh ta đã quyết định từ trước, khi Kain bị thương, khi Lyre cần thêm thời gian. Nhưng bây giờ lý do khác. Không phải vì Kain hay Lyre. Vì có thứ đang đến, và nếu đội đi ngay bây giờ, họ sẽ gặp nó trên đường về, không có tường che, không có Vela.
+*"Chúng tôi ở lại,"* Kael nói. Không phải quyết định mới — cô đã quyết định từ trước, khi Kain bị thương, khi Lyre cần thêm thời gian. Nhưng bây giờ lý do khác. Không phải vì Kain hay Lyre. Vì có thứ đang đến, và nếu đội đi ngay bây giờ, họ sẽ gặp nó trên đường về, không có tường che, không có Vela.
 
 Vela gật đầu. Cô không đuổi họ đi — và bây giờ cô cũng không muốn họ đi. Đây là thay đổi. Cô nhận ra: trước đây, cô không muốn họ ở. Bây giờ, cô không muốn họ đi. Hai thứ khác nhau. Một là trung lập — không quan tâm. Một là muốn — muốn có người ở gần khi thứ lớn đến. Cô không quen muốn. Nhưng cô nhận ra muốn.
 
@@ -48,7 +45,7 @@ Sự im lặng tệ hơn tiếng sói.
 
 Vela ngồi trên thềm, kiếm trên đùi, nhìn về phía Bắc. Màn sương mờ. Không có đàn. Không có tiếng động. Không có áp lực. Chỉ là khoảng trống — trống theo cách mà bình thường trống nghĩa là yên, nhưng hôm nay trống nghĩa là *đang chờ*. Cô biết cảm giác này. Cô đã trải qua — không nhớ bao nhiêu lần, nhưng đủ để biết: im lặng trước cơn bão không phải bình yên. Là khoảng trống mà cơn bão đang lấp đầy, chưa đủ đầy để nghe, nhưng đủ để cảm nhận.
 
-Đội Essam ngủ trong trại. Hoặc cố ngủ. Cô nghe tiếng trở mình — không phải tiếng của người ngủ ngon. Kael thức. Cô thấy ánh mắt anh ta phản chiếu lửa trại, nhìn về phía Bắc, cùng hướng cô nhìn. Anh ta cũng biết. Không cần nói.
+Đội Essam ngủ trong trại. Hoặc cố ngủ. Cô nghe tiếng trở mình — không phải tiếng của người ngủ ngon. Kael thức. Cô thấy ánh mắt cô phản chiếu lửa trại, nhìn về phía Bắc, cùng hướng cô nhìn. Cô cũng biết. Không cần nói.
 
 Theo leo lên tháp. Không mang balo — chỉ sổ nhỏ. Ngồi cạnh cô. Không nói gì.
 
@@ -118,7 +115,7 @@ Vela đứng dậy. Ghi vào sổ:
 
 Rồi quay về trại. Gặp Kael. Nói: *"Có dấu chân người hướng Bắc. Không phải đội anh."*
 
-Kael nhìn cô. Mặt vẫn không thay đổi. Nhưng tay anh ta chạm vào kiếm — phản xạ, không cần lý do.
+Kael nhìn cô. Mặt vẫn không thay đổi. Nhưng tay cô chạm vào kiếm — phản xạ, không cần lý do.
 
 *"Ai?"*
 
@@ -162,3 +159,5 @@ Cô không biết điều đó có nghĩa gì. Nhưng cô ghi nhận.
 - Outline có "Sera quyết định đội sẽ ở lại thêm" → đổi thành Kael quyết định, lý do khác (gặp thứ đang đến trên đường về).
 - Thêm: dấu chân người hướng Bắc — không có trong outline, nhưng phù hợp với beat "thứ đến từ phía Bắc lần này khác" và tạo thêm tension cho chương 16 (làn sóng).
 - Beat chính giữ nguyên: Pale Creatures rút có trật tự, Vela báo Kael, im lặng trước cơn bão, đêm không tấn công.
+
+*→ [Chương 16–20](eve-ch16-20-final.md)*
