@@ -90,7 +90,7 @@ Di vật ở Pale Frontier. Mordren Thứ Hai. Phong Quang Thánh Giáo. Kệ Th
 
 Cô bắt đầu viết.
 
-*→ [Chương 16–20](2b-ch16-20-final.md)*
+→ [Chương 16](chuong-16)
 
 ---
 
