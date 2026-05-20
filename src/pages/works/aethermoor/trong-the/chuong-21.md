@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 21
 story: "/works/aethermoor/trong-the"
-total: 25
+total: 30
 title: "Chương 21: Lira"
 ---
-
-← [Chương 20](chuong-20)  **Chương 21/25**  [Chương 22](chuong-22) →
+← [Chương 20](chuong-20)  **Chương 21/30**  → [Chương 22](chuong-22)
 
 ---
+
+
+
 
 Nhà kho cũ. Dầu mài. Kim loại. Gỗ mục. Sera đứng trước Lira, và Lira đứng trước cô, và giữa hai người là một khoảng trống vừa đủ cho một người rút kiếm — nhưng không ai rút.
 
@@ -80,6 +82,4 @@ Sera không đáp. Ghi nhận. Rồi tiếp tục đi.
 
 ---
 
----
-
-← [Chương 20](chuong-20)  **Chương 21/25**  [Chương 22](chuong-22) →
+← [Chương 20](chuong-20)  **Chương 21/30**  → [Chương 22](chuong-22)

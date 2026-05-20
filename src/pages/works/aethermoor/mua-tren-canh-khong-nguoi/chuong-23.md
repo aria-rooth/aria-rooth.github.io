@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 23
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 25
+total: 30
 title: "Chương 23: Breakthrough Tự Nhiên"
 ---
-
-← [Chương 22](chuong-22)  **Chương 23/25**  [Chương 24](chuong-24) →
+← [Chương 22](chuong-22)  **Chương 23/30**  → [Chương 24](chuong-24)
 
 ---
+
+
+
 
 Một tuần sau đêm Lyss bước qua.
 
@@ -62,6 +64,4 @@ Cô dừng. Nghĩ. Viết thêm:
 
 ---
 
----
-
-← [Chương 22](chuong-22)  **Chương 23/25**  [Chương 24](chuong-24) →
+← [Chương 22](chuong-22)  **Chương 23/30**  → [Chương 24](chuong-24)

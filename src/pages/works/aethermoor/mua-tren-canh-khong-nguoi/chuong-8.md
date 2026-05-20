@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 8
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 25
+total: 30
 title: "Chương 8: Số Lượng"
 ---
-
-← [Chương 7](chuong-7)  **Chương 8/25**  [Chương 9](chuong-9) →
+← [Chương 7](chuong-7)  **Chương 8/30**  → [Chương 9](chuong-9)
 
 ---
+
+
+
 
 Đêm thứ ba: bảy người.
 
@@ -79,7 +81,6 @@ Cô ngồi. Quan sát. Ghi chép.
 
 Và đợi bình minh.
 
----
 
 *Tiếp theo: Chương 9 — Người Đến Thứ Hai.*
 
@@ -90,6 +91,4 @@ Và đợi bình minh.
 
 ---
 
----
-
-← [Chương 7](chuong-7)  **Chương 8/25**  [Chương 9](chuong-9) →
+← [Chương 7](chuong-7)  **Chương 8/30**  → [Chương 9](chuong-9)

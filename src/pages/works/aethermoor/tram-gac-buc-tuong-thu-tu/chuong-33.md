@@ -5,10 +5,12 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 33: Giữ Chặt"
 ---
-
-← [Chương 32](chuong-32)  **Chương 33/35**
+← [Chương 32](chuong-32)  **Chương 33/35**  → [Chương 34](chuong-34)
 
 ---
+
+
+
 
 *Lời nguyền che giấu điều nó được thiết kế để che giấu.*
 
@@ -56,4 +58,4 @@ Vela nhìn anh ta. "Tôi không biết là mình đang kiềm chế."
 
 ---
 
-← [Chương 32](chuong-32)  **Chương 33/35**
+← [Chương 32](chuong-32)  **Chương 33/35**  → [Chương 34](chuong-34)

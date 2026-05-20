@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 13
 story: "/works/aethermoor/trong-the"
-total: 25
+total: 30
 title: "Chương 13: Trinh Sát"
 ---
-
-← [Chương 12](chuong-12)  **Chương 13/25**  [Chương 14](chuong-14) →
+← [Chương 12](chuong-12)  **Chương 13/30**  → [Chương 14](chuong-14)
 
 ---
+
+
+
 
 Hắn đến nửa đêm. Sera biết không phải vì nghe — mà vì Thệ Vang. Không phải tiếng hay giọng nói. Là cảm giác, giống trước khi áp lực hướng về cô: lần này nó đến từ ngoài, như ai đó đang nhìn vào cô từ xa và kiếm phản ứng. Cảm giác khác với khi Thệ Vang mang ký ức — khi nó mang ký ức, nó đến từ trong kiếm ra. Lần này nó đến từ ngoài kiếm vào. Như thể có ai đó đang chạm vào thanh kiếm từ xa, không phải bằng tay, bằng thứ gì đó khác — ý thức, hoặc sự chú ý, hoặc tầm nhìn.
 
@@ -72,6 +74,4 @@ Ba ngày. Ba mảnh thề ước. Rồi phải đi.
 
 ---
 
----
-
-← [Chương 12](chuong-12)  **Chương 13/25**  [Chương 14](chuong-14) →
+← [Chương 12](chuong-12)  **Chương 13/30**  → [Chương 14](chuong-14)

@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 9
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 25
+total: 30
 title: "Chương 9: Thử Nghiệm"
 ---
-
-← [Chương 8](chuong-8)  **Chương 9/25**  [Chương 10](chuong-10) →
+← [Chương 8](chuong-8)  **Chương 9/30**  → [Chương 10](chuong-10)
 
 ---
+
+
+
 
 Đêm thứ năm. Elara đếm mười tám bóng.
 
@@ -167,6 +169,4 @@ Không chờ cô làm gì. Cô biết điều đó. Họ không đợi cô chạ
 
 ---
 
----
-
-← [Chương 8](chuong-8)  **Chương 9/25**  [Chương 10](chuong-10) →
+← [Chương 8](chuong-8)  **Chương 9/30**  → [Chương 10](chuong-10)

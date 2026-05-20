@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 6
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 6: Theo"
 ---
-
-← [Chương 5](chuong-5)  **Chương 6/25**  [Chương 7](chuong-7) →
+← [Chương 5](chuong-5)  **Chương 6/35**  → [Chương 7](chuong-7)
 
 ---
+
+
+
 
 ## Người hỏi
 
@@ -72,6 +74,4 @@ Nhưng đêm nay khác một chút. Có tiếng người ở dưới chân tư�
 
 ---
 
----
-
-← [Chương 5](chuong-5)  **Chương 6/25**  [Chương 7](chuong-7) →
+← [Chương 5](chuong-5)  **Chương 6/35**  → [Chương 7](chuong-7)

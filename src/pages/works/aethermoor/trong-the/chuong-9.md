@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 9
 story: "/works/aethermoor/trong-the"
-total: 25
+total: 30
 title: "Chương 9: Người Còn Sống"
 ---
-
-← [Chương 8](chuong-8)  **Chương 9/25**  [Chương 10](chuong-10) →
+← [Chương 8](chuong-8)  **Chương 9/30**  → [Chương 10](chuong-10)
 
 ---
+
+
+
 
 Lò rèn nằm ở cuối con hẻm phía tây khu thợ thủ công — nơi mà người Caelmyr đến khi cần sửa cày, đóng móng ngựa, hoặc mua đinh. Không phải nơi người ta đến khi cần đọc Thiết Thệ. Aldric ở đây, theo cách ông ở mọi nơi: yên lặng, khuất góc, hiện diện mà không thu hút sự chú ý.
 
@@ -84,6 +86,4 @@ Sera nói có.
 
 ---
 
----
-
-← [Chương 8](chuong-8)  **Chương 9/25**  [Chương 10](chuong-10) →
+← [Chương 8](chuong-8)  **Chương 9/30**  → [Chương 10](chuong-10)

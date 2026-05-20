@@ -5,10 +5,12 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 29: Mạch Linh Nguyên Dưới Cổng"
 ---
-
-← [Chương 28](chuong-28)  **Chương 29/30**
+← [Chương 28](chuong-28)  **Chương 29/30**  → [Chương 30](chuong-30)
 
 ---
+
+
+
 
 Ba đêm sau. Elara không cho thêm ai qua. Cô quan sát. Ghi chép. Nhưng đêm nay, cô làm điều khác — không nhìn lên, mà nhìn xuống.
 
@@ -58,4 +60,4 @@ Cô nhìn về hướng nam — hướng Caelmyr, hướng thế giới sống. 
 
 ---
 
-← [Chương 28](chuong-28)  **Chương 29/30**
+← [Chương 28](chuong-28)  **Chương 29/30**  → [Chương 30](chuong-30)

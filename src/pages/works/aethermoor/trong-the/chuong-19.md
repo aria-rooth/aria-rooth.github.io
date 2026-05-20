@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 19
 story: "/works/aethermoor/trong-the"
-total: 25
+total: 30
 title: "Chương 19: Những Gì Đất Ghi Nhớ (Thiên Địa Hữu Ký)"
 ---
-
-← [Chương 18](chuong-18)  **Chương 19/25**  [Chương 20](chuong-20) →
+← [Chương 18](chuong-18)  **Chương 19/30**  → [Chương 20](chuong-20)
 
 ---
+
+
+
 
 Bốn ngày đi bộ. Sera tránh đường lớn, đi theo đường mòn — cũ, ít người, cỏ cao ngang gối. Mỗi đêm cô luyện kiếm. Mỗi ngày kiếm nặng hơn một chút. Nhưng khác trước: cô biết tại sao. Bốn mươi bảy mảnh thề ước đang chờ, và mỗi ngày không hoàn thành là mỗi ngày chúng nặng thêm. Aldric đã nói: Thệ Vang phân phối nhiệm vụ cho người cuối cùng. Phân phối — từ nặng. Như chia gánh, nhưng gánh không giảm, chỉ dịch chuyển.
 
@@ -62,6 +64,4 @@ Cô ghi nhận: Phong Quang Thánh Giáo không phải chỉ là kẻ thù. Họ
 
 ---
 
----
-
-← [Chương 18](chuong-18)  **Chương 19/25**  [Chương 20](chuong-20) →
+← [Chương 18](chuong-18)  **Chương 19/30**  → [Chương 20](chuong-20)

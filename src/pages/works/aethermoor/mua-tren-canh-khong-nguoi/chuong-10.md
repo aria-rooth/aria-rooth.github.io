@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 10
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 25
+total: 30
 title: "Chương 10: Nhật Ký Mới"
 ---
-
-← [Chương 9](chuong-9)  **Chương 10/25**  [Chương 11](chuong-11) →
+← [Chương 9](chuong-9)  **Chương 10/30**  → [Chương 11](chuong-11)
 
 ---
+
+
+
 
 Sáng. Mưa.
 
@@ -113,10 +115,9 @@ Trong ba ngày, cô chỉ ra ngoài để kiểm tra Linh Nguyên và lấy nư�
 
 Chờ điều gì? Cô không trả lời câu hỏi đó. Không trong đầu, không trên giấy. Nhưng cô chờ.
 
----
 
 *→ [Chương 11–15](europa-ch11-15-final.md)*
 
 ---
 
-← [Chương 9](chuong-9)  **Chương 10/25**  [Chương 11](chuong-11) →
+← [Chương 9](chuong-9)  **Chương 10/30**  → [Chương 11](chuong-11)

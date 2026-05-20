@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 5
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 5: Đội Thám Hiểm"
 ---
-
-← [Chương 4](chuong-4)  **Chương 5/25**  [Chương 6](chuong-6) →
+← [Chương 4](chuong-4)  **Chương 5/35**  → [Chương 6](chuong-6)
 
 ---
+
+
+
 
 ## Những người đầu tiên trong ba năm
 
@@ -50,10 +52,9 @@ Rồi dừng lại. Nhìn những dòng mình vừa viết. Lần đầu tiên t
 
 Cô đóng sổ lại. Không xóa. Cũng không đọc lại.
 
----
 
 *→ [Chương 6–10](eve-ch6-10-final.md)*
 
 ---
 
-← [Chương 4](chuong-4)  **Chương 5/25**  [Chương 6](chuong-6) →
+← [Chương 4](chuong-4)  **Chương 5/35**  → [Chương 6](chuong-6)

@@ -5,10 +5,12 @@ story: "/works/aethermoor/trong-the"
 total: 30
 title: "Chương 26: Manh Mối Về Di Vật"
 ---
-
-← [Chương 25](chuong-25)  **Chương 26/30**
+← [Chương 25](chuong-25)  **Chương 26/30**  → [Chương 27](chuong-27)
 
 ---
+
+
+
 
 Thị trấn Greymark nằm ở ngã ba biên giới — không hẳn Essam, không hẳn Vorthane, thuộc về cả hai và không thuộc ai. Nơi mà bản đồ vẽ đường thẳng nhưng thực tế là vùng xám: thuế hai bên đều thu, luật hai bên đều lỏng, và người sống ở đây học được quy tắc đầu tiên của ngã ba — không hỏi ai đến từ đâu, chỉ hỏi họ mua gì.
 
@@ -88,4 +90,4 @@ Sera gật. Hai người đi vào đêm Greymark — đèn dầu thưa, ngõ t�
 
 ---
 
-← [Chương 25](chuong-25)  **Chương 26/30**
+← [Chương 25](chuong-25)  **Chương 26/30**  → [Chương 27](chuong-27)

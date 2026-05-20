@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 18
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 18: Rời Đi"
 ---
-
-← [Chương 17](chuong-17)  **Chương 18/25**  [Chương 19](chuong-19) →
+← [Chương 17](chuong-17)  **Chương 18/35**  → [Chương 19](chuong-19)
 
 ---
+
+
+
 
 *Bảy người đến. Năm người về. Một người ở lại.*
 
@@ -52,4 +54,4 @@ Cô không gật đầu. Không nói. Chỉ đứng, và anh ta ở lại. Cô n
 
 ---
 
-← [Chương 17](chuong-17)  **Chương 18/25**  [Chương 19](chuong-19) →
+← [Chương 17](chuong-17)  **Chương 18/35**  → [Chương 19](chuong-19)

@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 12
 story: "/works/aethermoor/trong-the"
-total: 25
+total: 30
 title: "Chương 12: Bài Học Lắng Nghe"
 ---
-
-← [Chương 11](chuong-11)  **Chương 12/25**  [Chương 13](chuong-13) →
+← [Chương 11](chuong-11)  **Chương 12/30**  → [Chương 13](chuong-13)
 
 ---
+
+
+
 
 Aldric không dạy cô vào ban ngày. Ông dạy cô vào lúc rạng đông — khoảng thời gian giữa tối và sáng khi không khí lạnh nhất và tiếng động ngoài đường chưa bắt đầu. *"Thệ Vang cần im lặng,"* ông nói. *"Không phải yên tĩnh bên ngoài — yên tĩnh bên trong. Ngay cả tiếng gió cũng là tiếng. Ngay cả hơi thở cũng là tiếng. Nhưng vào lúc rạng đông, cơ thể cô đã quá mệt để tạo ra thêm tiếng ồn."*
 
@@ -78,6 +80,4 @@ Ngoài cửa lò rèn, trời đã sáng. Trinh sát chưa quay lại — hoặc
 
 ---
 
----
-
-← [Chương 11](chuong-11)  **Chương 12/25**  [Chương 13](chuong-13) →
+← [Chương 11](chuong-11)  **Chương 12/30**  → [Chương 13](chuong-13)

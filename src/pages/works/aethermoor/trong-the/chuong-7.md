@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 7
 story: "/works/aethermoor/trong-the"
-total: 25
+total: 30
 title: "Chương 7: Thẩm Vấn Giả Và Câu Hỏi"
 ---
-
-← [Chương 6](chuong-6)  **Chương 7/25**  [Chương 8](chuong-8) →
+← [Chương 6](chuong-6)  **Chương 7/30**  → [Chương 8](chuong-8)
 
 ---
+
+
+
 
 Tên bị thương nặng nhất — tên dẫn đầu, Linh Kỵ — vẫn còn tỉnh. Cô để hắn tỉnh bằng cách không chém thêm, và băng vết thương ở cổ tay bằng dải vải xé từ áo choàng của chính hắn. Không phải vì nhân từ. Băng để hắn không chết trước khi nói xong.
 
@@ -68,6 +70,4 @@ Cô đi về hướng đông. Bước đều. Kiếm trên hông. Không chạy.
 
 ---
 
----
-
-← [Chương 6](chuong-6)  **Chương 7/25**  [Chương 8](chuong-8) →
+← [Chương 6](chuong-6)  **Chương 7/30**  → [Chương 8](chuong-8)

@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 14
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 14: Học"
 ---
-
-← [Chương 13](chuong-13)  **Chương 14/25**  [Chương 15](chuong-15) →
+← [Chương 13](chuong-13)  **Chương 14/35**  → [Chương 15](chuong-15)
 
 ---
+
+
+
 
 ## Anh ta học về cô. Cô học về bản thân mình qua những gì anh ta tìm thấy
 
@@ -104,6 +106,4 @@ Vela ngồi lại một mình. Nhìn về phía Bắc. Màn sương mờ. Gió n
 
 ---
 
----
-
-← [Chương 13](chuong-13)  **Chương 14/25**  [Chương 15](chuong-15) →
+← [Chương 13](chuong-13)  **Chương 14/35**  → [Chương 15](chuong-15)

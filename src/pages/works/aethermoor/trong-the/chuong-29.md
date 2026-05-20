@@ -5,10 +5,12 @@ story: "/works/aethermoor/trong-the"
 total: 30
 title: "Chương 29: Mạng Lưới Của Giáo Hội"
 ---
-
-← [Chương 28](chuong-28)  **Chương 29/30**
+← [Chương 28](chuong-28)  **Chương 29/30**  → [Chương 30](chuong-30)
 
 ---
+
+
+
 
 Họ trở lại thị trấn — không phải Greymark, là thị trấn khác, nhỏ hơn, tên Venn's Hollow, nằm sâu hơn trong rừng nhưng vẫn trên đường thương mại. Lira chọn nơi này vì lý do: cô ta cần thông tin, và thông tin ở nơi người qua lại — dù ít. Greymark có quá nhiều mắt — Thẩm Vấn Giả, thám tử, ai đó bên thứ ba. Venn's Hollow ít người hơn, ít mắt hơn, và Lira đánh giá: đủ an toàn để dừng hai ngày.
 
@@ -60,4 +62,4 @@ Lira không hỏi cô nghĩ gì. Lira làm việc Lira làm: lau kiếm, kiểm 
 
 ---
 
-← [Chương 28](chuong-28)  **Chương 29/30**
+← [Chương 28](chuong-28)  **Chương 29/30**  → [Chương 30](chuong-30)

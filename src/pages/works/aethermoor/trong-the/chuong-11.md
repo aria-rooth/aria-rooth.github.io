@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 11
 story: "/works/aethermoor/trong-the"
-total: 25
+total: 30
 title: "Chương 11: Cái Giá Của Việc Bỏ Xuống"
 ---
-
-← [Chương 10](chuong-10)  **Chương 11/25**  [Chương 12](chuong-12) →
+← [Chương 10](chuong-10)  **Chương 11/30**  → [Chương 12](chuong-12)
 
 ---
+
+
+
 
 Aldric nói. Không phải vì cô hỏi — mà vì cô cần biết.
 
@@ -66,6 +68,4 @@ Aldric đã quay lại bệ rèn, dọn dẹp — xếp búa vào giá, phủ th
 
 ---
 
----
-
-← [Chương 10](chuong-10)  **Chương 11/25**  [Chương 12](chuong-12) →
+← [Chương 10](chuong-10)  **Chương 11/30**  → [Chương 12](chuong-12)

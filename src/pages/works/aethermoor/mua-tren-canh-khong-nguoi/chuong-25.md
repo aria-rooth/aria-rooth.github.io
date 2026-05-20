@@ -5,10 +5,12 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 25: Phân Loại"
 ---
-
 ← [Chương 24](chuong-24)  **Chương 25/30**  → [Chương 26](chuong-26)
 
 ---
+
+
+
 
 Sáng hôm sau. Elara không thiền. Cô viết.
 
@@ -70,11 +72,9 @@ Cô không biết cô có đủ khả năng. Nhưng cô biết cô là người 
 
 *Kết chương*
 
----
 
 *Tiếp theo: Chương 26 — Người Thứ Hai Qua Cổng.*
 
----
 
 ## GHI CHÚ TÁC GIẢ
 

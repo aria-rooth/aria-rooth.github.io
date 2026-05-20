@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 12
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 12: Mảnh Đầu Tiên"
 ---
-
-← [Chương 11](chuong-11)  **Chương 12/25**  [Chương 13](chuong-13) →
+← [Chương 11](chuong-11)  **Chương 12/35**  → [Chương 13](chuong-13)
 
 ---
+
+
+
 
 ## Ký ức là điều nguy hiểm nhất cô từng gặp
 
@@ -74,6 +76,4 @@ Hai mươi bảy chữ. Nhiều hơn cô thường ghi. Đủ.
 
 ---
 
----
-
-← [Chương 11](chuong-11)  **Chương 12/25**  [Chương 13](chuong-13) →
+← [Chương 11](chuong-11)  **Chương 12/35**  → [Chương 13](chuong-13)

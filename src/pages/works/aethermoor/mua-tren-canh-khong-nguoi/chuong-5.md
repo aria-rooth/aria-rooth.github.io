@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 5
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 25
+total: 30
 title: "Chương 5: Người Đầu Tiên"
 ---
-
-← [Chương 4](chuong-4)  **Chương 5/25**  [Chương 6](chuong-6) →
+← [Chương 4](chuong-4)  **Chương 5/30**  → [Chương 6](chuong-6)
 
 ---
+
+
+
 
 Ngày thứ tư nghìn ba trăm tám mươi lăm. Hoặc 4.385 — cô không chắc. Cô đã ngừng đếm chính xác từ năm thứ sáu, khi nhận ra rằng việc biết chính xác ngày thứ bao nhiêu không thay đổi gì. Bây giờ cô chỉ ghi số vào nhật ký và để số tự tăng. Nếu có sai lệch, cô không biết. Nếu có ngày bị bỏ qua, cô không nhận ra. Điều đó cũng là một phần của bình thường.
 
@@ -86,10 +88,9 @@ Cô đóng nhật ký. Ra ngoài. Tiếp tục tuần tra.
 
 Vòng chiều bình thường. Nhưng cô bước chậm hơn một chút ở góc đông-nam, nơi có thể nhìn về hướng Edrin đi. Không có gì trên đường chân trời. Chỉ là đất. Chỉ là cỏ. Chỉ là Pale Frontier như nó vẫn là.
 
----
 
 *→ [Chương 6–10](europa-ch6-10-final.md)*
 
 ---
 
-← [Chương 4](chuong-4)  **Chương 5/25**  [Chương 6](chuong-6) →
+← [Chương 4](chuong-4)  **Chương 5/30**  → [Chương 6](chuong-6)

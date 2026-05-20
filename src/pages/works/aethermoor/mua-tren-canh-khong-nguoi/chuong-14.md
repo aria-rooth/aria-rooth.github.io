@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 14
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 25
+total: 30
 title: "Chương 14: Cô Bé"
 ---
-
-← [Chương 13](chuong-13)  **Chương 14/25**  [Chương 15](chuong-15) →
+← [Chương 13](chuong-13)  **Chương 14/30**  → [Chương 15](chuong-15)
 
 ---
+
+
+
 
 Đêm thứ mười ba.
 
@@ -92,6 +94,4 @@ Cô bé khác.
 
 ---
 
----
-
-← [Chương 13](chuong-13)  **Chương 14/25**  [Chương 15](chuong-15) →
+← [Chương 13](chuong-13)  **Chương 14/30**  → [Chương 15](chuong-15)

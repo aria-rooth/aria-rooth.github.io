@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 1
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 1: Công Việc"
 ---
-
-**Chương 1/25**  [Chương 2](chuong-2) →
+**Chương 1/35**  → [Chương 2](chuong-2)
 
 ---
+
+
+
 
 ## Ngày thứ bảy mươi ba nghìn, sáu trăm lẻ bốn
 
@@ -96,6 +98,4 @@ Không phải than thở. Không phải tuyệt vọng. Chỉ là sự ghi nhậ
 
 ---
 
----
-
-**Chương 1/25**  [Chương 2](chuong-2) →
+**Chương 1/35**  → [Chương 2](chuong-2)

@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 2
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 2: Đếm"
 ---
-
-← [Chương 1](chuong-1)  **Chương 2/25**  [Chương 3](chuong-3) →
+← [Chương 1](chuong-1)  **Chương 2/35**  → [Chương 3](chuong-3)
 
 ---
+
+
+
 
 ## Không phải ngày tháng — mà là lần
 
@@ -58,7 +60,6 @@ Cô ngồi xuống bên bẫy đã sửa xong, nhìn bàn tay mình. Một phút
 
 Phía tây cần kiểm tra.
 
----
 
 Tối hôm đó đàn nhỏ hơn — chỉ tám con, con đầu đàn là con non cô chưa gặp. Cô xử lý trong im lặng, không cần đặc biệt chú ý, tay chân di chuyển theo những rãnh đã mòn sẵn trong cơ thể. Mất ít thời gian. Không thương.
 
@@ -86,6 +87,4 @@ Vela thổi tắt nến và nằm xuống.
 
 ---
 
----
-
-← [Chương 1](chuong-1)  **Chương 2/25**  [Chương 3](chuong-3) →
+← [Chương 1](chuong-1)  **Chương 2/35**  → [Chương 3](chuong-3)

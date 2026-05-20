@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 12
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 25
+total: 30
 title: "Chương 12: Hai Mươi Chín"
 ---
-
-← [Chương 11](chuong-11)  **Chương 12/25**  [Chương 13](chuong-13) →
+← [Chương 11](chuong-11)  **Chương 12/30**  → [Chương 13](chuong-13)
 
 ---
+
+
+
 
 Đêm thứ mười hai.
 
@@ -108,6 +110,4 @@ Con số đi theo cô vào giấc ngủ. Không phải ác mộng. Chỉ là con
 
 ---
 
----
-
-← [Chương 11](chuong-11)  **Chương 12/25**  [Chương 13](chuong-13) →
+← [Chương 11](chuong-11)  **Chương 12/30**  → [Chương 13](chuong-13)

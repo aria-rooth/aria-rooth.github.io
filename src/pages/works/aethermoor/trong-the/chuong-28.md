@@ -5,10 +5,12 @@ story: "/works/aethermoor/trong-the"
 total: 30
 title: "Chương 28: Vorthane Sâu Hơn"
 ---
-
-← [Chương 27](chuong-27)  **Chương 28/30**
+← [Chương 27](chuong-27)  **Chương 28/30**  → [Chương 29](chuong-29)
 
 ---
+
+
+
 
 Rừng Vorthane sâu không phải vì xa — sâu vì đặc. Càng vào trong, cây càng dày, rễ càng lớn, ánh sáng càng ít. Như thể rừng đang dần đóng cửa: mỗi bước vào, một lớp cây khép sau, một lớp rễ chặn lối, một mảng bóng che trên đầu. Không phải rừng muốn giữ người — là rừng không biết có người. Rừng sống theo luật của nó, và người đi qua chỉ là thứ tạm thời giữa các vòng sinh trưởng.
 
@@ -60,4 +62,4 @@ Họ dọn dẹp ẩn cư. Không để dấu — Lira phủ đất lên tro l�
 
 ---
 
-← [Chương 27](chuong-27)  **Chương 28/30**
+← [Chương 27](chuong-27)  **Chương 28/30**  → [Chương 29](chuong-29)

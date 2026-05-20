@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 21
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 25
+total: 30
 title: "Chương 21: Qua Cổng"
 ---
-
-← [Chương 20](chuong-20)  **Chương 21/25**  [Chương 22](chuong-22) →
+← [Chương 20](chuong-20)  **Chương 21/30**  → [Chương 22](chuong-22)
 
 ---
+
+
+
 
 Lyss bước tới.
 
@@ -80,6 +82,4 @@ Cô dừng. Đóng bút. Rồi viết thêm, dòng nhỏ hơn, góc trang:
 
 ---
 
----
-
-← [Chương 20](chuong-20)  **Chương 21/25**  [Chương 22](chuong-22) →
+← [Chương 20](chuong-20)  **Chương 21/30**  → [Chương 22](chuong-22)

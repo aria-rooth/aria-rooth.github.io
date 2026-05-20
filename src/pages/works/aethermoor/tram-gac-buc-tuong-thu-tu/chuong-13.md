@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 13
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 13: Giá Của Sự Hiện Diện"
 ---
-
-← [Chương 12](chuong-12)  **Chương 13/25**  [Chương 14](chuong-14) →
+← [Chương 12](chuong-12)  **Chương 13/35**  → [Chương 14](chuong-14)
 
 ---
+
+
+
 
 ## Cô đã biết điều này sẽ xảy ra
 
@@ -70,7 +72,6 @@ Sự hiện diện có giá. Vela biết điều đó bây giờ. Không phải 
 
 *Ghi nhận.*
 
----
 
 
 
@@ -80,6 +81,4 @@ Sự hiện diện có giá. Vela biết điều đó bây giờ. Không phải 
 
 ---
 
----
-
-← [Chương 12](chuong-12)  **Chương 13/25**  [Chương 14](chuong-14) →
+← [Chương 12](chuong-12)  **Chương 13/35**  → [Chương 14](chuong-14)

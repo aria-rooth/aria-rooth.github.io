@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 24
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 24: Đêm Không Có Tấn Công"
 ---
-
-← [Chương 23](chuong-23)  **Chương 24/25**  [Chương 25](chuong-25) →
+← [Chương 23](chuong-23)  **Chương 24/35**  → [Chương 25](chuong-25)
 
 ---
+
+
+
 
 *Đôi khi thứ đáng sợ nhất là không có gì để đánh.*
 
@@ -58,6 +60,4 @@ Vela nhìn anh ta. Nhìn cách anh ta đặt bút xuống — đặt chậm, đ�
 
 ---
 
----
-
-← [Chương 23](chuong-23)  **Chương 24/25**  [Chương 25](chuong-25) →
+← [Chương 23](chuong-23)  **Chương 24/35**  → [Chương 25](chuong-25)

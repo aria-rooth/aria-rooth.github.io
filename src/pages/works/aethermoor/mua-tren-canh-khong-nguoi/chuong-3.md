@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 3
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 25
+total: 30
 title: "Chương 3: Những Gì Ở Lại"
 ---
-
-← [Chương 2](chuong-2)  **Chương 3/25**  [Chương 4](chuong-4) →
+← [Chương 2](chuong-2)  **Chương 3/30**  → [Chương 4](chuong-4)
 
 ---
+
+
+
 
 Elara gia nhập Bạch Hành Linh Đoàn năm hai mươi lăm tuổi vì hai lý do.
 
@@ -67,7 +69,6 @@ Không phải anh hùng. Không phải cảnh báo. Không phải di tích. Ch�
 
 Cô đứng đó cho đến khi tuyến đường của Davin biến mất vào đường chân trời. Rồi cô quay lại. Bước đầu tiên về phía Huyền Môn Cốt nặng hơn bước thứ hai. Không phải vì mệt. Vì bước đầu là bước chấp nhận — chấp nhận rằng cô không phải người trong câu chuyện của người khác. Chỉ là đá. Chỉ là rêu. Chỉ là điểm mốc.
 
----
 
 Bốn tiếng trôi qua.
 
@@ -101,7 +102,6 @@ Mưa không ngừng. Và cô không cần mưa ngừng. Cô cần Huyền Môn C
 
 Cô tiếp tục tuần tra.
 
----
 
 *Tiếp theo: Chương 4 — Lyss và cái bóng trước cổng.*
 
@@ -111,6 +111,4 @@ Cô tiếp tục tuần tra.
 
 ---
 
----
-
-← [Chương 2](chuong-2)  **Chương 3/25**  [Chương 4](chuong-4) →
+← [Chương 2](chuong-2)  **Chương 3/30**  → [Chương 4](chuong-4)

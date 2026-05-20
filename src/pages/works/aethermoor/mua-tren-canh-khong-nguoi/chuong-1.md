@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 1
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 25
+total: 30
 title: "Chương 1: Thứ Ba"
 ---
-
-**Chương 1/25**  [Chương 2](chuong-2) →
+**Chương 1/30**  → [Chương 2](chuong-2)
 
 ---
+
+
+
 
 Bình minh đến không có màu sắc.
 
@@ -75,6 +77,4 @@ Elara quan sát. Nước chảy xuống gáy, xuống lưng, xuống hai khuỷu
 
 ---
 
----
-
-**Chương 1/25**  [Chương 2](chuong-2) →
+**Chương 1/30**  → [Chương 2](chuong-2)

@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 7
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 25
+total: 30
 title: "Chương 7: Nhịp Điệu"
 ---
-
-← [Chương 6](chuong-6)  **Chương 7/25**  [Chương 8](chuong-8) →
+← [Chương 6](chuong-6)  **Chương 7/30**  → [Chương 8](chuong-8)
 
 ---
+
+
+
 
 Đêm thứ hai, có ba người.
 
@@ -68,6 +70,4 @@ Cô ra ngoài, tuần tra buổi chiều như bình thường. Nhưng khi đi ng
 
 ---
 
----
-
-← [Chương 6](chuong-6)  **Chương 7/25**  [Chương 8](chuong-8) →
+← [Chương 6](chuong-6)  **Chương 7/30**  → [Chương 8](chuong-8)

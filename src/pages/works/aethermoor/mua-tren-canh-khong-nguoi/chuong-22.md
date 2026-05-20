@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 22
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 25
+total: 30
 title: "Chương 22: Thay Đổi Nhận Thức"
 ---
-
-← [Chương 21](chuong-21)  **Chương 22/25**  [Chương 23](chuong-23) →
+← [Chương 21](chuong-21)  **Chương 22/30**  → [Chương 23](chuong-23)
 
 ---
+
+
+
 
 Sáng.
 
@@ -52,6 +54,4 @@ Cô viết vào *Người Đứng*:
 
 ---
 
----
-
-← [Chương 21](chuong-21)  **Chương 22/25**  [Chương 23](chuong-23) →
+← [Chương 21](chuong-21)  **Chương 22/30**  → [Chương 23](chuong-23)

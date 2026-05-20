@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 20
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 20: Quyết Định Không Được Đặt Tên"
 ---
-
-← [Chương 19](chuong-19)  **Chương 20/25**  [Chương 21](chuong-21) →
+← [Chương 19](chuong-19)  **Chương 20/35**  → [Chương 21](chuong-21)
 
 ---
+
+
+
 
 *Không phải lựa chọn — chỉ là dừng không đuổi đi.*
 
@@ -42,7 +44,6 @@ Không phải "có" — cô không biết mình muốn gì. Không phải "khôn
 
 *Lần đầu tiên trong thời gian cô nhớ được, cô không đứng một mình. Và "không một mình" không phải thoải mái — nó là lạ, là nặng, là cần chú ý. Nhưng nó cũng là ấm. Và ấm, cô nhận ra, là thứ cô đã quên mình nhớ.*
 
----
 
 ## Ghi Chú So với Outline
 
@@ -57,4 +58,4 @@ Quy tắc LORE_BIBLE tuân thủ: Titan, Bạch Lang Thần Thú, Bạch Ám Th�
 
 ---
 
-← [Chương 19](chuong-19)  **Chương 20/25**  [Chương 21](chuong-21) →
+← [Chương 19](chuong-19)  **Chương 20/35**  → [Chương 21](chuong-21)

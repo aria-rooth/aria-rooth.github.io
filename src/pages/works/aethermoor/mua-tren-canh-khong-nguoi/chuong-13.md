@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 13
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 25
+total: 30
 title: "Chương 13: Tôi Muốn Biết"
 ---
-
-← [Chương 12](chuong-12)  **Chương 13/25**  [Chương 14](chuong-14) →
+← [Chương 12](chuong-12)  **Chương 13/30**  → [Chương 14](chuong-14)
 
 ---
+
+
+
 
 Sáng. Không mưa. Không nắng. Chỉ là một sự nhạt dần của bóng tối thành xám, rồi xám nhạt hơn — bình minh kiểu Pale Frontier, không có khoảnh khắc rực rỡ nào.
 
@@ -124,7 +126,6 @@ Gió thổi qua cổng. Không mang theo âm thanh nào từ bên kia. Chỉ gi�
 
 Elara đứng. Chờ.
 
----
 
 *Tiếp theo: Arc 2 — Người Trở Về.*
 
@@ -134,6 +135,4 @@ Elara đứng. Chờ.
 
 ---
 
----
-
-← [Chương 12](chuong-12)  **Chương 13/25**  [Chương 14](chuong-14) →
+← [Chương 12](chuong-12)  **Chương 13/30**  → [Chương 14](chuong-14)

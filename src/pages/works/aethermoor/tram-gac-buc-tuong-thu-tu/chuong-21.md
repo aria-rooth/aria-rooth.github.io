@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 21
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 21: Hồ Sơ"
 ---
-
-← [Chương 20](chuong-20)  **Chương 21/25**  [Chương 22](chuong-22) →
+← [Chương 20](chuong-20)  **Chương 21/35**  → [Chương 22](chuong-22)
 
 ---
+
+
+
 
 *180 năm là khoảng cách dài. Nhưng kiếm sứt mẻ không thay đổi.*
 
@@ -52,6 +54,4 @@ Cô gập bản vẽ lại. Cất đi. Không phải vì không muốn nhìn —
 
 ---
 
----
-
-← [Chương 20](chuong-20)  **Chương 21/25**  [Chương 22](chuong-22) →
+← [Chương 20](chuong-20)  **Chương 21/35**  → [Chương 22](chuong-22)

@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 3
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 3: Lành"
 ---
-
-← [Chương 2](chuong-2)  **Chương 3/25**  [Chương 4](chuong-4) →
+← [Chương 2](chuong-2)  **Chương 3/35**  → [Chương 4](chuong-4)
 
 ---
+
+
+
 
 ## Sáu mươi giây là một cuộc đời
 
@@ -66,7 +68,6 @@ Khi xong, cô ngồi xuống lần nữa và đếm đến sáu mươi.
 
 Lần này không có vết thương để quan sát. Chỉ là thói quen.
 
----
 
 Đêm yên.
 
@@ -120,7 +121,6 @@ Sáu mươi năm hay hai trăm năm hay không biết bao nhiêu năm nữa.
 
 Bóng tối không trả lời. Cô cũng không hỏi.
 
----
 
 *Hết Chương 1–3*
 
@@ -130,6 +130,4 @@ Bóng tối không trả lời. Cô cũng không hỏi.
 
 ---
 
----
-
-← [Chương 2](chuong-2)  **Chương 3/25**  [Chương 4](chuong-4) →
+← [Chương 2](chuong-2)  **Chương 3/35**  → [Chương 4](chuong-4)

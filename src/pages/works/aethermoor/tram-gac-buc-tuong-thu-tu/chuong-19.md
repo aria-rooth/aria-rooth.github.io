@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 19
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 19: Một"
 ---
-
-← [Chương 18](chuong-18)  **Chương 19/25**  [Chương 20](chuong-20) →
+← [Chương 18](chuong-18)  **Chương 19/35**  → [Chương 20](chuong-20)
 
 ---
+
+
+
 
 *Không phải hai người — một người và một người. Điều đó khác nhau quan trọng.*
 
@@ -46,4 +48,4 @@ Sau trận, anh ta xuống tháp, mặt hồng vì hồi hộp — lần đầu 
 
 ---
 
-← [Chương 18](chuong-18)  **Chương 19/25**  [Chương 20](chuong-20) →
+← [Chương 18](chuong-18)  **Chương 19/35**  → [Chương 20](chuong-20)

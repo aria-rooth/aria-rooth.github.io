@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 16
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 16: Làn Sóng"
 ---
-
-← [Chương 15](chuong-15)  **Chương 16/25**  [Chương 17](chuong-17) →
+← [Chương 15](chuong-15)  **Chương 16/35**  → [Chương 17](chuong-17)
 
 ---
+
+
+
 
 *Hơn bao giờ hết. Và họ chưa sẵn sàng.*
 
@@ -54,6 +56,4 @@ Chỉ còn Vela trước Titan.
 
 ---
 
----
-
-← [Chương 15](chuong-15)  **Chương 16/25**  [Chương 17](chuong-17) →
+← [Chương 15](chuong-15)  **Chương 16/35**  → [Chương 17](chuong-17)

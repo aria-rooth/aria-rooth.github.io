@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 10
 story: "/works/aethermoor/trong-the"
-total: 25
+total: 30
 title: "Chương 10: Đếm Những Gì Chưa Xong"
 ---
-
-← [Chương 9](chuong-9)  **Chương 10/25**  [Chương 11](chuong-11) →
+← [Chương 9](chuong-9)  **Chương 10/30**  → [Chương 11](chuong-11)
 
 ---
+
+
+
 
 Cách Aldric đọc kiếm không giống bất kỳ cách đọc mà Sera từng thấy. Không có sách, không có thần chú, không có nghi lễ. Ông chỉ đặt kiếm lên đe, chạm lưỡi bằng ngón tay — từng ngón một, từ chuôi đến mũi, dừng lại ở những điểm mà vệt sáng mờ phất lên khi tay ông chạm qua.
 
@@ -64,10 +66,9 @@ Aldric nhìn cô. Lâu. Trong ánh lửa rèn, mặt ông như mặt người đ
 
 *"Có. Nhưng cô sẽ không muốn nghe."*
 
----
 
 *→ [Chương 11–15](2b-ch11-15-final.md)*
 
 ---
 
-← [Chương 9](chuong-9)  **Chương 10/25**  [Chương 11](chuong-11) →
+← [Chương 9](chuong-9)  **Chương 10/30**  → [Chương 11](chuong-11)

@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 9
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 9: Câu Hỏi Không Có Câu Trả Lời"
 ---
-
-← [Chương 8](chuong-8)  **Chương 9/25**  [Chương 10](chuong-10) →
+← [Chương 8](chuong-8)  **Chương 9/35**  → [Chương 10](chuong-10)
 
 ---
+
+
+
 
 ## Anh ta hỏi những điều cô không nghĩ đến từ lâu lắm rồi
 
@@ -83,6 +85,4 @@ Vela không biết điều đó có nghĩa gì. Nhưng cô ghi nhận nó — c�
 
 ---
 
----
-
-← [Chương 8](chuong-8)  **Chương 9/25**  [Chương 10](chuong-10) →
+← [Chương 8](chuong-8)  **Chương 9/35**  → [Chương 10](chuong-10)

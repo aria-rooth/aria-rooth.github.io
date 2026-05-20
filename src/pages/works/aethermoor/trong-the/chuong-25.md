@@ -5,10 +5,12 @@ story: "/works/aethermoor/trong-the"
 total: 30
 title: "Chương 25: Bức Thư Không Gửi Đi"
 ---
-
 ← [Chương 24](chuong-24)  **Chương 25/30**  → [Chương 26](chuong-26)
 
 ---
+
+
+
 
 Sáng. Thị trấn thức — chợ mở, người đi, ngựa hí. Sera ngồi ở bàn phòng trọ, mực và giấy trước mặt — mượn từ chủ quán, người không hỏi tại sao khách thuê cần mực lúc sáng sớm. Cô viết.
 

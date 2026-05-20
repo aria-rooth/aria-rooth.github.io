@@ -5,10 +5,12 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 28: Quyền Phán Xét"
 ---
-
-← [Chương 27](chuong-27)  **Chương 28/30**
+← [Chương 27](chuong-27)  **Chương 28/30**  → [Chương 29](chuong-29)
 
 ---
+
+
+
 
 Sáng.
 
@@ -56,4 +58,4 @@ Cô không biết đó là tự do hay gông cùm. Có thể cả hai.
 
 ---
 
-← [Chương 27](chuong-27)  **Chương 28/30**
+← [Chương 27](chuong-27)  **Chương 28/30**  → [Chương 29](chuong-29)

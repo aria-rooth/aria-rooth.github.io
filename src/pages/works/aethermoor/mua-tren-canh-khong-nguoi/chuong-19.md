@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 19
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 25
+total: 30
 title: "Chương 19: Đặt Điều Kiện"
 ---
-
-← [Chương 18](chuong-18)  **Chương 19/25**  [Chương 20](chuong-20) →
+← [Chương 18](chuong-18)  **Chương 19/30**  → [Chương 20](chuong-20)
 
 ---
+
+
+
 
 Tối hôm sau. Mưa tạnh. Không dần dần — mà đột ngột, như ai đó tắt vòi. Đất ướt. Cỏ ướt. Đá ướt. Không khí trong — sạch theo cách mà chỉ có không khí sau mưa lớn mới trong, rửa sạch bụi, rửa sạch mùi, rửa sạch mọi thứ trừ câu hỏi.
 
@@ -76,6 +78,4 @@ Elara gật đầu. Nhẹ. *Tôi sẽ nói. Nhưng chưa.* Lyss gật đầu. Ti
 
 ---
 
----
-
-← [Chương 18](chuong-18)  **Chương 19/25**  [Chương 20](chuong-20) →
+← [Chương 18](chuong-18)  **Chương 19/30**  → [Chương 20](chuong-20)

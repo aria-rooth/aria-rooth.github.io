@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 4
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 25
+total: 30
 title: "Chương 4: Bình Thường"
 ---
-
-← [Chương 3](chuong-3)  **Chương 4/25**  [Chương 5](chuong-5) →
+← [Chương 3](chuong-3)  **Chương 4/30**  → [Chương 5](chuong-5)
 
 ---
+
+
+
 
 Elara gọi đây là bình thường.
 
@@ -53,6 +55,4 @@ Elara nằm xuống. Cơ bắp căng ra trên chiếu cói — cô không giư�
 
 ---
 
----
-
-← [Chương 3](chuong-3)  **Chương 4/25**  [Chương 5](chuong-5) →
+← [Chương 3](chuong-3)  **Chương 4/30**  → [Chương 5](chuong-5)

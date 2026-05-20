@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 8
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 8: Họ Ở Lại"
 ---
-
-← [Chương 7](chuong-7)  **Chương 8/25**  [Chương 9](chuong-9) →
+← [Chương 7](chuong-7)  **Chương 8/35**  → [Chương 9](chuong-9)
 
 ---
+
+
+
 
 ## Một tuần
 
@@ -80,7 +82,6 @@ Vela nhắm mắt. Và lần đầu tiên trong ba năm, cô ngủ với cảm g
 
 Chỉ là người. Đó là đủ.
 
----
 
 
 
@@ -90,6 +91,4 @@ Chỉ là người. Đó là đủ.
 
 ---
 
----
-
-← [Chương 7](chuong-7)  **Chương 8/25**  [Chương 9](chuong-9) →
+← [Chương 7](chuong-7)  **Chương 8/35**  → [Chương 9](chuong-9)

@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 7
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 7: Đêm Thứ Ba"
 ---
-
-← [Chương 6](chuong-6)  **Chương 7/25**  [Chương 8](chuong-8) →
+← [Chương 6](chuong-6)  **Chương 7/35**  → [Chương 8](chuong-8)
 
 ---
+
+
+
 
 ## Những gì đội Essam không biết
 
@@ -62,6 +64,4 @@ Nhưng họ không hỏi. Và cô ghi nhận điều đó — ghi nhận theo c�
 
 ---
 
----
-
-← [Chương 6](chuong-6)  **Chương 7/25**  [Chương 8](chuong-8) →
+← [Chương 6](chuong-6)  **Chương 7/35**  → [Chương 8](chuong-8)

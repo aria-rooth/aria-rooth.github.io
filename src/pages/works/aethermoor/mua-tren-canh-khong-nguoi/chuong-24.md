@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 24
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 25
+total: 30
 title: "Chương 24: Người Đàn Ông Hung Hãn"
 ---
-
-← [Chương 23](chuong-23)  **Chương 24/25**  [Chương 25](chuong-25) →
+← [Chương 23](chuong-23)  **Chương 24/30**  → [Chương 25](chuong-25)
 
 ---
+
+
+
 
 Tối.
 
@@ -68,6 +70,4 @@ Cô dừng. Nhìn dòng mình viết. Thêm:
 
 ---
 
----
-
-← [Chương 23](chuong-23)  **Chương 24/25**  [Chương 25](chuong-25) →
+← [Chương 23](chuong-23)  **Chương 24/30**  → [Chương 25](chuong-25)

@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 17
 story: "/works/aethermoor/trong-the"
-total: 25
+total: 30
 title: "Chương 17: Dấu Vết"
 ---
-
-← [Chương 16](chuong-16)  **Chương 17/25**  [Chương 18](chuong-18) →
+← [Chương 16](chuong-16)  **Chương 17/30**  → [Chương 18](chuong-18)
 
 ---
+
+
+
 
 Aldric không hỏi cô cảm thấy thế nào sau breakthrough. Ông nấu bữa sáng — thêm đĩa cho năm xác không cần ăn — rồi dọn dẹp bát đũa. Sera dọn dẹp bên ngoài. Khác loại dọn dẹp.
 
@@ -64,6 +66,4 @@ Sera nhìn cái tên. Lira. Năm chữ cái, một tên, không thêm gì — kh
 
 ---
 
----
-
-← [Chương 16](chuong-16)  **Chương 17/25**  [Chương 18](chuong-18) →
+← [Chương 16](chuong-16)  **Chương 17/30**  → [Chương 18](chuong-18)

@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 14
 story: "/works/aethermoor/trong-the"
-total: 25
+total: 30
 title: "Chương 14: Điều Aldric Biết"
 ---
-
-← [Chương 13](chuong-13)  **Chương 14/25**  [Chương 15](chuong-15) →
+← [Chương 13](chuong-13)  **Chương 14/30**  → [Chương 15](chuong-15)
 
 ---
+
+
+
 
 Ngày thứ hai. Sera ngồi trên nền đất lò rèn lúc rạng đông, kiếm ngang đùi, và thử nghe Thệ Vang lần thứ hai. Cô đã học đủ từ buổi đầu: đừng cố, đừng ép, chờ. Trống rỗng đến sau khi cô ngừng tạo ra tiếng ồn trong đầu mình, và nó đến đúng lúc — không phải lúc cô muốn, mà lúc cô đã sẵn sàng.
 
@@ -94,6 +96,4 @@ Và Jorin không phải người nói lời thừa. Ông hoàn thành mọi th�
 
 ---
 
----
-
-← [Chương 13](chuong-13)  **Chương 14/25**  [Chương 15](chuong-15) →
+← [Chương 13](chuong-13)  **Chương 14/30**  → [Chương 15](chuong-15)

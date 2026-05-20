@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 15
 story: "/works/aethermoor/trong-the"
-total: 25
+total: 30
 title: "Chương 15: Trang Cuối Cùng Của Chấp Sự"
 ---
-
-← [Chương 14](chuong-14)  **Chương 15/25**  [Chương 16](chuong-16) →
+← [Chương 14](chuong-14)  **Chương 15/30**  → [Chương 16](chuong-16)
 
 ---
+
+
+
 
 Sera lấy cuốn nhật ký ra khỏi áo. Cô đã giữ nó ở đó — vị trí gần người nhất — kể từ đêm rời Đoàn. Nó nằm trong lớp vải lót áo choàng, ép sát sườn, ấm từ nhiệt cơ thể cô. Cuốn nhật ký nhỏ — khoảng bằng bàn tay người lớn, da bọc màu nâu sẫm, đóng bằng chỉ lanh. Mordren viết nhỏ, cẩn thận, từng chữ đều đặn, kiểu chữ của người ghi số liệu hơn kể chuyện.
 
@@ -92,4 +94,4 @@ Cô bắt đầu viết.
 
 ---
 
-← [Chương 14](chuong-14)  **Chương 15/25**  [Chương 16](chuong-16) →
+← [Chương 14](chuong-14)  **Chương 15/30**  → [Chương 16](chuong-16)

@@ -5,10 +5,12 @@ story: "/works/aethermoor/trong-the"
 total: 30
 title: "Chương 27: Người Theo Dõi"
 ---
-
-← [Chương 26](chuong-26)  **Chương 27/30**
+← [Chương 26](chuong-26)  **Chương 27/30**  → [Chương 28](chuong-28)
 
 ---
+
+
+
 
 Sera nhận ra vào buổi sáng ngày thứ ba rời Greymark. Không phải vì cô thấy ai — vì cô cảm thấy. Khác Thệ Vang. Thệ Vang đến từ trong kiếm, từ trong cô, từ nơi bốn mươi bảy mảnh thề ước nằm. Cảm giác này đến từ ngoài — từ sau, từ bên cạnh, từ khoảng cách mà cô không thể chỉ tay nhưng biết có ai đó đứng.
 
@@ -80,4 +82,4 @@ Họ tiếp tục đi. Sera đổi đường — không phải đường đến 
 
 ---
 
-← [Chương 26](chuong-26)  **Chương 27/30**
+← [Chương 26](chuong-26)  **Chương 27/30**  → [Chương 28](chuong-28)

@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 20
 story: "/works/aethermoor/trong-the"
-total: 25
+total: 30
 title: "Chương 20: Cuối Arc 1 — Tên Trên Tờ Giấy"
 ---
-
-← [Chương 19](chuong-19)  **Chương 20/25**  [Chương 21](chuong-21) →
+← [Chương 19](chuong-19)  **Chương 20/30**  → [Chương 21](chuong-21)
 
 ---
+
+
+
 
 Vorthane. Vùng biên giới. Rừng bắt đầu nơi đồng cỏ kết thúc — không phải ranh giới rõ, mà là sự chuyển đổi chậm: cỏ thấp dần, cây cao dần, mây thấp dần, không khí đặc dần. Mạch Linh Nguyên tự nhiên chảy qua rừng — cô cảm nhận được, như bước từ phòng lạnh ra ngoài nắng: khác biệt, nhưng không khó chịu. Ở Caelmyr, Linh Nguyên chảy qua đá và thép, qua đường ống con người tạo. Ở Vorthane, Linh Nguyên chảy qua gỗ và rễ và lá, qua đường ống tự nhiên đã tồn tại trước khi bất kỳ người nào biết tận dụng. Cô đi trong rừng và cảm nhận mạch đập của thứ gì đó không phải con người, không phải thần thánh — chỉ là đất, đang sống theo cách đất sống.
 
@@ -68,4 +70,4 @@ Im lặng. Lira nhìn túi tiền. Nhìn kiếm Thệ Thiết. Nhìn Sera. Rồi
 
 ---
 
-← [Chương 19](chuong-19)  **Chương 20/25**  [Chương 21](chuong-21) →
+← [Chương 19](chuong-19)  **Chương 20/30**  → [Chương 21](chuong-21)

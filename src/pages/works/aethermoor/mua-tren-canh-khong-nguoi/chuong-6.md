@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 6
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 25
+total: 30
 title: "Chương 6: Bóng Hình Đầu Tiên"
 ---
-
-← [Chương 5](chuong-5)  **Chương 6/25**  [Chương 7](chuong-7) →
+← [Chương 5](chuong-5)  **Chương 6/30**  → [Chương 7](chuong-7)
 
 ---
+
+
+
 
 Elara nhận ra anh ta ngay lập tức.
 
@@ -83,6 +85,4 @@ Cô tiếp tục đi.
 
 ---
 
----
-
-← [Chương 5](chuong-5)  **Chương 6/25**  [Chương 7](chuong-7) →
+← [Chương 5](chuong-5)  **Chương 6/30**  → [Chương 7](chuong-7)

@@ -5,10 +5,12 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 30: Câu Hỏi Thứ Mười Hai Năm"
 ---
-
 ← [Chương 29](chuong-29)  **Chương 30/30**
 
 ---
+
+
+
 
 Đêm đó Elara không ngủ. Không phải vì bóng hình — họ đến và đi như thường, Lyss vẫy, Corin ngồi, người đàn ông loại 3 giậm chân chờ, hai mươi bảy người đứng im. Không phải vì mạch — cô đã đọc xong, ghi xong, biết xong. Cô không ngủ vì cô cần đọc.
 
@@ -68,11 +70,8 @@ Cô nhìn về phía nam. Thế giới sống ở đó. Và thế giới sống 
 
 *Kết chương*
 
----
 
 *Tiếp theo: Chương 31 — Linh Nguyên Có Ký (Thiên Địa Hữu Ký).*
-
----
 
 ---
 

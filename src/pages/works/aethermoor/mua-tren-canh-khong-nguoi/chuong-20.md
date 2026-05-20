@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 20
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 25
+total: 30
 title: "Chương 20: Sự Thật Của Lyss"
 ---
-
-← [Chương 19](chuong-19)  **Chương 20/25**  [Chương 21](chuong-21) →
+← [Chương 19](chuong-19)  **Chương 20/30**  → [Chương 21](chuong-21)
 
 ---
+
+
+
 
 Tối hôm sau. Elara không chờ hoàng hôn. Cô ngồi cách cổng một bước từ chiều muộn. Đèn dầu sáng. *Người Đứng* đóng — không mở, không ghi, đêm nay không ghi chép. Đêm nay nói.
 
@@ -76,11 +78,9 @@ Mở cổng. Không phải bằng tay. Không phải bằng Linh Nguyên. Mở b
 
 Lyss nhìn cô. Nhìn khoảng trống. Nhìn hai mươi chín người phía sau — lần cuối, có thể. Rồi cô bé bước tới.
 
----
 
 *Kết chương*
 
----
 
 *Tiếp theo: Chương 21 — Qua Cổng.*
 
@@ -88,4 +88,4 @@ Lyss nhìn cô. Nhìn khoảng trống. Nhìn hai mươi chín người phía sa
 
 ---
 
-← [Chương 19](chuong-19)  **Chương 20/25**  [Chương 21](chuong-21) →
+← [Chương 19](chuong-19)  **Chương 20/30**  → [Chương 21](chuong-21)

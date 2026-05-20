@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 17
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 17: Sau Đó"
 ---
-
-← [Chương 16](chuong-16)  **Chương 17/25**  [Chương 18](chuong-18) →
+← [Chương 16](chuong-16)  **Chương 17/35**  → [Chương 18](chuong-18)
 
 ---
+
+
+
 
 *Chiến thắng không bao giờ trông như trong truyện.*
 
@@ -56,6 +58,4 @@ Hai từ. Chúng nằm giữa họ. Không đủ. Vela biết rằng dù cô đ�
 
 ---
 
----
-
-← [Chương 16](chuong-16)  **Chương 17/25**  [Chương 18](chuong-18) →
+← [Chương 16](chuong-16)  **Chương 17/35**  → [Chương 18](chuong-18)

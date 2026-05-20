@@ -5,10 +5,12 @@ story: "/works/aethermoor/trong-the"
 total: 30
 title: "Chương 30: Tin Xấu Từ Caelmyr"
 ---
-
 ← [Chương 29](chuong-29)  **Chương 30/30**
 
 ---
+
+
+
 
 Người mang tin là Renn — thương nhân lâm sản, quen Lira từ ba năm trước, người bán gỗ cho cả Greymark lẫn Venn's Hollow. Ông ta đến Venn's Hollow vào chiều thứ hai, xe ngựa đầy gỗ, mặt dài — dài theo cách mà mặt người dài khi mang tin xấu và không biết cách nói.
 

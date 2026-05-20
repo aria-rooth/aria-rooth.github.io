@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 4
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 4: Nhịp Điệu Của Tường"
 ---
-
-← [Chương 3](chuong-3)  **Chương 4/25**  [Chương 5](chuong-5) →
+← [Chương 3](chuong-3)  **Chương 4/35**  → [Chương 5](chuong-5)
 
 ---
+
+
+
 
 ## Sáng quét, trưa kiểm tra, chiều nhìn về phía Bắc
 
@@ -52,6 +54,4 @@ Cô trét đất sét vào vết nứt. Sẽ không giữ được lâu. Nhưng 
 
 ---
 
----
-
-← [Chương 3](chuong-3)  **Chương 4/25**  [Chương 5](chuong-5) →
+← [Chương 3](chuong-3)  **Chương 4/35**  → [Chương 5](chuong-5)

@@ -5,10 +5,12 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 32: Dưới Bề Mặt"
 ---
-
-← [Chương 31](chuong-31)  **Chương 32/35**
+← [Chương 31](chuong-31)  **Chương 32/35**  → [Chương 33](chuong-33)
 
 ---
+
+
+
 
 *Hai trăm năm chiến đấu không biến mất. Nó tích lũy.*
 
@@ -56,4 +58,4 @@ Vela nhìn tay mình. Đang lành — vết thương cuối cùng từ đợt t�
 
 ---
 
-← [Chương 31](chuong-31)  **Chương 32/35**
+← [Chương 31](chuong-31)  **Chương 32/35**  → [Chương 33](chuong-33)

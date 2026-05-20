@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 2
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 25
+total: 30
 title: "Chương 2: Nhật Ký Quan Sát, Ngày 4.380"
 ---
-
-← [Chương 1](chuong-1)  **Chương 2/25**  [Chương 3](chuong-3) →
+← [Chương 1](chuong-1)  **Chương 2/30**  → [Chương 3](chuong-3)
 
 ---
+
+
+
 
 Tập thứ mười hai bắt đầu từ tháng trước.
 
@@ -71,6 +73,4 @@ Elara để âm thanh ấy đi vào giấc ngủ cùng cô.
 
 ---
 
----
-
-← [Chương 1](chuong-1)  **Chương 2/25**  [Chương 3](chuong-3) →
+← [Chương 1](chuong-1)  **Chương 2/30**  → [Chương 3](chuong-3)

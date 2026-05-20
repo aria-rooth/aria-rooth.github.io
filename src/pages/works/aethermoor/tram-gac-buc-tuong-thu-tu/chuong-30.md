@@ -5,10 +5,12 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 30: Điều Được Xin"
 ---
-
 ← [Chương 29](chuong-29)  **Chương 30/35**  → [Chương 31](chuong-31)
 
 ---
+
+
+
 
 *Người ta chỉ cầu xin thần thánh một điều: điều không có cách nào khác.*
 

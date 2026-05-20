@@ -5,10 +5,12 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 27: Người Không Được Qua"
 ---
-
-← [Chương 26](chuong-26)  **Chương 27/30**
+← [Chương 26](chuong-26)  **Chương 27/30**  → [Chương 28](chuong-28)
 
 ---
+
+
+
 
 Ba đêm sau.
 
@@ -60,4 +62,4 @@ Cô dừng. Viết thêm:
 
 ---
 
-← [Chương 26](chuong-26)  **Chương 27/30**
+← [Chương 26](chuong-26)  **Chương 27/30**  → [Chương 28](chuong-28)

@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 5
 story: "/works/aethermoor/trong-the"
-total: 25
+total: 30
 title: "Chương 5: Những Gì Không Được Phép Chết"
 ---
-
-← [Chương 4](chuong-4)  **Chương 5/25**  [Chương 6](chuong-6) →
+← [Chương 4](chuong-4)  **Chương 5/30**  → [Chương 6](chuong-6)
 
 ---
+
+
+
 
 Sáng. Ông già không có ở nhà.
 
@@ -62,10 +64,9 @@ Sera ngồi trên mặt đất lạnh, tay vẫn trên cán kiếm, và chờ. N
 
 Một giây. Đủ để biết Thệ Vang không chỉ là áp lực. Nó là ký ức. Và nó đang chờ cơ hội để được nghe.
 
----
 
 *→ [Chương 6–10](2b-ch6-10-final.md)*
 
 ---
 
-← [Chương 4](chuong-4)  **Chương 5/25**  [Chương 6](chuong-6) →
+← [Chương 4](chuong-4)  **Chương 5/30**  → [Chương 6](chuong-6)

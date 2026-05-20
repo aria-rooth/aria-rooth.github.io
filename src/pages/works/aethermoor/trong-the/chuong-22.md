@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 22
 story: "/works/aethermoor/trong-the"
-total: 25
+total: 30
 title: "Chương 22: Quy Tắc Của Lira"
 ---
-
-← [Chương 21](chuong-21)  **Chương 22/25**  [Chương 23](chuong-23) →
+← [Chương 21](chuong-21)  **Chương 22/30**  → [Chương 23](chuong-23)
 
 ---
+
+
+
 
 Họ đi suốt đêm. Lira muốn đi đêm — ban ngày mắt nhiều, ban đêm tai nhiều, và tai dễ lừa hơn mắt. Cô ta biết Vorthane: con đường nào có trạm kiểm soát, con đường nào chỉ có thú, con đường nào đất nhớ máu. Sera theo. Không phải vì tin — vì Lira đúng.
 
@@ -70,6 +72,4 @@ Sera không hỏi thêm. Ghi nhận. Rồi canh tiếp. Lira nhắm mắt lại.
 
 ---
 
----
-
-← [Chương 21](chuong-21)  **Chương 22/25**  [Chương 23](chuong-23) →
+← [Chương 21](chuong-21)  **Chương 22/30**  → [Chương 23](chuong-23)

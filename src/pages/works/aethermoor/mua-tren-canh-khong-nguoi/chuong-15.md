@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 15
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 25
+total: 30
 title: "Chương 15: Lần Đầu Tiên Giao Tiếp"
 ---
-
-← [Chương 14](chuong-14)  **Chương 15/25**  [Chương 16](chuong-16) →
+← [Chương 14](chuong-14)  **Chương 15/30**  → [Chương 16](chuong-16)
 
 ---
+
+
+
 
 Ngày hôm sau dài hơn bình thường.
 
@@ -119,7 +121,6 @@ Elara đứng đó. Lyss đứng đó. Gió bắc thổi qua khe giữa hai tr�
 
 Bình minh còn xa.
 
----
 
 *Tiếp theo: Chương 16 — Quyết Định Đầu Tiên.*
 
@@ -127,4 +128,4 @@ Bình minh còn xa.
 
 ---
 
-← [Chương 14](chuong-14)  **Chương 15/25**  [Chương 16](chuong-16) →
+← [Chương 14](chuong-14)  **Chương 15/30**  → [Chương 16](chuong-16)

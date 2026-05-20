@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 18
 story: "/works/aethermoor/trong-the"
-total: 25
+total: 30
 title: "Chương 18: Ra Đi Lần Thứ Hai"
 ---
-
-← [Chương 17](chuong-17)  **Chương 18/25**  [Chương 19](chuong-19) →
+← [Chương 17](chuong-17)  **Chương 18/30**  → [Chương 19](chuong-19)
 
 ---
+
+
+
 
 Sera dọn dẹp buổi chiều. Không phải vì cô muốn dọn — vì Aldric muốn, và cô nợ ông đủ để làm theo. Họ chôn năm xác phía sau lò rèn, dưới gốc cây sồi già, đất đào nông — đủ để thú không đào lên, không đủ để người sống còn quan tâm. Aldric đào mộ — ông quen, ba cuộc chiến, ba lần đào mộ cho người vừa cố giết ông. Ông không buồn. Ông không vui. Ông đào vì người chết cần đất, và đất cần người chết — vòng tuần hoàn mà ông không nghĩ về nhiều nữa. Cô phụ: đặt xác vào hố, lấp đất, đắp nhẹ. Không đánh dấu. Không đếm. Năm người chết trong chiến đấu không khác năm người chết trong trận — cùng kết quả, cùng đất. Đất không hỏi ai đúng. Đất chỉ nhận.
 
@@ -52,6 +54,4 @@ Sera tiếp tục đi. Thanh kiếm nặng như thường. Cô mang bốn mươi
 
 ---
 
----
-
-← [Chương 17](chuong-17)  **Chương 18/25**  [Chương 19](chuong-19) →
+← [Chương 17](chuong-17)  **Chương 18/30**  → [Chương 19](chuong-19)

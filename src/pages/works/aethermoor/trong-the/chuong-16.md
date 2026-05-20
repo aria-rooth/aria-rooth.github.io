@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 16
 story: "/works/aethermoor/trong-the"
-total: 25
+total: 30
 title: "Chương 16: Trận Chiến Đầu Tiên Có Chủ Đích"
 ---
-
-← [Chương 15](chuong-15)  **Chương 16/25**  [Chương 17](chuong-17) →
+← [Chương 15](chuong-15)  **Chương 16/30**  → [Chương 17](chuong-17)
 
 ---
+
+
+
 
 Sera viết suốt đêm. Ba tờ giấy dày đầy chữ — không đều, không đẹp, nhưng đầy. Cô ghi lại bằng ngôn ngữ của mình: ngắn, chia đoạn, không hoa. Di vật. Pale Frontier. Mordren Thứ Hai. Cửa. Thệ Hạch vỡ — mảnh nằm ở đâu? Giáo Hội đã lấy chưa? Ghi thêm: không biết. Cần xác minh.
 
@@ -86,6 +88,4 @@ Aldric gật đầu. Quay vào lò. Nấu tiếp bữa sáng bị gián đoạn.
 
 ---
 
----
-
-← [Chương 15](chuong-15)  **Chương 16/25**  [Chương 17](chuong-17) →
+← [Chương 15](chuong-15)  **Chương 16/30**  → [Chương 17](chuong-17)

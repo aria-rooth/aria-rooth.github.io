@@ -10,6 +10,7 @@ const nextCh = chapter < total ? chapter + 1 : null;
 
 <BaseLayout title={frontmatter.title}>
   <article class="chapter-content">
+    <h1>{frontmatter.title}</h1>
     <slot />
   </article>
 

@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 17
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 25
+total: 30
 title: "Chương 17: Cuộc Trò Chuyện Qua Cổng"
 ---
-
-← [Chương 16](chuong-16)  **Chương 17/25**  [Chương 18](chuong-18) →
+← [Chương 16](chuong-16)  **Chương 17/30**  → [Chương 18](chuong-18)
 
 ---
+
+
+
 
 Ba mươi người. Lyss ở vị trí cũ — cách hàng cuối năm bước, lệch trái. Vẫy tay khi thấy Elara.
 
@@ -88,6 +90,4 @@ Cô đóng sổ. Ngồi trong sáng sớm. Lạnh. Lạnh của gió bắc, lạ
 
 ---
 
----
-
-← [Chương 16](chuong-16)  **Chương 17/25**  [Chương 18](chuong-18) →
+← [Chương 16](chuong-16)  **Chương 17/30**  → [Chương 18](chuong-18)

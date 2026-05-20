@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 23
 story: "/works/aethermoor/trong-the"
-total: 25
+total: 30
 title: "Chương 23: Đoàn Đang Hấp Hối"
 ---
-
-← [Chương 22](chuong-22)  **Chương 23/25**  [Chương 24](chuong-24) →
+← [Chương 22](chuong-22)  **Chương 23/30**  → [Chương 24](chuong-24)
 
 ---
+
+
+
 
 Bạch Linh Mạc Đoàn đóng quân ở thị trấn Harren's Cross — ngã ba đường giữa Vorthane và biên giới Essam. Thị trấn lớn hơn thị trấn cô gặp Lira: khoảng năm mươi ngôi nhà, chợ tuần, trạm đổi ngựa, hai quán rượu. Nhưng *lớn hơn* không có nghĩa *sống hơn*. Sera đi qua thị trấn và thấy: cửa hàng đóng, quán vắng, chợ tuần chỉ còn ba sạp. Năm năm trước nơi này hẳn đông — hợp đồng bảo vệ hành trình tạo ra tiền, tiền tạo ra người, người tạo ra hoạt động. Bây giờ hoạt động chảy ra như nước từ ly nứt.
 
@@ -70,6 +72,4 @@ Cô cần xem danh sách.
 
 ---
 
----
-
-← [Chương 22](chuong-22)  **Chương 23/25**  [Chương 24](chuong-24) →
+← [Chương 22](chuong-22)  **Chương 23/30**  → [Chương 24](chuong-24)

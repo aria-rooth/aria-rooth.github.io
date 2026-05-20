@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 24
 story: "/works/aethermoor/trong-the"
-total: 25
+total: 30
 title: "Chương 24: Danh Sách"
 ---
-
-← [Chương 23](chuong-23)  **Chương 24/25**  [Chương 25](chuong-25) →
+← [Chương 23](chuong-23)  **Chương 24/30**  → [Chương 25](chuong-25)
 
 ---
+
+
+
 
 Kellen đưa danh sách không phải vì tin Sera và Lira — vì ông không còn gì để mất. Khi Đoàn đang chết, bí mật không còn giá trị. Bí mật có giá khi Đoàn sống — Đoàn chết thì bí mật chỉ là giấy thừa.
 
@@ -62,6 +64,4 @@ Bên kia vách, Lira cũng thức. Sera không thấy — nhưng cô nghe: tiế
 
 ---
 
----
-
-← [Chương 23](chuong-23)  **Chương 24/25**  [Chương 25](chuong-25) →
+← [Chương 23](chuong-23)  **Chương 24/30**  → [Chương 25](chuong-25)

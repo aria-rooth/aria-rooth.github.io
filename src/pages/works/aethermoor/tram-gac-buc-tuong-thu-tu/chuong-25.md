@@ -5,10 +5,12 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 25: Cấp Độ"
 ---
-
 ← [Chương 24](chuong-24)  **Chương 25/35**  → [Chương 26](chuong-26)
 
 ---
+
+
+
 
 *Anh ta học nhanh. Cô không ngờ điều đó.*
 
@@ -56,7 +58,6 @@ Anh ta không phản đối. Không đồng ý. Chỉ gật đầu — gật ch�
 
 Vela không trả lời. Nhưng câu hỏi ở lại — như "muộn" trong cuốn sổ, như vết sứt trên kiếm, như mọi thứ đã đến và không rời đi sau khi nó nên rời. Có lẽ cô đã dạy ai đó. Có lẽ cô sẽ dạy lại. Có lẽ "đáng được dạy" là câu trả lời cho câu hỏi cô chưa hỏi. Cô không biết. Nhưng cô ngồi cạnh lửa, cạnh người đang viết, cạnh tiếng bút trên giấy — và không muốn ở đâu khác. *Câu hỏi ở lại. Và lần này, cô không đuổi nó đi.*
 
----
 
 ## HIỆU ĐÍNH — Ghi chú
 

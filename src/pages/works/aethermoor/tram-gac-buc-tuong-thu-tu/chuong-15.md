@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 15
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 15: Dấu Hiệu"
 ---
-
-← [Chương 14](chuong-14)  **Chương 15/25**  [Chương 16](chuong-16) →
+← [Chương 14](chuong-14)  **Chương 15/35**  → [Chương 16](chuong-16)
 
 ---
+
+
+
 
 ## Thứ đến từ phía Bắc lần này khác
 
@@ -144,21 +146,17 @@ Cô không biết điều đó có nghĩa gì. Nhưng cô ghi nhận.
 
 *Hoặc không. Nhưng cô sẽ tiếp tục.*
 
----
 
 *Hết Chương 14–15*
 
----
 
 ## Ghi chú divergence từ outline
 
-**Chương 14 (Học):**
 - Outline có Sera → đổi thành Kael (theo published ch.5-8).
 - Outline có chi tiết "Sera cho Vela biết họ sẽ cần rời đi sớm — Kain cần điều trị đúng nghĩa" → đổi thành Kael gọi từ dưới tháp, ngắn gọn.
 - Outline có "Trận nhỏ buổi tối — Vela xử lý một mình nhanh chóng. Đội Essam quan sát. Lyre ghi chú về cách cô di chuyển" → đã giữ gọn, không mở rộng thành set piece.
 - Beat chính giữ nguyên: Theo đọc tài liệu cho Vela nghe, chiến binh đơn độc tám mươi năm trước, Vela im lặng, câu hỏi "khi họ đi cô muốn gì", trả lời "không biết".
 
-**Chương 15 (Dấu Hiệu):**
 - Outline có Sera → đổi thành Kael.
 - Outline có "Mảnh ký ức thứ hai xuất hiện" → đã đưa vào qua câu hỏi của Theo về nỗi sợ và cảm giác nguy hiểm đang đến.
 - Outline có "Sera quyết định đội sẽ ở lại thêm" → đổi thành Kael quyết định, lý do khác (gặp thứ đang đến trên đường về).
@@ -169,4 +167,4 @@ Cô không biết điều đó có nghĩa gì. Nhưng cô ghi nhận.
 
 ---
 
-← [Chương 14](chuong-14)  **Chương 15/25**  [Chương 16](chuong-16) →
+← [Chương 14](chuong-14)  **Chương 15/35**  → [Chương 16](chuong-16)

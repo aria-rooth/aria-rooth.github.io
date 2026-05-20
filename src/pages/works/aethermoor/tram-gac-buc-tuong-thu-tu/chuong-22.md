@@ -2,13 +2,15 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 22
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 25
+total: 35
 title: "Chương 22: Trước Khi"
 ---
-
-← [Chương 21](chuong-21)  **Chương 22/25**  [Chương 23](chuong-23) →
+← [Chương 21](chuong-21)  **Chương 22/35**  → [Chương 23](chuong-23)
 
 ---
+
+
+
 
 *Trước bức tường là gì? Cô không biết. Điều đó đáng sợ hơn cô nghĩ.*
 
@@ -46,6 +48,4 @@ Cô cúi xuống, chạm tay vào đá tường. Đá lạnh, đá cũ, đá đ�
 
 ---
 
----
-
-← [Chương 21](chuong-21)  **Chương 22/25**  [Chương 23](chuong-23) →
+← [Chương 21](chuong-21)  **Chương 22/35**  → [Chương 23](chuong-23)
