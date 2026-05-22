@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 30
 story: "/works/aethermoor/trong-the"
-total: 30
+total: 40
 title: "Chương 30: Tin Xấu Từ Caelmyr"
 ---
 

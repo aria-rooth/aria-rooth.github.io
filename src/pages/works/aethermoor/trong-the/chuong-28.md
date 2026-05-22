@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 28
 story: "/works/aethermoor/trong-the"
-total: 30
+total: 40
 title: "Chương 28: Vorthane Sâu Hơn"
 ---
 

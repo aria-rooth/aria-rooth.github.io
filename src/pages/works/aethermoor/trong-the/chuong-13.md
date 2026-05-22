@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 13
 story: "/works/aethermoor/trong-the"
-total: 30
+total: 40
 title: "Chương 13: Trinh Sát"
 ---
 

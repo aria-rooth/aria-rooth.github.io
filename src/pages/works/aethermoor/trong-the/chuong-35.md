@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 35
 story: "/works/aethermoor/trong-the"
-total: 35
+total: 40
 title: "Chương 35: Các Đoàn Khác"
 ---
 
