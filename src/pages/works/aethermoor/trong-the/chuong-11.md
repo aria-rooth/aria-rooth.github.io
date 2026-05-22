@@ -6,7 +6,6 @@ total: 40
 title: "Chương 11: Cái Giá Của Việc Bỏ Xuống"
 ---
 
----
 Aldric nói. Không phải vì cô hỏi — mà vì cô cần biết.
 *"Hai cách. Hoàn thành các thề ước, hoặc phá hủy thanh kiếm."*
 Phá hủy Thiết Thệ. Cô nghĩ về điều đó trong khi nhìn lưỡi kiếm trên đe — vệt sáng mờ vẫn chạy, đều, như nhịp thở của ai đó đang ngủ. Phá hủy nó nghĩa là đập thép ra cho đến khi không còn hình dạng kiếm nữa. Cô nhìn đe — mặt đen, bóng, đã tiếp nhận hàng nghìn búa đập — và tưởng tượng: đặt kiếm lên đó, nâng búa, đập. Thép vỡ. Nhưng không phải thép bình thường. Thiết Thệ không vỡ như thép thường — nó vỡ theo cách mà Thệ Hạch vỡ: bên trong trước, ánh sáng thoát ra, rồi hình dạng sụp đổ.

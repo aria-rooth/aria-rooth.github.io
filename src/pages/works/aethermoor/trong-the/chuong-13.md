@@ -6,7 +6,6 @@ total: 40
 title: "Chương 13: Trinh Sát"
 ---
 
----
 Hắn đến nửa đêm. Sera biết không phải vì nghe — mà vì Thệ Vang. Không phải tiếng hay giọng nói. Là cảm giác, giống trước khi áp lực hướng về cô: lần này nó đến từ ngoài, như ai đó đang nhìn vào cô từ xa và kiếm phản ứng. Cảm giác khác với khi Thệ Vang mang ký ức — khi nó mang ký ức, nó đến từ trong kiếm ra. Lần này nó đến từ ngoài kiếm vào. Như thể có ai đó đang chạm vào thanh kiếm từ xa, không phải bằng tay, bằng thứ gì đó khác — ý thức, hoặc sự chú ý, hoặc tầm nhìn.
 Cô mở mắt. Nằm im. Phòng tối — Aldric đã tắt lò rèn từ nhiều giờ trước, chỉ còn ánh đỏ mờ từ tàn than dưới đe. Ánh đủ để thấy hình dạng: bệ rèn, đe, giá dụng cụ, chăn Aldric ở góc đối diện — ông đang ngủ, hơi thở đều. Cô không gọi ông. Chuyện này cô tự xử lý được.
 Cô nghe: bước chân nhẹ trên đá ngoài ngõ. Chậm. Cẩn thận. Không phải bước của người đang đi — bước của người đang dừng, nghe, rồi đi tiếp. Loại bước mà cô từng nghe ở Đoàn, khi trực ban đi tuần ngoài tường: dừng, lắng nghe mười giây, đi tiếp mười bước, dừng lại.

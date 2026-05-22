@@ -6,7 +6,6 @@ total: 40
 title: "Chương 26: Manh Mối Về Di Vật"
 ---
 
----
 Thị trấn Greymark nằm ở ngã ba biên giới — không hẳn Essam, không hẳn Vorthane, thuộc về cả hai và không thuộc ai. Nơi mà bản đồ vẽ đường thẳng nhưng thực tế là vùng xám: thuế hai bên đều thu, luật hai bên đều lỏng, và người sống ở đây học được quy tắc đầu tiên của ngã ba — không hỏi ai đến từ đâu, chỉ hỏi họ mua gì.
 Lira biết Greymark. Cô ta từng làm hợp đồng ở đây — bảo vệ một đoàn thương nhân chở sắt từ Essam vào Vorthane, ba năm trước. Hợp đồng bình thường, người bình thường, kết thúc bình thường. Nhưng Lira nhớ Greymark vì một lý do khác: quán rượu duy nhất ở thị trấn này phục vụ rượu chưng cất từ nấm rừng Vorthane — thứ rượu đặc đến mức người ta nói nó có thể giết cơn đau nhưng cũng có thể giết người uống, tùy liều. Lira chưa bao giờ uống quá liều. Nhưng cô ta biết ai uống quá liều — và những người đó thường nói thật.
 Quán rượu Greymark nằm giữa thị trấn, hai tầng, tường đá tảng, mái gỗ — xây kiên cố theo cách mà người ở ngã ba xây: đủ chắc để đứng, đủ xấu để không ai muốn chiếm. Bên trong tối, khói, mùi nấm chưng cất đặc quánh như sương mù bám da. Sera bước vào và mắt cô chực nước — không phải vì xúc động, vì hơi rượu đốt giác mạc. Lira không nháy mắt. Cô ta quen.

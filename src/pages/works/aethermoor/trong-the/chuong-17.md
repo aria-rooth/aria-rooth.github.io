@@ -6,7 +6,6 @@ total: 40
 title: "Chương 17: Dấu Vết"
 ---
 
----
 Aldric không hỏi cô cảm thấy thế nào sau breakthrough. Ông nấu bữa sáng — thêm đĩa cho năm xác không cần ăn — rồi dọn dẹp bát đũa. Sera dọn dẹp bên ngoài. Khác loại dọn dẹp.
 Năm Thẩm Vấn Giả nằm trên đất sét trước lò rèn. Máu đã ngập vào đất — đất sét hút nhanh, như bọt biển. Cô lục soát từng người theo thứ tự: gần nhất trước, xa nhất sau. Nhanh, có kiểm soát, không phá hủy chứng cứ. Đời sống tư nhân của kẻ chết không liên quan cô — cô chỉ cần điều họ mang theo vì nhiệm vụ.
 Người thứ nhất: tiền (túi nhỏ, ba đồng vàng Caelmyr), giấy thông hành (hợp lệ, tên giả — *Harren Vock*, thương nhân), không lệnh. Người thứ hai: giống hệt — tiền, giấy, không lệnh. Người thứ ba và thứ tư: cùng kiểu, cùng số tiền, cùng định dạng giấy thông hành. Tuyến quân tiêu chuẩn — lính không mang lệnh, lệnh nằm trên người chỉ huy. Cách tổ chức giống hệt cách Trọng Nham Hỏa Đạo tổ chức: người trên mang quyền, người dưới mang thân. Cô từng là người dưới. Cô biết.

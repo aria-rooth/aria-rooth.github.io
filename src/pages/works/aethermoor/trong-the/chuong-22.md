@@ -6,7 +6,6 @@ total: 40
 title: "Chương 22: Quy Tắc Của Lira"
 ---
 
----
 Họ đi suốt đêm. Lira muốn đi đêm — ban ngày mắt nhiều, ban đêm tai nhiều, và tai dễ lừa hơn mắt. Cô ta biết Vorthane: con đường nào có trạm kiểm soát, con đường nào chỉ có thú, con đường nào đất nhớ máu. Sera theo. Không phải vì tin — vì Lira đúng.
 Đêm Vorthane khác đêm Thessault. Thessault đêm vẫn sáng — đèn đường, đèn cửa, đèn canh gác. Vorthane đêm tối đúng nghĩa: cây che, mây che, ánh sáng duy nhất từ mạch Linh Nguyên chảy sâu dưới rễ, hắt lên mặt đất thành vệt xanh nhạt, mỏng như chỉ, như tĩnh mạch của đất. Sera đi trên vệt xanh và nghĩ: đây là thứ Aldric muốn cô nhìn. Đất sống. Đất thở. Linh Nguyên chảy tự nhiên, không qua thép hay đá, qua rễ và mùn và giun đất.
 Lira đi trước. Cô ta biết đường — không bằng bản đồ, bằng chân. Bước nào nhanh, bước nào chậm, bước nào né rễ nổi, bước nào đạp bùng trũng. Sera theo sau và ghi nhận: Lira di chuyển như người đã đi con đường này nhiều lần, không phải để đến đâu, mà vì không còn nơi khác để đi. Free Sword không có nhà. Free Sword có đường.

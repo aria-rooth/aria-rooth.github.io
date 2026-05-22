@@ -6,7 +6,6 @@ total: 40
 title: "Chương 21: Lira"
 ---
 
----
 Nhà kho cũ. Dầu mài. Kim loại. Gỗ mục. Sera đứng trước Lira, và Lira đứng trước cô, và giữa hai người là một khoảng trống vừa đủ cho một người rút kiếm — nhưng không ai rút.
 Lira không ngồi lại. Cô ta đứng — trọng tâm thấp, chân trước hơi chùng, chân sau chắc. Tư thế của người đã đứng trong phòng chứa quá nhiều lần, chờ cửa mở, chờ người đến, chờ lý do để rút kiếm hoặc rút chân. Free Sword không đứng như Hiệp Sĩ Đoàn — Đoàn đứng thẳng, vì Đoàn có người bảo vệ lưng. Free Sword đứng co, vì Free Sword tự bảo lưng mình.
 Sera biết: cô cần Lira. Aldric nói *người phù hợp cho việc này* — không phải người tốt, không phải người mạnh, mà người phù hợp. Phù hợp theo cách mà chìa khóa cắt chuẩn: không đẹp, không đặc biệt, chỉ vừa khớp.

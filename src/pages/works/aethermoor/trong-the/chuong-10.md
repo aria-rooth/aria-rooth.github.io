@@ -6,7 +6,6 @@ total: 40
 title: "Chương 10: Đếm Những Gì Chưa Xong"
 ---
 
----
 Cách Aldric đọc kiếm không giống bất kỳ cách đọc mà Sera từng thấy. Không có sách, không có thần chú, không có nghi lễ. Ông chỉ đặt kiếm lên đe, chạm lưỡi bằng ngón tay — từng ngón một, từ chuôi đến mũi, dừng lại ở những điểm mà vệt sáng mờ phất lên khi tay ông chạm qua.
 Ông chạm khác cách cô chạm. Cô cầm kiếm bằng tay nắm — toàn bàn tay, ngón cái ép lên cán, kiểu cầm mà người chiến đấu cầm. Aldric chạm bằng đầu ngón — nhẹ, chậm, như người đọc chữ nổi. Mỗi lần ngón tay ông chạm một điểm trên lưỡi, vệt sáng mờ ở đó sáng lên mạnh hơn — không phải phản ứng với áp lực, mà phản ứng với *ông*. Kiếm biết tay ông. Bốn mươi bảy thề ước chưa biết cô, nhưng kiếm biết Aldric từ trước khi cô sinh ra.
 Nửa ngày. Sera ngồi trên ghế gỗ bên tường, lưng thẳng, và chờ. Lần đầu tiên cô ở cùng Aldric không phải ở phòng ăn. Lần đầu tiên cô nhìn ông làm việc thật — không phải nấu canh, không phải dọn bát, mà là thứ mà ông giấu khỏi hai mươi ba người trong bốn năm.

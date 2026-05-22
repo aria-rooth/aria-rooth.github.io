@@ -6,7 +6,6 @@ total: 40
 title: "Chương 9: Người Còn Sống"
 ---
 
----
 Lò rèn nằm ở cuối con hẻm phía tây khu thợ thủ công — nơi mà người Caelmyr đến khi cần sửa cày, đóng móng ngựa, hoặc mua đinh. Không phải nơi người ta đến khi cần đọc Thiết Thệ. Aldric ở đây, theo cách ông ở mọi nơi: yên lặng, khuất góc, hiện diện mà không thu hút sự chú ý.
 Sera đứng trước cửa lò rèn. Cửa gỗ sồi mỏng, đóng nhưng không khóa. Khuôn cửa mốc nhẹ ở mép dưới — ẩm, kiểu ẩm của chỗ ít người đi ngang qua. Qua khe hở, cô nghe tiếng bễ lò — đều, chậm, như nhịp tim của người không vội. Mùi than và sắt — mùi mà cô không bao giờ ngửi trong phòng bếp Đoàn, vì Aldric không mang mùi đó vào tòa nhà. Ông để nó ở đây.
 Cô đã đi ba vòng quanh khu thợ thủ công trước khi tìm được con hẻm này. Người say rượu ở quán chỉ nói "Aldric thợ rèn" — không nói hẻm nào, không nói số nhà. Sera hỏi thêm hai người trước khi có một người khuân vác chỉ tay về phía tây: *"Ông già rèn? Cuối hẻm. Cửa không bảng hiệu."* Không bảng hiệu. Đúng cách Aldric làm việc — hiện diện cho người cần tìm, vô hình cho người không cần.

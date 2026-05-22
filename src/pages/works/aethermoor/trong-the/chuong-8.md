@@ -6,7 +6,6 @@ total: 40
 title: "Chương 8: Caelmyr, Thành Phố Không Chọn Phe"
 ---
 
----
 Caelmyr lớn hơn cách cô nhớ. Lần cuối cô đến đây là hai năm trước, theo lệnh Đoàn để hộ tống một thương nhân qua vùng ngoại ô. Lần đó cô không vào thành — chỉ đợi ở trạm gác bên ngoài, nhận tiền, quay về. Lần này cô vào.
 Cổng thành Caelmyr có bốn cửa, mỗi cửa mười lính, và mười lính đó không thuộc bất kỳ phe nào — chúng thuộc thành phố. Caelmyr không có quân đội riêng theo nghĩa chiến đấu. Nó có lực lượng giữ trật tự, trả lương bằng thuế thương mại, và lực lượng đó trung thành với đồng tiền hơn là với bất kỳ ngọn cờ nào.
 Sera xếp hàng cùng đoàn thương nhân vào cổng đông. Giấy tờ giả trong tay — giấy thông hành của một thương nhân nhỏ từ Thessault, tên Rheda Venn, buôn bán gia vị. Giấy này là sản phẩm của kỹ năng mà cô học trong Đoàn: cách tạo tài liệu giả mà chữ viết, mộc dấu, và loại giấy đều khớp với khu vực xuất xứ. Cô học nó cho nhiệm vụ trinh sát. Không ai dạy cô rằng ngày nào đó cô sẽ dùng nó để đột nhập vào thành phố mình từng gọi là nhà.

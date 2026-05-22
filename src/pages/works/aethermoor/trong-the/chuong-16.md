@@ -6,7 +6,6 @@ total: 40
 title: "Chương 16: Trận Chiến Đầu Tiên Có Chủ Đích"
 ---
 
----
 Sera viết suốt đêm. Ba tờ giấy dày đầy chữ — không đều, không đẹp, nhưng đầy. Cô ghi lại bằng ngôn ngữ của mình: ngắn, chia đoạn, không hoa. Di vật. Pale Frontier. Mordren Thứ Hai. Cửa. Thệ Hạch vỡ — mảnh nằm ở đâu? Giáo Hội đã lấy chưa? Ghi thêm: không biết. Cần xác minh.
 Lúc cô xong, Aldric đã ngủ. Ông nằm dựa tường, chăn gấp nửa dưới sườn, tay phải co nhẹ — tư thế của người đã ngủ quá nhiều năm trên giường quân đội và không còn biết ngủ kiểu khác. Lò rèn tắt. Duy nhất ánh sáng từ mỏ than hắt ra, đỏ mờ, không đủ để đọc.
 Sera gấp giấy, nhét vào áo — cùng vị trí với nhật ký Mordren. Giấy và nhật ký ép sát sườn cô. Ở đó ấm. Ở đó an toàn hơn bất kỳ nơi nào khác.

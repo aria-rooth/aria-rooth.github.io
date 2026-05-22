@@ -6,7 +6,6 @@ total: 40
 title: "Chương 25: Bức Thư Không Gửi Đi"
 ---
 
----
 Sáng. Thị trấn thức — chợ mở, người đi, ngựa hí. Sera ngồi ở bàn phòng trọ, mực và giấy trước mặt — mượn từ chủ quán, người không hỏi tại sao khách thuê cần mực lúc sáng sớm. Cô viết.
 Không phải thư gửi đi. Không có người nhận. Cô viết để sắp xếp — như người xếp đồ trước khi chuyển nhà: lấy ra, nhìn, quyết định giữ hay bỏ. Đầu óc cô là căn nhà cần dọn, và suy nghĩ là đồ đạc nằm rải rác, và cô cần xếp chúng lại trước khi bước tiếp.
 Cô viết: những gì cô biết. Phong Quang Thánh Giáo ra lệnh diệt Trọng Nham Hỏa Đạo. Lý do: di tích Pale Frontier. Giáo Hội thu thập Thệ Hạch vỡ từ Đoàn tan. Mục đích: chưa rõ. Giáo Hội có mạng lưới thông tin, kinh tế, quân sự. Mordren Thứ Hai — Lord Inquisitor Cael Mordren — người ra lệnh, cấp Linh Vương, chưa gặp mặt.

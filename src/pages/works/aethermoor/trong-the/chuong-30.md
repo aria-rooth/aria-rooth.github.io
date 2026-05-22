@@ -6,7 +6,6 @@ total: 40
 title: "Chương 30: Tin Xấu Từ Caelmyr"
 ---
 
----
 Người mang tin là Renn — thương nhân lâm sản, quen Lira từ ba năm trước, người bán gỗ cho cả Greymark lẫn Venn's Hollow. Ông ta đến Venn's Hollow vào chiều thứ hai, xe ngựa đầy gỗ, mặt dài — dài theo cách mà mặt người dài khi mang tin xấu và không biết cách nói.
 Renn tìm Lira ở quán. Lira đang uống — chậm, như mọi khi. Renn ngồi đối diện. Không hỏi mời. Không nói chào. Chỉ nói:
 "Aldric chết rồi."

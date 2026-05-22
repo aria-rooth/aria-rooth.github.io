@@ -6,7 +6,6 @@ total: 40
 title: "Chương 28: Vorthane Sâu Hơn"
 ---
 
----
 Rừng Vorthane sâu không phải vì xa — sâu vì đặc. Càng vào trong, cây càng dày, rễ càng lớn, ánh sáng càng ít. Như thể rừng đang dần đóng cửa: mỗi bước vào, một lớp cây khép sau, một lớp rễ chặn lối, một mảng bóng che trên đầu. Không phải rừng muốn giữ người — là rừng không biết có người. Rừng sống theo luật của nó, và người đi qua chỉ là thứ tạm thời giữa các vòng sinh trưởng.
 Sera đi và cảm nhận: Linh Nguyên chảy khác ở đây. Ở Greymark, Linh Nguyên chảy theo mạch — có hướng, có nguồn, có đích. Ở sâu Vorthane, Linh Nguyên không chảy — nó thấm. Thấm qua rễ, qua đất, qua không khí. Mọi thứ đều có Linh Nguyên, và Linh Nguyên không thuộc về ai — nó thuộc về rừng. Cảm giác như bước vào vùng áp suất khác: không nặng hơn, nhưng đặc hơn. Mỗi hít thở mang theo nhiều hơn — nhiều oxy, nhiều ẩm, nhiều thứ mà cô không có tên nhưng cơ thể cô nhận ra.
 Lira đi trước. Cô ta đã vào sâu Vorthane hai lần trước — làm hợp đồng, không phải thám hiểm. Nhưng cô ta biết dấu hiệu: khi cây bắt đầu phát sáng nhẹ ở rễ, khi rêu trên đá có màu xanh lam thay vì xanh lá, khi im lặng đặc đến mức tiếng gió không vượt qua tán cây — nghĩa là họ đã vào vùng mà dân thường không đến. Vùng mà ngay cả thợ săn Vorthane quay lại.

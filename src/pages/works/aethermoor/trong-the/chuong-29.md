@@ -6,7 +6,6 @@ total: 40
 title: "Chương 29: Mạng Lưới Của Giáo Hội"
 ---
 
----
 Họ trở lại thị trấn — không phải Greymark, là thị trấn khác, nhỏ hơn, tên Venn's Hollow, nằm sâu hơn trong rừng nhưng vẫn trên đường thương mại. Lira chọn nơi này vì lý do: cô ta cần thông tin, và thông tin ở nơi người qua lại — dù ít. Greymark có quá nhiều mắt — Thẩm Vấn Giả, thám tử, ai đó bên thứ ba. Venn's Hollow ít người hơn, ít mắt hơn, và Lira đánh giá: đủ an toàn để dừng hai ngày.
 Venn's Hollow: hai mươi ngôi nhà, một quán rượu, một lò rèn nhỏ, một chợ tuần hoạt động đúng một buổi sáng thứ Sáu rồi đóng. Nguồn thu chính: lâm sản — gỗ, nấm, nhựa cây. Người ở đây gõ cây lấy nhựa như người khác vắt bò lấy sữa — việc đều, thu nhập đều, cuộc sống đều. Đều đến mức buồn — nhưng buồn theo cách mà người buồn khi sống đủ lâu để biết không có gì thay đổi, và không thay đổi là ổn.
 Lira vào quán. Sera đi lò rèn — không phải để rèn, để nghe. Lò rèn ở thị trấn nhỏ là nơi người nói chuyện — không phải vì rèn ồn, mà vì người chờ rèn ồn. Thợ rèn vá dao, người nông dân chờ, và chờ thì nói. Nói về thời tiết, về thu hoạch, về giá gỗ, và — nếu hỏi đúng — về thứ họ không biết mình biết.

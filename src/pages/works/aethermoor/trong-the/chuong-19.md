@@ -6,7 +6,6 @@ total: 40
 title: "Chương 19: Những Gì Đất Ghi Nhớ (Thiên Địa Hữu Ký)"
 ---
 
----
 Bốn ngày đi bộ. Sera tránh đường lớn, đi theo đường mòn — cũ, ít người, cỏ cao ngang gối. Mỗi đêm cô luyện kiếm. Mỗi ngày kiếm nặng hơn một chút. Nhưng khác trước: cô biết tại sao. Bốn mươi bảy mảnh thề ước đang chờ, và mỗi ngày không hoàn thành là mỗi ngày chúng nặng thêm. Aldric đã nói: Thệ Vang phân phối nhiệm vụ cho người cuối cùng. Phân phối — từ nặng. Như chia gánh, nhưng gánh không giảm, chỉ dịch chuyển.
 Luyện kiếm ban đêm — cô chọn đêm vì ban ngày có thể bị phát hiện, và vì ban đêm Thệ Vang dễ chảy. Aldric giải thích: "Ban ngày quá nhiều tiếng ồn. Linh Nguyên chảy theo mặt trời, theo cây cối, theo mọi thứ đang sống và đang thở. Ban đêm, tất cả tĩnh. Thệ Vang dễ nghe hơn khi nền tĩnh." Cô không biết ông đúng hay sai — cô chỉ biết ban đêm khi cô múa kiếm, kiếm sáng hơn, và mỗi đường chém để lại vệt sáng mỏng trong bóng tối, như đuôi sao băng chậm.
 Ngày thứ năm, cô đi qua một cánh đồng. Cỏ vàng, đất đỏ, không có cây. Nhưng đất đỏ không đều — có một dải đất đen, dài khoảng hai trăm bước, rộng năm mươi bước, chạy ngang qua cánh đồng như vết thương. Cỏ hai bên dải đen mọc cao. Cỏ trên dải đen không mọc. Bầu trời phía trên dải đen cũng khác lạ — mây kéo thấp hơn, như thể thứ gì đó ở dưới đang hút mọi thứ lên.

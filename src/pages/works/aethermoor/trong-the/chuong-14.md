@@ -6,7 +6,6 @@ total: 40
 title: "Chương 14: Điều Aldric Biết"
 ---
 
----
 Ngày thứ hai. Sera ngồi trên nền đất lò rèn lúc rạng đông, kiếm ngang đùi, và thử nghe Thệ Vang lần thứ hai. Cô đã học đủ từ buổi đầu: đừng cố, đừng ép, chờ. Trống rỗng đến sau khi cô ngừng tạo ra tiếng ồn trong đầu mình, và nó đến đúng lúc — không phải lúc cô muốn, mà lúc cô đã sẵn sàng.
 Mảnh thứ hai: nữ, già hơn, giọng thấp và chắc. *"Tôi sẽ trả. Bao giờ cũng trả."* Rồi tắt. Ngắn hơn mảnh đầu. Sera mở mắt và ngồi với nó — ai đó đã nợ thứ gì đó, và kiên quyết trả, nhưng chưa kịp. Kiếm ghi lại sự kiên quyết mà không ghi kết quả. Kiếm không quan tâm người đó trả chưa. Kiếm chỉ ghi: *người này đã hứa.*
 Aldric gật đầu khi cô kể. *"Mảnh nhỏ. Loại dễ. Hoàn thành nó chỉ cần biết cô nợ ai — hoặc ai nợ cô. Nhưng cô cần nghe rõ hơn nữa. 'Trả' cái gì? Tiền? Ơn? Máu? Thệ Vang chỉ cho cô cửa, không cho cô khóa."*

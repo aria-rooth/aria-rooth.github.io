@@ -6,7 +6,6 @@ total: 40
 title: "Chương 23: Đoàn Đang Hấp Hối"
 ---
 
----
 Bạch Linh Mạc Đoàn đóng quân ở thị trấn Harren's Cross — ngã ba đường giữa Vorthane và biên giới Essam. Thị trấn lớn hơn thị trấn cô gặp Lira: khoảng năm mươi ngôi nhà, chợ tuần, trạm đổi ngựa, hai quán rượu. Nhưng *lớn hơn* không có nghĩa *sống hơn*. Sera đi qua thị trấn và thấy: cửa hàng đóng, quán vắng, chợ tuần chỉ còn ba sạp. Năm năm trước nơi này hẳn đông — hợp đồng bảo vệ hành trình tạo ra tiền, tiền tạo ra người, người tạo ra hoạt động. Bây giờ hoạt động chảy ra như nước từ ly nứt.
 Lò rèn Đoàn nằm ở rìa thị trấn — tòa nhà gỗ hai tầng, rộng, xám, nhưng còn đứng. Cờ Đoàn treo trên cột门前 — cờ trắng việt quất, dòng chữ thêu nhỏ: *Bạch Linh Mạc*. Cờ vẫn treo nhưng phai — màu trắng ngả vàng, việt quất nhạt thành hồng. Như cờ của người muốn báo hiệu mình vẫn ở đây, nhưng không còn đủ lực để cờ bay.
 Sera và Lira không vào thẳng. Họ ngồi quán đối diện, gọi rượu, quan sát. Sera học cách Lira quan sát: không nhìn vào tòa nhà — nhìn vào cách người ra vào. Ai ra. Ai vào. Mất bao lâu. Mang gì. Mặt biểu cảm nào. Lira đếm: bảy người ra vào trong một giờ. Bảy. Đoàn bảo vệ hành trình cần ít nhất hai mươi người hoạt động để duy trì hợp đồng. Bảy người không phải Đoàn — là tàn dư.

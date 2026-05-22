@@ -6,7 +6,6 @@ total: 40
 title: "Chương 7: Thẩm Vấn Giả Và Câu Hỏi"
 ---
 
----
 Tên bị thương nặng nhất — tên dẫn đầu, Linh Kỵ — vẫn còn tỉnh. Cô để hắn tỉnh bằng cách không chém thêm, và băng vết thương ở cổ tay bằng dải vải xé từ áo choàng của chính hắn. Không phải vì nhân từ. Băng để hắn không chết trước khi nói xong.
 Hắn dựa lưng vào gốc cây, tay phải bất động, máu rỉ qua dải vải. Mặt trắng. Nhìn cô bằng ánh mắt mà cô đã thấy trước — của người vừa nhận ra mình đứng nhầm phe.
 Sera ngồi xuống trước mặt hắn, cách một sải tay, kiếm đặt ngang đùi.

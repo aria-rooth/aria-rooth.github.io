@@ -6,7 +6,6 @@ total: 40
 title: "Chương 3: Người Duy Nhất Chạy"
 ---
 
----
 Sera không chạy. Cô chưa bao giờ chạy khỏi thứ gì — không phải vì kiêu ngạo mà vì chạy là hành vi của người không có lựa chọn, và cô luôn tìm ra lựa chọn tốt hơn.
 Lựa chọn bây giờ là lên mái nhà kho phía tây.
 Kho phía tây là tòa nhà thấp nhất trong khuôn viên, áp sát tường vòng ngoài, mái lợp ngói đất nung với độ nghiêng vừa phải — không đủ để trượt xuống nếu nằm sấp, đủ để nhìn xuống toàn bộ sân và cổng chính mà không bị nhìn thấy từ dưới. Cô đã chú ý đến vị trí đó từ ngày đầu tiên đến Đoàn, theo thói quen của người luôn xác định lối thoát và điểm quan sát trước khi nghĩ đến bất kỳ thứ gì khác.

@@ -6,7 +6,6 @@ total: 40
 title: "Chương 15: Trang Cuối Cùng Của Chấp Sự"
 ---
 
----
 Sera lấy cuốn nhật ký ra khỏi áo. Cô đã giữ nó ở đó — vị trí gần người nhất — kể từ đêm rời Đoàn. Nó nằm trong lớp vải lót áo choàng, ép sát sườn, ấm từ nhiệt cơ thể cô. Cuốn nhật ký nhỏ — khoảng bằng bàn tay người lớn, da bọc màu nâu sẫm, đóng bằng chỉ lanh. Mordren viết nhỏ, cẩn thận, từng chữ đều đặn, kiểu chữ của người ghi số liệu hơn kể chuyện.
 Cô không đọc ngay. Cô cầm cuốn nhật ký, đặt trên đùi, và nhìn bìa. Bìa không có tiêu đề. Không có tên. Chỉ có một vệt mực ở góc — mực đỏ, không phải đen — giống dấu ngón tay cái. Ai đó đã chạm vào bìa bằng tay dính mực đỏ. Cô không biết khi nào. Có thể Mordren. Có thể ai khác.
 Aldric ngồi đối diện. Ông không nhìn cuốn nhật ký — ông nhìn cô. Đợi. Không giục. Ông đã đợi ba mươi năm để biết lý do Giáo Hội thu thập Thệ Thiết. Ông có thể đợi thêm vài phút để cô đọc.

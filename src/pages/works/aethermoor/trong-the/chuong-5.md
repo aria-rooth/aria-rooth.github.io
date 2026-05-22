@@ -6,7 +6,6 @@ total: 40
 title: "Chương 5: Những Gì Không Được Phép Chết"
 ---
 
----
 Sáng. Ông già không có ở nhà.
 Bữa sáng để sẵn trên bàn đá: hai củ khoai luộc, một miếng bánh mì đen, một bình nước. Bên cạnh bình nước là một mảnh giấy, chữ run giống như người già hay viết — cứng, thẳng, không cong:
 *Đừng ở lại làng.*

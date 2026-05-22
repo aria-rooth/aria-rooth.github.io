@@ -6,7 +6,6 @@ total: 40
 title: "Chương 24: Danh Sách"
 ---
 
----
 Kellen đưa danh sách không phải vì tin Sera và Lira — vì ông không còn gì để mất. Khi Đoàn đang chết, bí mật không còn giá trị. Bí mật có giá khi Đoàn sống — Đoàn chết thì bí mật chỉ là giấy thừa.
 Ông dẫn họ vào tòa nhà Đoàn. Bên trong: trống. Không phải trống hoàn toàn — bàn ghế còn, kiếm còn trên giá, chăn còn trên giường. Nhưng trống theo cách mà nhà trống khi người rời đi: mọi thứ để lại, không ai mang theo, vì mang theo nghĩa là thừa nhận mình sẽ không trở lại.
 Phòng Chấp Sự — nhỏ hơn phòng Chấp Sự Mordren trong Trọng Nham Hỏa Đạo, nhưng cùng cách sắp xếp: bàn giữa, hộc dưới, giấy bút. Kellen mở hộc. Lấy ra một cuộn giấy — cũ, gấp tư, cạnh ố vàng.

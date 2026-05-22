@@ -6,7 +6,6 @@ total: 40
 title: "Chương 4: Trọng Lượng Của Kiếm"
 ---
 
----
 Sera đi về phía Tây vì đó là hướng không ai theo dõi. Con đường đông dẫn về Caelmyr — nơi có Thẩm Vấn Giả. Con đường bắc cắt qua lãnh thổ Vorthane — rừng, không có sẵn lương thực. Con đường tây chạy dọc theo các trang trại nhỏ ven chân đồi, ít người, ít mắt.
 Thanh kiếm nặng hơn mỗi giờ.
 Cô nhận ra điều này theo cách cô nhận ra mọi thứ: bằng cách đo lường. Buổi sáng, cô có thể đi hai trăm bước trước khi cảm thấy cần đổi tay. Trưa hôm đó, một trăm hai mươi. Buổi chiều, dưới một trăm. Đến khi mặt trời chạm ngọn cây ở hướng tây, cô phải dừng lại sau mỗi năm mươi bước, đặt kiếm ngang đùi, xoa bàn tay phải cho máu lưu thông trở lại.

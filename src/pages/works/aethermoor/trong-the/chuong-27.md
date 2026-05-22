@@ -6,7 +6,6 @@ total: 40
 title: "Chương 27: Người Theo Dõi"
 ---
 
----
 Sera nhận ra vào buổi sáng ngày thứ ba rời Greymark. Không phải vì cô thấy ai — vì cô cảm thấy. Khác Thệ Vang. Thệ Vang đến từ trong kiếm, từ trong cô, từ nơi bốn mươi bảy mảnh thề ước nằm. Cảm giác này đến từ ngoài — từ sau, từ bên cạnh, từ khoảng cách mà cô không thể chỉ tay nhưng biết có ai đó đứng.
 Lira cũng nhận ra. Cô ta không nói — chỉ đổi bước. Dài hơn. Nhanh hơn một chút. Không đủ để người theo dõi biết mình bị phát hiện, đủ để thử: nếu người theo dõi cũng đổi bước, thì theo dõi có chủ đích. Nếu không — thì trùng hợp.
 Người theo dõi đổi bước. Chậm hơn. Rồi nhanh lại. Khoảng cách giữ nguyên. Chủ đích.

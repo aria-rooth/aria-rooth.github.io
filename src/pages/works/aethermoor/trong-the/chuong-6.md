@@ -6,7 +6,6 @@ total: 40
 title: "Chương 6: Giọng Nói Từ Thép"
 ---
 
----
 Rừng hoang phía tây biến thành đất đá trống — kiểu địa hình mà người địa phương gọi là "bãi xương," vì không gì lớn mọc được ngoài cỏ gai và rêu đá. Sera dừng ở mép rừng, nơi cây cối nhường chỗ cho đá, và rút kiếm.
 Lần đầu tiên cô rút kiếm ra không phải để chiến đấu hay luyện tập. Cô rút để nhìn.
 Thanh Thệ Thiết trông không khác ngày cô nhận nó — bốn năm trước, trong lễ kết nạp, khi Chấp Sự Mordren tự tay đặt cán kiếm vào tay cô và nói: *"Kiếm này không thuộc về ngươi. Ngươi chỉ cầm hộ. Khi ngươi buông, nó tìm người khác."*
