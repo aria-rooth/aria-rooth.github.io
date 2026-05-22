@@ -1,67 +1,61 @@
-## Chương 41: Sáng Khác
+---
+layout: ../../../../layouts/ChapterLayout.astro
+chapter: 41
+story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
+total: 40
+title: "Chương Chương 41: Mira"
+---
 
-Sáng. Nhưng khác.
+*Mảnh thứ ba không đến từ gần chết — nó đến vì cô đã sẵn sàng.*
 
-Elara nhận ra khác trước khi mở mắt — không phải ánh sáng, không phải âm thanh, mà là Linh Nguyên. Dòng dưới chân cô, mạch quen mười hai năm, chảy theo hướng khác. Không lớn — không đổi hướng hoàn toàn, chỉ lệch, như sông lùi bờ một vài phân, như gió đổi tần một phần nốt. Nhưng cô là người dán tay vào mạch, cô là nhiên liệu, cô là phần của cơ chế — và cơ chế lệch nghĩa là cô lệch, và cô lệch nghĩa là thứ gì đó đã đẩy, và đẩy đủ mạnh để dịch dòng thì không phải đẩy nhẹ.
+Sáng hôm ấy. Vela tuần tra một mình — Calla ngủ, Theo ghi chép, và cô cần đi. Không phải vì có dấu hiệu. Mà vì cần bước. Cần khoảng cách giữa mình và tháp, giữa mình và người, để nghe xem có gì còn ở lại trong đầu cô sau đêm qua.
 
-Mở mắt. Cổng. Trụ đá. Sương trên cỏ. Bình thường — mắt thấy. Nhưng Linh Vương thấy: vết nứt. Không phải nứt đá, không phải nứt vật lý. Nứt Linh Nguyên — một sợi mành, mỏng hơn tóc, chạy từ trụ trái xuống mạch, như vết rạn trên kính mới mẻ. Mới. Đêm qua không có. Đêm qua Revenant Captain đẩy, cổng kêu, Elara áp đặt ý chí giữ — và vết nứt là kết.
+Tên Mira vẫn ở đó. Không phải ký ức đầy — chỉ là tên, như mỏ neo ném xuống nước chưa chạm đáy. Nó giữ chỗ. Chờ phần còn lại đến.
 
-Cô ngồi dậy. Lyss vẫn ngủ — cô bé cuộn trên cỏ, nhỏ, lạnh, tay nắm vạt áo Elara, như mèo con bám người sưởi ấm giữa đêm lạnh. Corin không thấy — anh ta thường biến khi bình minh đến, về domain, chờ hoàng hôn. Deven Ash thò đầu ra lều, tóc rối hơn thường, mắt nhíp, và cô ta thấy biểu trên mặt Elara trước khi thấy gì khác.
+Và phần còn lại đến.
 
-*Chuyện gì?*
+Không phải từ đau. Chẳng phải từ gần chết. Chỉ đến — như cửa mở khi không còn bị khóa, như gió lùa qua khe hẹp khi bão vừa đi. Lời nguyền đã lỏng. Tier 9 đã vỡ. Ký ức đã chờ đủ lâu, và bây giờ nó không cần xin phép nữa.
 
-*Vết nứt,* Elara nói. *Trên trụ. Linh Nguyên nứt.*
+Mira.
 
-Deven Ash ra lều ngay — không mặc thêm, không uống nước, ra thẳng trụ đá. Cô ta không thấy vết nứt — cô ta không có Linh Vương — nhưng cô ta chạm, xem, đo, ghi. *Cô nói nứt — nghĩa là rỉ?*
+Cô gái trẻ hơn Vela mười tuổi. Mái tóc tối, cắt ngang vai, luôn có lọn rối bên tai. Đôi mắt hay cười — không phải cười xã giao hay cười an ủi, mà là cười vì thấy buồn cười, cười vì thế giới vẫn còn thứ đáng cười. Vela nhớ đôi mắt đó. Nhớ cách chúng híp lại khi Mira thấy gì đó kỳ, nhớ cách chúng mở to khi ngạc nhiên, nhớ cách chúng nhìn cô — Vela — như thể cô là điều đáng ngạc nhiên nhất.
 
-*Nghĩa là rỉ,* Elara xác nhận. *Mạch dịch đêm qua. Dịch nhỏ, nhưng dịch. Vết nứt là chỗ rỉ mới — chỗ áp lực từ bên trong tìm đường ra, và cổng chưa kịp vá. Nếu không xử lý, rỉ sẽ lan dọc theo nứt, và nứt sẽ rộng, và rộng sẽ thành lỗ.*
+Họ sống trong một ngôi làng. Không nhớ tên. Không nhớ vị trí chính xác — chỉ là phía Nam, nơi đất còn ấm, nơi thảo nguyên chưa xám. Ngôi nhà nhỏ. Hai giường, một bàn, cửa sổ nhìn ra đồng. Mira học — không phải tu luyện, mà là học chữ, học số, học những thứ mà người bình thường học. Cô ta không có linh lực. Không có Tier. Chỉ là người. Người bình thường trong thế giới không bình thường, và điều đó — việc cô ta bình thường — là điều Vela yêu nhất. Vì bình thường là thứ hiếm nhất. Bình thường là thứ dễ mất nhất.
 
-*Lỗ nghĩa là gì?*
+Vela nhớ: ăn cơm cùng nhau. Mira than vãn về việc học — "Tại sao phải nhớ ba mươi loại thuần thảo? Ai cần ba mươi loại?" — và Vela nghe. Không nói nhiều. Chỉ nghe. Nhưng tai cô ấm. Ấm theo cách mà nghe người mình yêu than vãn về chuyện nhỏ — chuyện nhỏ là chuyện đời thật, và đời thật là thứ Vela muốn giữ. Cả hai cười vì một câu nói ngu ngốc mà chỉ họ hiểu.
 
-*Lỗ nghĩa là domain rỉ ra ngoài không qua cổng — qua vách, qua mạch, qua đất. Và khi domain rỉ ra ngoài, nó mang theo thứ bên trong. Người chết. Ý chí. Cái gọi.*
+Vela nhớ: buổi tối. Mira ngồi cạnh cửa sổ, đọc, tóc rối, ánh nến vàng trên mặt. Vela đứng canh trong nhà — gần đủ để chạm, nhưng không chạm, vì Mira đang đọc và Vela không muốn ngắt. Nhưng mũi cô ngửi thấy mùi nến. Mùi giấy. Mùi tóc Mira. Những thứ không đáng nhớ — cho đến khi không còn. Canh vì bình yên đó là thứ cô muốn bảo vệ hơn bất kỳ thứ gì khác.
 
-Deven Ash ghi nhanh — bút chạy trên trang, không ngừng. *Cần vá,* cô ta nói khi ghi xong.
+Rồi Thần Chiến bắt đầu.
 
-*Cần vá,* Elara đồng ý. *Nhưng vá thế nào?*
+Vela nhớ điều đó khác — không phải từ ký ức đầy mà từ cảm giác. Cảm giác của đất run, của Aether trong không khí đặc đột ngột, của tiếng xa xa mà cô biết là tiếng chiến. Và cảm giác khác — khẩn cấp. Phải đi. Không phải muốn đi. Phải. Có thứ gì đó đang đến, và nếu cô không đi, thứ đó sẽ đến làng, và làng không có cách chống lại, và Mira —
 
-Câu hỏi. Mười hai năm cô giữ cổng bằng cách đứng — đứng là giữ, vì Linh Nguyên cô thấm vào cơ chế nuôi cổng, nuôi van, nuôi áp lực cản domain. Nhưng vá khác giữ. Giữ là thụ động cho — cho Linh Nguyên chảy, cho mạch vận hành, cho cơ chế tự ổn định. Vá là chủ động đắp — đắp Linh Nguyên vào nứt, ép kín, hàn lại. Và hàn cần nhiều hơn đứng. Hàn cần ý chí tập trung, Linh Nguyên dồn, và dồn thì hao — hao phần Linh Nguyên cô nuôi cổng mỗi ngày, hao phần nhiên liệu, hao phần chính cô.
+Mira.
 
-Elara đặt tay lên vết nứt. Lạnh — lạnh hơn đá quanh, lạnh của rỉ, lạnh của domain lọt qua kẽ. Cô hướng ý chí: *kín*. Đơn giản. Rõ. Linh Nguyên chảy từ tay vào nứt — ấm, sống, cô — và nứt hẹp lại. Không hết — hẹp, như lỗ kim thay vì vết rạn, nhưng vẫn còn. Một lần vá không đủ. Cần nhiều lần, hoặc cần cách khác.
+Vela hứa sẽ về. Cô nhớ điều đó — nhớ môi mình mở, nhớ giọng mình nói "tôi sẽ về," nhớ tay Mira nắm tay cô và nắm chặt, nhớ mắt Mira không cười lần đó, mắt đen, mắt sợ, mắt biết rằng Vela sẽ đi và có thể không về.
 
-Cô rút tay. Nhìn vết. Nhỏ hơn. Nhưng còn. Và rỉ không ngừng — domain bên trong vẫn đẩy, vẫn ép, vẫn muốn ra, và mỗi đêm Revenant Captain đẩy thêm, mỗi đêm số lượng tăng thêm, mỗi đêm áp lực dày thêm. Vá hôm nay — nứt ngày mai. Vá ngày mai — nứt kia. Và cô một người, Linh Nguyên một nguồn, và rỉ thì nhiều hướng.
+Cô đi.
 
-Deven Ash nhìn cô — nhìn tay cô, nhìn vết nứt, nhìn mặt cô. *Cô hao.*
+Tìm đến Velhar. Xin sức mạnh. Xin bảo vệ. Xin bất cứ thứ gì đủ để bảo vệ Mira — bảo vệ làng — bảo vệ thế giới nhỏ mà cô biết. Xin với giọng khẩn, xin với nỗi sợ, xin bằng tất cả những gì cô có, và Velhar nghe. Velhar cho. Velhar ký hợp đồng. Hợp đồng rõ ràng: sức mạnh đổi lấy phục vụ, bất tử đổi cho bảo vệ, cô sẽ mạnh đủ để bảo vệ người cô chỉ định — và cô sẽ không rời bỏ, sẽ không dừng, sẽ chiến đấu đến khi không còn gì để chiến đấu.
 
-Không phải hỏi. Nói. Đúng — cô hao. Vá tốn Linh Nguyên hơn đứng. Một lần vá bằng ba ngày đứng. Nếu nứt mỗi đêm, vá mỗi đêm, thì trong một tháng cô tốn bằng một năm đứng. Trong một năm — bằng mười hai năm. Cô không có mười hai năm để hao. Cô có Linh Vương, nhưng Linh Vương không phải vô tận. Nhiên liệu có cạn.
+Cô ký. Không ngần ngại. Vì Mira.
 
-*Tôi biết,* Elara nói.
+Rồi cô về. Về muộn.
 
-*Vậy cần cách khác.*
+Mira chết.
 
-Cách khác. Elara nhìn cổng. Hai trụ. Khoảng trống. Mười hai năm cô đứng ở ngoài — phía an toàn, phía sống, phía Linh Nguyên ấm. Bên trong — domain, lạnh, rỉ, người chết, gọi. Nếu vá từ ngoài là hao, thì vá từ trong? Nếu thay vì đắp từ ngoài vào, cô đắp từ trong ra? Nếu cô bước vào domain, đến gần nguồn rỉ, và vá tại tâm?
+Không phải trong trận chiến anh hùng. Chẳng phải trong đòn sát thương từ Thần Vương hay linh lực từ lãnh vực. Chỉ là — chết. Một trong vô số người thường không có tên trong biên niên sử. Làng bị càn quét trong lúc cô đi. Mira ở đó. Mira không ở đó nữa. Và khi Vela về, chỉ còn nhà trống, bàn trống, cửa sổ trống, và đêm.
 
-Ý nghĩ đó — bước vào — khiến lưng cô lạnh. Không phải sợ. Cẩn trọng. Bên trong domain, Linh Nguyên của cô — nhiên liệu — sẽ bị hút, bị rỉ, bị lấn. Cô sẽ yếu hơn trong khi ở trong. Và nếu yếu quá, không ra được —
+Vela ngồi xuống giữa đường tuần tra. Chẳng phải vì thương. Chẳng phải vì kiệt. Chỉ ngồi. Như người vừa nghe tin và cần đất dưới chân để biết mình vẫn còn ở đây.
 
-*Em không muốn chị vào trong.*
+Ký ức trôi. Không phải dòng chảy — mà là tĩnh. Toàn bộ đời cô với Mira, nén lại, rồi mở ra trong một hơi thở: tám năm. Tám năm ăn cùng nhau, ngủ cùng nhau, cãi nhau vì nhỏ nhặt, cười nhau vì ngu ngốc. Tám năm. Và cô đã bỏ tám năm đó để đi xin sức mạnh từ thần, và khi về, tám năm đó đã hết. Không phải vì cô không bảo vệ. Mà vì cô bảo vệ sai cách. Vì cô đi tìm sức mạnh thay vì ở lại yếu. Vì cô nghĩ mạnh hơn nghĩa là bảo vệ tốt hơn, và sai. Sai hoàn toàn.
 
-Lyss. Cô bé thức — hoặc không ngủ, vì cô bé không luôn ngủ, cô bé đứng rồi ngồi rồi nằm rồi đứng, như người ở nơi không có giờ. Cô bé nghe. Không phải nghe lời — nghe ý. Lyss nghe domain gọi, và nghe Elara nghĩ, và ý *bước vào* vọng ra như tiếng chuông nhỏ trong đầu cô bé.
+Cô ngồi trên đá. Gió Bắc thổi. Lạnh. Cô không lạnh — Linh Việt không lạnh theo cách thường. Nhưng cô cảm thấy lạnh. Lạnh từ trong, từ chỗ Mira đã ở, chỗ mà bây giờ trống. Trống như nhà trống, như bàn trống, như cửa sổ trống.
 
-*Nhưng chị nghĩ về,* Lyss nói. *Chị nghĩ về việc vào. Em thấy.*
+Nửa giờ. Cô ngồi nửa giờ. Rồi đứng dậy. Không phải vì hết buồn. Mà vì còn việc. Bức tường vẫn ở đây. Pale Creatures vẫn đến. Calla và Theo vẫn ở tháp. Và cô — cô vẫn đứng ở đây, vì chọn, vì muốn, vì đây là điều duy nhất cô biết cách làm sau khi mất mọi thứ khác.
 
-*Chỉ nghĩ,* Elara nói. *Chưa quyết.*
+Không khóc. Vela không khóc. Không phải vì kiềm chế. Mà vì khóc cần năng lượng mà cô không có, và vì khóc không mang Mira về. Chỉ ngồi. Rồi đứng. Rồi đi. Đường tuần tra còn dài. Trận tối nay có thể đến. Và cô sẽ chiến đấu — như mọi đêm — vì đó là việc cô làm. Việc duy nhất cô biết làm đúng.
 
-*Chỉ nghĩ cũng nguy hiểm.* Lyss nhìn cô — mắt rộng, sâu, mắt đứa mười tuổi đã chết hai trăm năm, và hai trăm năm cho cô bé biết rằng nghĩ và làm đôi khi cách nhau một đêm không ngủ, một giây yếu lòng, một lần gọi nghe đủ rõ. *Domain gọi chị. Chị nghe. Chị nghĩ vào. Nếu chị vào, domain sẽ không cho chị ra dễ dàng.*
-
-*Em nói từ kinh nghiệm?*
-
-Lyss im. Lâu. Rồi: *Em không vào sâu. Nhưng em biết — mỗi lần em đứng gần hơn, em không muốn lùi. Như gió ấm kéo em tới. Không mạnh. Nhưng không ngừng.*
-
-Gió ấm. Domain gọi bằng gió ấm — nghe ấm, cảm ấm, nhưng ấm đó không phải ấm của nhà, ấm của lửa, ấm của người thương. Ấm đó là ấm của bẫy — bẫy không cần sắc bén, bẫy chỉ cần ấm, vì mọi thứ lạnh đều muốn ấm, và ai mà không lạnh giữa domain thần chết?
-
-Elara không nói thêm. Cô đứng dậy, đi tuần tra — lần đầu tiên trong ba ngày cô tuần tra đúng chu kỳ. Sáng kiểm Linh Nguyên, trưa đi vòng, chiều ghi chép, tối ngồi nhìn cổng. Chu kỳ cũ. Nhưng chu kỳ cũ giờ khác — vì cô biết dưới mỗi bước chân là mạch đang rỉ, vì cô biết mỗi đêm sẽ có vết nứt mới, vì cô biết Revenant Captain đang chờ sâu trong domain, và vì cô biết — chắc chắn, không đoán — rằng đứng bên ngoài vá từng vết không phải cách dài hạn.
-
-Cách dài hạn nằm bên trong. Nhưng bên trong là domain. Và domain muốn cô vào.
-
-*Kết chương*
+Cô nhớ tất cả bây giờ: cô đã đến gặp Velhar để xin sức mạnh bảo vệ Mira. Mira đã chết trước khi cô kịp về. Và cô đã ở đây — canh gác, chiến đấu, không cho phép bản thân nghỉ ngơi — vì không còn chỗ nào khác để đi. Không còn ai để về. Không còn nhà với cửa sổ nhìn ra đồng. Chỉ còn bức tường, và đêm, và kiếm, và việc đứng ở đây vì chưa biết cách đứng ở đâu khác.
 
 ---

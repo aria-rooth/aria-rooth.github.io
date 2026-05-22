@@ -3,8 +3,9 @@ layout: ../../../../layouts/ChapterLayout.astro
 chapter: 36
 story: "/works/aethermoor/trong-the"
 total: 40
-title: "Chương 36: Bẫy"
+title: "Chương Chương 36: Bẫy"
 ---
+
 Họ rời tu viện lúc sáng sớm — trước khi Vestra dậy nấu nước, trước khi than ngoài trời tắt hẳn, trước khi Fen và Cova mở cửa phòng. Không phải giấu — là không chào. Chào là lời, lời là thời gian, thời gian là khoảng cách, và khoảng cách là thứ họ cần thêm mỗi ngày.
 
 Sera đi trước. Lira đi sau — năm bước, như mọi khi. Nhưng năm bước đó khác sáng hôm qua: Lira để tay trên bao đao, không phải đao, và mắt cô ta quét rừng bên phải thay vì cả hai bên. Dữ liệu nhỏ. Sera ghi nhận: Lira cảnh giác hơn. Lira cảnh giác hơn khi cô ta biết điều cô ta không thích biết — và tối qua cô ta biết: Giáo Hội thu thập người biết Thệ Hạch làm gì. Sera là người biết. Sera là mục tiêu. Lira đi cùng mục tiêu. Lira không thích đi cùng mục tiêu — nhưng Lira vẫn đi. Sera không hỏi tại sao. Hỏi tại sao là hỏi Lira giải thích lựa chọn, và lựa chọn của Lira thuộc về Lira.
@@ -138,4 +139,3 @@ Lira đến cạnh cô. Máu trên dao — không phải máu cô. Lira sạch �
 Họ đi. Nhanh. Để chín người phía sau — hai chết, bốn gãy, ba sợ. Chỉ huy còn sống — nách cầm chưa thì sống. Sera để sống vì sống báo tin: Linh Phong. Trọng Nham Hỏa Đạo. Người cuối cùng. Không chạy. Mordren sẽ nghe. Mordren sẽ biết. Mordren sẽ tính lại.
 
 ---
-

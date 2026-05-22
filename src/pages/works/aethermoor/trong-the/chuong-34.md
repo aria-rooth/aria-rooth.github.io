@@ -3,7 +3,7 @@ layout: ../../../../layouts/ChapterLayout.astro
 chapter: 34
 story: "/works/aethermoor/trong-the"
 total: 40
-
+title: "Chương 34: Tu Viện Cuối Rừng"
 ---
 Sera không ngủ ngay. Cô ngồi trên giường tu viện — giường hẹp, đệm mỏng, chăn len thô — và xử lý.
 Nghỉ là lúc đầu làm việc mà cơ thể không làm. Cơ thể cô nằm. Đầu cô chạy. Aldric từng nói: *Nghỉ không phải nằm. Nghỉ là để phần mềm chạy khi phần cứng dừng.* Ông nói về rèn — đợi thép nguội trước khi tôi lại — nhưng cũng đúng cho người. Phần mềm: phân tích, kết nối, xếp chỗ. Phần cứng: cơ bắp, xương, máu. Phần cứng dừng. Phần mềm chạy.

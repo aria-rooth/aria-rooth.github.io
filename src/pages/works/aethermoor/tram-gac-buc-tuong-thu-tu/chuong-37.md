@@ -3,63 +3,53 @@ layout: ../../../../layouts/ChapterLayout.astro
 chapter: 37
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 40
-title: "Chương 37: Câu Hỏi Đúng"
----
-← [Chương 36](chuong-36)  **Chương 37/40**  → [Chương 38](chuong-38)
-
+title: "Chương Chương 37: Nhiều Hơn"
 ---
 
-## Chương 37: Câu Hỏi Đúng
+Số lượng tăng.
 
-*Không phải "tại sao tôi không thể đi" mà là "tại sao tôi chưa đi."*
+Không phải đột ngột — không có đêm nào thêm mười người cùng lúc. Tăng chậm, như sương dày dần, như cỏ mọc sau mưa: mỗi đêm thêm một, hai, đôi khi ba. Ba mươi. Ba mươi hai. Ba mươi lăm. Bốn mươi. Elara đếm — cô luôn đếm, từ đêm đầu tiên một người đứng, đến giờ bốn mươi người đứng, và mỗi đêm có thể thêm.
 
-Sau khi xác nhận Tier 9, Vela và Theo ngồi trong tháp. Calla đã đi ngủ — hoặc cố ngủ — ở góc phòng. Cô ta cần nghỉ, và Vela không trách. Linh Hùng chiến đấu dạng thể Velhar cũng tốn sức như Vela, chỉ là cô ta không lành lại sau.
+Bốn mươi người. Cô không biết tên tất cả. Lyss, Corin — hai người cô nói chuyện. Người đàn ông loại 3 — cô chưa biết tên, không vì anh ta không nói, mà vì khi anh ta mở miệng, âm thanh không phải lời. Ba mươi bảy người còn lại — đứng im, loại 1, vị trí quen, không cử động. Nhưng số lượng thay đổi thứ gì đó. Không phải cảm giác an toàn — cô không sợ họ. Thay đổi *trọng lượng*. Bốn mươi người đứng bên kia cổng là bốn mươi câu hỏi không trả lời. Bốn mươi cái chết không giải quyết. Bốn mươi người bị giữ trong domain của thần chết mà không biết vì sao, và cô — người gác — cũng không biết vì sao, chỉ biết giờ cô có thể chèo, và chèo có thể thay đổi dòng, và thay đổi dòng có thể thay đổi mọi thứ.
 
-Vela và Theo ngồi cạnh nhau bên lửa nhỏ. Không phải bên cạnh — chỉ là gần. Gần đủ để nói mà không thức Calla. Khoảng cách mà hai trăm năm cô quen với không có, và vài tháng nay cô bắt đầu quen với việc có.
+Deven Ash ghi chép số lượng. Cô ta vẽ sơ đồ — vị trí, khoảng cách, hướng nhìn. Cô ta so sánh với bản đồ cũ: *Huyền Môn Cốt giữ tâm chấn. Tâm chấn rỉ. Người chết bị hút vào rỉ. Số lượng tăng — nghĩa là rỉ tăng. Domain đang lan.*
 
-Cô cảm nhận cơ thể mình theo cách khác hôm nay. Không phải đau — đau đã quen. Mà là cảm giác của sức mạnh đã thức. Như ai đó mở cửa phòng mà cô tưởng đã khóa. Cánh tay không nặng hơn, nhưng khi cô nhấc, nó nhấc với độ chính xác mà trước đây không có. Chân không nhanh hơn, nhưng khi cô đứng, đất dưới chân nhường theo cách khác. Không phải đất yếu. Đất biết.
+*Lan nhanh hơn?* Elara hỏi.
 
-"Cô đã biết chưa?" anh ta hỏi. Không phải hỏi về Tier — anh ta đã đoán từ trước. Mà là hỏi về việc biết: cô biết từ bao giờ?
+*Nhanh hơn ghi nhận trước đây. Nhưng dữ liệu trước đây —* Deven Ash ngừng, đếm ngón tay, *— khoảng ba mươi năm, đo từ xa, qua dò Linh Nguyên. Không chính xác. Cô có dữ liệu tốt hơn.*
 
-"Không biết," Vela nói. "Chưa biết đến bây giờ. Nhưng cơ thể biết. Cơ thể đã biết từ lâu."
+*Cô có mười hai năm nhật ký.*
 
-"Nhưng cô chưa bao giờ cố rời đi."
+*Đúng. Và tôi muốn đọc.*
 
-Câu hỏi đơn giản. Năm từ. Nhưng năm từ đó mở ra toàn bộ cánh cửa mà cô chưa bao giờ đẩy.
+Elara ngần. Nhật ký — mười hai tập — là thứ riêng nhất cô có. Riêng hơn kiếm, riêng hơn vị trí, riêng hơn mạch Linh Nguyên thấm. Nhật ký là cô — suy nghĩ, quan sát, thất vọng, kiên nhẫn, *không có gì* viết lặp lại hàng nghìn lần. Cho người lạ đọc nhật ký là cho người lạ đọc mình.
 
-Nếu cô đủ mạnh để phá vỡ lời nguyền — và cô đủ, đã đủ từ lâu — tại sao chưa phá? Tại sao chưa thử? Tại sao chưa từng một lần trong hai trăm năm đứng trên bức tường và nghĩ "tôi có thể đi"?
+Nhưng. Cô cần hiểu. Deven Ash có thể tìm pattern trong số — pattern mà cô, người viết, không thấy vì quá gần. Và thời gian không còn chờ. Domain lan. Số lượng tăng. Mỗi đêm thêm người là mỗi đêm domain rỉ thêm, và rỉ thêm là lan thêm, và lan thêm là gần hơn đến lúc rỉ thành lỗ, và lỗ thành vỡ, và vỡ thành thứ không thể vá.
 
-Và câu trả lời đến — không phải từ logic, không phải từ phân tích, mà từ nơi mà câu trả lời thật luôn đến: từ dưới lên, từ bụng lên ngực lên cổ họng, từ chỗ mà hai trăm năm đứng canh đã khắc vào.
+*Cho tôi đọc,* cô nói. *Nhưng cô chỉ ghi chép. Không thêm, không bớt, không phán xét.*
 
-Cô chưa đi vì cô chưa muốn đi.
+Deven Ash gật đầu. *Tôi là nhà nghiên cứu. Ghi chép là việc tôi. Phán xét là việc ai khác.*
 
-Lời nguyền không giữ cô. Hợp đồng không giữ cô. Sợ hãi không giữ cô. Cô tự giữ mình. Cô ở đây vì — vì lý do gì đó mà cô chưa đặt tên được, nhưng cảm thấy — cô cần ở đây. Như nợ chưa trả. Như lời hứa chưa giữ xong. Như việc gì đó còn dang dở mà cô không thể rời bỏ không hoàn thành.
+Đêm đó, họ mang mười hai tập nhật ký ra lều. Đèn dầu. Trà nóng. Deven Ash đọc — chậm, cẩn thận, ngón tay dòng dòng, môi chuyển nhẹ theo chữ, như người nếm món ngon từng giọt từng giọt. Cô ta không bỏ trang, không lướt, không nhảy. Đọc từ đầu đến cuối. Tập một, năm nhất: nhiều chữ, chi tiết, nhiệt — nhật ký của người mới, người còn hăng, người còn tin rằng mỗi ngày có thể có gì. Tập bảy, năm bảy: ngắn hơn, khô hơn, như suối cạn dần. Tập mười hai, năm nay: gần như chỉ số, thời tiết, đếm, *không có gì*.
 
-"Tôi có lý do để ở đây," cô nói, chậm. "Tôi không biết lý do là gì — nhưng tôi cảm thấy nó. Như nợ chưa trả."
+Deven Ash đọc đến tập bốn thì ngừng. Ngẩng lên. Mắt sáng — cái sáng đó lại, sáng của người thấy thứ họ tìm. *Năm thứ ba,* cô ta nói. *Tháng tư. Cô ghi: "Linh Nguyên quanh cổng dao động nhẹ khi thương nhân đi ngang, cách cổng 50 bước."*
 
-Anh ta không nói gì ngay. Để câu nói ở lại. Để nó lắng. Rồi: "Nợ ai?"
+Elara nhớ. Hoặc không nhớ — mười hai năm nhật ký, cô không nhớ từng dòng. Nhưng cô nhớ tháng đó: Edrin, thương nhân, người đầu tiên trong ba năm cố đi qua. Cô ghi dao động vì đó là bất thường. Dao động Linh Nguyên quanh cổng là bất thường, vì cổng không dao động — cổng đứng, mạch chảy, ổn định. Dao động có nghĩa là gì đó đáp ứng.
 
-Vela nghĩ. Câu hỏi đó — nợ ai — chạm vào chỗ mà mảnh ký ức sống. Cô gái trẻ. Tiếng cười. "Muốn bảo vệ." Người mà cô muốn bảo vệ. Người mà cô đã ký hợp đồng để bảo vệ.
+*Cô ghi thêm năm lần như thế,* Deven Ash nói, lật trang. *Năm thứ năm: "Linh Nguyên phản ứng khi đội khảo sát tiếp cận." Năm thứ tám: "Mạch dưới chân dội nhẹ khi người phụ nữ hỏi về cổng." Năm mười một: "Dao động khi Corin bước qua."* Deven Ash đặt sổ xuống. *Mỗi lần có người sống tiếp cận — từ bên ngoài — cổng phản ứng. Cổng phản ứng với người sống, không phải người chết.*
 
-"Người tôi đến đây để bảo vệ," cô nói.
+Elara ngồi xuống. Cổng phản ứng với người sống. Tại sao? Nếu cổng giữ domain không lan, thì domain — bên trong — là áp lực, và bên ngoài là áp suất thấp. Người sống — mang Linh Nguyên sống, ấm, chảy — là áp suất cao so với bên trong. Khi người sống tiếp cận, áp suất cao chạm ranh giới, và ranh giới phản ứng. Như gió thổi vào cửa — cửa không tự mở, nhưng tiếng cửa kêu.
 
-Người cô đến đây để bảo vệ. Nhưng người đó — cô chưa biết là ai, chưa nhớ tên, chưa thấy mặt rõ. Chỉ có mảnh: tiếng cười, ấm áp, "muốn bảo vệ." Và "nợ chưa trả" — nợ người đó. Nợ người mà cô không thể bảo vệ, hoặc chưa bảo vệ xong, hoặc bảo vệ sai cách.
+*Nhưng Corin,* Elara nói. *Corin bước qua — từ bên trong ra — và cổng không phản ứng.*
 
-Vela nhìn lửa. Lửa nhỏ. Không đủ ấm cho cả phòng, nhưng đủ cho hai người ngồi gần. Cô nhìn ngọn lửa nhảy. Ngọn lửa không hỏi tại sao nó cháy. Nó chỉ cháy. Và khi gió thổi, nó nghiêng. Khi củi hết, nó tắt. Đơn giản. Cô ước mình đơn giản như vậy. Không phải vì không muốn phức tạp. Mà vì phức tạp đang làm cô mệt theo cách mà hai trăm năm chiến đấu không làm.
+*Vì Corin không còn Linh Nguyên sống,* Deven Ash nói. *Anh ta là người chết — Linh Nguyên của anh ta tĩnh, hoặc chậm, hoặc không còn. Cổng không phản ứng vì không có chênh áp. Chỉ có khi người sống — mang Linh Nguyên sống — tiếp cận, cổng mới đáp.*
 
-Cô nhớ một mảnh nhỏ hơn nữa — không phải từ gần chết. Từ gần im lặng. Một buổi chiều trên tường, trước khi đội Essam đến. Gió lạnh. Áo giáp nặng. Cô đứng đó, như mọi ngày, và nghĩ: nếu tôi đi, tôi sẽ đi về phía Nam. Về phía có người. Về phía có tiếng cười. Nhưng rồi cô không đi. Không phải vì không thể. Vì không muốn. Vì đi nghĩa là rời bỏ thứ gì đó mà cô chưa sẵn sàng rời bỏ. Và thứ đó — thứ cô chưa sẵn sàng rời bỏ — là chính cô hai trăm năm trước.
+*Vậy khi tôi đứng đây — mười hai năm — tôi là áp suất cao nhất bên ngoài.*
 
-"Tôi nghĩ," cô nói, giọng thấp, "tôi ở đây vì tôi đã hứa với ai đó. Và tôi chưa giữ xong lời hứa đó. Hoặc tôi giữ sai cách. Hoặc người đó vẫn cần tôi giữ."
+Deven Ash gật đầu. *Và cô thấm vào cổng. Linh Nguyên sống của cô thấm vào cơ chế, và cơ chế dùng Linh Nguyên đó để vận hành. Cô không chỉ chèo. Cô là nhiên liệu.*
 
-Anh ta gật đầu. Không hỏi ai. Không hỏi hứa gì. Anh ta hiểu — hoặc ít nhất, anh ta không cần biết để hiểu.
+Nhiên liệu. Elara nhìn tay mình. Mười hai năm — cô tưởng mình đứng, tưởng mình chờ, tưởng mình canh. Không ai nói cô cũng đang chảy. Chảy vào đá, chảy vào mạch, chảy vào thứ mà cô không nhìn thấy. Cô tưởng mình một mình. Nhưng không. Cô và cổng — đã cùng thở mười hai năm. Cùng chảy. Cùng giữ.
 
-Vela nhìn tay mình. Bàn tay cũ. Da sần, sẹo chồng sẹo, ngón tay quen cầm kiếm hơn cầm bút. Bàn tay này đã giết. Bàn tay này đã cứu. Bàn tay này đã đứng canh hai trăm năm. Và bây giờ, lần đầu tiên, bàn tay này run — không phải vì lạnh, không phải vì mệt. Vì nhận ra: nó có thể buông. Nó có thể không cầm kiếm nữa. Và ý nghĩ đó vừa nhẹ vừa nặng theo cách mà cô chưa từng biết.
-
-"Câu hỏi không phải 'ai khóa tôi ở đây,'" cô nói, giọng nhẹ hơn — không phải nhẹ vui, mà nhẹ buông. "Là 'tôi ở đây vì điều gì — và điều đó còn đúng không?'"
-
-Anh ta gật đầu. Không nói thêm. Câu hỏi đó — câu hỏi đúng — đã được đặt ra. Và cô sẽ phải trả lời, nhưng không phải đêm nay.
-
-**Kết chương:** Đêm đó Vela không ngủ. Không phải vì lo — mà vì câu hỏi đang thành hình trong cô, và cô cần nhìn nó thành hình hoàn toàn. Lần đầu tiên trong hai trăm năm, cô không hỏi "tại sao tôi không thể đi?" — mà hỏi "tại sao tôi chưa đi?" Và khác nhau giữa hai câu hỏi đó là khác nhau giữa ngục tù và lựa chọn. Cô nằm trên giường cũ, nhìn trần nhà, và lần đầu tiên nghĩ: nếu tôi đi, tôi sẽ đi vì tôi chọn. Không phải vì lời nguyền cho phép. Vì tôi muốn. Và ý nghĩ đó — ý nghĩ muốn — lạ đến mức cô gần như không nhận ra nó là của mình.
+Bốn mươi người đứng bên kia. Elara nhìn họ. Nhìn Lyss — cô bé ngồi trên cỏ, vẽ hình bằng ngón tay trên đất. Nhìn Corin — anh ta đứng, chờ, luôn chờ. Nhìn ba mươi tám người còn lại. Mười hai năm — không phí. Không bao giờ phí.
 
 ---
-

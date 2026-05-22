@@ -3,8 +3,9 @@ layout: ../../../../layouts/ChapterLayout.astro
 chapter: 39
 story: "/works/aethermoor/trong-the"
 total: 40
-title: "Chương 39: Giữa Không Phải Của Mình"
+title: "Chương Chương 39: Giữa Không Phải Của Mình"
 ---
+
 Chỉ huy Thẩm Vấn Giả nhìn thấy cô trước khi cô đến cửa tu viện. Đúng — vì Sera không giấu. Cô đi thẳng — từ rừng ra đồng, từ bóng ra sáng, từ ẩn ra hiện. Kiếm Thệ Thiết trên tay, sáng xanh mờ, mạch đập. Áo mài, giáp nhẹ, mắt thẳng. Cô đi như người đi khi không cần che giấu: đi để người thấy, đi để người biết, đi để người tính lại.
 
 Chỉ huy giơ tay — dừng đội. Mười hai Thẩm Vấn Giả dừng. Họ nhìn cô — nhìn kiếm, nhìn ánh sáng xanh trên lưỡi, nhìn dáng đi mà người trong nghề nhận ngay: Linh Phong. Linh Phong mới breakthrough — Thệ Vang còn ẩm, còn trào nhẹ, còn sáng trên lưỡi kiếm nhiều hơn thường. Nhưng Linh Phong. Cấp sáu. Đủ để chỉ huy tính lại.
@@ -62,4 +63,3 @@ Lira đến cạnh cô. Đứng. Không nói — cho đến khi Thẩm Vấn Gi�
 "Có," Sera nói. Và tiếp tục đi.
 
 ---
-

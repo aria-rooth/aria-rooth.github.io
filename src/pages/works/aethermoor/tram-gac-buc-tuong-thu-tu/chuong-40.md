@@ -2,60 +2,70 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 40
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 45
-title: "Chương 41: Mira"
----
-*Mảnh thứ ba không đến từ gần chết — nó đến vì cô đã sẵn sàng.*
-
-Sáng hôm ấy. Vela tuần tra một mình — Calla ngủ, Theo ghi chép, và cô cần đi. Không phải vì có dấu hiệu. Mà vì cần bước. Cần khoảng cách giữa mình và tháp, giữa mình và người, để nghe xem có gì còn ở lại trong đầu cô sau đêm qua.
-
-Tên Mira vẫn ở đó. Không phải ký ức đầy — chỉ là tên, như mỏ neo ném xuống nước chưa chạm đáy. Nó giữ chỗ. Chờ phần còn lại đến.
-
-Và phần còn lại đến.
-
-Không phải từ đau. Chẳng phải từ gần chết. Chỉ đến — như cửa mở khi không còn bị khóa, như gió lùa qua khe hẹp khi bão vừa đi. Lời nguyền đã lỏng. Tier 9 đã vỡ. Ký ức đã chờ đủ lâu, và bây giờ nó không cần xin phép nữa.
-
-Mira.
-
-Cô gái trẻ hơn Vela mười tuổi. Mái tóc tối, cắt ngang vai, luôn có lọn rối bên tai. Đôi mắt hay cười — không phải cười xã giao hay cười an ủi, mà là cười vì thấy buồn cười, cười vì thế giới vẫn còn thứ đáng cười. Vela nhớ đôi mắt đó. Nhớ cách chúng híp lại khi Mira thấy gì đó kỳ, nhớ cách chúng mở to khi ngạc nhiên, nhớ cách chúng nhìn cô — Vela — như thể cô là điều đáng ngạc nhiên nhất.
-
-Họ sống trong một ngôi làng. Không nhớ tên. Không nhớ vị trí chính xác — chỉ là phía Nam, nơi đất còn ấm, nơi thảo nguyên chưa xám. Ngôi nhà nhỏ. Hai giường, một bàn, cửa sổ nhìn ra đồng. Mira học — không phải tu luyện, mà là học chữ, học số, học những thứ mà người bình thường học. Cô ta không có linh lực. Không có Tier. Chỉ là người. Người bình thường trong thế giới không bình thường, và điều đó — việc cô ta bình thường — là điều Vela yêu nhất. Vì bình thường là thứ hiếm nhất. Bình thường là thứ dễ mất nhất.
-
-Vela nhớ: ăn cơm cùng nhau. Mira than vãn về việc học — "Tại sao phải nhớ ba mươi loại thuần thảo? Ai cần ba mươi loại?" — và Vela nghe. Không nói nhiều. Chỉ nghe. Và Mira biết cô đang nghe, nên cô ta nói tiếp, và tiếp, và tiếp, cho đến khi cả hai cười vì một câu nói ngu ngốc mà chỉ họ hiểu.
-
-Vela nhớ: buổi tối. Mira ngồi cạnh cửa sổ, đọc, tóc rối, ánh nến vàng trên mặt. Vela đứng canh — không phải canh ngoài. Canh trong. Ở trong nhà, gần đủ để chạm, nhưng không chạm, vì Mira đang đọc và Vela không muốn ngắt. Canh vì muốn. Canh vì bình yên đó — bình yên của người đang đọc sách bên cạnh bạn — là thứ cô muốn bảo vệ hơn bất kỳ thứ gì khác trên thế giới.
-
-Rồi Thần Chiến bắt đầu.
-
-Vela nhớ điều đó khác — không phải từ ký ức đầy mà từ cảm giác. Cảm giác của đất run, của Aether trong không khí đặc đột ngột, của tiếng xa xa mà cô biết là tiếng chiến. Và cảm giác khác — khẩn cấp. Phải đi. Không phải muốn đi. Phải. Có thứ gì đó đang đến, và nếu cô không đi, thứ đó sẽ đến làng, và làng không có cách chống lại, và Mira —
-
-Mira.
-
-Vela hứa sẽ về. Cô nhớ điều đó — nhớ môi mình mở, nhớ giọng mình nói "tôi sẽ về," nhớ tay Mira nắm tay cô và nắm chặt, nhớ mắt Mira không cười lần đó, mắt đen, mắt sợ, mắt biết rằng Vela sẽ đi và có thể không về.
-
-Cô đi.
-
-Tìm đến Velhar. Xin sức mạnh. Xin bảo vệ. Xin bất cứ thứ gì đủ để bảo vệ Mira — bảo vệ làng — bảo vệ thế giới nhỏ mà cô biết. Xin với giọng khẩn, xin với nỗi sợ, xin bằng tất cả những gì cô có, và Velhar nghe. Velhar cho. Velhar ký hợp đồng. Hợp đồng rõ ràng: sức mạnh đổi lấy phục vụ, bất tử đổi cho bảo vệ, cô sẽ mạnh đủ để bảo vệ người cô chỉ định — và cô sẽ không rời bỏ, sẽ không dừng, sẽ chiến đấu đến khi không còn gì để chiến đấu.
-
-Cô ký. Không ngần ngại. Vì Mira.
-
-Rồi cô về. Về muộn.
-
-Mira chết.
-
-Không phải trong trận chiến anh hùng. Chẳng phải trong đòn sát thương từ Thần Vương hay linh lực từ lãnh vực. Chỉ là — chết. Một trong vô số người thường không có tên trong biên niên sử. Làng bị càn quét trong lúc cô đi. Mira ở đó. Mira không ở đó nữa. Và khi Vela về, chỉ còn nhà trống, bàn trống, cửa sổ trống, và đêm.
-
-Vela ngồi xuống giữa đường tuần tra. Chẳng phải vì thương. Chẳng phải vì kiệt. Chỉ ngồi. Như người vừa nghe tin và cần đất dưới chân để biết mình vẫn còn ở đây.
-
-Ký ức trôi. Không phải dòng chảy — mà là tĩnh. Toàn bộ đời cô với Mira, nén lại, rồi mở ra trong một hơi thở: tám năm. Tám năm ăn cùng nhau, ngủ cùng nhau, cãi nhau vì nhỏ nhặt, cười nhau vì ngu ngốc. Tám năm. Và cô đã bỏ tám năm đó để đi xin sức mạnh từ thần, và khi về, tám năm đó đã hết. Không phải vì cô không bảo vệ. Mà vì cô bảo vệ sai cách. Vì cô đi tìm sức mạnh thay vì ở lại yếu. Vì cô nghĩ mạnh hơn nghĩa là bảo vệ tốt hơn, và sai. Sai hoàn toàn.
-
-Cô ngồi trên đá. Gió Bắc thổi. Lạnh. Cô không lạnh — Linh Việt không lạnh theo cách thường. Nhưng cô cảm thấy lạnh. Lạnh từ trong, từ chỗ Mira đã ở, chỗ mà bây giờ trống. Trống như nhà trống, như bàn trống, như cửa sổ trống.
-
-Nửa giờ. Cô ngồi nửa giờ. Rồi đứng dậy. Không phải vì hết buồn. Mà vì còn việc. Bức tường vẫn ở đây. Pale Creatures vẫn đến. Calla và Theo vẫn ở tháp. Và cô — cô vẫn đứng ở đây, vì chọn, vì muốn, vì đây là điều duy nhất cô biết cách làm sau khi mất mọi thứ khác.
-
-Không khóc. Vela không khóc. Không phải vì kiềm chế. Mà vì khóc cần năng lượng mà cô không có, và vì khóc không mang Mira về. Chỉ ngồi. Rồi đứng. Rồi đi. Đường tuần tra còn dài. Trận tối nay có thể đến. Và cô sẽ chiến đấu — như mọi đêm — vì đó là việc cô làm. Việc duy nhất cô biết làm đúng.
-
-**Kết chương:** Cô nhớ tất cả bây giờ: cô đã đến gặp Velhar để xin sức mạnh bảo vệ Mira. Mira đã chết trước khi cô kịp về. Và cô đã ở đây — canh gác, chiến đấu, không cho phép bản thân nghỉ ngơi — vì không còn chỗ nào khác để đi. Không còn ai để về. Không còn nhà với cửa sổ nhìn ra đồng. Chỉ còn bức tường, và đêm, và kiếm, và việc đứng ở đây vì chưa biết cách đứng ở đâu khác.
-
+total: 40
+title: "Chương Chương 40: Giữa Hai Phía"
 ---
 
+Sáng. Deven Ash đã thức cả đêm — cô ta ghi chép từ lúc cổng kêu đến lúc Elara đọng kiếm, và giờ tay cô ta mỏi, sổ đầy nửa, bút cần mực mới. Nhưng mắt cô ta không mỏi — mắt sáng, đói, đói biết, như luôn.
+
+Họ ngồi trong lều. Trà. Lạnh. Gió bắc không ngừng từ đêm qua — hoặc Elara mới nhận ra, vì đêm qua cô bận hơn để ý gió. Cô uống trà. Nóng. Ấm tay. Đôi khi ấm tay đủ để nghĩ rõ hơn.
+
+*Anh ta là Revenant Captain,* Deven Ash nói. Không hỏi — kết luận. Cô ta mở cuộn giấy bản đồ, chỉ vào chú thích cũ: *Domain của Thần Tử Di Thương giữ người chết. Người chết giữ ý chí. Ý chí mạnh trở thành Revenant — không phải bóng hình, không phải linh hồn. Là người chết giữ lại đủ bản lĩnh chiến đấu.*
+
+*Revenant,* Elara lặp. *Anh ta không giống người thường chết.*
+
+*Người thường chết — loại 1, loại 2 — mất ý chí khi chết, hoặc giữ ý chí nhưng yếu. Revenant giữ ý chí mạnh, và ý chí mạnh trong domain thần chết... trở thành thứ khác. Không xấu. Nhưng không đơn giản.* Deven Ash nhìn cô. *Anh ta sẽ thử lại.*
+
+*Tôi biết.*
+
+*Cô có giữ được?*
+
+Elara nghĩ. Đêm qua cô giữ — áp đặt ý chí, đẩy anh ta lùi. Nhưng anh ta lùi vì bất ngờ, không vì yếu. Lùi vì đánh giá, không vì sợ. Lần sau, anh ta sẽ biết cách cô giữ — biết ý chí cô đóng ở đâu, biết Linh Nguyên cô chảy thế nào, biết cơ chế cổng đáp ra sao. Và anh ta sẽ thử khác. Thông minh hơn. Mạnh hơn. Hoặc — tệ nhất — anh ta sẽ không thử một mình.
+
+*Chưa chắc,* cô nói. Thật. Không phải khiêm tốn — khiêm tốn không phải cách người gác nói. Thật vì thật là cách duy nhất để chuẩn bị đúng.
+
+Deven Ash gật đầu. Không an ủi. Không nói *cô sẽ ổn*. Cô ta lấy bút, ghi: *Revenant Captain xuất hiện. Loại 3+. Đẩy lại lần đầu. Sẽ thử lại. Người giữ chưa chắc giữ được dài hạn.*
+
+Cô ta ghi thô — thẳng, không修饰. Như người ghi chép chiến trường, ghi sự thật trước khi sự thật biến thành câu chuyện. Và Elara trân trọng điều đó. Trong nơi mà một mình mười hai năm dễ tự lừa — *tôi ổn, tôi giữ được, không có gì thay đổi* — người bên cạnh ghi *chưa chắc* là người bên cạnh cô cần.
+
+Họ nói chuyện thêm. Về Revenant — có bao nhiêu trong domain, có cách nào phân biệt sớm không, có thể đàm phán được không. Deven Ash không có đáp cho hầu hết — tài liệu cũ ít, và cũ, và nhiều cái ghi *không rõ*. Nhưng cô ta có câu hỏi sắc, và câu hỏi sắc đôi khi quý hơn đáp mờ.
+
+Chiều. Deven Ash ngủ — ngủ bù, vì thức đêm. Elara ngồi trước cổng. Không thiền, không ghi, chỉ ngồi. Ngày. Bình thường — cỏ, gió, mây, sương. Nhưng bình thường giờ khác bình thường mười hai năm trước, vì cô biết thứ gì đó nằm dưới bình thường — domain, rỉ, Revenant, gọi — và biết là khác không biết. Không tốt hơn, không xấu hơn. Khác.
+
+Lyss xuất hiện sớm hơn thường — không phải hoàng hôn mà chiều muộn, khi nắng còn vàng. Cô bé bước tới, ngồi cạnh Elara. Không nói — chỉ ngồi. Hai người, bên cổng, nhìn chiều tà.
+
+*Em nghĩ,* Lyss nói, sau lâu. *Nếu người kia muốn qua — tại sao chị không cho?*
+
+Elara nhìn cô bé. Tay Lyss đêm qua — lạnh, nhỏ, siết chặt. Sợ. Nhưng sáng nay cô bé hỏi. Không phải tò mò. Muốn hiểu. Và hiểu là cách không sợ.
+
+*Anh ta không giống em,* Elara nói. *Em qua — em ngồi, em nói, em về. Em ổn định. Anh ta không ổn định. Anh ta đẩy, ép, phá. Nếu anh ta qua, anh ta có thể không chỉ ngồi.*
+
+*Nhưng anh ta có lý.* Lyss nói, giọng nhỏ nhưng chắc. *Anh ta đứng lâu. Anh ta muốn ra. Giống em muốn ra. Giống Corin muốn ra.*
+
+Đúng. Lyss đúng. Revenant Captain có lý — anh ta đứng trong domain, không biết bao lâu, và anh ta muốn ra. Lý đó giống lý Lyss, giống lý Corin. Khác nhau ở cách — cách anh ta muốn, cách anh ta thử, cách anh ta đòi — nhưng lý giống. Và nếu lý giống, thì từ chối anh ta khác từ chối người loại 3 loạn thế nào? Từ chối người loạn là bảo vệ. Từ chối người có lý là... phán xét.
+
+*Em nói đúng,* Elara nói. *Nhưng đúng không có nghĩa là cho qua. Đúng nghĩa là tôi phải nghĩ kỹ hơn.*
+
+Lyss gật đầu — đứa trẻ hiểu, vì đứa trẻ này đã chết hai trăm năm và hiểu rằng đúng và làm là hai thứ khác, và khoảng cách giữa chúng đôi khi rộng bằng biển.
+
+Hoàng hôn đến. Bốn mươi hai người xuất hiện — quen vị trí, quen nhịp, quen đứng. Nhưng Revenant Captain không xuất hiện ở vị trí cũ. Anh ta đứng xa hơn — sâu hơn — lưng quay, nhìn vào trong. Như người nghe thứ gì đó từ sâu, và thứ đó quan trọng hơn người gác bên ngoài. Đêm nay anh ta không thử. Nhưng anh ta còn đó. Chờ. Biết mình chờ.
+
+Elara ghi vào *Người Đứng*:
+
+*Revenant Captain. Xuất hiện đêm 6 sau thử. Đẩy lại — lùi để đánh giá. Đêm 7: không thử, đứng sâu, nghe domain. Sẽ thử lại. Khi? Không biết. Cách? Không biết. Lyss nói: anh ta có lý. Đúng. Nhưng đúng không có nghĩa là an toàn. Tôi cần cách giữa từ chối và cho qua — giữa đóng và mở. Chưa có.*
+
+Cô dừng bút. Nhìn dòng cuối. Rồi viết thêm:
+
+*Mười hai năm tôi giữ một phía. Giờ tôi đứng giữa hai. Giữa người muốn ra và người cần giữ ra. Giữa lý và an toàn. Giữa mở và đóng. Tôi cần tìm cách đứng ở giữa mà không bị hai phía nghiền.*
+
+Đóng sổ. Đêm. Lạnh. Gió bắc. Bốn mươi hai người đứng bên kia. Lyss ngủ — cô bé ngủ tựa vào Elara, nhỏ, lạnh, nhẹ như sương. Corin canh — anh ta không ngủ, đứng nhìn domain, như lính canh nhìn biên giới. Deven Ash ngủ trong lều, bút trong tay, như ngủ với vũ khí.
+
+Và Elara — Linh Vương, người gác, người nhiên liệu, người chèo — ngồi giữa tất cả, kiếm bên cạnh, nhật ký trong balo, mười hai năm trong xương, và câu hỏi mới nhất trong đầu:
+
+Làm sao để đứng giữa hai phía mà không chọn phía?
+
+Arc 2 kết — nhưng không phải bằng quyết định, mà bằng câu hỏi. Vì câu hỏi đôi khi là cách tốt nhất để bắt đầu arc mới.
+
+---
+
+*Tiếp theo: Arc 3 — Phía Sai (Chương 41–65).*

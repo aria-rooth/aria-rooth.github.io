@@ -3,8 +3,9 @@ layout: ../../../../layouts/ChapterLayout.astro
 chapter: 38
 story: "/works/aethermoor/trong-the"
 total: 40
-title: "Chương 38: Không Phải Của Mình Để Bảo Vệ"
+title: "Chương Chương 38: Không Phải Của Mình Để Bảo Vệ"
 ---
+
 Họ chạy. Chạy không phải chạy nước rút — chạy hành quân nhanh: đều, nhịp, giữ sức. Mỗi bước đếm, mỗi nhịp thở đếm, mỗi giây đếm. Thời gian là khoảng cách giữa người thường và đau, và khoảng cách đó đang ngắn lại từng phút. Cova dẫn đường — cô ta biết đường tắt, đường rừng, đường mà bản đồ không vẽ. Cova chạy nhanh dù máu trên áo — sinh đôi, Bạc Ty Linh Đoàn, hai mươi ba năm rèn luyện: chạy là thứ cô ta làm trước khi biết đánh, chạy là cách cô ta sống sót khi Đoàn tan, chạy là cách cô ta đến được Sera trong đêm.
 
 Sera chạy sau Cova. Lira chạy sau Sera — không phải năm bước, lần này ba, vì chạy cần gần hơn, gần để nghe, gần để phản ứng, gần để nếu Cova bẫy thì Lira có Sera trong tầm dao. Cova không bẫy — Sera biết, vì Thệ Vang không cảnh báo. Thệ Vang mới: cảnh báo ngoài, cảnh báo trước. Đất dưới chân cô đọc: đường Cova chạy là đường thật, không bẫy, không vòng. Đất nhớ. Đất biết. Cô nghe đất.
@@ -17,7 +18,7 @@ Sera kể. Mười hai Thẩm Vấn Giả. Chỉ huy — Linh Phong, có thể L
 
 Cova thở nhanh bên cạnh. "Fen còn trong đó. Vestra. Sáu người thường trong tu viện. Thẩm Vấn Giả nói: giao người từ Bạc Ty Linh Đoàn, phần còn lại tự do. Không giao — tất cả bị thẩm vấn."
 
-Thẩm vấn. Thẩm vấn Thẩm Vấn Giả: hỏi bằng đau. Đau không phải đòn — đòn là thô. Thẩm Vấn Giả hỏi bằng Linh Nguyên: kênh Linh Nguyên vào cơ thể người hỏi, kích thích dây thần kinh, kích thích không tổn thương — nhưng đau hơn đòn vì đau từ trong, đau không có vết, đau mà người bị không chỉ được bằng mắt thường. Đau cho đến khi nói. Nói — xong — thả. Hoặc không thả. Không thả là thường.
+Thẩm vấn — hỏi bằng Linh Nguyên, đau từ trong, không vết. Đau cho đến khi nói. Hoặc không thả.
 
 Sera nhìn tu viện. Nhìn Thẩm Vấn Giả. Nhìn Cova — máu trên áo, mắt đỏ, tay run. Cova đã chạy đêm để tìm Sera. Cova chạy vì Cova biết: Sera đánh được. Sera có Thệ Thiết. Sera vừa breakthrough. Sera là hy vọng — hy vọng nhỏ, hy vọng mỏng, nhưng hy vọng duy nhất Cova có.
 
@@ -38,4 +39,3 @@ Cô đứng dậy. Kiếm trên tay. Lira đứng bên — dao trên tay. Cova n
 Sera bước ra khỏi bóng cây.
 
 ---
-
