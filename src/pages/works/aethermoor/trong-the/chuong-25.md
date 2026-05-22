@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 25
 story: "/works/aethermoor/trong-the"
-total: 30
+total: 35
 title: "Chương 25: Bức Thư Không Gửi Đi"
 ---
 
