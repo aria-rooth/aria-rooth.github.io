@@ -5,6 +5,7 @@ story: "/works/aethermoor/trong-the"
 total: 40
 title: "Chương 33: Gặp Lại"
 ---
+
 Lira không nói nhiều trong ba ngày đi đến Essam. Cô ta nói khi cần — chỉ đường, cảnh báo, chia tin. Còn lại: im. Sera quen. Im của Lira khác im của Sera: Sera im vì không có gì cần nói. Lira im vì nói là chi phí, và chi phí không đáng thì không nói. Cùng kết quả. Khác cơ chế.
 Rừng Vorthane nhường chỗ cho rừng Essam — khác ngay từ bước chân đầu tiên. Vorthane đặc, ẩm, tối. Essam rộng, lạnh, sáng hơn — cây thưa, khoảng cách giữa cây lớn hơn, và gió Bắc thổi xuyên, mang theo mùi băng từ xa. Nhiệt độ giảm: từ mười lăm độ ở Vorthane xuống tám độ khi vào vùng biên giới Essam. Sera thấy hơi thở mình — trắng, mỏng, tan nhanh trong gió. Lira kéo áo chặt hơn. Cô ta quen lạnh — Free Sword ngủ ngoài nhiều đêm — nhưng quen không nghĩa là thích.
 Tu viện nằm cuối con đường mòn — đường mòn mà Sera đoán không hơn mười người đi mỗi năm, vì cỏ mọc giữa hai vệt bánh xe, và rễ không bị đạp. Tu viện không có tên trên bản đồ. Aldric sẽ biết — ông biết mọi nơi ẩn. Nhưng Aldric chết, và kiến thức ông mang theo tro lò rèn, và Sera phải tự tìm đường từ thông tin Lira mua bằng tiền và kiên nhẫn.

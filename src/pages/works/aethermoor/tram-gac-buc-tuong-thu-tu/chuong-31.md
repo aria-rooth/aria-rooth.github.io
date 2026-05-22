@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 31: Áp Lực"
 ---
+
 ← [Chương 30](chuong-30)  **Chương 31/35**  → [Chương 32](chuong-32)
 
 ---

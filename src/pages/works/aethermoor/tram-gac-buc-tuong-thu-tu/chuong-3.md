@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 3: Lành"
 ---
+
 ← [Chương 2](chuong-2)  **Chương 3/35**  → [Chương 4](chuong-4)
 
 ---

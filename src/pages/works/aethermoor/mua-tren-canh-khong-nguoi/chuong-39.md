@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 40
 title: "Chương 39: Lần Đầu"
 ---
+
 Chuyện xảy ra đêm sau.
 
 Elara không ngủ — cô đã quen không ngủ nhiều, bốn tiếng mỗi đêm, nhưng đêm nay cô bỏ cả bốn. Cô ngồi trước cổng, kiếm trong vỏ bên cạnh, *Người Đứng* mở trên đùi. Ghi chép. Ghi dao động, ghi số lượng, ghi lời Lyss, ghi cảm nhận domain gọi. Ghi — vì ghi là cách cô xử lý, và xử lý là cách cô chuẩn bị, và cô cần chuẩn bị, vì thứ gì đó đang đến.

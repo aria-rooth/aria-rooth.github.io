@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 26: Mối Nguy Mới"
 ---
+
 ← [Chương 25](chuong-25)  **Chương 26/35**  → [Chương 27](chuong-27)
 
 ---

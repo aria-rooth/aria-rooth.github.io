@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 35
 title: "Chương 35: Kiếm Rút (Cuối Arc 2)"
 ---
+
 ← [Chương 34](chuong-34)  **Chương 35/35**  → [Chương 36](chuong-36)
 
 ---

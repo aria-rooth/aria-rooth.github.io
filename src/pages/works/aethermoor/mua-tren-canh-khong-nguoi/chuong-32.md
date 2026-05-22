@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 35
 title: "Chương 32: Người Có Bản Đồ"
 ---
+
 ← [Chương 31](chuong-31)  **Chương 32/35**  → [Chương 33](chuong-33)
 
 ---

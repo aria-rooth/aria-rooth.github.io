@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 22: Trước Khi"
 ---
+
 ← [Chương 21](chuong-21)  **Chương 22/35**  → [Chương 23](chuong-23)
 
 ---

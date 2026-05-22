@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 26: Người Thứ Hai Qua Cổng"
 ---
+
 ← [Chương 25](chuong-25)  **Chương 26/30**  → [Chương 27](chuong-27)
 
 ---

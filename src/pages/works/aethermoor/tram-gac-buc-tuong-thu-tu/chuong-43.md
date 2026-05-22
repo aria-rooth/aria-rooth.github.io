@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 45
 title: "Chương 43: Lựa Chọn"
 ---
+
 *Lần đầu tiên trong hai trăm năm, cô chủ động quyết định điều gì đó.*
 
 Hai ngày. Vela tuần tra, chiến đấu, làm mọi thứ thường làm. Nhưng bên trong đang xử lý. Như máy nghiền đá — chậm, liên tục, không dừng — tâm trí cô quay đi quay lại cùng câu hỏi: bây giờ thì sao?

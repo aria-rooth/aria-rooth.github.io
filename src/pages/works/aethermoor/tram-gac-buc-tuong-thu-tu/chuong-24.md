@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 24: Đêm Không Có Tấn Công"
 ---
+
 ← [Chương 23](chuong-23)  **Chương 24/35**  → [Chương 25](chuong-25)
 
 ---

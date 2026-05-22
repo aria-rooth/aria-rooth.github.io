@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 33: Giữ Chặt"
 ---
+
 ← [Chương 32](chuong-32)  **Chương 33/35**  → [Chương 34](chuong-34)
 
 ---

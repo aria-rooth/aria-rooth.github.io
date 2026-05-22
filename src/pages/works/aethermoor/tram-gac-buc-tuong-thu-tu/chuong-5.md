@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 5: Đội Thám Hiểm"
 ---
+
 ← [Chương 4](chuong-4)  **Chương 5/35**  → [Chương 6](chuong-6)
 
 ---

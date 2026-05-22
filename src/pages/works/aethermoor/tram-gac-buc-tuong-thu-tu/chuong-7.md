@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 7: Đêm Thứ Ba"
 ---
+
 ← [Chương 6](chuong-6)  **Chương 7/35**  → [Chương 8](chuong-8)
 
 ---

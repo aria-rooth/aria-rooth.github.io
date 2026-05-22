@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 10: Hai Thế Giới"
 ---
+
 ← [Chương 9](chuong-9)  **Chương 10/35**  → [Chương 11](chuong-11)
 
 ---

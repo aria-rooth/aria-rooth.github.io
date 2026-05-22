@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 40
 title: "Chương 40: Giữa Hai Phía"
 ---
+
 Sáng. Deven Ash đã thức cả đêm — cô ta ghi chép từ lúc cổng kêu đến lúc Elara đọng kiếm, và giờ tay cô ta mỏi, sổ đầy nửa, bút cần mực mới. Nhưng mắt cô ta không mỏi — mắt sáng, đói, đói biết, như luôn.
 
 Họ ngồi trong lều. Trà. Lạnh. Gió bắc không ngừng từ đêm qua — hoặc Elara mới nhận ra, vì đêm qua cô bận hơn để ý gió. Cô uống trà. Nóng. Ấm tay. Đôi khi ấm tay đủ để nghĩ rõ hơn.

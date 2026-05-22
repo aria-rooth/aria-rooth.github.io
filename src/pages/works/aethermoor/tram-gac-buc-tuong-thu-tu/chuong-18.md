@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 18: Rời Đi"
 ---
+
 ← [Chương 17](chuong-17)  **Chương 18/35**  → [Chương 19](chuong-19)
 
 ---

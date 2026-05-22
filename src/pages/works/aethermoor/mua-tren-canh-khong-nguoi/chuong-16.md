@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 16: Quyết Định Đầu Tiên"
 ---
+
 ← [Chương 15](chuong-15)  **Chương 16/30**  → [Chương 17](chuong-17)
 
 ---

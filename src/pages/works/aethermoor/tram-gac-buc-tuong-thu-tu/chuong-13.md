@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 13: Giá Của Sự Hiện Diện"
 ---
+
 ← [Chương 12](chuong-12)  **Chương 13/35**  → [Chương 14](chuong-14)
 
 ---

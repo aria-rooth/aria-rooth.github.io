@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 17: Sau Đó"
 ---
+
 ← [Chương 16](chuong-16)  **Chương 17/35**  → [Chương 18](chuong-18)
 
 ---

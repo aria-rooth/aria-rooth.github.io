@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 35
 title: "Chương 31: Linh Nguyên Có Ký (Thiên Địa Hữu Ký)"
 ---
+
 ← [Chương 30](chuong-30)  **Chương 31/35**  → [Chương 32](chuong-32)
 
 ---

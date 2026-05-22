@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 18: Mưa Và Quyết Định"
 ---
+
 ← [Chương 17](chuong-17)  **Chương 18/30**  → [Chương 19](chuong-19)
 
 ---

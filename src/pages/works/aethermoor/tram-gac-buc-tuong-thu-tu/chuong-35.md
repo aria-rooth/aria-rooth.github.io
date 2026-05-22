@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 35: Thứ Gì Đó Đang Đến"
 ---
+
 ← [Chương 34](chuong-34)  **Chương 35/35**
 
 ---

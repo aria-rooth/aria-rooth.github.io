@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 32: Dưới Bề Mặt"
 ---
+
 ← [Chương 31](chuong-31)  **Chương 32/35**  → [Chương 33](chuong-33)
 
 ---

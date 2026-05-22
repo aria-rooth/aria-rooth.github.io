@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 16: Làn Sóng"
 ---
+
 ← [Chương 15](chuong-15)  **Chương 16/35**  → [Chương 17](chuong-17)
 
 ---

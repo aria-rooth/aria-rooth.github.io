@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 11: Vỡ Ra"
 ---
+
 ← [Chương 10](chuong-10)  **Chương 11/35**  → [Chương 12](chuong-12)
 
 ---

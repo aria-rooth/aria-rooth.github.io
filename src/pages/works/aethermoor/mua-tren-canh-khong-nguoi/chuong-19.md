@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 19: Đặt Điều Kiện"
 ---
+
 ← [Chương 18](chuong-18)  **Chương 19/30**  → [Chương 20](chuong-20)
 
 ---

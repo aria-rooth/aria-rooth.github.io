@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 13: Tôi Muốn Biết"
 ---
+
 ← [Chương 12](chuong-12)  **Chương 13/30**  → [Chương 14](chuong-14)
 
 ---

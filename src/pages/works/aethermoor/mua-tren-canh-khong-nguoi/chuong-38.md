@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 40
 title: "Chương 38: Bên Trong Gọi"
 ---
+
 Đêm thứ sáu sau khi cô bắt đầu thử.
 
 Elara thiền — thói quen, nền tảng, mười hai năm nền tảng. Kênh Linh Nguyên mở, chảy qua cổng, chảy vào mạch, chảy vào sâu. Thiền thường là im lặng — dòng chảy êm, đều, không gợn. Nhưng đêm nay — gợn.

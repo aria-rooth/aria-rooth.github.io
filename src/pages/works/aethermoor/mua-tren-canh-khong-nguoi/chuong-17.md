@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 17: Cuộc Trò Chuyện Qua Cổng"
 ---
+
 ← [Chương 16](chuong-16)  **Chương 17/30**  → [Chương 18](chuong-18)
 
 ---

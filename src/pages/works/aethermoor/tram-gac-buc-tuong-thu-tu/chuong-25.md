@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 25: Cấp Độ"
 ---
+
 ← [Chương 24](chuong-24)  **Chương 25/35**  → [Chương 26](chuong-26)
 
 ---

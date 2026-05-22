@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 1: Thứ Ba"
 ---
+
 **Chương 1/30**  → [Chương 2](chuong-2)
 
 ---

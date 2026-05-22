@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 34: Cân Bằng Mới"
 ---
+
 ← [Chương 33](chuong-33)  **Chương 34/35**  → [Chương 35](chuong-35)
 
 ---

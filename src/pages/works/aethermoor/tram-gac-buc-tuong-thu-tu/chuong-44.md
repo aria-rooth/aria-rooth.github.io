@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 45
 title: "Chương 44: Vũ Khí"
 ---
+
 *Lần đầu tiên, cô hỏi về điều khoản thay vì chỉ tuân.*
 
 Velhar hiện thân vào ban ngày — không phải ban đêm, không phải trong chiến đấu. Giữa ban ngày, giữa tháp, bóng dáng tối đứng đối diện Vela. Không phải dạng năng lượng — mà là hiện thân thật. Có thể nhìn thấy, có thể nghe, có thể đối đầu.

@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 29: Mạch Linh Nguyên Dưới Cổng"
 ---
+
 ← [Chương 28](chuong-28)  **Chương 29/30**  → [Chương 30](chuong-30)
 
 ---

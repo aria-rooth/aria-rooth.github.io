@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 15: Lần Đầu Tiên Giao Tiếp"
 ---
+
 ← [Chương 14](chuong-14)  **Chương 15/30**  → [Chương 16](chuong-16)
 
 ---

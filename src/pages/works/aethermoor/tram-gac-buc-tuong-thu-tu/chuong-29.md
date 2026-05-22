@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 29: Cầu Xin"
 ---
+
 ← [Chương 28](chuong-28)  **Chương 29/35**  → [Chương 30](chuong-30)
 
 ---

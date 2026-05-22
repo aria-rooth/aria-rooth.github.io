@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 45
 title: "Chương 42: Hiểu"
 ---
+
 *Không phải Velhar khóa cô ở đây. Là cô tự khóa.*
 
 Vela trở về tháp. Calla thức — cô ta nhìn Vela và biết điều gì đã xảy ra, không phải chi tiết, mà là loại: thay đổi lớn đã đến. Cô ta không hỏi. Vela gật đầu nhẹ — "tôi ổn" — và đó không phải lời dối, chỉ là cách cô ấy nói "tôi sẽ xử lý." Calla chấp nhận và quay lại vị trí.

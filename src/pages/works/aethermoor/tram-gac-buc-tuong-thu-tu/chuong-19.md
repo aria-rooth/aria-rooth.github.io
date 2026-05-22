@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 19: Một"
 ---
+
 ← [Chương 18](chuong-18)  **Chương 19/35**  → [Chương 20](chuong-20)
 
 ---

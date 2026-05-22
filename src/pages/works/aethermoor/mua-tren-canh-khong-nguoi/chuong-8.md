@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 8: Số Lượng"
 ---
+
 ← [Chương 7](chuong-7)  **Chương 8/30**  → [Chương 9](chuong-9)
 
 ---

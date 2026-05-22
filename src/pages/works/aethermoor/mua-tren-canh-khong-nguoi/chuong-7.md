@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 7: Nhịp Điệu"
 ---
+
 ← [Chương 6](chuong-6)  **Chương 7/30**  → [Chương 8](chuong-8)
 
 ---

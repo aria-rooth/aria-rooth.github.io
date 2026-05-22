@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 45
 title: "Chương 41: Mira"
 ---
+
 *Mảnh thứ ba không đến từ gần chết — nó đến vì cô đã sẵn sàng.*
 
 Sáng hôm ấy. Vela tuần tra một mình — Calla ngủ, Theo ghi chép, và cô cần đi. Không phải vì có dấu hiệu. Mà vì cần bước. Cần khoảng cách giữa mình và tháp, giữa mình và người, để nghe xem có gì còn ở lại trong đầu cô sau đêm qua.

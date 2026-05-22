@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 12: Mảnh Đầu Tiên"
 ---
+
 ← [Chương 11](chuong-11)  **Chương 12/35**  → [Chương 13](chuong-13)
 
 ---

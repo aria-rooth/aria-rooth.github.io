@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 23: Dấu Vết"
 ---
+
 ← [Chương 22](chuong-22)  **Chương 23/35**  → [Chương 24](chuong-24)
 
 ---

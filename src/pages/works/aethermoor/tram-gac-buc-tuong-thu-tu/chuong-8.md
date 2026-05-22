@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 8: Họ Ở Lại"
 ---
+
 ← [Chương 7](chuong-7)  **Chương 8/35**  → [Chương 9](chuong-9)
 
 ---

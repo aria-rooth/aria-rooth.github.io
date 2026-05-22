@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 25: Phân Loại"
 ---
+
 ← [Chương 24](chuong-24)  **Chương 25/30**  → [Chương 26](chuong-26)
 
 ---

@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 22: Thay Đổi Nhận Thức"
 ---
+
 ← [Chương 21](chuong-21)  **Chương 22/30**  → [Chương 23](chuong-23)
 
 ---

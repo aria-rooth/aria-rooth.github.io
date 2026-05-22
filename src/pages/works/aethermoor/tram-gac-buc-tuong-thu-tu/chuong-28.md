@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 28: Lựa Chọn Không Có Tên"
 ---
+
 ← [Chương 27](chuong-27)  **Chương 28/35**  → [Chương 29](chuong-29)
 
 ---

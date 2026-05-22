@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 2: Đếm"
 ---
+
 ← [Chương 1](chuong-1)  **Chương 2/35**  → [Chương 3](chuong-3)
 
 ---

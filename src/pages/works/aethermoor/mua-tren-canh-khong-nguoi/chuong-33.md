@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 35
 title: "Chương 33: Bản Đồ Sai"
 ---
+
 ← [Chương 32](chuong-32)  **Chương 33/35**  → [Chương 34](chuong-34)
 
 ---

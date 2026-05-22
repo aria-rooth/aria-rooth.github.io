@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 20: Sự Thật Của Lyss"
 ---
+
 ← [Chương 19](chuong-19)  **Chương 20/30**  → [Chương 21](chuong-21)
 
 ---

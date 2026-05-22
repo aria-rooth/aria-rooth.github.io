@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 5: Người Đầu Tiên"
 ---
+
 ← [Chương 4](chuong-4)  **Chương 5/30**  → [Chương 6](chuong-6)
 
 ---

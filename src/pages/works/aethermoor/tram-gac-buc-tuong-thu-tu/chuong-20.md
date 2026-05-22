@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 20: Quyết Định Không Được Đặt Tên"
 ---
+
 ← [Chương 19](chuong-19)  **Chương 20/35**  → [Chương 21](chuong-21)
 
 ---

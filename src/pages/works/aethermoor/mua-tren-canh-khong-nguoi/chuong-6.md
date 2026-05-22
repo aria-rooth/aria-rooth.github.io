@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 6: Bóng Hình Đầu Tiên"
 ---
+
 ← [Chương 5](chuong-5)  **Chương 6/30**  → [Chương 7](chuong-7)
 
 ---

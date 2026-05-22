@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 10: Nhật Ký Mới"
 ---
+
 ← [Chương 9](chuong-9)  **Chương 10/30**  → [Chương 11](chuong-11)
 
 ---

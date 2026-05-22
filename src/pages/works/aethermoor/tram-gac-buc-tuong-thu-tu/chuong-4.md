@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 4: Nhịp Điệu Của Tường"
 ---
+
 ← [Chương 3](chuong-3)  **Chương 4/35**  → [Chương 5](chuong-5)
 
 ---

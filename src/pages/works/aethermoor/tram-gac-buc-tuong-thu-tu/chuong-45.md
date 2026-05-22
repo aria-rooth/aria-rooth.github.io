@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 45
 title: "Chương 45: Đứng"
 ---
+
 *Không phải kết thúc. Chỉ là biết tại sao mình đứng ở đây.*
 
 Ngày sau cuộc đối thoại với Velhar. Trời sáng bình thường. Không có hiện thân. Không có áp lực thần thánh. Không có dạng thể năng lượng. Chỉ là sáng — cam, hồng, xám — và gió, và đá, và bức tường vẫn ở đó, như hai trăm năm nay.

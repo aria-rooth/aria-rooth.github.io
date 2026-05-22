@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
 title: "Chương 2: Nhật Ký Quan Sát, Ngày 4.380"
 ---
+
 ← [Chương 1](chuong-1)  **Chương 2/30**  → [Chương 3](chuong-3)
 
 ---

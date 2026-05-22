@@ -5,6 +5,7 @@ story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
 total: 35
 title: "Chương 9: Câu Hỏi Không Có Câu Trả Lời"
 ---
+
 ← [Chương 8](chuong-8)  **Chương 9/35**  → [Chương 10](chuong-10)
 
 ---

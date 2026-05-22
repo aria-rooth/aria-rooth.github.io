@@ -5,6 +5,7 @@ story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 40
 title: "Chương 37: Nhiều Hơn"
 ---
+
 Số lượng tăng.
 
 Không phải đột ngột — không có đêm nào thêm mười người cùng lúc. Tăng chậm, như sương dày dần, như cỏ mọc sau mưa: mỗi đêm thêm một, hai, đôi khi ba. Ba mươi. Ba mươi hai. Ba mươi lăm. Bốn mươi. Elara đếm — cô luôn đếm, từ đêm đầu tiên một người đứng, đến giờ bốn mươi người đứng, và mỗi đêm có thể thêm.
