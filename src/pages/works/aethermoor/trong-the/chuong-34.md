@@ -3,8 +3,6 @@ layout: ../../../../layouts/ChapterLayout.astro
 chapter: 34
 story: "/works/aethermoor/trong-the"
 total: 40
-title: "Chương 34: Tu Viện Cuối Rừng"
----
 
 ---
 Sera không ngủ ngay. Cô ngồi trên giường tu viện — giường hẹp, đệm mỏng, chăn len thô — và xử lý.

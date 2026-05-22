@@ -3,8 +3,6 @@ layout: ../../../../layouts/ChapterLayout.astro
 chapter: 33
 story: "/works/aethermoor/trong-the"
 total: 40
-title: "Chương 33: Gặp Lại"
----
 
 ---
 Lira không nói nhiều trong ba ngày đi đến Essam. Cô ta nói khi cần — chỉ đường, cảnh báo, chia tin. Còn lại: im. Sera quen. Im của Lira khác im của Sera: Sera im vì không có gì cần nói. Lira im vì nói là chi phí, và chi phí không đáng thì không nói. Cùng kết quả. Khác cơ chế.
