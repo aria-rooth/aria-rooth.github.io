@@ -6,8 +6,6 @@ total: 40
 title: "Chương 31: Giáo Hội Có Mắt Ở Đâu"
 ---
 
----
-## Chương 31: Giáo Hội Có Mắt Ở Đâu
 Sera đếm.
 Ba người biết Aldric ở lò rèn. Cô. Tên Thẩm Vấn Giả chạy trốn đêm trận. Thám tử tư. Ba nguồn. Ba mắt. Giáo Hội chỉ cần một.
 Lira vẽ trên bàn gỗ quán trọ Venn's Hollow — ngón tay nhúng nước mưa, đường nét mờ trên mặt bàn xước. Cô ta vẽ sơ đồ: ba điểm. Sera ở giữa. Đường nối từ mỗi điểm đến Sera. Rồi đường nối từ mỗi điểm đến một vòng tròn lớn — Giáo Hội.

@@ -6,8 +6,6 @@ total: 40
 title: "Chương 32: Ba Ngày Một Mình"
 ---
 
----
-## Chương 32: Ba Ngày Một Mình
 Ngày thứ nhất. Sera đi về phía Đông Bắc — không phải đường thẳng đến Havel's Cross, là đường vòng qua thung lũng phía Nam. Lý do: nếu ai đó theo dõi cô từ Venn's Hollow, họ sẽ đoán cô đi thẳng. Đi vòng mất thêm nửa ngày, nhưng nửa ngày mua được khoảng cách — khoảng cách giữa cô và mắt, giữa mắt và tin, giữa tin và hành động.
 Rừng Vorthane nhạt dần khi cô đi về phía đông — cây thưa hơn, rễ ít hơn, ánh sáng nhiều hơn. Đất cứng lại — không còn ẩm đặc như sâu rừng, mà khô nhẹ, như da người già: vẫn mềm nhưng không còn đàn hồi. Linh Nguyên cũng khác: mạch nông hơn, chảy nhanh hơn, không thấm mà tràn. Cô cảm nhận bằng bàn chân — Aldric dạy cô cảm nhận qua bàn chân trước khi dùng tay: đất truyền Linh Nguyên lên qua đế giày, qua da, qua xương, vào trong. Ở sâu rừng, Linh Nguyên ấm — ấm sâu, ấm từ trong. Ở vùng nông, Linh Nguyên mát — mát bề mặt, mát như nước suối chảy qua đá.
 Cô luyện kiếm khi dừng trưa. Không phải tập — là luyện. Khác. Tập là lặp lại động tác cho quen. Luyện là dùng động tác để kiểm soát thứ bên trong. Aldric nói: kiếm là van. Thệ Vang là nước. Van kiểm soát nước — không giữ, không thả, chỉ điều tiết. Luyện kiếm là luyện van: mở bao nhiêu, đóng bao nhiêu, nhanh hay chậm, theo nhu cầu hay theo bản năng.

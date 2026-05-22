@@ -6,8 +6,6 @@ total: 40
 title: "Chương 35: Các Đoàn Khác"
 ---
 
----
-## Chương 35: Các Đoàn Khác
 Lửa chiều. Cova nấu — canh rễ Essam, nấm rừng, nước xương (từ đâu Sera không hỏi, tu viện có dự trữ, dự trữ đủ sống). Canh nhạt — nhưng ấm, và ấm ở Essam đáng giá hơn vị. Bốn người ngồi quanh lò: Sera, Lira, Fen, Cova. Vestra trong nhà — bà không ngồi cùng, không phải vì không mời, vì bàn này không phải bàn bà. Bàn này là bàn người mang kiếm. Bà không mang kiếm. Bà mang nước, thuốc, và nơi ẩn — đủ quý, nhưng khác loại.
 Fen kể. Chậm. Từng mảnh.
 "Mạng lưới cũ," anh ta bắt đầu. "Giữa các Đoàn. Không chính thức — không có hợp đồng, không có thề, không có Thệ Hạch chung. Chỉ là cách người nói chuyện khi người đó hiểu nhau. Hiệp Sĩ Đoàn gặp Hiệp Sĩ Đoàn khác — ở quán rượu, ở chợ, ở đường. Nói chuyện. Chia tin. Cảnh báo. Đơn giản."
