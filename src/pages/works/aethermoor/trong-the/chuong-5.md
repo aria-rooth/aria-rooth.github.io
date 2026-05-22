@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 5
 story: "/works/aethermoor/trong-the"
-total: 35
+total: 30
 title: "Chương 5: Những Gì Không Được Phép Chết"
 ---
 

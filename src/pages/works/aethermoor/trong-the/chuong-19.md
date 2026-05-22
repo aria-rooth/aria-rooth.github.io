@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 19
 story: "/works/aethermoor/trong-the"
-total: 35
+total: 30
 title: "Chương 19: Những Gì Đất Ghi Nhớ (Thiên Địa Hữu Ký)"
 ---
 

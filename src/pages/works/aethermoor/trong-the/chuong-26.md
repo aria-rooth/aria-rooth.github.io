@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 26
 story: "/works/aethermoor/trong-the"
-total: 35
+total: 30
 title: "Chương 26: Manh Mối Về Di Vật"
 ---
 

@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 6
 story: "/works/aethermoor/trong-the"
-total: 35
+total: 30
 title: "Chương 6: Giọng Nói Từ Thép"
 ---
 
