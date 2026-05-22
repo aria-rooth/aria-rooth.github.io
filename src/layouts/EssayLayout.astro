@@ -11,6 +11,15 @@ const { frontmatter } = Astro.props;
     <title>{frontmatter.title ? `${frontmatter.title} — Aria Rooth` : 'Aria Rooth'}</title>
   </head>
   <body>
+    <header>
+      <nav>
+        <a href="/" class="site-title">Aria Rooth</a>
+        <div class="nav-links">
+          <a href="/about">About</a>
+          <a href="/essays">Essays</a>
+        </div>
+      </nav>
+    </header>
     <main>
       <article>
         <div class="essay-header">
