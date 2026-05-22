@@ -8,7 +8,7 @@ title: "Chương 4: Nhịp Điệu Của Tường"
 
 ← [Chương 3](chuong-3)  **Chương 4/35**  → [Chương 5](chuong-5)
 
----
+***
 
 
 
@@ -53,6 +53,6 @@ Vela không hỏi tại sao mình làm. Không phải vì không có câu trả 
 
 Cô trét đất sét vào vết nứt. Sẽ không giữ được lâu. Nhưng hôm nay thì giữ.
 
----
+***
 
 ← [Chương 3](chuong-3)  **Chương 4/35**  → [Chương 5](chuong-5)

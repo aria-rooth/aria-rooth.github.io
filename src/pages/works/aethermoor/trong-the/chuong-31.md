@@ -29,5 +29,5 @@ Sera ngồi trong phòng trọ Venn's Hollow. Một mình. Lần đầu tiên k�
 Một mình. Trọng lượng của hai từ đó khác nhau tùy lúc. Đêm Đoàn tan — một mình nặng, nặng theo cách mà nặng khi không còn ai để nặng cùng. Ở lò rèn Aldric — một mình vừa, vừa vì cô có người dạy, có người nấu, có người ở gần dù không nói. Đi cùng Lira — không một mình, và không một mình nhẹ hơn một mình, nhẹ theo cách mà nhẹ khi gánh chia. Giờ: một mình nhẹ hơn đêm Đoàn tan, nhưng nặng hơn đi cùng Lira. Cô đo khoảng cách: giữa một mình-hại và một mình-cần chừng hai tuần. Cô đã đi từ hại đến cần. Tiến bộ — nếu tiến bộ là từ nặng sang vừa.
 Thệ Vang trong phòng trọ yên — không phải yên tĩnh, là yên nghỉ. Như bốn mươi bảy người đã chết cùng thở đều trong thép, không nói, không thúc, chỉ ở. Sera nghe thở đều đó và nhận ra: một mình không phải trống. Một mình là ở cùng người đã chết, và người đã chết không rời đi. Bốn mươi bảy mảnh. Bốn mươi bảy người. Tất cả trong kiếm. Tất cả với cô. Một mình với bốn mươi bảy — cô chưa từng thực sự một mình. Chỉ là một mình với người không nói. Và người không nói đôi khi ồn hơn người nói — ồn theo cách mà im lặng ồn khi im lặng đặc.
 Cô đứng dậy. Kiếm gắn lưng. Bốn mảnh giấy trong áo. Một mình đi — một mình với bốn mươi bảy.
----
+***
 

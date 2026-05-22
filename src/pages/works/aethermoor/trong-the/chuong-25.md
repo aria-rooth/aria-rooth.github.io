@@ -26,5 +26,5 @@ Sera nhìn tro. Tro giấy — đen, nhẹ, bay khi có gió. Nhưng không bay 
 Lira uống nước. Sera uống nước. Ngoài cửa sổ, thị trấn Harren's Cross thức dậy — tiếng ngựa, tiếng người, tiếng hàng hóa đổ từ xe. Hai người ngồi trong im lặng thoải mái lần đầu tiên kể từ khi gặp nhau. Không phải bạn. Không phải đồng minh. Nhưng đủ để ngồi yên, uống nước, và không cần giải thích tại sao mình còn thức lúc sáng sớm, tại sao mình đốt thư, tại sao mình mang kiếm vào phòng trọ.
 Đôi khi, im lặng thoải mái là thứ gần nhất với tin tưởng mà hai người không tin nhau có thể có.
 *→ [Chương 26–30](2b-ch26-30.md)*
----
+***
 

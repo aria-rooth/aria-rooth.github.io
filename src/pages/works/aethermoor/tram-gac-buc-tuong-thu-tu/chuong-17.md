@@ -8,7 +8,7 @@ title: "Chương 17: Sau Đó"
 
 ← [Chương 16](chuong-16)  **Chương 17/35**  → [Chương 18](chuong-18)
 
----
+***
 
 
 
@@ -57,6 +57,6 @@ Hai từ. Chúng nằm giữa họ. Không đủ. Vela biết rằng dù cô đ�
 
 *Cô quen chết. Chưa quen biết tên người chết.*
 
----
+***
 
 ← [Chương 16](chuong-16)  **Chương 17/35**  → [Chương 18](chuong-18)

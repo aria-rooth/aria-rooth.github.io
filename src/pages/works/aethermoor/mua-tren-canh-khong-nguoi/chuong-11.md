@@ -8,7 +8,7 @@ title: "Chương 11: Một Bóng Hình Cử Động"
 
 ← [Chương 10](chuong-10)  **Chương 11/30**  → [Chương 12](chuong-12)
 
----
+***
 
 
 
@@ -114,6 +114,6 @@ Không có dấu vết. Đất không bị đạp nhiều hơn bình thường. 
 
 Nhưng cô có tập *Người Đứng.* Và cô đã viết.
 
----
+***
 
 ← [Chương 10](chuong-10)  **Chương 11/30**  → [Chương 12](chuong-12)

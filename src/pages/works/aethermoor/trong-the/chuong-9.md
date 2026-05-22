@@ -42,5 +42,5 @@ Aldric bước đến bệ rèn. Đặt tay lên cán kiếm — không nắm, c
 Aldric nhìn cô. Cùng ánh mắt mà ông nhìn cô bốn năm trong phòng bếp — nhưng giờ không có bát canh giữa họ, không có lò bếp, không có phòng ăn. Chỉ có lửa rèn và kiếm.
 *"Cô có muốn biết mình đang mang bao nhiêu thề ước không?"*
 Sera nói có.
----
+***
 

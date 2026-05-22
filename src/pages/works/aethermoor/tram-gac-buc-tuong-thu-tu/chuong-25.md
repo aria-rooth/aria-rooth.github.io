@@ -8,7 +8,7 @@ title: "Chương 25: Cấp Độ"
 
 ← [Chương 24](chuong-24)  **Chương 25/35**  → [Chương 26](chuong-26)
 
----
+***
 
 
 
@@ -78,6 +78,6 @@ Vela không trả lời. Nhưng câu hỏi ở lại — như "muộn" trong cu�
 - Chỗ hiệu đính giọng văn: 1 (bổ sung chiều sâu)
 - Intentional style giữ nguyên: toàn bộ prose Vela (nhịp chậm, nội tâm mơ hồ)
 
----
+***
 
 ← [Chương 24](chuong-24)  **Chương 25/35**  → [Chương 26](chuong-26)

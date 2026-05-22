@@ -8,7 +8,7 @@ title: "Chương 17: Cuộc Trò Chuyện Qua Cổng"
 
 ← [Chương 16](chuong-16)  **Chương 17/30**  → [Chương 18](chuong-18)
 
----
+***
 
 
 
@@ -89,6 +89,6 @@ Cô đóng sổ. Ngồi trong sáng sớm. Lạnh. Lạnh của gió bắc, lạ
 
 *Kết chương*
 
----
+***
 
 ← [Chương 16](chuong-16)  **Chương 17/30**  → [Chương 18](chuong-18)

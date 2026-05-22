@@ -8,7 +8,7 @@ title: "Chương 16: Quyết Định Đầu Tiên"
 
 ← [Chương 15](chuong-15)  **Chương 16/30**  → [Chương 17](chuong-17)
 
----
+***
 
 
 
@@ -65,6 +65,6 @@ Nhưng cuối cùng hoàng hôn cũng đến. Và cô đứng sẵn.
 
 *Kết chương*
 
----
+***
 
 ← [Chương 15](chuong-15)  **Chương 16/30**  → [Chương 17](chuong-17)

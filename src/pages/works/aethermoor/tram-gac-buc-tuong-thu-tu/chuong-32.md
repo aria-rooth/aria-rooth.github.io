@@ -8,7 +8,7 @@ title: "Chương 32: Dưới Bề Mặt"
 
 ← [Chương 31](chuong-31)  **Chương 32/35**  → [Chương 33](chuong-33)
 
----
+***
 
 
 
@@ -57,6 +57,6 @@ Vela nhìn tay mình. Đang lành — vết thương cuối cùng từ đợt t�
 
 *Vela nhìn tay mình và hỏi: cô đã là thứ gì trong suốt thời gian đó? Linh Vương nữ ký hợp đồng hai trăm năm trước — hoặc không, hoặc chưa chắc, nhưng có lẽ. Linh Vương nữ biến mất. Nhưng Vela Ashmarch vẫn ở đây, và cô mạnh hơn Linh Vương, và cô không biết mạnh bao nhiêu, vì không ai đo, vì không ai hỏi, vì cô chỉ đứng và đánh và lành và đánh lại, và mỗi lần lành, cô mạnh hơn một chút, và hai trăm năm "một chút" tích lũy thành điều gì đó mà cô chưa có tên.*
 
----
+***
 
 ← [Chương 31](chuong-31)  **Chương 32/35**  → [Chương 33](chuong-33)

@@ -40,5 +40,5 @@ Lira đến. Cô ta nghe hết — cách Lira nghe: không lộ diện, nhưng �
 Sera gật. Giáo Hội dùng Thẩm Vấn Giả — đồng phục, kỷ luật, người nhiều. Người theo dõi cô là dân thường được thuê — thám tử, trung gian, chim thư. Khác hệ thống. Giáo Hội có mắt khắp nơi, nhưng mắt Giáo Hội là mắt quân sự: nhìn thẳng, báo lên trên, hành động theo lệnh. Mắt này là mắt thương mại: mua bán, chuyển tiếp, không trách nhiệm. Ai đó ngoài Giáo Hội muốn biết cô ở đâu. Ai đó có tiền. Ai đó có lý do.
 Sera ghi chú trong đầu: thêm một biến số. Cô đã có Giáo Hội. Giờ có thêm bên thứ ba — chưa rõ là ai, chưa rõ muốn gì. Chỉ biết: họ không tấn công. Họ theo dõi. Theo dõi nghĩa là cô còn giá trị sống — chết thì không ai theo. Giá trị gì? Chưa biết. Nhưng giá trị đó đủ để trả tiền thám tử, đủ để cẩn thận không lộ diện, đủ để kiên nhẫn.
 Họ tiếp tục đi. Sera đổi đường — không phải đường đến đích, là đường khó theo. Nhiều rẽ. Nhiều rễ. Nhiều suối che tiếng chân. Người theo dõi mới — nếu có — sẽ mất dấu trong rừng Vorthane. Hoặc sẽ mất thời gian. Thời gian là thứ Sera không đủ — nhưng cũng là thứ cô cần mua thêm.
----
+***
 

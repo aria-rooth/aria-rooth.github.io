@@ -8,7 +8,7 @@ title: "Chương 29: Mạch Linh Nguyên Dưới Cổng"
 
 ← [Chương 28](chuong-28)  **Chương 29/30**  → [Chương 30](chuong-30)
 
----
+***
 
 
 
@@ -59,6 +59,6 @@ Cô nhìn về hướng nam — hướng Caelmyr, hướng thế giới sống. 
 
 *Kết chương*
 
----
+***
 
 ← [Chương 28](chuong-28)  **Chương 29/30**  → [Chương 30](chuong-30)

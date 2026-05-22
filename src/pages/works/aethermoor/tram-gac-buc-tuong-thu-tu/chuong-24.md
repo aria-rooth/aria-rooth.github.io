@@ -8,7 +8,7 @@ title: "Chương 24: Đêm Không Có Tấn Công"
 
 ← [Chương 23](chuong-23)  **Chương 24/35**  → [Chương 25](chuong-25)
 
----
+***
 
 
 
@@ -59,6 +59,6 @@ Vela nhìn anh ta. Nhìn cách anh ta đặt bút xuống — đặt chậm, đ�
 
 *Có lẽ đó là đủ cho hôm nay — một từ, một câu hỏi, một cửa hơi hé. Không cần mở rộng. Chỉ cần biết nó ở đó.*
 
----
+***
 
 ← [Chương 23](chuong-23)  **Chương 24/35**  → [Chương 25](chuong-25)

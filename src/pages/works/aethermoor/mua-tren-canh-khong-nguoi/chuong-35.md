@@ -8,7 +8,7 @@ title: "Chương 35: Kiếm Rút (Cuối Arc 2)"
 
 ← [Chương 34](chuong-34)  **Chương 35/35**  → [Chương 36](chuong-36)
 
----
+***
 
 ## Chương 35: Kiếm Rút (Cuối Arc 2)
 
@@ -64,8 +64,8 @@ Arc 2 kết — không phải bằng câu trả lời, mà bằng quyết địn
 
 *Kết chương (Cột mốc Arc 2)*
 
----
+***
 
 *Tiếp theo: Arc 3 — Phía Sai (Chương 41–65).*
 
----
+***

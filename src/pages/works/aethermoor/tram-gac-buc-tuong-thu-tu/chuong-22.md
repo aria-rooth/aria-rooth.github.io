@@ -8,7 +8,7 @@ title: "Chương 22: Trước Khi"
 
 ← [Chương 21](chuong-21)  **Chương 22/35**  → [Chương 23](chuong-23)
 
----
+***
 
 
 
@@ -47,6 +47,6 @@ Cô cúi xuống, chạm tay vào đá tường. Đá lạnh, đá cũ, đá đ�
 
 *Cô muốn bảo vệ ai đó. Điều đó cô biết rồi. Nhưng ai?*
 
----
+***
 
 ← [Chương 21](chuong-21)  **Chương 22/35**  → [Chương 23](chuong-23)

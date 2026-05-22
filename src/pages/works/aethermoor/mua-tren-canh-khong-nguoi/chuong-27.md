@@ -8,7 +8,7 @@ title: "Chương 27: Người Không Được Qua"
 
 ← [Chương 26](chuong-26)  **Chương 27/30**  → [Chương 28](chuong-28)
 
----
+***
 
 
 
@@ -61,6 +61,6 @@ Cô dừng. Viết thêm:
 
 *Kết chương*
 
----
+***
 
 ← [Chương 26](chuong-26)  **Chương 27/30**  → [Chương 28](chuong-28)

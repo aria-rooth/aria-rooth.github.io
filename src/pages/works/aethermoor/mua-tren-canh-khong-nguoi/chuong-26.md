@@ -8,7 +8,7 @@ title: "Chương 26: Người Thứ Hai Qua Cổng"
 
 ← [Chương 25](chuong-25)  **Chương 26/30**  → [Chương 27](chuong-27)
 
----
+***
 
 
 
@@ -75,6 +75,6 @@ Cô dừng. Nhìn dòng cuối. Rồi viết thêm, nhỏ hơn, góc trang:
 
 *Kết chương*
 
----
+***
 
 ← [Chương 25](chuong-25)  **Chương 26/30**  → [Chương 27](chuong-27)

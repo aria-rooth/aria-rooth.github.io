@@ -8,7 +8,7 @@ title: "Chương 25: Phân Loại"
 
 ← [Chương 24](chuong-24)  **Chương 25/30**  → [Chương 26](chuong-26)
 
----
+***
 
 
 
@@ -85,6 +85,6 @@ Cô không biết cô có đủ khả năng. Nhưng cô biết cô là người 
 - **Ch.24:** Outline ghi "người đàn ông hét" — prose mô tả anh ta mặc quân phục kiểu 50-60 năm, gợi anh ta chết trong chiến tranh gần đây hơn Lyss. Không ghi trong outline, nhưng không mâu thuẫn.
 - **Ch.25:** Outline ghi ba loại phân loại — prose giữ nguyên. Thêm beat "quyền vs trách nhiệm" để bridge từ ch.25 sang ch.28 (Quyền Phán Xét).
 
----
+***
 
 ← [Chương 24](chuong-24)  **Chương 25/30**  → [Chương 26](chuong-26)

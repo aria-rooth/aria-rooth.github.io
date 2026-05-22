@@ -36,5 +36,5 @@ Lira không hỏi tại sao. Cô ta cũng không nói *được.* Cô ta chỉ �
 "Tôi không hứa sẽ ở lại khi mọi thứ trở nên khó hơn," Lira nói. Giọng bình — không phải đe, là thông báo. Thông báo trước để sau không cần giải thích.
 "Tôi không yêu cầu cô hứa," Sera nói.
 Hai người rời quán Trắng. Havel's Cross nhộn nhịp hơn Venn's Hollow — đường chính có xe, chợ bán cả gỗ lẫn kim loại, tiếng người ồn hơn. Sera đi trước. Lira đi sau — khoảng cách năm bước, đủ gần để nghe, đủ xa để không trông như cặp. Họ đi về phía Bắc. Essam. Nơi có người sống sót khác. Nơi có thể có câu trả lời. Hoặc nơi có thể có thêm câu hỏi — nhưng thêm câu hỏi vẫn hơn thêm người chết.
----
+***
 

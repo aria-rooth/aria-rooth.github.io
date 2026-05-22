@@ -8,7 +8,7 @@ title: "Chương 8: Số Lượng"
 
 ← [Chương 7](chuong-7)  **Chương 8/30**  → [Chương 9](chuong-9)
 
----
+***
 
 
 
@@ -90,6 +90,6 @@ Và đợi bình minh.
 
 *Câu chuyện của Elara Stonewatch — Bạch Hành Linh Đoàn, trạm canh Huyền Môn Cốt, năm thứ mười hai.*
 
----
+***
 
 ← [Chương 7](chuong-7)  **Chương 8/30**  → [Chương 9](chuong-9)

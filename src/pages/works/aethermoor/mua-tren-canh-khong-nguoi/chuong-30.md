@@ -8,7 +8,7 @@ title: "Chương 30: Câu Hỏi Thứ Mười Hai Năm"
 
 ← [Chương 29](chuong-29)  **Chương 30/30**
 
----
+***
 
 
 
@@ -74,6 +74,6 @@ Cô nhìn về phía nam. Thế giới sống ở đó. Và thế giới sống 
 
 *Tiếp theo: Chương 31 — Linh Nguyên Có Ký (Thiên Địa Hữu Ký).*
 
----
+***
 
 ← [Chương 29](chuong-29)  **Chương 30/30**

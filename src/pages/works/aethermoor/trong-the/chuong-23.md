@@ -35,5 +35,5 @@ Kellen ngẩn ra. Nhìn Lira. Nhìn Sera. Rồi gật — chậm, nặng, như g
 Sera và Lira ở lại quán khi Kellen rời đi. Họ không nói nhau — mỗi người tự xử lý thông tin theo cách riêng. Sera lắng nghe Thệ Vang. Nó im — im theo cách đất im trước động đất: không phải yên, là đang tích. Lira lau ly — ly của quán, không phải ly của cô, nhưng cô lau vì tay cô cần việc khi đầu cô cần nghĩ. Cùng loại lau ly như chủ quán Vorthane. Cùng loại bận tay để tránh bận đầu.
 Pattern. Sera nhìn pattern. Trọng Nham Hỏa Đạo — phát hiện di tích Pale Frontier, bị diệt. Hoàng Tinh Linh Đoàn — Thệ Hạch bị mua, tan nội bộ. Bạch Linh Mạc Đoàn — đưa thám hiểm vào Pale Frontier, bị bóp kinh tế. Ba Đoàn. Ba cách chết. Một điểm chung: Pale Frontier. Một kẻ thù: Phong Quang Thánh Giáo.
 Cô cần xem danh sách.
----
+***
 

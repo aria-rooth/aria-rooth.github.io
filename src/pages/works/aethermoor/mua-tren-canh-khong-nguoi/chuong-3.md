@@ -8,7 +8,7 @@ title: "Chương 3: Những Gì Ở Lại"
 
 ← [Chương 2](chuong-2)  **Chương 3/30**  → [Chương 4](chuong-4)
 
----
+***
 
 
 
@@ -110,6 +110,6 @@ Cô tiếp tục tuần tra.
 
 *Câu chuyện của Elara Stonewatch — Bạch Hành Linh Đoàn, trạm canh Huyền Môn Cốt, năm thứ mười hai.*
 
----
+***
 
 ← [Chương 2](chuong-2)  **Chương 3/30**  → [Chương 4](chuong-4)

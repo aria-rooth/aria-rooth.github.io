@@ -38,4 +38,4 @@ Cô đứng dậy. Kiếm trên tay. Lira đứng bên — dao trên tay. Cova n
 
 Sera bước ra khỏi bóng cây.
 
----
+***

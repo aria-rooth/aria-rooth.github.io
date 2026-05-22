@@ -8,7 +8,7 @@ title: "Chương 13: Tôi Muốn Biết"
 
 ← [Chương 12](chuong-12)  **Chương 13/30**  → [Chương 14](chuong-14)
 
----
+***
 
 
 
@@ -134,6 +134,6 @@ Elara đứng. Chờ.
 # Mưa Trên Cảnh Không Người
 *Arc 2 — Người Trở Về*
 
----
+***
 
 ← [Chương 12](chuong-12)  **Chương 13/30**  → [Chương 14](chuong-14)

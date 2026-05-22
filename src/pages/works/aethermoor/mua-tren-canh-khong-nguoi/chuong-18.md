@@ -8,7 +8,7 @@ title: "Chương 18: Mưa Và Quyết Định"
 
 ← [Chương 17](chuong-17)  **Chương 18/30**  → [Chương 19](chuong-19)
 
----
+***
 
 
 
@@ -75,6 +75,6 @@ Mưa lớn. Cổng mờ. Elara ướt. Cô ngồi, và chờ, và nghĩ, và kh�
 
 *Kết chương*
 
----
+***
 
 ← [Chương 17](chuong-17)  **Chương 18/30**  → [Chương 19](chuong-19)

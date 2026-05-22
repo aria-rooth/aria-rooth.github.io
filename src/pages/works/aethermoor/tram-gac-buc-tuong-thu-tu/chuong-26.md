@@ -8,7 +8,7 @@ title: "Chương 26: Mối Nguy Mới"
 
 ← [Chương 25](chuong-25)  **Chương 26/35**  → [Chương 27](chuong-27)
 
----
+***
 
 
 
@@ -59,6 +59,6 @@ Cô không trả lời. Không phải vì không biết — mà vì cô không m
 
 *Đứng và đánh — cô đã làm điều đó hai trăm năm. Nhưng lần này, có người đứng cạnh cô, và cô không biết điều đó làm cô mạnh hơn hay yếu đi.*
 
----
+***
 
 ← [Chương 25](chuong-25)  **Chương 26/35**  → [Chương 27](chuong-27)

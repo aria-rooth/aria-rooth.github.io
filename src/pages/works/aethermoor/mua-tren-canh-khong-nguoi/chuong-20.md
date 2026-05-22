@@ -8,7 +8,7 @@ title: "Chương 20: Sự Thật Của Lyss"
 
 ← [Chương 19](chuong-19)  **Chương 20/30**  → [Chương 21](chuong-21)
 
----
+***
 
 
 
@@ -87,6 +87,6 @@ Lyss nhìn cô. Nhìn khoảng trống. Nhìn hai mươi chín người phía sa
 
 *← [Chương 14–15](../published/europa-ch14-15-final.md)*
 
----
+***
 
 ← [Chương 19](chuong-19)  **Chương 20/30**  → [Chương 21](chuong-21)

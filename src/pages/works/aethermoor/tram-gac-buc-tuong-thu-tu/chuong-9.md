@@ -8,7 +8,7 @@ title: "Chương 9: Câu Hỏi Không Có Câu Trả Lời"
 
 ← [Chương 8](chuong-8)  **Chương 9/35**  → [Chương 10](chuong-10)
 
----
+***
 
 
 
@@ -84,6 +84,6 @@ Anh ta ghi chú. Việc nhỏ. Việc không quan trọng. Nhưng anh ta ghi ch�
 
 Vela không biết điều đó có nghĩa gì. Nhưng cô ghi nhận nó — cùng cách cô ghi nhận mọi thứ.
 
----
+***
 
 ← [Chương 8](chuong-8)  **Chương 9/35**  → [Chương 10](chuong-10)

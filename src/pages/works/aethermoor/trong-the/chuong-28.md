@@ -30,5 +30,5 @@ Lira kể về đời sống Free Sword. Không phải vì Sera hỏi — vì Li
 "Hối hận là thứ dành cho người có lựa chọn tốt hơn," Lira nói. "Tôi không có lựa chọn tốt hơn. Rời Đoàn là lựa chọn đúng. Ở lại sẽ chết chậm hơn — chết trong tranh cãi, chết trong bất mãn, chết trong phòng họp mà không cần kiếm. Tôi chọn chết chậm bên ngoài — nhưng chết theo cách tôi chọn."
 Sera gật. Cô hiểu. Aldric cũng chọn: ông ở lại lò rèn, ông rèn, ông nấu, ông dạy. Ông cũng chết — chết vì cô, gián tiếp, vì người đến lò rèn tìm cô và thấy ông. Nhưng ông chết theo cách ông chọn: ở nơi ông muốn, làm việc ông muốn, cho người ông chọn. Chọn — không phải lựa chọn tốt. Chọn — lựa chọn duy nhất mà người ta có thể sống với.
 Họ dọn dẹp ẩn cư. Không để dấu — Lira phủ đất lên tro lửa, Sera xóa dấu chân trên sàn mục. Rời đi. Rừng Vorthane tiếp tục sống quanh họ: cây, rễ, mạch Linh Nguyên xanh nhạt dưới chân, im lặng đặc, ẩm, và — ở nơi sâu nhất, nơi rễ sồi lớn chạm đất sâu — bình yên mỏng của người đã hoàn thành thề, vẫn còn đó, vẫn ấm, vẫn chờ ai đó chạm vào.
----
+***
 

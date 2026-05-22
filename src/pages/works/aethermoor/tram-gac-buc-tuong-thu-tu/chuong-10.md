@@ -8,7 +8,7 @@ title: "Chương 10: Hai Thế Giới"
 
 ← [Chương 9](chuong-9)  **Chương 10/35**  → [Chương 11](chuong-11)
 
----
+***
 
 
 
@@ -76,6 +76,6 @@ Nên cô không nói gì. Kael cũng không chờ. Đi tiếp việc.
 
 *→ [Chương 11–15](eve-ch11-15-final.md)*
 
----
+***
 
 ← [Chương 9](chuong-9)  **Chương 10/35**  → [Chương 11](chuong-11)

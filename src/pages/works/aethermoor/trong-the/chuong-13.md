@@ -36,5 +36,5 @@ Cô không nói gì. Chờ.
 Cô gật đầu. Không ép. Cô đã học từ Aldric — không phải từ lời ông dạy, mà từ cách ông sống — rằng không phải mọi thứ cần biết ngay. Có thứ cần thời gian để đọng lại, như canh cần lửa nhỏ để đặc. Ông sẽ kể. Khi ông sẵn sàng. Không phải khi cô hỏi.
 Ngoài ngõ, có tiếng bước chân đi ngang qua. Bình thường. Không dừng. Cô không nhìn.
 Ba ngày. Ba mảnh thề ước. Rồi phải đi.
----
+***
 

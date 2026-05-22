@@ -43,5 +43,5 @@ Không phải từ trong tòa nhà — từ hướng con đường chính dẫn 
 Bụi đường còn xa, nhưng đủ gần để thấy màu sắc. Áo choàng xám — màu của Inquisitor (Thẩm Vấn Giả) thuộc Thượng Hội. Nhiều người. Cô đếm bụi đường và ước tính: không phải một đội tuần tra. Một đội điều tra.
 Họ đến từ hướng đông, từ Caelmyr, và họ đi theo nhóm.
 Sera đứng ở cửa sổ và tính toán thời gian. Mười lăm phút, có thể hai mươi nếu họ đi cẩn thận. Cô không biết họ đến vì điều gì đã xảy ra tối qua — hoặc vì họ biết trước điều gì sẽ xảy ra. Cả hai khả năng đều dẫn đến cùng một kết quả: không có lý do gì để người duy nhất còn sống trong tòa nhà này tự giới thiệu với họ.
----
+***
 

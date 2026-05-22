@@ -8,7 +8,7 @@ title: "Chương 8: Họ Ở Lại"
 
 ← [Chương 7](chuong-7)  **Chương 8/35**  → [Chương 9](chuong-9)
 
----
+***
 
 
 
@@ -90,6 +90,6 @@ Chỉ là người. Đó là đủ.
 
 *Vela Ashmarch — Pale Frontier, Aethermoor*
 
----
+***
 
 ← [Chương 7](chuong-7)  **Chương 8/35**  → [Chương 9](chuong-9)

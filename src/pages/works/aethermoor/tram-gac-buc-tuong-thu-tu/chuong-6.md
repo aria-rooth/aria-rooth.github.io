@@ -8,7 +8,7 @@ title: "Chương 6: Theo"
 
 ← [Chương 5](chuong-5)  **Chương 6/35**  → [Chương 7](chuong-7)
 
----
+***
 
 
 
@@ -73,6 +73,6 @@ Nhưng đêm nay khác một chút. Có tiếng người ở dưới chân tư�
 
 Đó là đủ.
 
----
+***
 
 ← [Chương 5](chuong-5)  **Chương 6/35**  → [Chương 7](chuong-7)

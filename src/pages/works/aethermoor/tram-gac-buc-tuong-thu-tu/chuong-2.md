@@ -8,7 +8,7 @@ title: "Chương 2: Đếm"
 
 ← [Chương 1](chuong-1)  **Chương 2/35**  → [Chương 3](chuong-3)
 
----
+***
 
 
 
@@ -86,6 +86,6 @@ Bên ngoài cửa sổ không kính, Pale Frontier ngủ dưới màn sương ph
 
 Vela thổi tắt nến và nằm xuống.
 
----
+***
 
 ← [Chương 1](chuong-1)  **Chương 2/35**  → [Chương 3](chuong-3)

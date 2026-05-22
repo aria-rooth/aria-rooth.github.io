@@ -30,5 +30,5 @@ Không phải tiếng. Không phải hình ảnh. Là áp lực — loại áp l
 Cô mở mắt. Đặt tay lên cán kiếm.
 Áp lực biến mất.
 Cô nằm trong bóng tối, tay trên cán kiếm, và chờ. Nó không quay lại. Nhưng cô biết — giống cách cô biết thanh kiếm đang nặng hơn — rằng nó sẽ quay lại. Và lần sau, cô sẽ không mở mắt.
----
+***
 

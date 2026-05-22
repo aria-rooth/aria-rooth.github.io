@@ -33,5 +33,5 @@ Cô đóng cửa. Cài chốt.
 Aldric đã quay lại bệ rèn, dọn dẹp — xếp búa vào giá, phủ than bằng tro. Không nhìn cô. *"Cô thấy gì?"*
 *"Người."*
 Ông gật đầu. *"Tốt. Ngày mai chúng ta bắt đầu sớm."*
----
+***
 

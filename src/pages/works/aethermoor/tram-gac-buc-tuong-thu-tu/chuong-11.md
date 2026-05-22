@@ -8,7 +8,7 @@ title: "Chương 11: Vỡ Ra"
 
 ← [Chương 10](chuong-10)  **Chương 11/35**  → [Chương 12](chuong-12)
 
----
+***
 
 
 
@@ -77,6 +77,6 @@ Không phải vì Titan. Vì mảnh ký ức. Khuôn mặt. Đôi mắt. Sợ h�
 
 Cô không ghi vào sổ. Chưa. Chưa có số để ghi. Cô cầm sổ, ngón tay trên trang giấy trắng — nhưng không viết. Không có số cho cảm giác này.
 
----
+***
 
 ← [Chương 10](chuong-10)  **Chương 11/35**  → [Chương 12](chuong-12)

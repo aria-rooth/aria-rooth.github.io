@@ -8,7 +8,7 @@ title: "Chương 20: Quyết Định Không Được Đặt Tên"
 
 ← [Chương 19](chuong-19)  **Chương 20/35**  → [Chương 21](chuong-21)
 
----
+***
 
 
 
@@ -57,6 +57,6 @@ Không có sai lệch đáng kể. Tất cả chương 16–20 bám sát outline
 
 Quy tắc LORE_BIBLE tuân thủ: Titan, Bạch Lang Thần Thú, Bạch Ám Thú, Bạch Ảnh, lãnh vực.
 
----
+***
 
 ← [Chương 19](chuong-19)  **Chương 20/35**  → [Chương 21](chuong-21)

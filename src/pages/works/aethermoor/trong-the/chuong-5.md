@@ -33,5 +33,5 @@ Rồi biến mất.
 Sera ngồi trên mặt đất lạnh, tay vẫn trên cán kiếm, và chờ. Nó không quay lại.
 Một giây. Đủ để biết Thệ Vang không chỉ là áp lực. Nó là ký ức. Và nó đang chờ cơ hội để được nghe.
 *→ [Chương 6–10](2b-ch6-10-final.md)*
----
+***
 

@@ -8,7 +8,7 @@ title: "Chương 4: Bình Thường"
 
 ← [Chương 3](chuong-3)  **Chương 4/30**  → [Chương 5](chuong-5)
 
----
+***
 
 
 
@@ -54,6 +54,6 @@ Giống mọi ngày.
 
 Elara nằm xuống. Cơ bắp căng ra trên chiếu cói — cô không giường, chỉ có chiếu dày gấp ba lần. Lưng cô nhớ mặt đất lạnh qua chiếu. Gối cô nhớ hình dạng đầu mình. Mọi thứ ở đây đều nhớ nhau. Cô nhớ mọi thứ. Mọi thứ nhớ cô. Đó không phải hạnh phúc. Đó là sự nhẹ — như khi cơ thể cuối cùng cũng nặng vừa đủ để không bị gió thổi bay.
 
----
+***
 
 ← [Chương 3](chuong-3)  **Chương 4/30**  → [Chương 5](chuong-5)

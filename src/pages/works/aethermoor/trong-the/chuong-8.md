@@ -30,5 +30,5 @@ Sera đứng dậy, để tiền trên bàn, và rời quán.
 Ngồi trên giường cứng trong phòng trọ, kiếm ngang đùi, cô nghĩ về cái tên. Aldric thợ rèn. Người duy nhất biết cách đọc Thệ Thiết.
 Nếu Aldric còn sống — và người say nói như thể ông còn — thì ông là người tiếp theo cô cần gặp. Không phải vì nhật ký Chấp Sự hay vì Thệ Vang. Mà vì cô đang mang bốn mươi bảy mảnh thề ước trong tay, và cô không biết chúng nói gì.
 Cô cần ai đó đọc giúp. Và ở Caelmyr, có một người biết cách.
----
+***
 

@@ -8,7 +8,7 @@ title: "Chương 9: Thử Nghiệm"
 
 ← [Chương 8](chuong-8)  **Chương 9/30**  → [Chương 10](chuong-10)
 
----
+***
 
 
 
@@ -168,6 +168,6 @@ Không chờ cô làm gì. Cô biết điều đó. Họ không đợi cô chạ
 
 Điều đó đáng sợ hơn mọi thứ khác. Vì nếu họ chờ cô làm gì, cô có thể làm. Nếu họ muốn cô sợ, cô có thể không sợ. Nếu họ muốn cô chạy, cô có thể đứng. Nhưng họ không muốn gì. Họ chỉ đứng. Và sự không muốn đó — trống rỗng, vô hạn, không có lối vào — nặng hơn bất kỳ đòn tấn công nào.
 
----
+***
 
 ← [Chương 8](chuong-8)  **Chương 9/30**  → [Chương 10](chuong-10)

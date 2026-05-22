@@ -8,7 +8,7 @@ title: "Chương 14: Cô Bé"
 
 ← [Chương 13](chuong-13)  **Chương 14/30**  → [Chương 15](chuong-15)
 
----
+***
 
 
 
@@ -93,6 +93,6 @@ Cô đóng sổ. Ngồi đợi bình minh. Gió bắc yếu dần. Trời chuy�
 
 Cô bé khác.
 
----
+***
 
 ← [Chương 13](chuong-13)  **Chương 14/30**  → [Chương 15](chuong-15)

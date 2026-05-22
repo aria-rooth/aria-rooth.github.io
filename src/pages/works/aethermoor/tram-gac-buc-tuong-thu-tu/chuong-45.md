@@ -60,7 +60,7 @@ Bình minh tràn. Gió đổi hướng — Bắc sang Nam, lạnh sang ấm, ch�
 
 *Cô đứng. Và lần này, cô biết tại sao.*
 
----
+***
 
 ## Ghi Chú So với Outline
 
@@ -76,7 +76,7 @@ Xưng hô: Calla ↔ Vela = "cô" (nữ-nữ), Theo ↔ Vela = "cô" (nam-nữ),
 
 Cô đứng. Lưng thẳng. Kiếm bên cạnh. Gió Bắc thổi — lạnh, quen, như luôn. Nhưng hôm nay, cô đứng và biết tại sao. Biết không phải vì lời nguyền ép. Biết không phải vì hợp đồng buộc. Biết không phải vì không còn chỗ khác. Biết vì chọn.
 
----
+***
 
 ## # EMOTIONAL: Luna Emoread Notes (Ch.41–45)
 

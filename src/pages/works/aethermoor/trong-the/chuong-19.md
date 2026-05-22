@@ -31,5 +31,5 @@ Cả hai đúng. Cả hai không thể hòa.
 "Cẩn thận," cô nói. Chỉ vậy.
 Bà gật đầu. Mỉm cười — nụ cười của người đi cảm tạ, nhẹ nhàng, không gánh nặng. Tiếp tục đi. Sera tiếp tục đi. Hai người rẽ sang hai hướng — một người về Giáo Hội, một người rời xa. Không ai quay lại.
 Cô ghi nhận: Phong Quang Thánh Giáo không phải chỉ là kẻ thù. Họ còn là nơi người thường đặt niềm tin. Điều này không thay đổi gì. Nhưng cô ghi nhận.
----
+***
 

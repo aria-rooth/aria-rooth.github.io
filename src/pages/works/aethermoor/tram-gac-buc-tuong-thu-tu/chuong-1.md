@@ -8,7 +8,7 @@ title: "Chương 1: Công Việc"
 
 **Chương 1/35**  → [Chương 2](chuong-2)
 
----
+***
 
 
 
@@ -97,6 +97,6 @@ Xác sói nằm rải rác quanh thềm tháp. Ngày mai sẽ khô dưới gió 
 
 Không phải than thở. Không phải tuyệt vọng. Chỉ là sự ghi nhận của người biết lịch.
 
----
+***
 
 **Chương 1/35**  → [Chương 2](chuong-2)

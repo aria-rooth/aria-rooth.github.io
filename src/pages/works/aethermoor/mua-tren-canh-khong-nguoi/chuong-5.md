@@ -8,7 +8,7 @@ title: "Chương 5: Người Đầu Tiên"
 
 ← [Chương 4](chuong-4)  **Chương 5/30**  → [Chương 6](chuong-6)
 
----
+***
 
 
 
@@ -92,6 +92,6 @@ Vòng chiều bình thường. Nhưng cô bước chậm hơn một chút ở g�
 
 *→ [Chương 6–10](europa-ch6-10-final.md)*
 
----
+***
 
 ← [Chương 4](chuong-4)  **Chương 5/30**  → [Chương 6](chuong-6)

@@ -35,5 +35,5 @@ Lira mở mắt. Nhìn cô. Suy nghĩ — thật, không phải loại suy nghĩ
 Một từ. Rõ. Không do dự. Nhưng rồi im lặng thêm — im lặng mà Sera nhận ra, là phần chưa nói, phần Lira cân nhắc có nên nói hay không. Cuối cùng Lira nói, giọng nhẹ hơn, như giọng người nói với mình hơn với người khác:
 "Nhưng tôi ước Đoàn đó xứng đáng được tôi ở lại." 
 Sera không hỏi thêm. Ghi nhận. Rồi canh tiếp. Lira nhắm mắt lại. Rừng Vorthane thở quanh họ — cây, rễ, đất, Linh Nguyên xanh nhạt dưới chân — và hai người nằm trong hốc đá, kiếm cạnh người, cách nhau đúng hai bước, cùng hướng về phía một Đoàn đang hấp hối.
----
+***
 

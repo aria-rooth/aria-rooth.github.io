@@ -8,7 +8,7 @@ title: "Chương 7: Đêm Thứ Ba"
 
 ← [Chương 6](chuong-6)  **Chương 7/35**  → [Chương 8](chuong-8)
 
----
+***
 
 
 
@@ -63,6 +63,6 @@ Cô không giải thích. Không phải vì giấu — vì không cần. Họ kh
 
 Nhưng họ không hỏi. Và cô ghi nhận điều đó — ghi nhận theo cách cô ghi nhận mọi thứ: im lặng, trong đầu, không viết vào sổ. Viết ra sẽ làm nó thành sự thật đã ghi nhận, và sự thật đã ghi nhận không thể xóa.
 
----
+***
 
 ← [Chương 6](chuong-6)  **Chương 7/35**  → [Chương 8](chuong-8)

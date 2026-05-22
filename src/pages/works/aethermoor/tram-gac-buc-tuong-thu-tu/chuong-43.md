@@ -54,5 +54,5 @@ Họ cùng nhau chuẩn bị cho những gì sắp đến. Vela sửa bẫy — 
 
 Calla tham gia. Cô ta không hỏi tại sao Vela thay đổi — cô ta chỉ thấy, và chấp nhận, và làm. Linh Hùng trong trận sắp đến cần mọi chuẩn bị có thể có.
 
----
+***
 

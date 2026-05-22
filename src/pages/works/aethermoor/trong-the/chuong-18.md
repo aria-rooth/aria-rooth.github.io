@@ -26,5 +26,5 @@ Aldric gật đầu. Không nói "không có gì." Không nói "cứ đi đi." �
 Cô bước ra khỏi lò rèn. Bước đầu. Bước hai. Bước thứ ba — Thệ Vang nhẹ, giọng Jorin, chỉ là thở dài. Không phải buồn. Không phải lo. Chỉ là: *vậy thôi.* Như người già thở dài khi thấy người trẻ rời đi — không cản, không tiễn, chỉ thở.
 Lần thứ hai Sera rời bỏ nơi có người còn sống. Lần đầu: Đoàn — cô không chọn đi, sự kiện đẩy cô. Lần này: lò rèn — cô chọn. Khác biệt lớn. Ở Đoàn, khi cô bước ra cổng, cô nhìn lại một lần. Tòa nhà vẫn đứng, không có người bên trong. Ở lò rèn, cô không quay lại — vì Aldric vẫn ở đó. Vẫn đứng. Vẫn sống. Lửa vẫn sáng. Không nhìn lại dễ hơn khi người bạn để lại vẫn còn thở. Nhìn lại khó hơn giết người — vì nhìn lại nghĩa là thừa nhận mình rời bỏ, và thừa nhận luôn nặng hơn hành động.
 Sera tiếp tục đi. Thanh kiếm nặng như thường. Cô mang bốn mươi bảy mảnh thề ước, nhật ký Mordren, lệnh Giáo Hội, và một cái tên. Nặng đủ. Nhưng lần đầu tiên, cô mang vì cô chọn mang — không vì không còn ai khác để mang.
----
+***
 

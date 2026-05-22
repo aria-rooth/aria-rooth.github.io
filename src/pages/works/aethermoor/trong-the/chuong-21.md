@@ -40,5 +40,5 @@ Họ rời ngõ. Bước vào đường chính thị trấn. Trời tối. Đèn
 Bước cuối ngõ, Lira nói một câu. Không phải với Sera — như thể cô ta nói với bóng tối, hoặc với chính mình, hoặc với kiếm.
 "Phong Quang Thánh Giáo mua Thệ Hạch vỡ của mười hai người tôi đã biết. Mười hai. Tôi sẽ biết lý do." 
 Sera không đáp. Ghi nhận. Rồi tiếp tục đi.
----
+***
 

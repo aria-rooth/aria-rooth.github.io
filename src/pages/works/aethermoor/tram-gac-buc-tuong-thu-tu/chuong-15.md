@@ -8,7 +8,7 @@ title: "Chương 15: Dấu Hiệu"
 
 ← [Chương 14](chuong-14)  **Chương 15/35**  → [Chương 16](chuong-16)
 
----
+***
 
 
 
@@ -166,6 +166,6 @@ Cô không biết điều đó có nghĩa gì. Nhưng cô ghi nhận.
 
 *→ [Chương 16–20](eve-ch16-20-final.md)*
 
----
+***
 
 ← [Chương 14](chuong-14)  **Chương 15/35**  → [Chương 16](chuong-16)

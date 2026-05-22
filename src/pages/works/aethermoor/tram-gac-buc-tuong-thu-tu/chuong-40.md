@@ -66,6 +66,6 @@ Làm sao để đứng giữa hai phía mà không chọn phía?
 
 Arc 2 kết — nhưng không phải bằng quyết định, mà bằng câu hỏi. Vì câu hỏi đôi khi là cách tốt nhất để bắt đầu arc mới.
 
----
+***
 
 *Tiếp theo: Arc 3 — Phía Sai (Chương 41–65).*

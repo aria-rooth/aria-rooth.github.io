@@ -138,4 +138,4 @@ Lira đến cạnh cô. Máu trên dao — không phải máu cô. Lira sạch �
 
 Họ đi. Nhanh. Để chín người phía sau — hai chết, bốn gãy, ba sợ. Chỉ huy còn sống — nách cầm chưa thì sống. Sera để sống vì sống báo tin: Linh Phong. Trọng Nham Hỏa Đạo. Người cuối cùng. Không chạy. Mordren sẽ nghe. Mordren sẽ biết. Mordren sẽ tính lại.
 
----
+***

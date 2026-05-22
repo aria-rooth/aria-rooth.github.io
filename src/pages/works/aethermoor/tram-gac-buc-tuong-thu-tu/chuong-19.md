@@ -8,7 +8,7 @@ title: "Chương 19: Một"
 
 ← [Chương 18](chuong-18)  **Chương 19/35**  → [Chương 20](chuong-20)
 
----
+***
 
 
 
@@ -47,6 +47,6 @@ Sau trận, anh ta xuống tháp, mặt hồng vì hồi hộp — lần đầu 
 
 *Cô không biết mình cần điều đó đến khi không còn thiếu nó nữa.*
 
----
+***
 
 ← [Chương 18](chuong-18)  **Chương 19/35**  → [Chương 20](chuong-20)

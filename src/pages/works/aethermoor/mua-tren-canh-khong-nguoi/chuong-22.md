@@ -8,7 +8,7 @@ title: "Chương 22: Thay Đổi Nhận Thức"
 
 ← [Chương 21](chuong-21)  **Chương 22/30**  → [Chương 23](chuong-23)
 
----
+***
 
 
 
@@ -53,6 +53,6 @@ Cô viết vào *Người Đứng*:
 
 *Kết chương*
 
----
+***
 
 ← [Chương 21](chuong-21)  **Chương 22/30**  → [Chương 23](chuong-23)

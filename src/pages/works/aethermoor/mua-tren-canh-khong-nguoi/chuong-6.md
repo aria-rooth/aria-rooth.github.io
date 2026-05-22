@@ -8,7 +8,7 @@ title: "Chương 6: Bóng Hình Đầu Tiên"
 
 ← [Chương 5](chuong-5)  **Chương 6/30**  → [Chương 7](chuong-7)
 
----
+***
 
 
 
@@ -84,6 +84,6 @@ Ra ngoài. Tuần tra buổi sáng như mọi buổi sáng. Nhưng lần này, k
 
 Cô tiếp tục đi.
 
----
+***
 
 ← [Chương 5](chuong-5)  **Chương 6/30**  → [Chương 7](chuong-7)

@@ -32,5 +32,5 @@ Aldric im. Ông nhìn năm xác trên đất. Nhìn lò rèn — lửa rèn vẫ
 Sera nhìn cái tên. Lira. Năm chữ cái, một tên, không thêm gì — không địa chỉ, không nghề, không lý do. Aldric không viết thêm vì ông không cần. Ông biết tên đủ. Ai biết Lira sẽ tìm được Lira. Ai không biết — không cần tìm.
 "Cô ấy sẽ giúp tôi?" cô hỏi.
 "Không biết," Aldric nói. "Nhưng cô ấy sẽ nghe. Người ghét thề ước luôn nghe — vì họ muốn biết ai dám thề trước mặt họ."
----
+***
 

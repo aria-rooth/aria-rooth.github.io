@@ -8,7 +8,7 @@ title: "Chương 21: Qua Cổng"
 
 ← [Chương 20](chuong-20)  **Chương 21/30**  → [Chương 22](chuong-22)
 
----
+***
 
 
 
@@ -81,6 +81,6 @@ Cô dừng. Đóng bút. Rồi viết thêm, dòng nhỏ hơn, góc trang:
 
 *Kết chương*
 
----
+***
 
 ← [Chương 20](chuong-20)  **Chương 21/30**  → [Chương 22](chuong-22)

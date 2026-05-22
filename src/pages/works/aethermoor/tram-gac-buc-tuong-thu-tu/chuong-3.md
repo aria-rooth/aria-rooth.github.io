@@ -8,7 +8,7 @@ title: "Chương 3: Lành"
 
 ← [Chương 2](chuong-2)  **Chương 3/35**  → [Chương 4](chuong-4)
 
----
+***
 
 
 
@@ -129,6 +129,6 @@ Bóng tối không trả lời. Cô cũng không hỏi.
 
 *Vela Ashmarch — Pale Frontier, Aethermoor*
 
----
+***
 
 ← [Chương 2](chuong-2)  **Chương 3/35**  → [Chương 4](chuong-4)

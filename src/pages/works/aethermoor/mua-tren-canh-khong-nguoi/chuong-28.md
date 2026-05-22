@@ -8,7 +8,7 @@ title: "Chương 28: Quyền Phán Xét"
 
 ← [Chương 27](chuong-27)  **Chương 28/30**  → [Chương 29](chuong-29)
 
----
+***
 
 
 
@@ -57,6 +57,6 @@ Cô không biết đó là tự do hay gông cùm. Có thể cả hai.
 
 *Kết chương*
 
----
+***
 
 ← [Chương 27](chuong-27)  **Chương 28/30**  → [Chương 29](chuong-29)

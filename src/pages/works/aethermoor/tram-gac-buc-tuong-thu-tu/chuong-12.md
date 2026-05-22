@@ -8,7 +8,7 @@ title: "Chương 12: Mảnh Đầu Tiên"
 
 ← [Chương 11](chuong-11)  **Chương 12/35**  → [Chương 13](chuong-13)
 
----
+***
 
 
 
@@ -75,6 +75,6 @@ Cô mở cuốn sổ. Lật đến trang cuối — chỗ còn trống sau dòng
 
 Hai mươi bảy chữ. Nhiều hơn cô thường ghi. Đủ.
 
----
+***
 
 ← [Chương 11](chuong-11)  **Chương 12/35**  → [Chương 13](chuong-13)

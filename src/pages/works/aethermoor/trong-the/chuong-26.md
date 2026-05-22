@@ -44,5 +44,5 @@ Cô gấp giấy lại. Nhét vào áo — cùng nhật ký, cùng danh sách, c
 Lira đã đứng dậy. Đợi cô. Không giục — chỉ đợi, như người đợi đồng đội gật giày trước khi đi tiếp. Lira không hỏi cô nghe thấy gì từ Thệ Vang. Không hỏi giấy ghi gì. Chỉ hỏi một câu khi họ bước ra khỏi quán, gió lạnh hất vào mặt:
 "Chúng ta sẽ phải đến đó sớm thôi." Giọng Lira không hào hứng. Giọng Lira thực dụng — như người đọc giá cước và tính xem có đủ tiền. Pale Frontier không phải nơi người muốn đến. Nó là nơi người phải đến — nếu họ muốn biết sự thật. Và sự thật, theo kinh nghiệm Lira, luôn đắt hơn tiền cước.
 Sera gật. Hai người đi vào đêm Greymark — đèn dầu thưa, ngõ tối, tiếng người xa. Kiếm nặng trên lưng. Giấy nặng trong áo. Và trong đầu cô, một câu hỏi mới: nếu Đoàn cô không phát hiện di vật — mà tạo ra nó — thì Đoàn cô đã giấu điều gì, từ ai, và tại sao?
----
+***
 

@@ -49,5 +49,5 @@ Fen và Cova lại nhìn nhau. Lần này, cái nhìn dài hơn — không phả
 Sera không tranh. Cô mệt — không phải mệt cơ thể (cơ thể cô quen đi, quen đánh, quen mang), mà mệt thứ bên trong: bốn mươi bảy mảnh thề ước, nhật ký Mordren, danh sách sáu Đoàn, lệnh Giáo Hội, bản vẽ Torvin, tin Aldric chết, tin Kael mất tích, mạng lưới mắt, khách hàng giấu tên, và ba ngày một mình với Thệ Vang đổi chất. Nhiều. Quá nhiều cho đầu một người. Nhưng đầu một người là thứ cô có, và cô sẽ dùng nó — sau khi nghỉ.
 Lira đã ngồi xuống — sàn, lưng tường, bao da trên đùi. Cô ta không hỏi Sera có nghỉ không. Cô ta chỉ nói với phụ nữ áo nâu: "Hai phòng. Cửa sổ ra sau."
 Hai phòng. Không phải một. Sera hiểu: Lira muốn cửa sổ ra sau — lối thoát. Và hai phòng nghĩa là nếu ai đó đến ban đêm, họ phải chia lực lượng. Chiến thuật. Lira nghĩ chiến thuật ngay cả khi nghỉ. Đó là cách Lira sống — và sống là thứ Lira giỏi.
----
+***
 

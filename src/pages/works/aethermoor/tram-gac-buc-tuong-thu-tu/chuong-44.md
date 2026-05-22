@@ -60,5 +60,5 @@ Vela nhìn Calla ghi. Nhìn cách bút chạy, cách tay cô ta run nhẹ — ru
 
 **Kết chương:** Velhar rời đi không phải vì thua — mà vì nhận ra điều này sẽ phức tạp hơn ông ta tính toán. Vũ khí đã biết mình là vũ khí. Và vũ khí biết — chọn đứng khác với bị đứng. Vela đứng nhìn theo bóng dáng tan. Lần đầu tiên trong hai trăm năm, cô đang nhìn về phía trước thay vì chỉ nhìn đến trận tiếp theo. Phía trước có gì, cô chưa biết. Nhưng cô biết mình sẽ bước tới, không phải vì bị đẩy, mà vì chọn bước.
 
----
+***
 

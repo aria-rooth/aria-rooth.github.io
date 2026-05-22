@@ -56,4 +56,4 @@ Cổng đứng. Mạch chảy. Deven Ash đã bắt đầu nói về domain — 
 
 Và Elara — lần đầu tiên trong mười hai năm — không chỉ đứng trước cổng. Cô *làm việc* với nó.
 
----
+***

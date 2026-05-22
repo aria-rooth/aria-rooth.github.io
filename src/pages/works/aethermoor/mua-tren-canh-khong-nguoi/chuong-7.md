@@ -8,7 +8,7 @@ title: "Chương 7: Nhịp Điệu"
 
 ← [Chương 6](chuong-6)  **Chương 7/30**  → [Chương 8](chuong-8)
 
----
+***
 
 
 
@@ -69,6 +69,6 @@ Cô không ghi điều đó vào nhật ký.
 
 Cô ra ngoài, tuần tra buổi chiều như bình thường. Nhưng khi đi ngang qua tảng đá, cô nhìn vào vị trí ba bóng hình đã đứng. Không có gì. Chỉ là đất. Chỉ là cỏ. Chỉ là Pale Frontier như nó vẫn là.
 
----
+***
 
 ← [Chương 6](chuong-6)  **Chương 7/30**  → [Chương 8](chuong-8)

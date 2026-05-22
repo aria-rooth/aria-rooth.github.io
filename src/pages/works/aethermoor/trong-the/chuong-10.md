@@ -34,5 +34,5 @@ Cô ngồi với câu đó. Mordren đã chết. Ông nằm ở ngưỡng cửa,
 Aldric nhìn cô. Lâu. Trong ánh lửa rèn, mặt ông như mặt người đang cân nhắc giữa sự thật và lòng thương — và chọn sự thật.
 *"Có. Nhưng cô sẽ không muốn nghe."*
 *→ [Chương 11–15](2b-ch11-15-final.md)*
----
+***
 

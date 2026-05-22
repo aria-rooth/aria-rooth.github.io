@@ -52,4 +52,4 @@ Nhiên liệu. Elara nhìn tay mình. Mười hai năm — cô tưởng mình đ
 
 Bốn mươi người đứng bên kia. Elara nhìn họ. Nhìn Lyss — cô bé ngồi trên cỏ, vẽ hình bằng ngón tay trên đất. Nhìn Corin — anh ta đứng, chờ, luôn chờ. Nhìn ba mươi tám người còn lại. Mười hai năm — không phí. Không bao giờ phí.
 
----
+***

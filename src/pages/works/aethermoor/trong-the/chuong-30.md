@@ -33,5 +33,5 @@ Cô nhắm mắt. Thệ Vang dịu lại — không yên, nhưng dịu. Như ti�
 *"Đừng dừng lại vì tôi dừng."*
 Rồi ông quay lại. Nấu tiếp. Lửa cháy. Canh sôi. Và Sera tỉnh — hoặc đã tỉnh từ lâu, chỉ là mở mắt mới là tỉnh theo nghĩa người khác thấy.
 Sáng. Cô đứng dậy. Kiếm gắn lưng. Giấy trong áo. Bốn mảnh. Tên Lira bên cạnh. Họ đẩy nhanh — vì ai đó đang dọn dẹp, và dọn dẹp không chờ, và cô không phải tiếp theo. Không phải vì sợ. Vì cô chưa xong. Bốn mươi bảy mảnh thề ước chưa hoàn thành. Aldric chết — nhưng thề ước Aldric giữ, thề ước ông dạy cô lắng nghe, vẫn ở trong kiếm, vẫn nặng, vẫn chờ. Cô chưa xong. Và người chưa xong không chết — họ tiếp tục.
----
+***
 

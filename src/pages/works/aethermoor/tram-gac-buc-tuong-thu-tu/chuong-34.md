@@ -8,7 +8,7 @@ title: "Chương 34: Cân Bằng Mới"
 
 ← [Chương 33](chuong-33)  **Chương 34/35**  → [Chương 35](chuong-35)
 
----
+***
 
 
 
@@ -45,6 +45,6 @@ Hai từ. Người thân. Vela nghe và thấy chúng chiếm chỗ — chiếm 
 
 *Tiếng cười trong ký ức không phai đi nhanh như những mảnh trước. Cô giữ nó — giữ như giữ điều duy nhất ấm trong hai trăm năm lạnh. Và cô không muốn nó phai. Không phải vì cần — cô vượt cần từ lâu. Mà vì muốn. Muốn là từ mới. Muốn là từ mà cô đang học, đang thử, đang giữ như giữ lửa: cẩn thận, sợ tắt, nhưng giữ.*
 
----
+***
 
 ← [Chương 33](chuong-33)  **Chương 34/35**  → [Chương 35](chuong-35)

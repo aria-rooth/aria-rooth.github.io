@@ -8,7 +8,7 @@ title: "Chương 33: Giữ Chặt"
 
 ← [Chương 32](chuong-32)  **Chương 33/35**  → [Chương 34](chuong-34)
 
----
+***
 
 
 
@@ -57,6 +57,6 @@ Vela nhìn anh ta. "Tôi không biết là mình đang kiềm chế."
 
 *Hai trăm năm kiềm chế mà không biết. Hai trăm năm sống dưới trần nhà mà không biết có bầu trời. Và lần đầu tiên, cô bước ra — không phải đi lên, không phải bay — chỉ là thẳng lưng, và nhận ra trần nhà cao hơn cô nghĩ. Rất cao. Và cô chưa chạm tới.*
 
----
+***
 
 ← [Chương 32](chuong-32)  **Chương 33/35**  → [Chương 34](chuong-34)

@@ -58,5 +58,5 @@ Không khóc. Vela không khóc. Không phải vì kiềm chế. Mà vì khóc c
 
 **Kết chương:** Cô nhớ tất cả bây giờ: cô đã đến gặp Velhar để xin sức mạnh bảo vệ Mira. Mira đã chết trước khi cô kịp về. Và cô đã ở đây — canh gác, chiến đấu, không cho phép bản thân nghỉ ngơi — vì không còn chỗ nào khác để đi. Không còn ai để về. Không còn nhà với cửa sổ nhìn ra đồng. Chỉ còn bức tường, và đêm, và kiếm, và việc đứng ở đây vì chưa biết cách đứng ở đâu khác.
 
----
+***
 

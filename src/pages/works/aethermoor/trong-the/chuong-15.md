@@ -46,5 +46,5 @@ Cô mở tờ giấy đầu tiên. Nằm phẳng trên nền đá. Lấy bút �
 Di vật ở Pale Frontier. Mordren Thứ Hai. Phong Quang Thánh Giáo. Kệ Thệ Thiết. Cửa.
 Cô bắt đầu viết.
 → [Chương 16](chuong-16)
----
+***
 

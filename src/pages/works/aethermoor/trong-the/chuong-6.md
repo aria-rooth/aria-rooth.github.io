@@ -42,5 +42,5 @@ Thanh kiếm nhẹ.
 Không nhẹ trở lại như bốn năm trước. Nhẹ hơn so với mười phút trước — nhẹ hơn nhiều, như thể trọng lượng bên trong thép vừa trút đi một phần. Cô cầm kiếm và cảm nhận. Nó nhẹ theo cách mà nó chưa bao giờ nhẹ kể từ đêm Đoàn tan.
 Khi chiến đấu, thanh kiếm không còn nặng nữa.
 Cô đứng giữa khoảng trống, kiếm trên tay, máu trên lưỡi, và suy nghĩ về điều đó trong im lặng.
----
+***
 

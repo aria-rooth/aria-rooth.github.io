@@ -8,7 +8,7 @@ title: "Chương 2: Nhật Ký Quan Sát, Ngày 4.380"
 
 ← [Chương 1](chuong-1)  **Chương 2/30**  → [Chương 3](chuong-3)
 
----
+***
 
 
 
@@ -72,6 +72,6 @@ Mưa vẫn rơi ngoài cửa sổ.
 
 Elara để âm thanh ấy đi vào giấc ngủ cùng cô.
 
----
+***
 
 ← [Chương 1](chuong-1)  **Chương 2/30**  → [Chương 3](chuong-3)

@@ -8,7 +8,7 @@ title: "Chương 35: Thứ Gì Đó Đang Đến"
 
 ← [Chương 34](chuong-34)  **Chương 35/35**
 
----
+***
 
 
 
@@ -75,6 +75,6 @@ Ba người. Lần đầu tiên trong hai trăm năm, có ba người ở đoạ
 
 *Calla nhìn Vela với ánh mắt muốn hỏi nhiều nhưng không hỏi. Cuối cùng: "Cô có biết Velhar không?" Vela: "Tôi không nhớ." Dừng. "Nhưng tôi nghĩ ông ta biết tôi." Và trong khoảng lặng sau câu đó, cả ba người đều biết: điều đang đến không phải trận đánh — là cuộc đối thoại. Và cuộc đối thoại với thần không thắng bằng kiếm.*
 
----
+***
 
 ← [Chương 34](chuong-34)  **Chương 35/35**

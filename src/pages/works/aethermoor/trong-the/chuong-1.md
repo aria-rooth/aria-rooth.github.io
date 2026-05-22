@@ -45,5 +45,5 @@ Oath Echo (Thệ Vang) trong kiếm — tiếng vọng của tất cả những 
 Thệ Hạch vỡ, nhưng những thề ước không mất. Chúng đi vào nơi duy nhất còn nhận được chúng.
 Đêm nay, Trọng Nham Hỏa Đạo chết. Thanh kiếm này là nơi duy nhất chúng còn tồn tại.
 Và cô là người duy nhất còn cầm thanh kiếm đó.
----
+***
 

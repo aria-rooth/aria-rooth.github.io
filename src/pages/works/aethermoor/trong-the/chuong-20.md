@@ -34,5 +34,5 @@ Lira dừng. Nhìn cô. Lần đầu có gì đó thay đổi trong mắt cô ta
 Im lặng. Lira nhìn túi tiền. Nhìn kiếm Thệ Thiết. Nhìn Sera. Rồi quyết định — Sera không biết quyết định gì, nhưng cô thấy khoảnh khắc quyết định trong mắt Lira: thứ gì đó vừa khớp, hoặc vừa vỡ, hoặc vừa đặt xuống. Cô ta đã sống một mình đủ lâu. Cô ta đã ghét đủ thứ đủ lâu. Và giờ có người đến — mang Thệ Thiết, mang tên Aldric, mang tiền — và hỏi cô ta làm điều mà cô ta vẫn luôn làm: đánh.
 "Được," Lira nói. "Nói tôi nghe."
 *→ [Chương 21–25](2b-ch21-25.md)*
----
+***
 

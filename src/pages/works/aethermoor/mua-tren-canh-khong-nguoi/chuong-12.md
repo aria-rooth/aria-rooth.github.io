@@ -8,7 +8,7 @@ title: "Chương 12: Hai Mươi Chín"
 
 ← [Chương 11](chuong-11)  **Chương 12/30**  → [Chương 13](chuong-13)
 
----
+***
 
 
 
@@ -109,6 +109,6 @@ Hai mươi chín.
 
 Con số đi theo cô vào giấc ngủ. Không phải ác mộng. Chỉ là con số. Lặp đi lặp lại. Hai mươi chín. Hai mươi chín. Hai mươi chín.
 
----
+***
 
 ← [Chương 11](chuong-11)  **Chương 12/30**  → [Chương 13](chuong-13)

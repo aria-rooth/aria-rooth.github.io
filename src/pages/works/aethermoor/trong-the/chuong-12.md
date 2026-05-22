@@ -39,5 +39,5 @@ Aldric đã ở Đoàn hai mươi năm. Ông đã nghe thanh kiếm này nhiều
 Một mảnh tại một thời điểm. Bốn mươi bảy ngày, nếu mỗi ngày một mảnh. Hoặc nhiều hơn. Hoặc ít hơn. Tùy cô. Tùy kiếm. Tùy thời gian — thứ mà cô không có nhiều, vì trinh sát đã đứng ngoài cửa đêm qua, và hắn sẽ quay lại.
 Cô gật đầu. Đứng dậy. Lấy kiếm. Đặt vào vỏ.
 Ngoài cửa lò rèn, trời đã sáng. Trinh sát chưa quay lại — hoặc đã quay lại mà cô không thấy. Sẽ có lúc hắn quay lại, và không phải một mình. Cô biết điều đó. Aldric biết điều đó. Nhưng hôm nay, cô ngồi với một mảnh thề ước của người trẻ đã hứa sẽ về, và đó là đủ.
----
+***
 

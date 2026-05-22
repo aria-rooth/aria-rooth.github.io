@@ -8,7 +8,7 @@ title: "Chương 16: Làn Sóng"
 
 ← [Chương 15](chuong-15)  **Chương 16/35**  → [Chương 17](chuong-17)
 
----
+***
 
 
 
@@ -55,6 +55,6 @@ Chỉ còn Vela trước Titan.
 
 *Cô đã biết điều này sẽ xảy ra. Cô vẫn không có cách làm khác.*
 
----
+***
 
 ← [Chương 15](chuong-15)  **Chương 16/35**  → [Chương 17](chuong-17)

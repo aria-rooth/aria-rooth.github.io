@@ -8,7 +8,7 @@ title: "Chương 31: Áp Lực"
 
 ← [Chương 30](chuong-30)  **Chương 31/35**  → [Chương 32](chuong-32)
 
----
+***
 
 
 
@@ -61,6 +61,6 @@ Anh ta gật đầu. Không an ủi — anh ta biết an ủi không đúng vớ
 
 *Vela đứng trong im lặng sau ba ngày chiến đấu liên tục. Mệt — từ cô chưa từng dùng, từ mà cô không biết mình cần đến khi nói ra. Mệt không phải vì đánh ba ngày. Mệt vì hai trăm năm. Và lần đầu tiên, cô thừa nhận điều đó — không phải với bản thân, mà với người khác. Điều đó khác. Điều đó quan trọng.*
 
----
+***
 
 ← [Chương 30](chuong-30)  **Chương 31/35**  → [Chương 32](chuong-32)

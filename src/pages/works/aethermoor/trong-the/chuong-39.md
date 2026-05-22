@@ -62,4 +62,4 @@ Lira đến cạnh cô. Đứng. Không nói — cho đến khi Thẩm Vấn Gi�
 
 "Có," Sera nói. Và tiếp tục đi.
 
----
+***

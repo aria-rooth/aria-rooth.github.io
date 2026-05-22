@@ -31,5 +31,5 @@ Ba giọng cùng lúc. Không phải một — ba. Chồng lên nhau, đan vào 
 Cô không nghe được lời. Chỉ nghe cường độ. Ba mảnh thề ước đang nói cùng lúc — hoặc đang phản ứng, hoặc đang cảnh báo, hoặc chỉ đang nặng thêm vì danh sách cô vừa đọc. Sáu Đoàn. Sáu cách chết. Thệ Vang trong kiếm cũng đọc danh sách đó — qua cô, qua mắt cô, qua ký ức cô mới thấy. Và bốn mươi bảy mảnh thề ước phản ứng — không phải vì chúng biết sáu Đoàn đó, mà vì chúng biết *cái chết Đoàn* từ bên trong. Chúng đã chết cùng cách. Cùng đêm. Cùng im lặng.
 Sera không ngủ được. Cô nằm và mang ba giọng, và ba giọng nằm trong kiếm, và kiếm nặng trên sàn gỗ, và sàn gỗ kêu nhẹ dưới trọng lượng — tiếng kêu nhỏ, như tiếng người thở dài trong giấc mơ không yên.
 Bên kia vách, Lira cũng thức. Sera không thấy — nhưng cô nghe: tiếng giường cọt kẹt nhẹ, tiếng kiếm đặt lại trên bàn, tiếng nước đổ vào ly. Lira cũng không ngủ. Hai người không ngủ, cách nhau một vách gỗ, cùng mang thứ không thể nói ra, và cùng im về nó. Đây có thể là im lặng gần nhất với *cùng nhau* mà hai người từng có.
----
+***
 

@@ -8,7 +8,7 @@ title: "Chương 28: Lựa Chọn Không Có Tên"
 
 ← [Chương 27](chuong-27)  **Chương 28/35**  → [Chương 29](chuong-29)
 
----
+***
 
 
 
@@ -65,6 +65,6 @@ Câu hỏi mới — "điều đó còn đúng không" — không có câu trả
 
 *Vela nhìn về phía Bắc như mọi khi. Lần đầu tiên cô tự hỏi không phải "tôi đang ở đây vì ai?" mà "tôi ở đây vì điều gì — và điều đó còn đúng không?" Câu hỏi mới. Không có câu trả lời. Nhưng có câu hỏi — và sau hai trăm năm chỉ có câu trả lời mặc định, câu hỏi mới là bước đầu tiên.*
 
----
+***
 
 ← [Chương 27](chuong-27)  **Chương 28/35**  → [Chương 29](chuong-29)

@@ -8,7 +8,7 @@ title: "Chương 10: Nhật Ký Mới"
 
 ← [Chương 9](chuong-9)  **Chương 10/30**  → [Chương 11](chuong-11)
 
----
+***
 
 
 
@@ -119,6 +119,6 @@ Chờ điều gì? Cô không trả lời câu hỏi đó. Không trong đầu, 
 
 *→ [Chương 11–15](europa-ch11-15-final.md)*
 
----
+***
 
 ← [Chương 9](chuong-9)  **Chương 10/30**  → [Chương 11](chuong-11)

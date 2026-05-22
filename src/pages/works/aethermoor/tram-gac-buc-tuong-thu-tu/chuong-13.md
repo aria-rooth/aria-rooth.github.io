@@ -8,7 +8,7 @@ title: "Chương 13: Giá Của Sự Hiện Diện"
 
 ← [Chương 12](chuong-12)  **Chương 13/35**  → [Chương 14](chuong-14)
 
----
+***
 
 
 
@@ -80,6 +80,6 @@ Sự hiện diện có giá. Vela biết điều đó bây giờ. Không phải 
 
 *Vela Ashmarch — Pale Frontier, Aethermoor*
 
----
+***
 
 ← [Chương 12](chuong-12)  **Chương 13/35**  → [Chương 14](chuong-14)

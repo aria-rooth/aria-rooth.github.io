@@ -43,5 +43,5 @@ Aldric đứng nhìn. Ông không cầm vũ khí — không cần. Ông đứng 
 Sera nhìn xuống kiếm. Vệt sáng trên lưỡi đang tắt dần — như mạch đập chậm lại sau khi chạy. Cô cảm nhận: không gian quanh cô khác. Nhẹ hơn. Như thể đất đai vừa nói gì đó với cô — không phải lời, là cảm giác. Ý chí của đất. Mỏng, xa, không rõ. Nhưng có.
 "Có," cô đáp.
 Aldric gật đầu. Quay vào lò. Nấu tiếp bữa sáng bị gián đoạn.
----
+***
 

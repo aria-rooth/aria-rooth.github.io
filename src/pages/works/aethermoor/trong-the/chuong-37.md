@@ -52,4 +52,4 @@ Lira nhìn Sera. Cô ta thấy: Sera đứng kiểu đứng khi Sera quyết đ�
 
 "Đi," Sera nói.
 
----
+***

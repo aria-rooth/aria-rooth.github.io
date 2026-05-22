@@ -8,7 +8,7 @@ title: "Chương 15: Lần Đầu Tiên Giao Tiếp"
 
 ← [Chương 14](chuong-14)  **Chương 15/30**  → [Chương 16](chuong-16)
 
----
+***
 
 
 
@@ -127,6 +127,6 @@ Bình minh còn xa.
 
 *→ [Chương 16–20](europa-ch16-20-final.md)*
 
----
+***
 
 ← [Chương 14](chuong-14)  **Chương 15/30**  → [Chương 16](chuong-16)

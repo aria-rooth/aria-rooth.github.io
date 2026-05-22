@@ -64,5 +64,5 @@ Nói ra. Lần đầu tiên. Sự thật cuối cùng: cô tự giữ mình. L�
 
 **Kết chương:** Lửa nhỏ. Hai người. Im lặng. Và im lặng đó — im lặng sau khi nói hết, sau khi nghe hết — là thứ mà Vela chưa từng có. Hai trăm năm cô im lặng một mình. Bây giờ cô im lặng với ai đó, và khác. Khác vì im lặng một mình là trống. Im lặng với người là đầy — đầy đủ để ngồi trong nó mà không cần chạy, không cần chiến đấu, không cần đếm giây đến lần lành tiếp theo. Chỉ ngồi. Với sự thật. Và sự thật đó, lần đầu tiên, không nặng đến mức cô không mang nổi.
 
----
+***
 

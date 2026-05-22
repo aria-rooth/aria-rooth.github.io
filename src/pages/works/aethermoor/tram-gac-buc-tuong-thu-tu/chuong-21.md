@@ -8,7 +8,7 @@ title: "Chương 21: Hồ Sơ"
 
 ← [Chương 20](chuong-20)  **Chương 21/35**  → [Chương 22](chuong-22)
 
----
+***
 
 
 
@@ -53,6 +53,6 @@ Cô gập bản vẽ lại. Cất đi. Không phải vì không muốn nhìn —
 
 Đêm đó Vela không ngủ. Không phải vì lo — cô không lo về điều đã qua. Lo là cho điều sẽ đến, và trên tường, điều sẽ đến luôn là Bạch Quái Thú, không phải hồ sơ cũ. Mà vì một câu hỏi đang thành hình ở nơi cô không thường để ý — nơi giữa ngực, nơi ký ức để lại dư vị. *Nếu cô đã ở đây một trăm tám mươi năm trước, điều gì đã xảy ra trước đó?* Câu hỏi không có lời. Nhưng nó ở đó — như vết sứt trên kiếm, như máu khô trên đá, như tất cả những thứ còn lại sau khi trận kết thúc. Nó ở đó, và lần đầu tiên, cô không tránh nó.
 
----
+***
 
 ← [Chương 20](chuong-20)  **Chương 21/35**  → [Chương 22](chuong-22)

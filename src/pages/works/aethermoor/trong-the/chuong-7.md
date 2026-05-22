@@ -34,5 +34,5 @@ Cô xoay người. Rời khoảng trống theo hướng đông — không phải
 Hắn ngồi dưới gốc cây, tay phải băng, máu rỉ, và nhìn lưng cô khuất dạng phía rừng. Cô không ngoái lại. Không phải vì kiêu — mà vì cô đã nói những gì cần nói, và ngoái lại sẽ biến nó thành biểu diễn.
 Thanh kiếm nhẹ hơn. Nhưng cô biết: nhẹ hơn không có nghĩa là bớt nặng. Nó nhẹ vì cô vừa dùng nó — và khi dùng, Thệ Vang chảy, trút một phần trọng lượng. Nó sẽ nặng lại. Rồi nặng hơn. Trừ khi cô tiếp tục dùng.
 Cô đi về hướng đông. Bước đều. Kiếm trên hông. Không chạy.
----
+***
 

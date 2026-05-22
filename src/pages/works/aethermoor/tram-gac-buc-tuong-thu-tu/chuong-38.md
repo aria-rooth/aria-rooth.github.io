@@ -64,4 +64,4 @@ Elara chạm tóc cô bé. Lạnh — lạnh của người chết, không có n
 
 Lyss nhìn cô. Rồi gật đầu — tin, không phải vì lời hứa chắc, mà vì người nói hứa thật. Và ở nơi này, giữa domain thần chết và bốn mươi người đứng, thật quý hơn chắc.
 
----
+***

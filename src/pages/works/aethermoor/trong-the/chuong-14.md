@@ -47,5 +47,5 @@ Aldric gật đầu. Ông không hỏi cô nghe gì — ông biết cô sẽ nó
 *"Ông nói 'đọc nhật ký.'"*
 Nhật ký Chấp Sự. Cô đã chỉ đọc trang cuối. *"Họ biết. Chúng ta không còn nhiều thời gian."* Cô không đọc tiếp vì cô chưa sẵn sàng. Cô chưa sẵn sàng đọc chữ viết tay của người đã chết trong lúc đang chết. Nhưng Jorin — từ trong kiếm, từ trong Thệ Vang — vừa bảo cô đọc.
 Và Jorin không phải người nói lời thừa. Ông hoàn thành mọi thứ ông nhận. Nếu ông nói đọc nhật ký, thì nhật ký có thứ cô cần.
----
+***
 

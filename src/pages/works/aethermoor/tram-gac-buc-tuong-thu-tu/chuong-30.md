@@ -8,7 +8,7 @@ title: "Chương 30: Điều Được Xin"
 
 ← [Chương 29](chuong-29)  **Chương 30/35**  → [Chương 31](chuong-31)
 
----
+***
 
 
 
@@ -63,6 +63,6 @@ Và ở rìa — ở đúng rìa, nơi mà ký ức chạm khóa — một tên.
 
 *Và tên đó đang ở đầu lưỡi cô — nhưng chưa ra được. Chưa.*
 
----
+***
 
 ← [Chương 29](chuong-29)  **Chương 30/35**  → [Chương 31](chuong-31)

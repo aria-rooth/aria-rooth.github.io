@@ -8,7 +8,7 @@ title: "Chương 18: Rời Đi"
 
 ← [Chương 17](chuong-17)  **Chương 18/35**  → [Chương 19](chuong-19)
 
----
+***
 
 
 
@@ -53,6 +53,6 @@ Cô không gật đầu. Không nói. Chỉ đứng, và anh ta ở lại. Cô n
 
 *Cô không hiểu. Nhưng cô không ngăn. Và không ngăn, cô nhận ra, cũng là một loại câu trả lời — loại câu trả lời cô nhận ra mình có thể nói.*
 
----
+***
 
 ← [Chương 17](chuong-17)  **Chương 18/35**  → [Chương 19](chuong-19)

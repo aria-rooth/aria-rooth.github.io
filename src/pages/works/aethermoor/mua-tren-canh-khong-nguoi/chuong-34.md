@@ -8,7 +8,7 @@ title: "Chương 34: Linh Vương Giữa Hai Phía"
 
 ← [Chương 33](chuong-33)  **Chương 34/35**  → [Chương 35](chuong-35)
 
----
+***
 
 ## Chương 34: Linh Vương Giữa Hai Phía
 
@@ -58,5 +58,5 @@ Gió bắc. Mưa nhẹ. Cỏ cong. Cổng đứng. Hai mươi chín người đ�
 
 *Kết chương*
 
----
+***
 

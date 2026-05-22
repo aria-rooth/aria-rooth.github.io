@@ -8,7 +8,7 @@ title: "Chương 19: Đặt Điều Kiện"
 
 ← [Chương 18](chuong-18)  **Chương 19/30**  → [Chương 20](chuong-20)
 
----
+***
 
 
 
@@ -77,6 +77,6 @@ Elara gật đầu. Nhẹ. *Tôi sẽ nói. Nhưng chưa.* Lyss gật đầu. Ti
 
 *Kết chương*
 
----
+***
 
 ← [Chương 18](chuong-18)  **Chương 19/30**  → [Chương 20](chuong-20)

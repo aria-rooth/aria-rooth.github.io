@@ -8,7 +8,7 @@ title: "Chương 29: Cầu Xin"
 
 ← [Chương 28](chuong-28)  **Chương 29/35**  → [Chương 30](chuong-30)
 
----
+***
 
 
 
@@ -61,6 +61,6 @@ Vela gật đầu. Chậm. Chậm như cô làm mọi thứ — chậm, chắc, 
 
 *Anh ta không hỏi thêm. Nhưng anh ta ghi — ghi cách tay cô nắm kiếm, ghi giọng cô khi mô tả bóng dáng không rõ mặt, ghi thứ anh ta không thể viết bằng từ: rằng Vela Ashmarch đã từng cầu xin thần thánh vì ai đó, và người đó quan trọng đủ để cô bán tất cả — kể cả ký ức, kể cả tự do, kể cả đời sau.*
 
----
+***
 
 ← [Chương 28](chuong-28)  **Chương 29/35**  → [Chương 30](chuong-30)

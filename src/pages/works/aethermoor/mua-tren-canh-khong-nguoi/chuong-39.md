@@ -54,5 +54,5 @@ Cô đọng kiếm. Ngồi xuống. Lyss ngồi cạnh, tay vẫn nắm tay Elar
 
 *Kết chương*
 
----
+***
 

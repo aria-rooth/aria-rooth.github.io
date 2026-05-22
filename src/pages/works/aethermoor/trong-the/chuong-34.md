@@ -30,5 +30,5 @@ Buổi chiều, Fen ra sân. Ngồi đối diện Sera — bên lò, khoảng c�
 Sera gật. Cô hiểu. Kể là mở — mở vết thương, mở ký ức, mở thứ đã đóng. Aldric cũng chọn từng mảnh kể — không phải vì giấu, vì mỗi mảnh kể là mảnh sống lại, và sống lại tốn năng lượng mà người già không có thừa. Fen trẻ hơn Aldric, nhưng vết thương không phân biệt tuổi.
 "Được," cô nói. "Anh chọn kể gì. Tôi chọn hỏi gì. Nếu không trả lời được, gật một lần. Tôi sẽ hiểu."
 Fen gật. Thỏa thuận. Đơn giản. Sạch.
----
+***
 

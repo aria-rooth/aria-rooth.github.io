@@ -8,7 +8,7 @@ title: "Chương 27: Những Gì Không Được Viết Ra"
 
 ← [Chương 26](chuong-26)  **Chương 27/35**  → [Chương 28](chuong-28)
 
----
+***
 
 
 
@@ -51,6 +51,6 @@ Không phải câu hỏi. Vela nhìn xuống tay mình. Như thể thấy tay ng
 
 *Cơ thể nhớ những gì tâm trí quên. Và mảnh kiếm này — nó thuộc về một thanh kiếm dài hơn, và thanh kiếm dài hơn thuộc về một Vela trước Vela này. Một Vela chưa bị khóa. Một Vela còn nhớ.*
 
----
+***
 
 ← [Chương 26](chuong-26)  **Chương 27/35**  → [Chương 28](chuong-28)

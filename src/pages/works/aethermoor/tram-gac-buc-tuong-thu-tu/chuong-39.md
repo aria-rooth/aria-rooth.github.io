@@ -52,4 +52,4 @@ Không. Không một người. Cô có Deven Ash — không chiến đấu, như
 
 Cô đọng kiếm. Ngồi xuống. Lyss ngồi cạnh, tay vẫn nắm tay Elara, nhỏ và lạnh. Corin ngồi bên kia — ba người trên phiến đá, như mọi đêm, nhưng đêm nay khoảng không giữa họ đặc hơn, nặng hơn, ý nghĩa hơn. Đêm nay là đêm đầu tiên ai đó cố phá ranh giới mà cô giữ. Đêm đầu tiên cô dùng kiếm để giữ. Và đêm đầu tiên cô biết — chắc chắn, không đoán — rằng sẽ còn nữa.
 
----
+***
