@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 10
 story: "/works/aethermoor/trong-the"
-total: 40
+total: 45
 title: "Chương 10: Đếm Những Gì Chưa Xong"
 ---
 

@@ -1,3 +1,11 @@
+---
+layout: ../../../../layouts/ChapterLayout.astro
+chapter: 44
+story: "/works/aethermoor/trong-the"
+total: 45
+title: "Chương 44: Lira Bán Thông Tin"
+---
+
 ## Chương 44: Lira Bán Thông Tin
 
 Ba ngày sau Draven.

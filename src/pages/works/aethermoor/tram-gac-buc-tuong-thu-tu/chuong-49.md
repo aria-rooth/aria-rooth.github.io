@@ -1,4 +1,12 @@
-## Chương 49: Hợp Đồng Đọc Được
+---
+layout: ../../../../layouts/ChapterLayout.astro
+chapter: 49
+story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
+total: 50
+title: "Chương 49: Hợp Đồng Đọc Được"
+---
+
+Chương 49: Hợp Đồng Đọc Được
 
 *Mỗi giao thức đều có lỗi. Lỗi là cửa.*
 
@@ -49,3 +57,4 @@ Vela tỉnh giấc. Mồ hôi. Lạnh. Cô ngồi dậy. Tay run. Không phải 
 **Kết chương:** Cô viết vào sổ: *Giá tự do = thời gian. Phá hợp đồng → già → chết. Cân bằng Aether. Velhar không cần kênh khi domain đủ → tôi thành gì?* Nhìn hàng từ. *Ông ta cho hiểu. Nhưng hiểu đó — hiểu ông ta cho — là mồi hay là thật? Cô chưa biết. Nhưng cô ghi. Vì ghi là cách giữ mình không bị cuốn theo giọng thân thiện của người giữ xiềng xích.*
 
 ---
+

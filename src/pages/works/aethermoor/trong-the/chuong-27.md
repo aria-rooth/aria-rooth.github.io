@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 27
 story: "/works/aethermoor/trong-the"
-total: 40
+total: 45
 title: "Chương 27: Người Theo Dõi"
 ---
 

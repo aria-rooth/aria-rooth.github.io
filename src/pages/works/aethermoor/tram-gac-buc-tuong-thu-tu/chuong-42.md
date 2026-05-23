@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 42
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 45
+total: 50
 title: "Chương 42: Hiểu"
 ---
 

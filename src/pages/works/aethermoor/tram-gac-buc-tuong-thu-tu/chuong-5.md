@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 5
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 35
+total: 50
 title: "Chương 5: Đội Thám Hiểm"
 ---
 

@@ -2,8 +2,8 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 38
 story: "/works/aethermoor/trong-the"
-total: 40
-title: "Chương Chương 38: Không Phải Của Mình Để Bảo Vệ"
+total: 45
+title: "Chương 38: Không Phải Của Mình Để Bảo Vệ"
 ---
 
 Họ chạy. Chạy không phải chạy nước rút — chạy hành quân nhanh: đều, nhịp, giữ sức. Mỗi bước đếm, mỗi nhịp thở đếm, mỗi giây đếm. Thời gian là khoảng cách giữa người thường và đau, và khoảng cách đó đang ngắn lại từng phút. Cova dẫn đường — cô ta biết đường tắt, đường rừng, đường mà bản đồ không vẽ. Cova chạy nhanh dù máu trên áo — sinh đôi, Bạc Ty Linh Đoàn, hai mươi ba năm rèn luyện: chạy là thứ cô ta làm trước khi biết đánh, chạy là cách cô ta sống sót khi Đoàn tan, chạy là cách cô ta đến được Sera trong đêm.

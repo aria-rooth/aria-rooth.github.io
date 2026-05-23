@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 27
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 30
+total: 45
 title: "Chương 27: Người Không Được Qua"
 ---
 

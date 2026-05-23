@@ -2,8 +2,8 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 37
 story: "/works/aethermoor/trong-the"
-total: 40
-title: "Chương Chương 37: Sau đột phá"
+total: 45
+title: "Chương 37: Sau đột phá"
 ---
 
 Linh Phong không giống Sera tưởng.

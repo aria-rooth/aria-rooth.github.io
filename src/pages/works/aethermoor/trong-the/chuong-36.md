@@ -2,8 +2,8 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 36
 story: "/works/aethermoor/trong-the"
-total: 40
-title: "Chương Chương 36: Bẫy"
+total: 45
+title: "Chương 36: Bẫy"
 ---
 
 Họ rời tu viện lúc sáng sớm — trước khi Vestra dậy nấu nước, trước khi than ngoài trời tắt hẳn, trước khi Fen và Cova mở cửa phòng. Không phải giấu — là không chào. Chào là lời, lời là thời gian, thời gian là khoảng cách, và khoảng cách là thứ họ cần thêm mỗi ngày.
@@ -98,15 +98,15 @@ Sáu giây. Hai người xuống. Sáu còn lại — và họ đã biết: đ�
 
 Nhưng năm kiếm thường làm chậm. Chậm đủ để chỉ huy vào.
 
-Chỉ huy Linh Chủ. Cô ta bước vào khoảng trống mà năm kiếm tạo — khoảng trống dành cho chỉ huy, vì đội Thẩm Vấn Giả chiến đấu để tạo khoảng trống cho chỉ huy kết thúc. Cô ta giơ kiếm hai tay — dài hơn kiếm Sera một cánh tay, nặng hơn. Lưỡi sáng — Linh Nguyên chảy trên lưỡi như nước trên kính, trắng, đều, mạnh. Kiếm Linh Chủ. Kiếm có domain nhỏ — domain ép không gian, ép khoảng cách, ép Sera đứng yên vì bước là bước vào domain, và bước vào domain là nhường không gian, nhường không gian là mất lợi thế.
+Chỉ huy Linh Chủ. Cô ta bước vào khoảng trống mà năm kiếm tạo — khoảng trống dành cho chỉ huy, vì đội Thẩm Vấn Giả chiến đấu để tạo khoảng trống cho chỉ huy kết thúc. Cô ta giơ kiếm hai tay — dài hơn kiếm Sera một cánh tay, nặng hơn. Lưỡi sáng — Linh Nguyên chảy trên lưỡi như nước trên kính, trắng, đều, mạnh. Kiếm Linh Chủ. Kiếm có lãnh vực nhỏ — lãnh vực ép không gian, ép khoảng cách, ép Sera đứng yên vì bước là bước vào lãnh vực, và bước vào lãnh vực là nhường không gian, nhường không gian là mất lợi thế.
 
 Sera đứng yên. Kiếm giơ. Đợi. Không phải đợi bị đánh — đợi Thệ Vang.
 
-Thệ Vang đến. Không từ kiếm — từ trong. Từ bốn mươi bảy mảnh. Từ nơi người chết thức dậy khi người sống đánh. Thệ Vang mạnh hơn mọi khi — mạnh vì cô đang ở ranh giới, ranh giới giữa sống và chết, giữa Thệ Vang và không Thệ Vang, giữa van mở và van vỡ. Aldric nói: đột phá không phải chọn lúc — đột phá là lúc cơ thể không còn chứa nổi Thệ Vang, và Thệ Vang trào ra, trào ra ngoài kiếm, ngoài tay, ngoài da, trào vào không gian quanh cô, và không gian đó trở thành của cô — không phải domain, nhưng gần. Gần domain. Gần Linh Phong.
+Thệ Vang đến. Không từ kiếm — từ trong. Từ bốn mươi bảy mảnh. Từ nơi người chết thức dậy khi người sống đánh. Thệ Vang mạnh hơn mọi khi — mạnh vì cô đang ở ranh giới, ranh giới giữa sống và chết, giữa Thệ Vang và không Thệ Vang, giữa van mở và van vỡ. Aldric nói: đột phá không phải chọn lúc — đột phá là lúc cơ thể không còn chứa nổi Thệ Vang, và Thệ Vang trào ra, trào ra ngoài kiếm, ngoài tay, ngoài da, trào vào không gian quanh cô, và không gian đó trở thành của cô — không phải lãnh vực, nhưng gần. Gần lãnh vực. Gần Linh Phong.
 
 Chỉ huy chém.
 
-Chém mạnh — Linh Chủ chém Linh Hùng, chém bằng domain nhỏ, domain ép Sera đứng yên và ép kiếm Sera đỡ thay đỡ chủ động. Sera đỡ. Kiếm Thệ Thiết chạm kiếm chỉ huy — tiếng thép không phải tiếng thép thường: tiếng thép Thệ Thiết trong hơn, sắc hơn, như hai loại kim loại khác cọ nhau, một thiêng một thường, và thiêng cắn thường. Kiếm chỉ huy lùi — không phải lùi vật lý, là lùi Linh Nguyên: Linh Nguyên trên lưỡi kiếm chỉ huy bị rút đi khi chạm Thệ Thiết, vì Thệ Thiết hút Linh Nguyên — hút như đất hút nước, hút theo cách mà vật thấm thề ước hút thứ có thệ ước. Thẩm Vấn Giả rèn kiếm từ kim loại thường, không phải Thệ Thiết, và kiếm thường khi chạm Thệ Thiết thì mất Linh Nguyên nhanh hơn — như cốc nước đổ vào hồ: cốc mất nước, hồ thêm một giọt không đáng kể.
+Chém mạnh — Linh Chủ chém Linh Hùng, chém bằng lãnh vực nhỏ, lãnh vực ép Sera đứng yên và ép kiếm Sera đỡ thay đỡ chủ động. Sera đỡ. Kiếm Thệ Thiết chạm kiếm chỉ huy — tiếng thép không phải tiếng thép thường: tiếng thép Thệ Thiết trong hơn, sắc hơn, như hai loại kim loại khác cọ nhau, một thiêng một thường, và thiêng cắn thường. Kiếm chỉ huy lùi — không phải lùi vật lý, là lùi Linh Nguyên: Linh Nguyên trên lưỡi kiếm chỉ huy bị rút đi khi chạm Thệ Thiết, vì Thệ Thiết hút Linh Nguyên — hút như đất hút nước, hút theo cách mà vật thấm thề ước hút thứ có thệ ước. Thẩm Vấn Giả rèn kiếm từ kim loại thường, không phải Thệ Thiết, và kiếm thường khi chạm Thệ Thiết thì mất Linh Nguyên nhanh hơn — như cốc nước đổ vào hồ: cốc mất nước, hồ thêm một giọt không đáng kể.
 
 Chỉ huy lùi. Bước. Một bước. Mắt cô ta — phần mắt Sera thấy dưới mũ trùm — mở rộng. Không phải sợ. Ngạc nhiên. Ngạc nhiên vì kiếm cô hút Linh Nguyên kiếm cô ta — điều mà chỉ huy không trải qua từ Linh Hùng nào.
 
@@ -114,9 +114,9 @@ Sera bước tới. Thệ Vang chảy — chảy mạnh, chảy nhanh, chảy ng
 
 Kiếm chém. Không phải cô chém — Thệ Vang chém. Thệ Vang chạy qua tay cô, chạy qua kiếm, chạy ra ngoài lưỡi — và lưỡi Thệ Thiết bừng sáng. Xanh. Sáng hơn mọi khi. Sáng chói — sáng đủ để tám người lùi, sáng đủ để chỉ huy lùi thêm bước, sáng đủ để rừng Essam quanh họ im — im như rừng im khi thứ lớn hơn rừng đi qua.
 
-Đòn. Một đòn. Sera chém — chém ngang, chém vừa, không phải đòn mạnh nhất, nhưng đòn đúng nhất. Đúng vì Thệ Vang chọn góc: Thệ Vang biết nơi chỉ huy yếu, vì Thệ Vang đọc kiếm chỉ huy như đọc báo cáo — đọc Linh Nguyên, đọc dòng chảy, đọc nơi năng lượng mỏng nhất. Và nơi mỏng nhất là dưới nách phải — nơi giáp nối, nơi Linh Nguyên chưa chạm, nơi domain chỉ huy không che. Kiếm chém qua. Máu. Nách phải đứt. Chỉ huy sụp — không chết, nhưng tay phải mất lực, kiếm hai tay rơi một tay, và kiếm một tay Linh Chủ không mạnh bằng kiếm hai tay Linh Hùng. Lợi thế mất.
+Đòn. Một đòn. Sera chém — chém ngang, chém vừa, không phải đòn mạnh nhất, nhưng đòn đúng nhất. Đúng vì Thệ Vang chọn góc: Thệ Vang biết nơi chỉ huy yếu, vì Thệ Vang đọc kiếm chỉ huy như đọc báo cáo — đọc Linh Nguyên, đọc dòng chảy, đọc nơi năng lượng mỏng nhất. Và nơi mỏng nhất là dưới nách phải — nơi giáp nối, nơi Linh Nguyên chưa chạm, nơi lãnh vực chỉ huy không che. Kiếm chém qua. Máu. Nách phải đứt. Chỉ huy sụp — không chết, nhưng tay phải mất lực, kiếm hai tay rơi một tay, và kiếm một tay Linh Chủ không mạnh bằng kiếm hai tay Linh Hùng. Lợi thế mất.
 
-Sera không dừng. Cô xoay — xoay về phía năm người đang kẹp. Năm người đã chậm — chậm vì chỉ huy sụp, chậm vì không còn domain ép, chậm vì tâm lý: khi chỉ huy ngã, lính ngập ngừng một giây, và một giây là đủ. Sera vào. Kiếm Thệ Thiết chém — hai đòn liên tiếp, chém chéo, chém nhanh, chém bằng Linh Nguyên trào từ đột phá. Hai người sụp. Ba còn lại lùi — lùi không phải chiến thuật, lùi bản năng. Lùi bản năng = lùi chết, vì lùi để khoảng trống, khoảng trống cho Lira.
+Sera không dừng. Cô xoay — xoay về phía năm người đang kẹp. Năm người đã chậm — chậm vì chỉ huy sụp, chậm vì không còn lãnh vực ép, chậm vì tâm lý: khi chỉ huy ngã, lính ngập ngừng một giây, và một giây là đủ. Sera vào. Kiếm Thệ Thiết chém — hai đòn liên tiếp, chém chéo, chém nhanh, chém bằng Linh Nguyên trào từ đột phá. Hai người sụp. Ba còn lại lùi — lùi không phải chiến thuật, lùi bản năng. Lùi bản năng = lùi chết, vì lùi để khoảng trống, khoảng trống cho Lira.
 
 Lira. Nơi hứa. Ba mươi giây. Sera đếm: chưa mười lăm. Lira chưa cần vào. Nhưng Lira vào — vào vì Lira không cần ba mươi giây, Lira cần ba giây, và ba giây là đủ để cô ta đâm từ sau lưng tên đang lùi. Dao Lira ngắn — nhưng dao ngắn gần, và gần là nơi tên lùi không nhìn. Một tên sụp. Dao rút. Hai tên quay — nhưng quay chậm, vì Lira đã lùi, lùi vào bóng cây, lùi vào nơi mắt không thấy, lùi về phía Sera, và Sera đang chém xuống.
 

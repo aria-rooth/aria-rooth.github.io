@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 34
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 35
+total: 45
 title: "Chương 34: Linh Vương Giữa Hai Phía"
 ---
 

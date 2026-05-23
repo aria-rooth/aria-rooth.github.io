@@ -1,4 +1,12 @@
-## Chương 47: Giao Thức
+---
+layout: ../../../../layouts/ChapterLayout.astro
+chapter: 47
+story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
+total: 50
+title: "Chương 47: Giao Thức"
+---
+
+Chương 47: Giao Thức
 
 *Hợp đồng là giao thức. Giao thức thì có thể đọc — nếu biết chỗ nhìn.*
 
@@ -45,3 +53,4 @@ Calla trở về từ tuần tra. Cô ta nhìn hai người — nhìn cách họ
 **Kết chương:** Vela ghi vào sổ, trang mới: *Giao thức. Kênh. Aether → Velhar. Mảnh vỡ domain.* Nhìn các từ. Nhìn khoảng trắng giữa chúng. *Cô chưa biết mảnh vỡ ở đâu. Chưa biết cách phá. Chưa sẵn sàng đối diện. Nhưng biết — biết là bắt đầu. Và bắt đầu, lần này, là cô chọn bắt đầu, không phải bị bắt.*
 
 ---
+

@@ -2,8 +2,8 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 40
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 40
-title: "Chương Chương 40: Giữa Hai Phía"
+total: 50
+title: "Chương 40: Giữa Hai Phía"
 ---
 
 Sáng. Deven Ash đã thức cả đêm — cô ta ghi chép từ lúc cổng kêu đến lúc Elara đọng kiếm, và giờ tay cô ta mỏi, sổ đầy nửa, bút cần mực mới. Nhưng mắt cô ta không mỏi — mắt sáng, đói, đói biết, như luôn.

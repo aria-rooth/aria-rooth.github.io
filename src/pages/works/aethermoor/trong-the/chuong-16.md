@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 16
 story: "/works/aethermoor/trong-the"
-total: 40
+total: 45
 title: "Chương 16: Trận Chiến Đầu Tiên Có Chủ Đích"
 ---
 

@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 36
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 40
+total: 45
 title: "Chương 36: Nút và Người"
 ---
 

@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 40
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 40
+total: 45
 title: "Chương 40: Giữa Hai Phía"
 ---
 

@@ -2,8 +2,8 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 40
 story: "/works/aethermoor/trong-the"
-total: 40
-title: "Chương Chương 40: Điều Lira Không Nói"
+total: 45
+title: "Chương 40: Điều Lira Không Nói"
 ---
 
 Đêm. Cắm trại trong rừng — không phải rừng sâu, rừng nông, cây thưa, lửa thấy xa nhưng lửa nhỏ, và nhỏ đủ. Sera ngồi. Lira ngồi — lần này không phải sàn, là ghế: gốc cây đổ, mòn, phẳng đủ để ngồi. Tiến bộ. Lira ngồi ghế thay sàn khi Lira mệt, và Lira mệt nay — mệt theo cách mà mệt khi đánh xong, chạy xong, quyết định xong, và quyết định nặng hơn đánh.

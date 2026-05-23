@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 31
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 35
+total: 45
 title: "Chương 31: Linh Nguyên Có Ký (Thiên Địa Hữu Ký)"
 ---
 

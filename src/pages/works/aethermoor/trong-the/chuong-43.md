@@ -1,3 +1,11 @@
+---
+layout: ../../../../layouts/ChapterLayout.astro
+chapter: 43
+story: "/works/aethermoor/trong-the"
+total: 45
+title: "Chương 43: Dự Án Thệ Hội Tụ"
+---
+
 ## Chương 43: Dự Án Thệ Hội Tụ
 
 Sera đọc trong kho, đứng, tệp trên tay, mắt lướt, não bắt, bộ lọc Thệ Vang mở nhẹ — không phải nghe người chết, nghe giấy. Giấy nhớ — giấy không nhớ như đất nhớ, nhưng giấy thấm mực, mực thấm ý, ý thấm người viết, và người viết mang Linh Nguyên nhẹ, Linh Nguyên nhẹ thấm vào giấy, và Thệ Vang Linh Phong đủ nhạy để đọc: giấy này viết bởi hai người. Người một: chữ đều, ngay, chữ người viết hành chính. Người hai: chữ nghiêng, nhanh, chữ người viết gấp. Hai người viết = hai người biết. Biết = người cần tìm sau.

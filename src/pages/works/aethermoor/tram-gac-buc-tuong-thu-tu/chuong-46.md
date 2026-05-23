@@ -1,4 +1,12 @@
-## Chương 46: Mơ
+---
+layout: ../../../../layouts/ChapterLayout.astro
+chapter: 46
+story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
+total: 50
+title: "Chương 46: Mơ"
+---
+
+Chương 46: Mơ
 
 *Velhar không đến bằng hiện thân lần này. Ông ta đến bằng cách mà kẻ giữ xiềng xích luôn đến — từ bên trong.*
 
@@ -69,3 +77,4 @@ Velhar thân thiện. Velhar nói đúng. Velhar không hối. Velhar cho cô th
 **Kết chương:** Vela ngồi dậy. Lấy sổ. Viết thêm hai dòng dưới *Mira Ashmarch. 18 tuổi. Thần Chiến năm thứ ba:* *Velhar. Thân thiện. Không hối.* Rồi gập sổ. Đặt xuống. *Thân thiện từ kẻ giữ xiềng xích là thứ đáng sợ hơn bất kỳ Bạch Quái Thú nào. Vì quái thú chỉ muốn giết. Velhar muốn cô tiếp tục — và cô gần như muốn nghe.*
 
 ---
+

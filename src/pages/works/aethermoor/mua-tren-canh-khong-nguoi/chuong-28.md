@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 28
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 30
+total: 45
 title: "Chương 28: Quyền Phán Xét"
 ---
 

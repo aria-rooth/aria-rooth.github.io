@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 39
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 40
+total: 45
 title: "Chương 39: Lần Đầu"
 ---
 

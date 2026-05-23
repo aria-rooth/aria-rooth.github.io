@@ -2,8 +2,8 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 38
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 40
-title: "Chương Chương 38: Bên Trong Gọi"
+total: 50
+title: "Chương 38: Bên Trong Gọi"
 ---
 
 Đêm thứ sáu sau khi cô bắt đầu thử.

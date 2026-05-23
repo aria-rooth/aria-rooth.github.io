@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 41
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 45
+total: 50
 title: "Chương 41: Mira"
 ---
 

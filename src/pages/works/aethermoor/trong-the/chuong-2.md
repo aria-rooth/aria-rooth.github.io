@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 2
 story: "/works/aethermoor/trong-the"
-total: 40
+total: 45
 title: "Chương 2: Tro Và Thề Ước"
 ---
 

@@ -2,62 +2,80 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 44
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 40
-title: "Chương Chương 44: Vũ Khí"
+total: 45
+title: "Chương 44: Sóng Dưới"
 ---
 
-*Lần đầu tiên, cô hỏi về điều khoản thay vì chỉ tuân.*
+## Chương 44: Sóng Dưới
 
-Velhar hiện thân vào ban ngày — không phải ban đêm, không phải trong chiến đấu. Giữa ban ngày, giữa tháp, bóng dáng tối đứng đối diện Vela. Không phải dạng năng lượng — mà là hiện thân thật. Có thể nhìn thấy, có thể nghe, có thể đối đầu.
+Sáng. Elara thiền — kênh mở, Linh Nguyên chảy, mạch dưới chân đọc như sách mở. Nhưng lần này cô không chỉ đọc mạch quanh cổng. Cô đọc xa hơn.
 
-"Ta muốn nói chuyện," ông ta nói. Giọng không đổi — giọng của thần khi thần không cần dùng sức mạnh để nói, chỉ cần nói.
+Linh Vương cho cô phạm vi — không vô tận, nhưng đủ để chạm ranh giới nhận thức. Cô đẩy ý chí ra xa: mười bước, hai mươi, năm mươi, trăm. Linh Nguyên dưới chân mở ra như bản đồ — mạch lớn, mạch nhỏ, mạch phụ, điểm nối, điểm rẽ, và ở xa — rất xa — mạch đứt.
 
-Vela không ngạc nhiên. Không sợ. Không vui. Chỉ gật, và chờ.
+Đứt không phải tan. Đứt như dây đứt — còn hai đầu, còn cấu trúc, nhưng khoảng giữa trống, và trống đó là chỗ Linh Nguyên không chảy, chỗ đất không nhớ, chỗ trống rỗng nằm giữa mạch sống và mạch chết. Và trống rỗng đó — cô cảm nhận — không tự nhiên. Đứt có chủ ý. Ai đó — hoặc thứ gì đó — đã cắt mạch, đã tách vùng, đã tạo khoảng trống giữa phần sống của đất và phần chết của domain.
 
-"Điều gì thay đổi?" ông ta hỏi.
+Huyền Môn Cốt nằm đúng trên ranh giới đó — nơi mạch sống gặp mạch chết, nơi Linh Nguyên ấm chạm Linh Nguyên lạnh, nơi áp suất cao gặp áp suất thấp. Cổng dựng ở đây không phải ngẫu nhiên. Cổng dựng ở đây vì đây là chỗ rỉ tự nhiên — chỗ mà hai phía gặp nhau, và gặp nhau thì rỉ, và rỉ thì lan, và lan thì cần giữ. Cổng là mảnh vá trên vết tự nhiên, và cô là người giữ mảnh vá.
 
-"Cô ấy chết rồi."
+Nhưng mảnh vá mỏng. Và vết tự nhiên rộng. Và mảnh vá chỉ giữ một phần vết — phần tại cổng, phần cô đứng. Phần xa hơn — trăm bước, hai trăm, năm trăm — không có mảnh vá, chỉ có vết, chỉ có ranh giới sống-chết mờ dần, chỉ có domain rỉ tự do vì không ai giữ.
 
-"Ta biết. Hai trăm năm trước."
+Elara mở mắt. Trời sáng. Gió bụi. Deven Ash đang nấu trà — cẩn thận, đo nước, đếm lá, như người đo lường mọi thứ kể cả vị. Cô ta đưa cho Elara chén. Elara uống. Nóng. Đắng. Tốt.
 
-"Không phải vì không bảo vệ được." Vela nhìn ông ta — bóng dáng tối, cao, không mặt, mà vẫn nhìn. "Tôi bảo vệ. Tôi bảo vệ từ khi cô ấy chết. Tôi bảo vệ hai trăm năm. Nhưng tôi không bảo vệ được cô ấy."
+*Tôi đọc mạch xa hơn thường,* Elara nói. *Mạch đứt cách đây vài trăm bước. Đứt có chủ ý — ai đó cắt.*
 
-Velhar im lặng. Im lặng của thần — không phải im lặng suy nghĩ, mà là im lặng đã biết câu trả lời từ lâu và đang chờ người khác nhận ra.
+Deven Ash đặt chén xuống. *Cắt mạch là thuật cấp Linh Việt trở lên. Linh Việt — tầng 9 — hoặc cao hơn. Nếu ai cắt mạch ở đây, đó không phải người thường.*
 
-"Người được chỉ định," Vela nói tiếp, giọng không đổi, "chết. Điều gì xảy ra với hợp đồng?"
+*Thần.*
 
-Câu hỏi đơn giản. Bảy từ. Nhưng bảy từ đó là mọi thứ — là hai trăm năm nén lại thành một câu hỏi: tôi có còn bị giữ không?
+*Hoặc thứ thần để lại.* Deven Ash mở sổ, lật trang. *Thần Tử Di Thương — domain của thần chết — có thể tự cắt mạch. Domain lan như rễ cây, và rễ cần mạch để bám. Nhưng nếu mạch đứt — domain không bám được, và domain trượt, và trượt nghĩa là domain lan theo hướng khác, hướng không có mạch giữ.*
 
-Velhar im lặng.
+*Vậy ai cắt mạch — cắt để giữ domain không bám vào vùng sống?*
 
-Và im lặng đó — im lặng của Thần Vương bị hỏi câu mà ông ta không muốn trả lời — là câu trả lời. Im lặng đủ dài để Vela biết. Im lặng đủ đặc để cô đọc: ông ta không nói vì câu trả lời là có. Hợp đồng vẫn hiệu lực. Nhưng không phải vì lý do cô nghĩ.
+*Hoặc cắt để ép domain chảy về phía cổng.* Deven Ash nhìn cô. *Nếu mạch xung quanh đứt — domain chỉ còn một đường chảy: về phía cổng. Về phía đây. Về phía cô.*
 
-"Người được chỉ định chết," ông ta nói cuối cùng, giọng không đổi — không bối rối, không né tránh, chỉ là nói sự thật theo cách thần nói: không cảm xúc, không cần, chỉ là như đọc từ bản ghi, "người ký trở thành vũ khí vĩnh viễn."
+Ý đó rơi vào im lặng. Ai đó — thần, người, hoặc thứ gì đó — đã cắt mạch quanh vùng, ép domain chảy về cổng. Ép rỉ về đây. Ép áp lực về đây. Ép mọi thứ về phía người giữ. Tại sao?
 
-Vũ khí vĩnh viễn. Bốn từ. Và bốn từ đó là điều khoản ẩn — điều khoản mà cô không biết khi ký. Điều khoản mà Velhar giấu, vì giấu là cách ông ta lấy, và lấy là cách ông ta tồn tại. Hai trăm năm cô nghĩ mình bảo vệ. Hai trăm năm cô nghĩ mình canh. Hai trăm năm cô nghĩ mình chọn. Nhưng điều khoản ẩn nói: cô không chọn. Cô không bao giờ chọn. Từ giây phút Mira chết, cô đã là vũ khí — không phải bảo vệ, không phải canh gác, mà là công cụ. Công cụ của Thần Vương. Công cụ không cần lý do, chỉ cần hoạt động.
+Vì cổng là van. Van duy nhất. Nếu domain chỉ còn một lối ra — cổng — thì giữ cổng là giữ tất cả. Nhưng cũng nghĩa là tất cả áp lực dồn vào một điểm, và một điểm gánh tất cả thì gánh nặng gấp ba, gấp mười, gấp hơn cô tưởng.
 
-Vela nghe điều này. Và không có phản ứng kịch tính. Không la, không khóc, không giận. Chỉ gật đầu. Gật nhẹ. Như người vừa nghe xác nhận điều mình đã biết — không phải biết chi tiết, mà là biết mùi, biết sắc, biết rằng câu trả lời sẽ không đẹp.
+*Người thiết kế cổng này không chỉ dựng van,* Elara nói chậm. *Họ ép mọi thứ về van. Họ tạo hệ thống một lối ra. Đó không phải thiết kế giữ — đó là thiết kế gom.*
 
-"Tôi hiểu rồi." Dừng. Cô nhìn Velhar — bóng dáng tối, cao, không mặt — và nói: "Anh đã lợi dụng nỗi sợ của một người đang tuyệt vọng. Điều đó không thay đổi được."
+*Gom rồi giữ,* Deven Ash nói. *Giữ một cửa dễ hơn giữ mười cửa. Nhưng —* cô ta ngừng, *— nhưng gom cũng nghĩa là nếu cửa vỡ, mọi thứ đổ ra cùng lúc. Không rỉ từ nhiều phía — vỡ từ một điểm. Và vỡ một điểm lớn hơn rỉ nhiều phía.*
 
-Dừng nữa. Tìm từ.
+Bẫy. Thiết kế này là bẫy — bẫy cho domain, ép domain vào một lối, giữ lối đó. Nhưng bẫy có hai phía: nếu giữ được — domain ổn, rỉ kiểm soát, người bên trong an toàn. Nếu vỡ — domain đổ ra, lớn, nhanh, không kiểm soát, và người bên ngoài không kịp chạy.
 
-"Nhưng điều tôi làm tiếp theo thì được."
+Elara đứng dậy. Đi đến cổng. Nhìn trụ — vết nứt từ đêm Revenant đẩy đã hẹp hơn, nhưng còn. Cô chạm. Linh Nguyên chảy — ấm của cô, lạnh của rỉ, nóng của domain ép. Ba nhiệt độ trong một đá. Ba áp lực trong một van. Và cô — người giữ — đứng giữa ba, điều hướng ba, và nếu sai một nhịp —
 
-Velhar nhìn cô — không có mắt để nhìn, nhưng cô cảm thấy nhìn, cảm thấy trọng lượng của sự chú ý thần thánh đè lên — và cô không cúi. Không phải vì chống. Mà vì cô không cần cúi. Cô không còn nợ ông ta. Không còn bị giữ bởi sợ. Cô chọn ở lại — chọn, không phải bị — và chọn đó không phải thứ ông ta lấy được. Chọn đó là của cô.
+*Chị ơi.*
 
-Bóng dáng di chuyển. Không phải bước — là lướt, là dịch, là ở chỗ khác mà không đi qua giữa. Ông ta rời đi. Không phải vì thua — không có trận đấu để thua. Mà là vì nhận ra điều này sẽ phức tạp hơn ông ta tính toán. Cô không sợ nữa. Cô không tuân nữa. Cô chọn — và chọn của cô không phụ thuộc ông ta. Và đó, đối với Thần Vương quen với vũ khí tuân, là thứ cần xem xét lại.
+Lyss. Cô bé đứng bên kia cổng — hoàng hôn chưa đến, nhưng cô bé sớm, như hôm qua. Mắt cô bé — rộng, nhưng không sợ. Lo. *Em cảm nhận. Từ trong. Domain không chỉ rỉ. Domain... co.*
 
-Áp lực nhả. Lửa trong tháp bật — tự bật, như ngọn lửa biết thứ đáng sợ đã đi. Calla đứng dậy, chân run nhẹ, mặt trắng. Cô ta vừa ở trong hiện diện của Thần Vương. Lần đầu tiên. Và cô ta hiểu — hiểu theo cách mà chỉ người trong hiện diện thần mới hiểu — tại sao Vela đã đứng hai trăm năm đối mặt với thứ tồi tệ hơn thần mỗi đêm mà không run.
+*Co?*
 
-"Ông ta sẽ quay lại," Calla nói. Giọng khô. Không phải cảnh báo — là thực tế.
+*Như ai thở ra. Domain thở ra, và khi thở ra, nó nhỏ lại, và nhỏ lại nghĩa là...* cô bé nghĩ, tìm từ, *...nghĩa là nó đang thu người về.*
 
-"Tôi biết," Vela nói. "Nhưng tôi sẽ vẫn ở đây. Và lần đó cũng vậy."
+Thu người. Domain co — thở ra, nhỏ lại — và thu người chết về phía tâm chấn. Thu không phải đẩy. Thu là kéo. Kéo từ rìa vào sâu. Kéo từ xa về gần. Kéo những người đứng quanh cổng — bốn mươi sáu — sâu hơn, gần tâm chấn hơn, gần nguồn hơn.
 
-Calla nhìn cô. Muốn hỏi — hỏi nhiều — nhưng không hỏi. Cô ta là Linh Hùng, chiến binh Học Viện, đã đối mặt đủ thứ để biết khi nào câu hỏi không giúp gì. Thay vào đó, cô ta gật đầu, quay về góc phòng, và ngồi xuống. Lấy bút. Bắt đầu ghi chép. Ghi chép về hiện thân Velhar, về điều khoản ẩn, về cuộc đối thoại vừa rồi. Vì nếu cô ta không ghi, ai ghi? Và ghi chép — ghi chép là cách mà người sống lưu giữ sự thật trước khi sự thật bị lãng quên.
+*Lyss,* Elara nói. *Cô có bị kéo không?*
 
-Vela nhìn Calla ghi. Nhìn cách bút chạy, cách tay cô ta run nhẹ — run còn lại từ hiện diện thần — cách cô ta cắn môi để tập trung. Calla mạnh. Nhưng mạnh không nghĩa là không sợ. Và sợ đó — sợ mà cô ta vẫn ghi chép — là dũng cảm thật. Dũng cảm không phải không sợ. Dũng cảm là sợ mà vẫn làm.
+Cô bé nghĩ. *Hơi. Như gió sau lưng. Không mạnh. Nhưng nếu nó mạnh hơn...*
 
-Velhar rời đi không phải vì thua — mà vì nhận ra điều này sẽ phức tạp hơn ông ta tính toán. Vũ khí đã biết mình là vũ khí. Và vũ khí biết — chọn đứng khác với bị đứng. Vela đứng nhìn theo bóng dáng tan. Lần đầu tiên trong hai trăm năm, cô đang nhìn về phía trước thay vì chỉ nhìn đến trận tiếp theo. Phía trước có gì, cô chưa biết. Nhưng cô biết mình sẽ bước tới, không phải vì bị đẩy, mà vì chọn bước.
+Nếu domain co mạnh hơn, Lyss bị kéo sâu. Corin bị kéo sâu. Bốn mươi sáu người bị kéo sâu. Và sâu hơn nghĩa là xa cô hơn, xa cổng hơn, xa ranh giới hơn. Xa ranh giới — xa cơ hội ra.
 
-***
+Elara ghi nhanh. *Domain co. Thu người về tâm chấn. Nguyên nhân: mạch đứt quanh vùng, domain chỉ chảy về cổng, áp lực dồn, domain phản ứng bằng thu nhỏ. Hệ quả: người bên trong bị kéo sâu, xa cổng, xa ra.*
+
+Nguy hiểm. Mới — hoặc mới nhận ra — và nguy hiểm. Domain co không phải rỉ — rỉ là lan ra, co là thu vào, và cả hai đều xấu theo cách khác. Rỉ đe người ngoài. Co đe người trong. Và cô — đứng giữa — phải lo cả hai phía.
+
+Deven Ash đọc ghi chép qua vai cô. *Domain co khi áp lực vượt ngưỡng,* cô ta nói. *Như phổi — khi không khí quá đặc, phổi co lại thay vì giãn. Domain đang bị ép, và co là phản ứng tự bảo vệ.*
+
+*Tự bảo vệ của domain hay của thần chết?*
+
+Deven Ash không đáp ngay. *Cùng thứ. Domain của thần chết — domain đó là thần. Ý chí thần thấm trong domain. Domain co — thần co. Thần phản ứng.*
+
+Thần phản ứng. The Sunken God — Trầm Thần — chưa chết hẳn. Chìm, không tan. Domain là thân xác cuối, và domain phản ứng nghĩa là thần phản ứng, và thần phản ứng nghĩa là thần còn, và thần còn nghĩa là cô không chỉ giữ domain — cô giữ thần.
+
+Lạnh. Không lạnh đá, không lạnh rỉ — lạnh hiểu. Elara nhìn vào khoảng trống cổng, vào sâu, vào tối, vào nơi mà Trầm Thần đang chìm và phản ứng và co thu người chết về. Và cô — Linh Vương, người gác, nhiên liệu — đứng ở rìa vết thương lớn nhất thế giới, giữ van duy nhất, và giờ biết rằng trong vết thương có ý thức, và ý thức đó đang phản ứng với cách cô giữ.
+
+Mười hai năm cô nghĩ mình canh cổng. Canh đá. Canh mạch. Giờ cô biết: cô canh thần. Thần đang chìm. Và thần phản ứng.
+
+*Kết chương*
+
+---

@@ -2,8 +2,8 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 39
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 40
-title: "Chương Chương 39: Lần Đầu"
+total: 50
+title: "Chương 39: Lần Đầu"
 ---
 
 Chuyện xảy ra đêm sau.

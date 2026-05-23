@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 34
 story: "/works/aethermoor/trong-the"
-total: 40
+total: 45
 title: "Chương 34: Tu Viện Cuối Rừng"
 ---
 

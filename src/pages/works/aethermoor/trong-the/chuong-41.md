@@ -1,3 +1,11 @@
+---
+layout: ../../../../layouts/ChapterLayout.astro
+chapter: 41
+story: "/works/aethermoor/trong-the"
+total: 45
+title: "Chương 41: Tin Về Mordren"
+---
+
 ## Chương 41: Tin Về Mordren
 
 Tin đến từ quán Trắng — quán duy nhất ở Bắc Vorthane mà người gửi thư không cần tên, chỉ cần đồng.

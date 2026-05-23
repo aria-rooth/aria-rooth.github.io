@@ -1,3 +1,11 @@
+---
+layout: ../../../../layouts/ChapterLayout.astro
+chapter: 42
+story: "/works/aethermoor/trong-the"
+total: 45
+title: "Chương 42: Draven"
+---
+
 ## Chương 42: Draven
 
 Draven: thị trấn nhỏ nằm ở chỗ mà bản đồ quên — không phải vì thị trấn không đáng nhớ, vì thị trấn được thiết kế để không nhớ. Đường đến Draven hẹp, rẽ ba lần, hai lần rẽ vào ngõ cụt. Ai đến Draven phải biết Draven ở đâu — hoặc phải có người dẫn. Sera và Lira không có người dẫn. Sera có bản đồ Aldric — bản đồ nhỏ, vẽ tay, chi tiết đúng hai mươi năm trước. Draven không đổi nhiều trong hai mươi năm: thị trấn quên thì thị trấn không xây, không xây thì không đổi, không đổi thì bản đồ cũ vẫn đúng.

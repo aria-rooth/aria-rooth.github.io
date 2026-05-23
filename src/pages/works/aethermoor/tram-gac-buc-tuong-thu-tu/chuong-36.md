@@ -2,8 +2,8 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 36
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 40
-title: "Chương Chương 36: Nút và Người"
+total: 50
+title: "Chương 36: Nút và Người"
 ---
 
 Kiếm trong tay. Mười hai năm trong vỏ, và giờ — lưỡi phản chiếu ánh sáng không có nguồn, sáng của bình minh vừa qua, sáng của sương trên cỏ, sáng của thứ gì đó không hoàn toàn thuộc về ngày. Elara đứng trước cổng và cảm nhận khác.

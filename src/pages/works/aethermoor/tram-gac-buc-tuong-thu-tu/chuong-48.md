@@ -1,4 +1,12 @@
-## Chương 48: Nguồn Cấp
+---
+layout: ../../../../layouts/ChapterLayout.astro
+chapter: 48
+story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
+total: 50
+title: "Chương 48: Nguồn Cấp"
+---
+
+Chương 48: Nguồn Cấp
 
 *Lời nguyền không cho — nó mượn. Mượn từ cô. Mượn cho ông ta.*
 
@@ -43,3 +51,4 @@ Vela ngồi với điều đó. Ngồi trong tháp, lửa nhỏ, gió ngoài. Nh
 **Kết chương:** Vela viết vào sổ: *Nút thệ ước. Mảnh vỡ = chìa khóa. Đất nhớ. Thiên Địa Hữu Ký. Cần Thánh Vực để đọc.* Rồi nhìn từ *Thánh Vực*. Tier 10. Ngưỡng thần. Cô ở Tier 9. Một ngưỡng. Một ngưỡng duy nhất giữa cô và cách phá hợp đồng không cần sát thần. *Một ngưỡng. Nhưng một ngưỡng — khi đã biết nó ở đâu — là mục tiêu. Và mục tiêu, lần đầu tiên, là thứ cô tự đặt.*
 
 ---
+

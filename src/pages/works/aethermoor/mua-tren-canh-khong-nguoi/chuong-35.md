@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 35
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 35
+total: 45
 title: "Chương 35: Kiếm Rút (Cuối Arc 2)"
 ---
 
