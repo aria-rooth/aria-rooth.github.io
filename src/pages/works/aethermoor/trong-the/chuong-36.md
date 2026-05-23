@@ -50,7 +50,7 @@ Không phải hỏi. Sera không muốn tránh. Tránh hôm nay = tránh ngày m
 
 "Không tránh," Sera nói. "Chọn mặt đất."
 
-Chọn mặt đất: không phải chọn đánh ở đâu — là chọn đánh ở nơi có lợi thế. Lira hiểu. Cô ta không gật — cô ta hành động. Đi. Nhanh. Qua suối cạn, lên đồi thấp, dừng ở ngọn đồi nhìn xuống đường mòn. Từ đây: nhìn thấy ba trăm bước đường mòn, cây thưa, đất trống — không chỗ ẩn cho kẻ mai phục, nhưng có chỗ ẩn cho người quan sát. Kẻ mai phục ẩn dưới đường mòn — trong rãnh sâu hai bên, sau bụi gai dày. Tám người. Chín — chỉ huy đứng sau, không ẩn, đứng thẳng, giáp sáng, như người không cần ẩn vì người không sợ bị thấy. Linh Chủ. Cô đọc: dáng đứng thẳng, chân rộng bằng vai, tay sau lưng — dáng chỉ huy tự tin. Quá tự tin. Hoặc tự tin đúng — Linh Chủ dẫn tám Linh Chiến/Linh Kỵ chống Linh Hùng và Kiếm Tự Do: tự tin đúng.
+Chọn mặt đất: không phải chọn đánh ở đâu — là chọn đánh ở nơi có lợi thế. Lira hiểu. Cô ta không gật — cô ta hành động. Đi. Nhanh. Qua suối cạn, lên đồi thấp, dừng ở ngọn đồi nhìn xuống đường mòn. Từ đây: nhìn thấy ba trăm bước đường mòn, cây thưa, đất trống — không chỗ ẩn cho kẻ mai phục, nhưng có chỗ ẩn cho người quan sát. Kẻ mai phục ẩn dưới đường mòn — trong rãnh sâu hai bên, sau bụi gai dày. Tám người. Chín — chỉ huy đứng sau, không ẩn, đứng thẳng, giáp sáng, như người không cần ẩn vì người không sợ bị thấy. Linh Chủ. Cô đọc: dáng đứng thẳng, chân rộng bằng vai, tay sau lưng — dáng chỉ huy tự tin. Quá tự tin. Hoặc tự tin đúng — Linh Chủ dẫn tám Linh Chiến/Linh Kỵ chống Linh Hùng và Tự Do Kiếm: tự tin đúng.
 
 "Chín," Lira nói. Cô ta cũng đếm. "Chỉ huy Linh Chủ. Tám dưới — Linh Chiến hoặc Linh Kỵ. Không thấy Linh Phong trở lên ngoài chỉ huy."
 

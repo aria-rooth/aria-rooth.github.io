@@ -10,7 +10,7 @@ Họ đi suốt đêm. Lira muốn đi đêm — ban ngày mắt nhiều, ban đ
 
 Đêm Vorthane khác đêm Thessault. Thessault đêm vẫn sáng — đèn đường, đèn cửa, đèn canh gác. Vorthane đêm tối đúng nghĩa: cây che, mây che, ánh sáng duy nhất từ mạch Linh Nguyên chảy sâu dưới rễ, hắt lên mặt đất thành vệt xanh nhạt, mỏng như chỉ, như tĩnh mạch của đất. Sera đi trên vệt xanh và nghĩ: đây là thứ Aldric muốn cô nhìn. Đất sống. Đất thở. Linh Nguyên chảy tự nhiên, không qua thép hay đá, qua rễ và mùn và giun đất.
 
-Lira đi trước. Cô ta biết đường — không bằng bản đồ, bằng chân. Bước nào nhanh, bước nào chậm, bước nào né rễ nổi, bước nào đạp bùng trũng. Sera theo sau và ghi nhận: Lira di chuyển như người đã đi con đường này nhiều lần, không phải để đến đâu, mà vì không còn nơi khác để đi. Kiếm Tự Do không có nhà. Kiếm Tự Do có đường.
+Lira đi trước. Cô ta biết đường — không bằng bản đồ, bằng chân. Bước nào nhanh, bước nào chậm, bước nào né rễ nổi, bước nào đạp bùng trũng. Sera theo sau và ghi nhận: Lira di chuyển như người đã đi con đường này nhiều lần, không phải để đến đâu, mà vì không còn nơi khác để đi. Tự Do Kiếm không có nhà. Tự Do Kiếm có đường.
 
 Họ dừng khi trời hửng sáng. Khoảng trống giữa hai gốc sồi lớn, đủ rộng để nằm, đủ khuất để không bị thấy từ xa. Lira ngồi xuống, lưng dựa gốc, kiếm ngang đùi — luôn trong tầm tay. Sera ngồi đối diện. Thanh Thệ Thiết bên mình. Nặng. Cứ nặng. Mỗi đêm nặng hơn một chút, như cuốn sách thêm trang, nhưng trang không ai đọc.
 
@@ -42,7 +42,7 @@ Sera nghe. Không đồng ý hoàn toàn — trong Đoàn, người đỡ ngư�
 
 Lira nhìn cô — nhanh, đánh giá. Rồi gật. Gật nhỏ, gần không thấy. Nhưng đủ để Sera biết: Lira ghi nhận cô im, và coi đó là dấu của người hiểu khi nào nên nói và khi nào nên không.
 
-Họ đi tiếp về phía Bắc Vorthane — nơi Lira nghe nói có một Đoàn đang gặp khó khăn. Bạch Linh Mạc Đoàn. Đoàn nhỏ chuyên bảo vệ hành trình — đưa người qua vùng nguy hiểm, từ điểm A đến điểm B, thu tiền theo dặm. Không chiến đấu trừ khi cần. Không chọn phe. Đơn giản, thiết thực, — và đang co rút, theo tin Lira thu thập từ mạng lưới Kiếm Tự Do. Khách hàng mất. Hợp đồng mất. Người rời đi. Lira muốn biết tại sao. Sera muốn biết có phải cùng pattern.
+Họ đi tiếp về phía Bắc Vorthane — nơi Lira nghe nói có một Đoàn đang gặp khó khăn. Bạch Linh Mạc Đoàn. Đoàn nhỏ chuyên bảo vệ hành trình — đưa người qua vùng nguy hiểm, từ điểm A đến điểm B, thu tiền theo dặm. Không chiến đấu trừ khi cần. Không chọn phe. Đơn giản, thiết thực, — và đang co rút, theo tin Lira thu thập từ mạng lưới Tự Do Kiếm. Khách hàng mất. Hợp đồng mất. Người rời đi. Lira muốn biết tại sao. Sera muốn biết có phải cùng pattern.
 
 Ban ngày họ nghỉ trong hốc đá, nửa chìm dưới rễ cây lớn. Lira ngủ trước. Sera canh. Không phải vì Lira xin — vì Sera không thể ngủ khi có người lạ trong tầm kiếm. Lira biết. Cô ta ngủ nhưng ngủ nông — loại ngủ mà người một mình học: vừa đủ để nghỉ, vừa đủ để thức khi có động. Sera canh và lắng nghe Thệ Vang.
 

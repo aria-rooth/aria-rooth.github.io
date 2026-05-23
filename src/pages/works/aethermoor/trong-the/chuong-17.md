@@ -50,7 +50,7 @@ Aldric im. Ông nhìn năm xác trên đất. Nhìn lò rèn — lửa rèn vẫ
 
 *Lira.*
 
-"Cô ấy là Kiếm Tự Do," Aldric nói. "Từng thuộc Đoàn. Rời đi trước khi Đoàn tan. Tôi gặp cô ấy mười hai năm trước — sửa kiếm cho cô ấy. Kiếm không phải Thệ Thiết, nhưng cô ấy hiểu thề ước hơn đa số người cầm Thệ Thiết. Cô ấy ở Vorthane, vùng biên giới. Tìm cô ấy trong quán trọ tên Cửa Đen."
+"Cô ấy là Tự Do Kiếm," Aldric nói. "Từng thuộc Đoàn. Rời đi trước khi Đoàn tan. Tôi gặp cô ấy mười hai năm trước — sửa kiếm cho cô ấy. Kiếm không phải Thệ Thiết, nhưng cô ấy hiểu thề ước hơn đa số người cầm Thệ Thiết. Cô ấy ở Vorthane, vùng biên giới. Tìm cô ấy trong quán trọ tên Cửa Đen."
 
 Sera nhìn cái tên. Lira. Năm chữ cái, một tên, không thêm gì — không địa chỉ, không nghề, không lý do. Aldric không viết thêm vì ông không cần. Ông biết tên đủ. Ai biết Lira sẽ tìm được Lira. Ai không biết — không cần tìm.
 

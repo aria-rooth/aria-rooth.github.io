@@ -16,7 +16,7 @@ Họ đi về phía Đông — đường Lira chọn, đường vòng tránh tuy
 
 Chiều. Họ dừng bên suối — cùng suối, khác đoạn. Sera ngồi. Lira ngồi — ghế đá tự nhiên, mòn mờ, ai đó từng ngồi đây trước họ. Im lặng. Nước chảy. Gió thổi. Sera để Thệ Vang chảy nhẹ — không lọc, không tập trung, chỉ chảy. Và trong dòng chảy nhẹ đó, cô nghe:
 
-*Hình.* Không phải hình nhìn — hình cảm. Cảm không gian quanh cô rộng hơn thường. Trước: cô cảm nhận Linh Nguyên trong phạm vi bước chân — năm, mười, tối đa mười lăm bước. Sau: cô cảm nhận Linh Nguyên trong phạm vi rộng hơn — năm mươi bước? Trăm? Không rõ ranh giới, nhưng ranh giới nới, và nới nghĩa là cô biết thêm — biết mạch đất dưới suối chảy hướng Bắc, biết cây sồi phía trên có Linh Nguyên cũ (cây già, Linh Nguyên tích trong rễ, chậm, đặc), biết Lira bên cạnh không có Linh Nguyên đáng kể (Kiếm Tự Do, không Thệ Liên, không Thệ Thiết — nhưng có thứ gì đó, sống, mỏng, như hơi ấm cơ thể, và cô cảm nhận hơi ấm đó từ năm bước xa).
+*Hình.* Không phải hình nhìn — hình cảm. Cảm không gian quanh cô rộng hơn thường. Trước: cô cảm nhận Linh Nguyên trong phạm vi bước chân — năm, mười, tối đa mười lăm bước. Sau: cô cảm nhận Linh Nguyên trong phạm vi rộng hơn — năm mươi bước? Trăm? Không rõ ranh giới, nhưng ranh giới nới, và nới nghĩa là cô biết thêm — biết mạch đất dưới suối chảy hướng Bắc, biết cây sồi phía trên có Linh Nguyên cũ (cây già, Linh Nguyên tích trong rễ, chậm, đặc), biết Lira bên cạnh không có Linh Nguyên đáng kể (Tự Do Kiếm, không Thệ Liên, không Thệ Thiết — nhưng có thứ gì đó, sống, mỏng, như hơi ấm cơ thể, và cô cảm nhận hơi ấm đó từ năm bước xa).
 
 "đột phá cảm giác thế nào?" Lira hỏi. Giọng Lira bình — bình vì Lira không hỏi tò mò, Lira hỏi thực dụng. Biết cảm giác đột phá = biết cách đối phó khi gặp người đột phá.
 

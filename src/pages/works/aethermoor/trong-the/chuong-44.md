@@ -64,7 +64,7 @@ Năm từ. Năm từ nặng hơn tệp da bọc dưới áo Sera. Năm từ mà 
 
 "Em trai. Tên gì?" Sera hỏi. Không phải *tôi xin lỗi.* Xin lỗi không cứu em trai. Tên cứu.
 
-"Kael. Hai mươi tuổi. Giáo Hội giữ hai năm. Tôi — đổi tin. Tin về Kiếm Tự Do không thuần phục. Vị trí. Hành động. Ai gặp ai. Đổi Kael sống."
+"Kael. Hai mươi tuổi. Giáo Hội giữ hai năm. Tôi — đổi tin. Tin về Tự Do Kiếm không thuần phục. Vị trí. Hành động. Ai gặp ai. Đổi Kael sống."
 
 Sera nghe. Nghe Lira nói. Nghe từng từ, từng khoảng, từng hụt hơi. Lira bán tin. Lira bán vị trí Sera. Lira — người đi cùng cô bảy tuần, người canh cô đêm, người đánh bên cô, người không hứa ở lại nhưng ở — Lira bán tin về cô cho Giáo Hội. Đổi em trai.
 

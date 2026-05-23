@@ -14,7 +14,7 @@ Sera và Lira không vào thẳng. Họ ngồi quán đối diện, gọi rượ
 
 Lira nhận ra một người — đàn ông gầy, cao, bước đi khập khiễng, chân trái co nhẹ. *"Kellen. Bạch Linh Mạc Đoàn, Linh Chiến."* Giọng cô ta không biểu cảm, nhưng cách cô ta nói tên cho thấy cô biết người đó — không thân, nhưng đủ để nhận diện.
 
-Họ tiếp cận khi Kellen ra ngoài mua nhu yếu phẩm. Lira chặn đường. Kellen nhìn Lira — không sợ, không ngạc nhiên. Kiếm Tự Do chặn đường không phải tin mới ở Vorthane.
+Họ tiếp cận khi Kellen ra ngoài mua nhu yếu phẩm. Lira chặn đường. Kellen nhìn Lira — không sợ, không ngạc nhiên. Tự Do Kiếm chặn đường không phải tin mới ở Vorthane.
 
 "Lira. Vẫn còn sống." 
 

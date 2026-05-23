@@ -38,7 +38,7 @@ Lira đứng cạnh cô. Lira không đọc — Lira canh. Canh vì Sera đọc,
 
 "Có gì?" Lira hỏi. Ngắn. Không tò mò — hỏi vì cần biết.
 
-Sera gập tệp. Đưa cho Lira. Lira đọc — đọc nhanh, đọc kiểu Kiếm Tự Do đọc tin tình báo: bỏ chi tiết, bắt từ khóa, từ khóa = Thệ Hạch, Đoàn, Thần Đế, Pale Frontier. Lira đọc trong mười lăm giây. Mười lăm giây đủ.
+Sera gập tệp. Đưa cho Lira. Lira đọc — đọc nhanh, đọc kiểu Tự Do Kiếm đọc tin tình báo: bỏ chi tiết, bắt từ khóa, từ khóa = Thệ Hạch, Đoàn, Thần Đế, Pale Frontier. Lira đọc trong mười lăm giây. Mười lăm giây đủ.
 
 "Giáo Hội đang giết Đoàn để lấy Thệ Hạch," Lira nói. Không phải hỏi. "Thệ Hạch để đánh thức Thần Đế. Trọng Nham Hỏa Đạo bị diệt vì — vì viên đá chứa thề ước của họ."
 
