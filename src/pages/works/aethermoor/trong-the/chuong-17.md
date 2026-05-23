@@ -6,7 +6,7 @@ total: 40
 title: "Chương 17: Dấu Vết"
 ---
 
-Aldric không hỏi cô cảm thấy thế nào sau breakthrough. Ông nấu bữa sáng — thêm đĩa cho năm xác không cần ăn — rồi dọn dẹp bát đũa. Sera dọn dẹp bên ngoài. Khác loại dọn dẹp.
+Aldric không hỏi cô cảm thấy thế nào sau đột phá. Ông nấu bữa sáng — thêm đĩa cho năm xác không cần ăn — rồi dọn dẹp bát đũa. Sera dọn dẹp bên ngoài. Khác loại dọn dẹp.
 
 Năm Thẩm Vấn Giả nằm trên đất sét trước lò rèn. Máu đã ngập vào đất — đất sét hút nhanh, như bọt biển. Cô lục soát từng người theo thứ tự: gần nhất trước, xa nhất sau. Nhanh, có kiểm soát, không phá hủy chứng cứ. Đời sống tư nhân của kẻ chết không liên quan cô — cô chỉ cần điều họ mang theo vì nhiệm vụ.
 
@@ -26,7 +26,7 @@ Cô gấp lệnh lại. Nhét vào túi áo ngoài, khác vị trí với nhật
 
 Cô đứng giữa năm xác và nghĩ về từ *tàn dư*. Tàn dư là phần còn lại sau khi lửa tắt — tro, xám, nhẹ. Cô không nhẹ.
 
-Mùi máu bám vào áo cô — không nhiều, nhưng đủ để cô ngửi thấy khi cúi xuống lục soát. Máu Thẩm Vấn Giả có mùi khác máu Đoàn. Cô không biết khác ở đâu. Chỉ biết nó làm cô buồn nôn nhẹ — không phải vì giết, mà vì cô đã quen với việc giết quá nhanh. Cô nặng — bốn mươi bảy mảnh thề ước trên vai, kiếm trên lưng, nhật ký bên sườn. Tàn dư không trả đòn. Tàn dư không giết năm người trong mười một giây. Giáo Hội gọi cô tàn dư vì họ cần cô là tàn dư — vô hình, vô trọng, dễ quét. Nhưng tàn dư không mang Thệ Thiết. Tàn dư không breakthrough. Cô không phải tàn dư. Cô là người cuối — và người cuối khác tàn dư ở chỗ: người cuối vẫn chọn.
+Mùi máu bám vào áo cô — không nhiều, nhưng đủ để cô ngửi thấy khi cúi xuống lục soát. Máu Thẩm Vấn Giả có mùi khác máu Đoàn. Cô không biết khác ở đâu. Chỉ biết nó làm cô buồn nôn nhẹ — không phải vì giết, mà vì cô đã quen với việc giết quá nhanh. Cô nặng — bốn mươi bảy mảnh thề ước trên vai, kiếm trên lưng, nhật ký bên sườn. Tàn dư không trả đòn. Tàn dư không giết năm người trong mười một giây. Giáo Hội gọi cô tàn dư vì họ cần cô là tàn dư — vô hình, vô trọng, dễ quét. Nhưng tàn dư không mang Thệ Thiết. Tàn dư không đột phá. Cô không phải tàn dư. Cô là người cuối — và người cuối khác tàn dư ở chỗ: người cuối vẫn chọn.
 
 Aldric ra ngoài khi cô xong. Ông nhìn năm xác — bình thản, như nhìn năm khúc gỗ thừa sau khi chặt. Không buồn. Không phẫn nộ. Mệt — mệt theo cách người già mệt mỏi khi thấy điều mình đã đoán thành hiện thực.
 
@@ -50,7 +50,7 @@ Aldric im. Ông nhìn năm xác trên đất. Nhìn lò rèn — lửa rèn vẫ
 
 *Lira.*
 
-"Cô ấy là Free Sword," Aldric nói. "Từng thuộc Đoàn. Rời đi trước khi Đoàn tan. Tôi gặp cô ấy mười hai năm trước — sửa kiếm cho cô ấy. Kiếm không phải Thệ Thiết, nhưng cô ấy hiểu thề ước hơn đa số người cầm Thệ Thiết. Cô ấy ở Vorthane, vùng biên giới. Tìm cô ấy trong quán trọ tên Cửa Đen."
+"Cô ấy là Kiếm Tự Do," Aldric nói. "Từng thuộc Đoàn. Rời đi trước khi Đoàn tan. Tôi gặp cô ấy mười hai năm trước — sửa kiếm cho cô ấy. Kiếm không phải Thệ Thiết, nhưng cô ấy hiểu thề ước hơn đa số người cầm Thệ Thiết. Cô ấy ở Vorthane, vùng biên giới. Tìm cô ấy trong quán trọ tên Cửa Đen."
 
 Sera nhìn cái tên. Lira. Năm chữ cái, một tên, không thêm gì — không địa chỉ, không nghề, không lý do. Aldric không viết thêm vì ông không cần. Ông biết tên đủ. Ai biết Lira sẽ tìm được Lira. Ai không biết — không cần tìm.
 

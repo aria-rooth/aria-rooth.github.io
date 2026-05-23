@@ -46,11 +46,11 @@ Lira gật đầu. Đứng dậy. Cất kiếm vào vỏ. Đặt trên giá. Ch�
 
 "Tôi ghét Phong Quang Thánh Giáo," cô ta nói. "Cô có tiền không?"
 
-Sera đặt túi tiền trên ngăn kéo — túi lấy từ xác Thẩm Vấn Giả. Không phải nhiều. Nhưng đủ cho vài ngày. Lira nhìn túi tiền. Không đếm. Không cần đếm — cô ta nhìn bề ngoài túi, ước lượng, và biết. Free Sword biết tiền như Hiệp Sĩ biết kiếm: bằng mắt, không bằng tay.
+Sera đặt túi tiền trên ngăn kéo — túi lấy từ xác Thẩm Vấn Giả. Không phải nhiều. Nhưng đủ cho vài ngày. Lira nhìn túi tiền. Không đếm. Không cần đếm — cô ta nhìn bề ngoài túi, ước lượng, và biết. Kiếm Tự Do biết tiền như Hiệp Sĩ biết kiếm: bằng mắt, không bằng tay.
 
 "Aldric bảo tôi đến," Sera nói.
 
-Lira dừng. Nhìn cô. Lần đầu có gì đó thay đổi trong mắt cô ta — không phải xúc cảm, mà là chuyển dịch, như mảnh ghép vừa khớp vào vị trí. Aldric. Ông già Aldric. Sửa kiếm mười hai năm trước. Cô ta biết tên ông — nghĩa là ông đã để lại dấu ấn đủ lớn để một Free Sword nhớ sau mười hai năm.
+Lira dừng. Nhìn cô. Lần đầu có gì đó thay đổi trong mắt cô ta — không phải xúc cảm, mà là chuyển dịch, như mảnh ghép vừa khớp vào vị trí. Aldric. Ông già Aldric. Sửa kiếm mười hai năm trước. Cô ta biết tên ông — nghĩa là ông đã để lại dấu ấn đủ lớn để một Kiếm Tự Do nhớ sau mười hai năm.
 
 "Ông già Aldric," cô ta nói. "Còn sống à."
 

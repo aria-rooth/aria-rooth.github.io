@@ -22,7 +22,7 @@ Họ đợi. Đợi trong rừng, đợi đến tối, đợi đến khi đèn t
 
 Nửa đêm.
 
-Lira đi trước. Không phải vì Sera nhường — vì Lira giỏi hơn việc này. Lira Free Sword mười năm: xâm nhập, lấy, đi. Sera chiến đấu. Lira trinh sát. Đúng người đúng việc. Sera theo sau — theo kiểu theo: không bước chân Lira, bước cạnh Lira, nhưng trễ nửa bước, vì trễ nửa bước đủ để Lira dẫn mà Sera không cản.
+Lira đi trước. Không phải vì Sera nhường — vì Lira giỏi hơn việc này. Lira Kiếm Tự Do mười năm: xâm nhập, lấy, đi. Sera chiến đấu. Lira trinh sát. Đúng người đúng việc. Sera theo sau — theo kiểu theo: không bước chân Lira, bước cạnh Lira, nhưng trễ nửa bước, vì trễ nửa bước đủ để Lira dẫn mà Sera không cản.
 
 Lira đến tường tòa nhà — tường sau, nơi bóng sâu nhất. Đá ẩm, rêu trơn dưới đầu ngón tay. Cô ta leo — không phải leo nhanh, leo đúng: tay chỗ nẻm, chân chỗ nẻm, nẻm mòn nghĩa là người leo trước, người leo trước nhiều nghĩa = lối leo thường, lối leo thường = không bẫy. Tầng hai. Cửa sổ — khóa trong, nhưng khóa mỏng, khóa kiểu khóa phòng không phải khóa tù. Lira rút kim — hai kim, kim mỏng, kim cong, kim nghề. Mười giây. Cửa sổ mở. Không tiếng.
 

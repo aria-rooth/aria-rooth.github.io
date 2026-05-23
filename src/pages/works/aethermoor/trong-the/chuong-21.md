@@ -8,7 +8,7 @@ title: "Chương 21: Lira"
 
 Nhà kho cũ. Dầu mài. Kim loại. Gỗ mục. Sera đứng trước Lira, và Lira đứng trước cô, và giữa hai người là một khoảng trống vừa đủ cho một người rút kiếm — nhưng không ai rút.
 
-Lira không ngồi lại. Cô ta đứng — trọng tâm thấp, chân trước hơi chùng, chân sau chắc. Tư thế của người đã đứng trong phòng chứa quá nhiều lần, chờ cửa mở, chờ người đến, chờ lý do để rút kiếm hoặc rút chân. Free Sword không đứng như Hiệp Sĩ Đoàn — Đoàn đứng thẳng, vì Đoàn có người bảo vệ lưng. Free Sword đứng co, vì Free Sword tự bảo lưng mình.
+Lira không ngồi lại. Cô ta đứng — trọng tâm thấp, chân trước hơi chùng, chân sau chắc. Tư thế của người đã đứng trong phòng chứa quá nhiều lần, chờ cửa mở, chờ người đến, chờ lý do để rút kiếm hoặc rút chân. Kiếm Tự Do không đứng như Hiệp Sĩ Đoàn — Đoàn đứng thẳng, vì Đoàn có người bảo vệ lưng. Kiếm Tự Do đứng co, vì Kiếm Tự Do tự bảo lưng mình.
 
 Sera biết: cô cần Lira. Aldric nói *người phù hợp cho việc này* — không phải người tốt, không phải người mạnh, mà người phù hợp. Phù hợp theo cách mà chìa khóa cắt chuẩn: không đẹp, không đặc biệt, chỉ vừa khớp.
 
@@ -58,7 +58,7 @@ Sera nhét nhật ký lại vào áo. Lấy túi tiền.
 
 "Rõ." 
 
-Lira nhặt kiếm từ giá. Cột vào lưng — cạnh hông phải, cán kiếm chĩa xuống, sẵn rút. Cách cận chiến, không phải cách du hành. Sera để ý: Lira không nói *được* hay *tôi đồng ý*. Cô ta chỉ nhặt kiếm. Đối với Free Sword, nhặt kiếm là trả lời — hành động thay lời, vì lời có thể nói sai, nhưng kiếm không rút nhầm.
+Lira nhặt kiếm từ giá. Cột vào lưng — cạnh hông phải, cán kiếm chĩa xuống, sẵn rút. Cách cận chiến, không phải cách du hành. Sera để ý: Lira không nói *được* hay *tôi đồng ý*. Cô ta chỉ nhặt kiếm. Đối với Kiếm Tự Do, nhặt kiếm là trả lời — hành động thay lời, vì lời có thể nói sai, nhưng kiếm không rút nhầm.
 
 Hai người bước ra khỏi nhà kho. Ngõ hẹp, tối, hai bên tường gỗ mục. Sera đi trước, Lira đi sau — không phải vì nhường, vì Lira muốn nhìn lưng Sera. Người cầm kiếm không quay lưng cho người mình không tin — trừ khi người đó cũng cầm kiếm, và hiểu tại sao.
 

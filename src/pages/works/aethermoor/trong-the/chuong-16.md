@@ -72,7 +72,7 @@ Cô không đuổi. Để hắn chạy. Năm xác nằm trên đất — năm Th
 
 Aldric đứng nhìn. Ông không cầm vũ khí — không cần. Ông đứng cạnh lò rèn, tạp dề vẫn buộc ngang eo, và quan sát cô. Không ngạc nhiên. Không mừng. Chỉ nhìn — như người đã nấu bữa tối cho cô bốn năm, vừa nhìn cô giết năm người, và thấy cả hai đều đúng.
 
-"Cô breakthrough chưa?" Aldric hỏi. Bình thản. Như hỏi cô ngủ đủ không.
+"Cô đột phá chưa?" Aldric hỏi. Bình thản. Như hỏi cô ngủ đủ không.
 
 Sera nhìn xuống kiếm. Vệt sáng trên lưỡi đang tắt dần — như mạch đập chậm lại sau khi chạy. Cô cảm nhận: không gian quanh cô khác. Nhẹ hơn. Như thể đất đai vừa nói gì đó với cô — không phải lời, là cảm giác. Ý chí của đất. Mỏng, xa, không rõ. Nhưng có.
 

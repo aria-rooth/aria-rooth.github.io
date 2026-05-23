@@ -30,7 +30,7 @@ Cô lấy nến. Thắp. Đặt tờ giấy đầu tiên trên lửa. Giấy ch�
 
 Cô không đốt vì sợ bị tìm thấy. Cô đốt vì thấy đủ. Viết xuống, đọc lại, biết — rồi thả đi. Thông tin trong đầu, không trong giấy. Giấy có thể mất. Đầu cô — cho đến khi cô chết — là nơi an toàn hơn bất kỳ hộc nào, bất kỳ áo nào, bất kỳ nhà kho nào.
 
-Lira đứng ở cửa. Cô ta không gõ — Free Sword không gõ. Cô ta đứng và nhìn Sera đốt thư, và không hỏi. Không hỏi ai gửi, không hỏi ai nhận, không hỏi tại sao đốt. Cô ta chỉ đi vào phòng, để trên bàn một tách nước nóng, rồi ngồi xuống ghế đối diện.
+Lira đứng ở cửa. Cô ta không gõ — Kiếm Tự Do không gõ. Cô ta đứng và nhìn Sera đốt thư, và không hỏi. Không hỏi ai gửi, không hỏi ai nhận, không hỏi tại sao đốt. Cô ta chỉ đi vào phòng, để trên bàn một tách nước nóng, rồi ngồi xuống ghế đối diện.
 
 Nước nóng. Không trà. Không rượu. Nước — thứ đơn giản nhất, trung lập nhất, không mang ý nghĩa ngoài *uống đi*. Lira không nói *cô ổn không* hay *chuyện gì vậy*. Cô ta đưa nước. Nước nói thay: *tôi ở đây, không hỏi, không phán xét, chỉ ở.*
 

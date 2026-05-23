@@ -80,7 +80,7 @@ Cô không biết cô có đủ khả năng. Nhưng cô biết cô là người 
 
 - **Ch.22:** Outline nói "lần đầu nhìn với thương cảm" — prose dùng "thương cảm" thay "thương hại" để giữ Elara nhìn ngang, không nhìn xuống.
 
-- **Ch.23:** Breakthrough lên Linh Vương. Outline không ghi chi tiết cảm nhận, prose mở rộng thêm mô tả mạch Linh Nguyên dưới cổng — "sông cũ, có chủ ý" — setup cho ch.29-31 khi Elara khám phá sâu hơn. Không mâu thuẫn outline.
+- **Ch.23:** đột phá lên Linh Vương. Outline không ghi chi tiết cảm nhận, prose mở rộng thêm mô tả mạch Linh Nguyên dưới cổng — "sông cũ, có chủ ý" — setup cho ch.29-31 khi Elara khám phá sâu hơn. Không mâu thuẫn outline.
 
 - **Ch.24:** Outline ghi "người đàn ông hét" — prose mô tả anh ta mặc quân phục kiểu 50-60 năm, gợi anh ta chết trong chiến tranh gần đây hơn Lyss. Không ghi trong outline, nhưng không mâu thuẫn.
 

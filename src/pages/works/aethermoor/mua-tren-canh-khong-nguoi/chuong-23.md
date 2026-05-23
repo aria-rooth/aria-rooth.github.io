@@ -3,7 +3,7 @@ layout: ../../../../layouts/ChapterLayout.astro
 chapter: 23
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
 total: 30
-title: "Chương 23: Breakthrough Tự Nhiên"
+title: "Chương 23: đột phá Tự Nhiên"
 ---
 
 ← [Chương 22](chuong-22)  **Chương 23/30**  → [Chương 24](chuong-24)

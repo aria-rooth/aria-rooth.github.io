@@ -16,7 +16,7 @@ Họ ngồi góc. Lira gọi hai ly. Sera không uống — cô quan sát. Lira 
 
 Ông ta ngồi bàn cuối. Một mình. Chai rượu mở, ly úp, tay phải cầm chai, tay trái để bàn — ngửa, như người đợi ai đó bỏ tiền vào. Quần áo bẩn, không phải bẩn do hành trình — bẩn do hàng tuần không giặt. Tóc rối, râu mọc tua tủa, mắt đỏ vằng. Say, nhưng không phải loại say mất ý thức — loại say mà người uống đủ lâu để say trở thành trạng thái bình thường, và tỉnh là ngoại lệ.
 
-"Torvin," Lira nói khi đến gần. Không hỏi phép. Ngồi xuống đối diện. "Tôi là Lira. Free Sword. Ba năm trước tôi bảo vệ đoàn hàng của anh Harren qua đường Đông."
+"Torvin," Lira nói khi đến gần. Không hỏi phép. Ngồi xuống đối diện. "Tôi là Lira. Kiếm Tự Do. Ba năm trước tôi bảo vệ đoàn hàng của anh Harren qua đường Đông."
 
 Torvin ngẩng lên. Nhìn Lira. Mất ba giây để nhận diện — rồi gật, như người gật với ký ức đã chôn sâu và không muốn đào lên. Ông ta không mời Lira ngồi — cô ta đã ngồi. Ông ta nhìn Sera. Đánh giá: kiếm, dáng, mắt. Rồi quay về chai rượu. Người mang kiếm vào quán rượu Greymark không phải điều đáng ngạc nhiên. Đáng ngạc nhiên là khi họ không dùng nó.
 

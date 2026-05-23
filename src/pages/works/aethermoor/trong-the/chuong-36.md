@@ -50,7 +50,7 @@ Không phải hỏi. Sera không muốn tránh. Tránh hôm nay = tránh ngày m
 
 "Không tránh," Sera nói. "Chọn mặt đất."
 
-Chọn mặt đất: không phải chọn đánh ở đâu — là chọn đánh ở nơi có lợi thế. Lira hiểu. Cô ta không gật — cô ta hành động. Đi. Nhanh. Qua suối cạn, lên đồi thấp, dừng ở ngọn đồi nhìn xuống đường mòn. Từ đây: nhìn thấy ba trăm bước đường mòn, cây thưa, đất trống — không chỗ ẩn cho kẻ mai phục, nhưng có chỗ ẩn cho người quan sát. Kẻ mai phục ẩn dưới đường mòn — trong rãnh sâu hai bên, sau bụi gai dày. Tám người. Chín — chỉ huy đứng sau, không ẩn, đứng thẳng, giáp sáng, như người không cần ẩn vì người không sợ bị thấy. Linh Chủ. Cô đọc: dáng đứng thẳng, chân rộng bằng vai, tay sau lưng — dáng chỉ huy tự tin. Quá tự tin. Hoặc tự tin đúng — Linh Chủ dẫn tám Linh Chiến/Linh Kỵ chống Linh Hùng và Free Sword: tự tin đúng.
+Chọn mặt đất: không phải chọn đánh ở đâu — là chọn đánh ở nơi có lợi thế. Lira hiểu. Cô ta không gật — cô ta hành động. Đi. Nhanh. Qua suối cạn, lên đồi thấp, dừng ở ngọn đồi nhìn xuống đường mòn. Từ đây: nhìn thấy ba trăm bước đường mòn, cây thưa, đất trống — không chỗ ẩn cho kẻ mai phục, nhưng có chỗ ẩn cho người quan sát. Kẻ mai phục ẩn dưới đường mòn — trong rãnh sâu hai bên, sau bụi gai dày. Tám người. Chín — chỉ huy đứng sau, không ẩn, đứng thẳng, giáp sáng, như người không cần ẩn vì người không sợ bị thấy. Linh Chủ. Cô đọc: dáng đứng thẳng, chân rộng bằng vai, tay sau lưng — dáng chỉ huy tự tin. Quá tự tin. Hoặc tự tin đúng — Linh Chủ dẫn tám Linh Chiến/Linh Kỵ chống Linh Hùng và Kiếm Tự Do: tự tin đúng.
 
 "Chín," Lira nói. Cô ta cũng đếm. "Chỉ huy Linh Chủ. Tám dưới — Linh Chiến hoặc Linh Kỵ. Không thấy Linh Phong trở lên ngoài chỉ huy."
 
@@ -102,7 +102,7 @@ Chỉ huy Linh Chủ. Cô ta bước vào khoảng trống mà năm kiếm tạo
 
 Sera đứng yên. Kiếm giơ. Đợi. Không phải đợi bị đánh — đợi Thệ Vang.
 
-Thệ Vang đến. Không từ kiếm — từ trong. Từ bốn mươi bảy mảnh. Từ nơi người chết thức dậy khi người sống đánh. Thệ Vang mạnh hơn mọi khi — mạnh vì cô đang ở ranh giới, ranh giới giữa sống và chết, giữa Thệ Vang và không Thệ Vang, giữa van mở và van vỡ. Aldric nói: breakthrough không phải chọn lúc — breakthrough là lúc cơ thể không còn chứa nổi Thệ Vang, và Thệ Vang trào ra, trào ra ngoài kiếm, ngoài tay, ngoài da, trào vào không gian quanh cô, và không gian đó trở thành của cô — không phải domain, nhưng gần. Gần domain. Gần Linh Phong.
+Thệ Vang đến. Không từ kiếm — từ trong. Từ bốn mươi bảy mảnh. Từ nơi người chết thức dậy khi người sống đánh. Thệ Vang mạnh hơn mọi khi — mạnh vì cô đang ở ranh giới, ranh giới giữa sống và chết, giữa Thệ Vang và không Thệ Vang, giữa van mở và van vỡ. Aldric nói: đột phá không phải chọn lúc — đột phá là lúc cơ thể không còn chứa nổi Thệ Vang, và Thệ Vang trào ra, trào ra ngoài kiếm, ngoài tay, ngoài da, trào vào không gian quanh cô, và không gian đó trở thành của cô — không phải domain, nhưng gần. Gần domain. Gần Linh Phong.
 
 Chỉ huy chém.
 
@@ -116,7 +116,7 @@ Kiếm chém. Không phải cô chém — Thệ Vang chém. Thệ Vang chạy qu
 
 Đòn. Một đòn. Sera chém — chém ngang, chém vừa, không phải đòn mạnh nhất, nhưng đòn đúng nhất. Đúng vì Thệ Vang chọn góc: Thệ Vang biết nơi chỉ huy yếu, vì Thệ Vang đọc kiếm chỉ huy như đọc báo cáo — đọc Linh Nguyên, đọc dòng chảy, đọc nơi năng lượng mỏng nhất. Và nơi mỏng nhất là dưới nách phải — nơi giáp nối, nơi Linh Nguyên chưa chạm, nơi domain chỉ huy không che. Kiếm chém qua. Máu. Nách phải đứt. Chỉ huy sụp — không chết, nhưng tay phải mất lực, kiếm hai tay rơi một tay, và kiếm một tay Linh Chủ không mạnh bằng kiếm hai tay Linh Hùng. Lợi thế mất.
 
-Sera không dừng. Cô xoay — xoay về phía năm người đang kẹp. Năm người đã chậm — chậm vì chỉ huy sụp, chậm vì không còn domain ép, chậm vì tâm lý: khi chỉ huy ngã, lính ngập ngừng một giây, và một giây là đủ. Sera vào. Kiếm Thệ Thiết chém — hai đòn liên tiếp, chém chéo, chém nhanh, chém bằng Linh Nguyên trào từ breakthrough. Hai người sụp. Ba còn lại lùi — lùi không phải chiến thuật, lùi bản năng. Lùi bản năng = lùi chết, vì lùi để khoảng trống, khoảng trống cho Lira.
+Sera không dừng. Cô xoay — xoay về phía năm người đang kẹp. Năm người đã chậm — chậm vì chỉ huy sụp, chậm vì không còn domain ép, chậm vì tâm lý: khi chỉ huy ngã, lính ngập ngừng một giây, và một giây là đủ. Sera vào. Kiếm Thệ Thiết chém — hai đòn liên tiếp, chém chéo, chém nhanh, chém bằng Linh Nguyên trào từ đột phá. Hai người sụp. Ba còn lại lùi — lùi không phải chiến thuật, lùi bản năng. Lùi bản năng = lùi chết, vì lùi để khoảng trống, khoảng trống cho Lira.
 
 Lira. Nơi hứa. Ba mươi giây. Sera đếm: chưa mười lăm. Lira chưa cần vào. Nhưng Lira vào — vào vì Lira không cần ba mươi giây, Lira cần ba giây, và ba giây là đủ để cô ta đâm từ sau lưng tên đang lùi. Dao Lira ngắn — nhưng dao ngắn gần, và gần là nơi tên lùi không nhìn. Một tên sụp. Dao rút. Hai tên quay — nhưng quay chậm, vì Lira đã lùi, lùi vào bóng cây, lùi vào nơi mắt không thấy, lùi về phía Sera, và Sera đang chém xuống.
 
@@ -126,9 +126,9 @@ Sera đứng giữa bãi chiến — chín người: hai chết, bốn gãy/tr�
 
 Cô đứng. Thở. Thệ Vang chảy chậm lại — trào dâng rút, như nước triều rút sau bão. Van. Van đóng — không hoàn toàn, nhưng đủ. Đủ để cô đứng. Đủ để cô thở. Đủ để cô nhận ra: cơ thể cô khác. Khác từ khi nào? Từ đòn chém chỉ huy. Từ lúc Thệ Vang trào. Từ lúc van không vỡ. Khác nhẹ — nhưng nhẹ theo cách mà nhẹ khi trọng lượng không giảm nhưng người mang quen hơn. Hoặc: nhẹ theo cách mà nhẹ khi người mang mạnh hơn. Mạnh hơn — không phải mạnh cơ bắp, mạnh Linh Nguyên. Linh Nguyên trong cô chảy mạnh hơn, sâu hơn, rộng hơn. Cô cảm nhận đất dưới chân — không phải cảm nhận giác quan, cảm nhận Linh Nguyên: mạch đất chảy dưới cô, mạch cũ, mạch yếu, nhưng mạch, và cô biết mạch ở đó, biết mạch chảy hướng nào, biết mạch chảy nhanh hay chậm. Đất nhớ. Thiên Địa Hữu Ký. Cô chưa đọc — nhưng cô nghe. Nghe đất. Nghe cách đất nhớ. Nghe cách đất thở. Nghe cách đất sống dù đất không có phổi.
 
-Linh Phong. Tier 6. Breakthrough.
+Linh Phong. Tier 6. đột phá.
 
-Sera Voss. Linh Phong. Bốn mươi bảy mảnh thề ước vẫn nặng — nhưng nặng nay là gánh quen, gánh mang hàng tuần, gánh mà cơ thể đã nâng và nâng và nâng đến khi nâng là bình thường. Aldric nói: breakthrough không phải lúc kiếm nhẹ đi. Breakthrough là lúc người mang kiếm mạnh hơn kiếm nặng. Kiếm vẫn nặng. Cô mạnh hơn. Đủ.
+Sera Voss. Linh Phong. Bốn mươi bảy mảnh thề ước vẫn nặng — nhưng nặng nay là gánh quen, gánh mang hàng tuần, gánh mà cơ thể đã nâng và nâng và nâng đến khi nâng là bình thường. Aldric nói: đột phá không phải lúc kiếm nhẹ đi. đột phá là lúc người mang kiếm mạnh hơn kiếm nặng. Kiếm vẫn nặng. Cô mạnh hơn. Đủ.
 
 Lira đến cạnh cô. Máu trên dao — không phải máu cô. Lira sạch — Lira luôn sạch, vì Lira đánh gần nhưng Lira đánh nhanh, và nhanh nghĩa là không bị chạm. Cô ta nhìn Sera. Nhìn lâu hơn thường. Nhìn như người nhìn người khác lần đầu — không phải vì Sera khác mặt, vì Sera khác khí. Khí khác. Linh Phong không phải cấp bậc trên giấy — là sự thật trong không khí. Người đủ nhạy cảm cảm nhận: quanh Sera, không khí đặc hơn, nặng hơn, như đứng gần lò rèn Aldric — không phải nóng, là rung. Rung Linh Nguyên. Rung từ bốn mươi bảy mảnh. Rung từ người mang bốn mươi bảy mảnh và vừa trở thành thứ lớn hơn tổng các mảnh.
 
