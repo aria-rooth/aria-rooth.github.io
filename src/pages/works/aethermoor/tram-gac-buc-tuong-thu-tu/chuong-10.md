@@ -10,9 +10,6 @@ title: "Chương 10: Hai Thế Giới"
 
 ***
 
-
-
-
 ## Họ nhìn thấy khác nhau hoàn toàn
 
 Tuần thứ hai, đội Essam bắt đầu tìm nhịp.
@@ -72,7 +69,6 @@ Sau trận, Kael lau kiếm, nhìn cô: *"Cô dạy tốt đấy — dù cô kh�
 Vela không biết phải nói gì. Cô không dạy. Cô chỉ đứng ở giữa và đánh. Nếu họ học được gì đó từ cách cô đứng và đánh, thì đó là việc của họ, không phải ý định của cô. Cô không nghĩ về việc dạy khi đánh, cũng như không nghĩ về việc thở khi thở.
 
 Nên cô không nói gì. Kael cũng không chờ. Đi tiếp việc.
-
 
 *→ [Chương 11–15](eve-ch11-15-final.md)*
 

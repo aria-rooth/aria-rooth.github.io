@@ -10,9 +10,6 @@ title: "Chương 14: Cô Bé"
 
 ***
 
-
-
-
 Đêm thứ mười ba.
 
 Elara ngồi trên phiến đá từ trước hoàng hôn. *Người Đứng* mở trên đùi, bút chì sẵn trong tay. Cô đã ghi chép cả ngày — mức Linh Nguyên, thời tiết, hướng gió, vòng tuần tra — nhưng mục quan sát đêm vẫn trống. Cô chờ.

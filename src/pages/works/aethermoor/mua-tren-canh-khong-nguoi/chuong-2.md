@@ -10,9 +10,6 @@ title: "Chương 2: Nhật Ký Quan Sát, Ngày 4.380"
 
 ***
 
-
-
-
 Tập thứ mười hai bắt đầu từ tháng trước.
 
 Elara mở ra trên bàn — mặt ván thông, không đánh bóng, mặt gỗ có màu xám vì khói và ẩm ướt tích lũy qua nhiều mùa đông. Bút lông, mực khô, bình nước. Đèn dầu ở góc phải, ngọn lửa không lay vì không có gió bên trong. Ngoài cửa sổ, mưa đã bước sang ngày thứ hai.
@@ -42,7 +39,6 @@ Tập thứ ba — bìa da nâu, mép đã sờn, chữ trên gáy đã nhạt �
 Cô nhìn trang nhật ký. Năm thứ ba, cô đã kiểm tra Linh Nguyên ba lần trong ngày chỉ vì biến động 0.2 đơn vị. Bây giờ 0.2 đơn vị nằm trong sai số bình thường và cô không ghi chép trừ khi dao động vượt 0.5. Không phải vì cô cẩu thả hơn. Mà vì cô đã hiểu đường nền đủ tốt để phân biệt tiếng ồn với tín hiệu.
 
 Hay cô tự nói như vậy.
-
 
 Cô nhìn dòng chữ *Như hầu hết các ngày* trên trang giấy. Năm thứ ba, cô ghi chép như người nói chuyện với bạn. Năm thứ mười hai, cô ghi như người nói với tường — ngắn, gọn, không thừa, vì tường không đáp lại. Cô không biết mình từ bao giờ bắt đầu viết cho tường.
 

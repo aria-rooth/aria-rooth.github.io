@@ -10,9 +10,6 @@ title: "Chương 34: Cân Bằng Mới"
 
 ***
 
-
-
-
 *Khi biết mình mạnh hơn, mọi thứ thay đổi theo cách kỳ lạ.*
 
 Những ngày sau: Vela thử nghiệm. Không phải phóng túng — cô không phải người phóng túng, hai trăm năm đã rèn thận trọng thành bản năng. Thử nghiệm cẩn thận, có phương pháp, mỗi bước đo lường. Cô chiến đấu — nhưng lần này, cô để cơ thể chọn mức độ lực, không ép vào khuôn mẫu cũ.

@@ -10,9 +10,6 @@ title: "Chương 11: Một Bóng Hình Cử Động"
 
 ***
 
-
-
-
 Đêm thứ chín. Trăng tròn.
 
 Elara không cần đèn lồng. Ánh trăng sáng đến mức cô thấy bóng của chính mình trên mặt đất — dài, méo, vạt áo phồng lên như cánh chim bị gãy. Cô đứng trước Huyền Môn Cốt và lần đầu tiên nhìn thấy họ rõ.
@@ -68,10 +65,15 @@ Elara đứng trong ánh trăng, tim đập nhanh hơn bình thường — khôn
 Cô ghi nhớ chi tiết:
 
 Vị trí: hàng trước, thứ tư từ trái.
+
 Giới tính: nam.
+
 Tuổi ước tính: hai mươi đến hai mươi lăm.
+
 Trang phục: áo nâu thô vùng đồng bằng Thessault.
+
 Hành động: giơ tay phải, lòng bàn hướng về phía tôi, giữ 30 giây, hạ xuống.
+
 Phản ứng của nhóm: không có. Các đối tượng khác không phản ứng với hành động của đối tượng này.
 
 Cô lặp lại trong đầu ba lần trước khi tin rằng mình nhớ đúng. Mỗi lần lặp lại, cô thấy bàn tay giơ lên trước mắt — chậm, chắc, lòng bàn mở. Một bàn tay lao động: ngón đeo nhẫn có vết chai, móng ngắn, không sạch. Bàn tay của người đã làm việc bằng tay. Bàn tay của người còn sống.

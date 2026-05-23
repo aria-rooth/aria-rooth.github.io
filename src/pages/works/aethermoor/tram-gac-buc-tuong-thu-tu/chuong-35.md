@@ -10,9 +10,6 @@ title: "Chương 35: Thứ Gì Đó Đang Đến"
 
 ***
 
-
-
-
 *Pale Creatures biến mất không phải vì chúng sợ. Mà vì không cần chúng nữa.*
 
 Đột ngột. Toàn bộ Bạch Quái Thú rút khỏi đoạn Đông trong một đêm. Vela nhận ra điều đó lúc bình minh — không phải vì thấy chúng đi, mà vì thấy chúng không còn. Mười hai dặm tuần tra, mỗi hốc đá, mỗi góc tường, mỗi chỗ mà thường có dấu vết — không. Không dấu vết. Không xác. Không mùi. Không tiếng động dưới chân. Trống. Hoàn toàn trống.

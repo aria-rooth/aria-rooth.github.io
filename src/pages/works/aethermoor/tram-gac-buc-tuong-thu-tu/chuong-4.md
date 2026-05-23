@@ -10,9 +10,6 @@ title: "Chương 4: Nhịp Điệu Của Tường"
 
 ***
 
-
-
-
 ## Sáng quét, trưa kiểm tra, chiều nhìn về phía Bắc
 
 Bức Tường Thứ Tư có nhịp điệu riêng — không phải nhịp điệu ai đặt ra, mà là nhịp điệu tự hình thành từ việc lặp đi lặp lại đủ lâu. Sáng quét đường. Trưa kiểm tra đá. Chiều nhìn về phía Bắc. Vela không nhớ khi nào bắt đầu làm theo nhịp này. Có thể từ đầu. Có thể sau một trăm năm thì tự nhiên hóa. Không quan trọng. Nhịp điệu không cần lý do.

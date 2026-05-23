@@ -10,9 +10,6 @@ title: "Chương 27: Những Gì Không Được Viết Ra"
 
 ***
 
-
-
-
 *Học giả tốt nhất biết rằng khoảng trắng quan trọng như chữ.*
 
 Theo đang xem lại tất cả tài liệu — nhưng lần này với góc nhìn khác. Không phải tìm thông tin về Vela, không phải tìm ghi chép về đoạn Đông, mà tìm thông tin về Velhar the Chained. Mọi thứ anh ta có — sách mang theo, tài liệu từ Essam, biên niên sử Thần Chiến — anh ta lật lại, đọc lại, ghi chú lại. Và anh ta tìm thấy điều anh ta không tìm: khoảng trắng.

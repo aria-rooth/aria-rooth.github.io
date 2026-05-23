@@ -10,9 +10,6 @@ title: "Chương 12: Mảnh Đầu Tiên"
 
 ***
 
-
-
-
 ## Ký ức là điều nguy hiểm nhất cô từng gặp
 
 Ngày hôm sau, Vela làm việc bình thường.

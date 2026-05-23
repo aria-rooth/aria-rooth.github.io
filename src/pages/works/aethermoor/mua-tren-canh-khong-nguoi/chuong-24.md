@@ -10,9 +10,6 @@ title: "Chương 24: Người Đàn Ông Hung Hãn"
 
 ***
 
-
-
-
 Tối.
 
 Hai mươi chín người xuất hiện. Hoặc nhiều hơn — Elara không đếm, không ghi vị trí, không vẽ sơ đồ. Cô chỉ nhìn, và nhìn khác. Nhưng đêm nay, khác cũng.
@@ -52,8 +49,6 @@ Rồi anh ta dừng. Buông trụ. Lùi lại. Về chỗ cũ. Đứng yên. Nh�
 Elara đứng giữa cổng và Lyss — không chủ ý, mà cơ thể tự di chuyển, đứng giữa người canh và người được canh. Cô nhìn anh ta. Anh ta nhìn lại. Họ đứng cách nhau một cổng, và khoảng cách đó đêm nay ngắn hơn mọi đêm.
 
 Lyss kéo ống tay áo cô. *Chị ơi.* Elara quay xuống. *Anh ta... không giống em,* cô bé nói. *Anh ta tức giận.* Cô bé nói *tức giận* như đứa trẻ nói từ mới học — cẩn thận, như sợ dùng sai. Nhưng không sai. Anh ta tức giận. Và Lyss — mười tuổi, chết hai trăm năm — nhận ra điều đó nhanh hơn cô ấy tưởng.
-
-
 
 Đêm hôm đó im lặng hơn thường. Người đàn ông không hét lại. Hai mươi tám người khác không cử động. Lyss không hỏi thêm. Elara đứng giữa, canh, nhưng canh khác — không canh bên ngoài, mà canh bên trong. Canh người ở bên kia cổng khỏi người khác cũng ở bên kia cổng. Canh cái gì đó cô chưa hiểu khỏi cái gì đó cô chưa hiểu hơn.
 

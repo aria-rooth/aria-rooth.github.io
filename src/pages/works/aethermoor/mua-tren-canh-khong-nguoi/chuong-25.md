@@ -10,15 +10,14 @@ title: "Chương 25: Phân Loại"
 
 ***
 
-
-
-
 Sáng hôm sau. Elara không thiền. Cô viết.
 
 Cô mở *Người Đứng* lên trang mới. Đầu trang, cô viết ba dòng:
 
 *Loại 1: Đứng yên, không phản ứng. Đa số.*
+
 *Loại 2: Có nhận thức, có thể giao tiếp. Lyss.*
+
 *Loại 3: Có nhận thức, không ổn định. Người đàn ông hét.*
 
 Ba loại. Thô. Không khoa học, không dựa trên nghiên cứu, không dựa trên gì ngoài quan sát mười hai năm và một đêm nói chuyện với cô bé và một đêm nhìn người đàn ông hét. Nhưng đó là tất cả cô có, và cô cần bắt đầu từ đâu đó.
@@ -73,16 +72,18 @@ Cô không biết cô có đủ khả năng. Nhưng cô biết cô là người 
 
 *Kết chương*
 
-
 *Tiếp theo: Chương 26 — Người Thứ Hai Qua Cổng.*
-
 
 ## GHI CHÚ TÁC GIẢ
 
 - **Ch.21:** Prose bám sát outline. Beat "cỏ ở đây xanh hơn" giữ nguyên — đây là một trong những beat quan trọng nhất Arc 2, ánh mắt trẻ con nhìn thế giới lần đầu.
+
 - **Ch.22:** Outline nói "lần đầu nhìn với thương cảm" — prose dùng "thương cảm" thay "thương hại" để giữ Elara nhìn ngang, không nhìn xuống.
+
 - **Ch.23:** Breakthrough lên Linh Vương. Outline không ghi chi tiết cảm nhận, prose mở rộng thêm mô tả mạch Linh Nguyên dưới cổng — "sông cũ, có chủ ý" — setup cho ch.29-31 khi Elara khám phá sâu hơn. Không mâu thuẫn outline.
+
 - **Ch.24:** Outline ghi "người đàn ông hét" — prose mô tả anh ta mặc quân phục kiểu 50-60 năm, gợi anh ta chết trong chiến tranh gần đây hơn Lyss. Không ghi trong outline, nhưng không mâu thuẫn.
+
 - **Ch.25:** Outline ghi ba loại phân loại — prose giữ nguyên. Thêm beat "quyền vs trách nhiệm" để bridge từ ch.25 sang ch.28 (Quyền Phán Xét).
 
 ***

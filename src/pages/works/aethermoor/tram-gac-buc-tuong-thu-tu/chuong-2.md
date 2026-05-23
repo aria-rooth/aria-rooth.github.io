@@ -10,9 +10,6 @@ title: "Chương 2: Đếm"
 
 ***
 
-
-
-
 ## Không phải ngày tháng — mà là lần
 
 Cuốn sổ không còn bìa từ lâu.
@@ -60,7 +57,6 @@ Nó biến mất trước khi cô kịp nắm bắt.
 Cô ngồi xuống bên bẫy đã sửa xong, nhìn bàn tay mình. Một phút. Rồi cô đứng dậy.
 
 Phía tây cần kiểm tra.
-
 
 Tối hôm đó đàn nhỏ hơn — chỉ tám con, con đầu đàn là con non cô chưa gặp. Cô xử lý trong im lặng, không cần đặc biệt chú ý, tay chân di chuyển theo những rãnh đã mòn sẵn trong cơ thể. Mất ít thời gian. Không thương.
 

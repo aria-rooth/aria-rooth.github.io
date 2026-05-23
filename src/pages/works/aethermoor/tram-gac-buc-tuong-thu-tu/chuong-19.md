@@ -10,9 +10,6 @@ title: "Chương 19: Một"
 
 ***
 
-
-
-
 *Không phải hai người — một người và một người. Điều đó khác nhau quan trọng.*
 
 Vela và Theo. Hai người trên mười hai dặm tường. Không phải hai người như đội Essam — cùng mục tiêu, cùng rời đi. Là một người và một người, mỗi người ở đây vì lý do riêng, và lý do riêng đó đang hòa vào nhau theo cách cả hai thấy nhưng chưa đặt tên.

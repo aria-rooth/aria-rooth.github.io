@@ -10,9 +10,6 @@ title: "Chương 26: Mối Nguy Mới"
 
 ***
 
-
-
-
 *Pale Creatures đang thay đổi. Hoặc có thứ gì đó đang thay đổi chúng.*
 
 Vela nhận ra từ những điều nhỏ — như cô luôn nhận ra. Không phải bằng phân tích hay lý luận — cô không phải người của sách, không phải người của lý thuyết. Cô là người của mẫu vết trên đá, của mùi thay đổi trong gió, của âm thanh lệch một nốt trong bản nhạc đã nghe hai trăm năm. Và mẫu vết đang nói: khác đi.

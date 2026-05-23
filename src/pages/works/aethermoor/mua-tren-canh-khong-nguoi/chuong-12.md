@@ -10,9 +10,6 @@ title: "Chương 12: Hai Mươi Chín"
 
 ***
 
-
-
-
 Đêm thứ mười hai.
 
 Hai mươi chín.

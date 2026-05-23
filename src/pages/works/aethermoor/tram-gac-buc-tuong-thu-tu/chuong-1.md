@@ -10,9 +10,6 @@ title: "Chương 1: Công Việc"
 
 ***
 
-
-
-
 ## Ngày thứ bảy mươi ba nghìn, sáu trăm lẻ bốn
 
 Máu khô không có mùi nữa.

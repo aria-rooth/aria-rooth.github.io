@@ -77,9 +77,13 @@ Arc 2 kết — nhưng không phải bằng quyết định, mà bằng câu h�
 # GHI CHÚ TÁC GIẢ
 
 - **Ch.36–40 tiến độ:** Dựa trên outline Arc 2 (ch.14–40) nhưng ch.36–40 là phần mở rộng / chuyển tiếp tự nhiên từ outline. Outline gốc kết thúc Arc 2 ở ch.35 (kiếm rút). Các chương 36–40 mine sâu hơn ý nghĩa của Elara là "nhiên liệu", domain gọi, và Revenant Captain — chuyển mượt sang Arc 3.
+
 - **Revenant Captain (Grath):** Xuất hiện sớm hơn outline gốc (outline đặt Grath ở Arc 3 ch.61+). Tôi giới thiệu sớm để tạo áp lực dần, tránh xuất hiện đột ngột ở Arc 3. Grath chưa có tên trong prose — chỉ gọi "người mới" / "Revenant Captain" — tên sẽ cho ở Arc 3 khi anh ta tự xưng.
+
 - **Lyss nghe domain gọi:** Ch.38 — thêm beat không có trong outline, nhưng tự nhiên từ thiết lập: Lyss bên trong domain, nhạy, trẻ. Beat này tạo cầu nối cho Arc 3 khi Elara cần ai nghe hộ.
+
 - **Từ chối viết thêm batch:** Theo chỉ thị, chỉ 1 batch (5 chương) mỗi lần chạy.
+
 ***
 
 ## # EMOTIONAL: Luna Emoread Notes (Ch.36–40)

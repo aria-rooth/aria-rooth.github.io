@@ -10,9 +10,6 @@ title: "Chương 15: Dấu Hiệu"
 
 ***
 
-
-
-
 ## Thứ đến từ phía Bắc lần này khác
 
 Ba ngày trước khi đội Essam dự định rời đi.
@@ -147,21 +144,26 @@ Cô không biết điều đó có nghĩa gì. Nhưng cô ghi nhận.
 
 *Hoặc không. Nhưng cô sẽ tiếp tục.*
 
-
 *Hết Chương 14–15*
-
 
 ## Ghi chú divergence từ outline
 
 - Outline có Sera → đổi thành Kael (theo published ch.5-8).
+
 - Outline có chi tiết "Sera cho Vela biết họ sẽ cần rời đi sớm — Kain cần điều trị đúng nghĩa" → đổi thành Kael gọi từ dưới tháp, ngắn gọn.
+
 - Outline có "Trận nhỏ buổi tối — Vela xử lý một mình nhanh chóng. Đội Essam quan sát. Lyre ghi chú về cách cô di chuyển" → đã giữ gọn, không mở rộng thành set piece.
+
 - Beat chính giữ nguyên: Theo đọc tài liệu cho Vela nghe, chiến binh đơn độc tám mươi năm trước, Vela im lặng, câu hỏi "khi họ đi cô muốn gì", trả lời "không biết".
 
 - Outline có Sera → đổi thành Kael.
+
 - Outline có "Mảnh ký ức thứ hai xuất hiện" → đã đưa vào qua câu hỏi của Theo về nỗi sợ và cảm giác nguy hiểm đang đến.
+
 - Outline có "Sera quyết định đội sẽ ở lại thêm" → đổi thành Kael quyết định, lý do khác (gặp thứ đang đến trên đường về).
+
 - Thêm: dấu chân người hướng Bắc — không có trong outline, nhưng phù hợp với beat "thứ đến từ phía Bắc lần này khác" và tạo thêm tension cho chương 16 (làn sóng).
+
 - Beat chính giữ nguyên: Pale Creatures rút có trật tự, Vela báo Kael, im lặng trước cơn bão, đêm không tấn công.
 
 *→ [Chương 16–20](eve-ch16-20-final.md)*

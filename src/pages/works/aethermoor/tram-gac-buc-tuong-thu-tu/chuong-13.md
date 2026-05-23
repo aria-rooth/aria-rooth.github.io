@@ -10,9 +10,6 @@ title: "Chương 13: Giá Của Sự Hiện Diện"
 
 ***
 
-
-
-
 ## Cô đã biết điều này sẽ xảy ra
 
 Hai tuần.
@@ -72,9 +69,6 @@ Sự hiện diện có giá. Vela biết điều đó bây giờ. Không phải 
 *Số lần người khác bị thương trước mặt cô: 1.*
 
 *Ghi nhận.*
-
-
-
 
 # Trạm Gác Bức Tường Thứ Tư
 

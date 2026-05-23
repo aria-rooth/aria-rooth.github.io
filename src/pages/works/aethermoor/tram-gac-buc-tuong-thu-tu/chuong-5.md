@@ -10,9 +10,6 @@ title: "Chương 5: Đội Thám Hiểm"
 
 ***
 
-
-
-
 ## Những người đầu tiên trong ba năm
 
 Tiếng đến trước. Không phải tiếng bước chân — cách đây quá xa để nghe bước chân từ chân tường. Là tiếng kim loại chạm kim loại, tiếng dây thừng kéo qua ròng rọc, tiếng người nói chuyện với nhau bằng giọng không giấu. Giọng Essam chuẩn — âm cuối rõ, chữ đầu sắc, kiểu nói của người được dạy phát âm đúng trước khi học cách nói tự nhiên.
@@ -52,7 +49,6 @@ Cô ngồi xuống cạnh cửa sổ không kính, mở cuốn sổ, ghi.
 Rồi dừng lại. Nhìn những dòng mình vừa viết. Lần đầu tiên trong ba năm — hoặc lâu hơn — cô ghi gì đó không phải số.
 
 Cô đóng sổ lại. Không xóa. Cũng không đọc lại.
-
 
 *→ [Chương 6–10](eve-ch6-10-final.md)*
 

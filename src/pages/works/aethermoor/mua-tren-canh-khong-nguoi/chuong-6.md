@@ -10,9 +10,6 @@ title: "Chương 6: Bóng Hình Đầu Tiên"
 
 ***
 
-
-
-
 Elara nhận ra anh ta ngay lập tức.
 
 Hoàng hôn. Ánh sáng cuối ngày nghiêng từ phía tây, kéo dài bóng đổ qua hoang nguyên. Cô đang ngồi trên tảng đá — vị trí quen thuộc, quen đến mức cô có thể ngồi xuống trong bóng tối mà không cần nhìn — khi cô thấy.
@@ -48,7 +45,6 @@ Mặt trời chạm đường chân trời. Ánh sáng cuối ngày đỏ lên �
 Mười.
 
 Trời tối hoàn toàn.
-
 
 Elara vẫn ngồi. Tay đặt trên đùi, không run — không phải vì không sợ, vì cô không biết mình có đang sợ hay không. Cô chỉ biết rằng nếu đứng lên, cô sẽ phải làm gì đó. Và làm gì đó đòi hỏi quyết định. Quyết định đòi hỏi lý do. Cô không có lý do để đi, cũng không có lý do để ở. Nên cô ngồi.
 

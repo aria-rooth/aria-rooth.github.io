@@ -12,7 +12,7 @@ Chỉ huy giơ tay — dừng đội. Mười hai Thẩm Vấn Giả dừng. H�
 
 "Sera Voss," chỉ huy nói. Nam, thấp, giáp xám, mặt hóp, mắt sâu — mắt người đã thẩm vấn nhiều, mắt đã thấy nhiều người đau, mắt không còn phân biệt giữa đau thường và đau đáng. "Linh Phong. Mới." Ông ta ghi nhận — không phải khen, không phải chê, là thông tin. "Chúng tôi không ở đây vì cô. Chúng tôi ở đây vì Bạc Ty Linh Đoàn."
 
-"Cô biết tôi ở đây vì Bạc Ty Linh Đoàn," Sera nói. Không phải hỏi. "Và cô biết tôi sẽ không để cô bắt người thường."
+"Ông biết tôi ở đây vì Bạc Ty Linh Đoàn," Sera nói. Không phải hỏi. "Và ông biết tôi sẽ không để ông bắt người thường."
 
 Chỉ huy im. Tính. Tính nhanh — tính mà người chỉ huy tính khi đứng giữa lựa chọn: đánh hay đàm phán. Đánh: mười hai người chống Linh Phong + Free Sword. Tỷ lệ: thắng, nhưng thương vong. Thẩm Vấn Giả không sợ thương vong, nhưng thương vong cần báo, báo cần giải trình, giải trình cần lý do, lý do ở đây là: bắt hai người Bạc Ty Linh Đoàn. Bắt hai người Bạc Ty Linh Đoàn đáng mấy mạng Thẩm Vấn Giả? Không đáng — theo sổ sách Giáo Hội. Theo sổ sách, người Bạc Ty Linh Đoàn đáng bắt, Thẩm Vấn Giả đáng giữ. Đánh = mất giữ. Không đáng.
 

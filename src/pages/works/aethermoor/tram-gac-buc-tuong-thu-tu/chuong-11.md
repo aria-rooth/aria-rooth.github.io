@@ -10,9 +10,6 @@ title: "Chương 11: Vỡ Ra"
 
 ***
 
-
-
-
 ## Không phải chết — chỉ là gần đủ
 
 Đêm thứ mười hai. Vela đang bắt đầu quen — không phải quen với đội Essam, mà quen với việc có người ở gần. Sự khác biệt đó tinh tế: ban đầu cô biết họ ở đó vì nghe tiếng, thấy lửa, cảm nhận chuyển động. Bây giờ cô không còn ghi nhận sự hiện diện của họ — chỉ ghi nhận sự vắng mặt khi họ đi quá xa. Ngày xưa cô đứng trên thềm tháp và nghe toàn bộ bối cảnh: gió, đá, sương, im lặng. Bây giờ bối cảnh đã khác — có thêm tiếng cành gỗ gãy dưới chân người nào đó ở trại, có thêm mùi khói bếp trộn với bụi Pale Frontier, có thêm ánh lửa phản chiếu lên mặt đá chân tường mỗi đêm. Thứ nhỏ. Thứ cô không ghi vào sổ. Nhưng có.

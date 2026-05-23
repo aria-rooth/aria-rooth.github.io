@@ -10,9 +10,6 @@ title: "Chương 18: Rời Đi"
 
 ***
 
-
-
-
 *Bảy người đến. Năm người về. Một người ở lại.*
 
 Ngày hôm sau, Kael quyết định phải di chuyển về Essam ngay. Quyết định được đưa ra từ đêm trước, khi cô nằm cạnh Lyre và thấy mạch đập của Lyre yếu đi từng giờ, hơi thở ngày càng nông, da bắt đầu chuyển màu xám nơi vết thương. Vết cào từ móng Bạch Ám Thú — một vết rách dài từ vai xuống nửa lưng — bắt đầu hoại tử. Một quầng xanh đen lan từ mép vết thương ra xung quanh, da chết từng milimet. Cần pháp thuật y tế thực sự — thứ Essam có, nhưng trên tường này không có gì ngoài đá và gió và vô tận của Pale Frontier. Kain cần xương sườn được nắn và cố định — nếu không, mảnh vỡ có thể thủng phổi bất cứ lúc nào, và ở đây Vela chỉ biết kỹ thuật sơ cứu, không phải phẫu thuật.

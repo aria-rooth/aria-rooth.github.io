@@ -10,9 +10,6 @@ title: "Chương 7: Nhịp Điệu"
 
 ***
 
-
-
-
 Đêm thứ hai, có ba người.
 
 Elara đã chuẩn bị. Sau đêm Lenn, cô không ngủ ban ngày — một thay đổi từ thói quen bốn tiếng. Cô nằm xuống, nhắm mắt, nhưng giữ ý thức ở trạng thái mở, như khi cảm nhận Linh Nguyên. Không mơ. Không ngủ. Chờ. Thân thể phản đối — cô cảm thấy nặng ở sau mắt, cảm giác cát trong miệng khi không đủ nghỉ. Nhưng cô đã từng thức lâu hơn thế trong chiến đấu, hồi còn là Linh Chiến. Cô nhớ cách giữ ý thức bằng ý chí, không bằng cà phê hay thuốc.

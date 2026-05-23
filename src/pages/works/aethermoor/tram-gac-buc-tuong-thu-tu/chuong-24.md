@@ -10,9 +10,6 @@ title: "Chương 24: Đêm Không Có Tấn Công"
 
 ***
 
-
-
-
 *Đôi khi thứ đáng sợ nhất là không có gì để đánh.*
 
 Một đêm hiếm hoi: hoàn toàn yên. Không có tiếng móng vuốt trên đá, không có tiếng thở khò khè từ bóng tối, không có rung động dưới chân báo hiệu đàn đến. Trăng mỏng — chỉ là vết xước trên trời — nhưng đủ sáng để thấy mười hai dặm tường trống trải, không một bóng dáng Bạch Quái Thú.

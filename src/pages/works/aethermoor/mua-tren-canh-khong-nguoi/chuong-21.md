@@ -10,9 +10,6 @@ title: "Chương 21: Qua Cổng"
 
 ***
 
-
-
-
 Lyss bước tới.
 
 Một bước. Hai bước. Ba. Cô bé đi chậm — không phải vì sợ, mà vì cẩn trọng. Bàn chân nhỏ chạm đất như thể cô bé kiểm tra từng chỗ đặt: đất có chắc không, cỏ có sắc không, không khí có nặng không. Cô bé đi giống cách người vừa ngồi xong đứng dậy — cẩn thận, nhưng không ngần ngại.
@@ -30,8 +27,6 @@ Không sáng. Không tiếng động. Không lửa xanh hay tia chớp hay hiệ
 Lyss đứng bên này cổng. Nhìn xuống chân mình. Nhìn cỏ. Nhìn đất. Nhìn tay mình — năm ngón, móng trắng, da mỏng. Cô bé giơ tay lên, nhìn, xoay qua xoay lại. Như thể cô bé kiểm tra xem mình còn nguyên không.
 
 Rồi cô bé nhìn lên. Nhìn quanh. Xung quanh cổng — hoang nguyên, cỏ khô, đá xám, phiến đá, hòm gỗ, lều, đèn dầu. Cùng cảnh cô bé nhìn từ bên kia hàng trăm năm, nhưng giờ cô bé đứng giữa nó, không nhìn xuyên qua.
-
-
 
 *Cỏ ở đây xanh hơn.*
 

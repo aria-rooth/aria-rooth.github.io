@@ -10,9 +10,6 @@ title: "Chương 3: Lành"
 
 ***
 
-
-
-
 ## Sáu mươi giây là một cuộc đời
 
 Con Bạch Ám Thú đến từ trên cao.
@@ -69,7 +66,6 @@ Khi xong, cô ngồi xuống lần nữa và đếm đến sáu mươi.
 
 Lần này không có vết thương để quan sát. Chỉ là thói quen.
 
-
 Đêm yên.
 
 Không có đàn. Không có tiếng động từ phía Bắc. Ngay cả gió cũng lặng — điều hiếm khi xảy ra, nhưng đôi khi xảy ra, và Pale Frontier im lặng hoàn toàn theo kiểu khiến tai người tự tạo ra tiếng để lấp đầy.
@@ -121,7 +117,6 @@ Không ngủ ngay. Chỉ là ngồi đó, tay đặt lên đầu gối, ngực l
 Sáu mươi năm hay hai trăm năm hay không biết bao nhiêu năm nữa.
 
 Bóng tối không trả lời. Cô cũng không hỏi.
-
 
 *Hết Chương 1–3*
 

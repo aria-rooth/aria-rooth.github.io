@@ -10,9 +10,6 @@ title: "Chương 30: Điều Được Xin"
 
 ***
 
-
-
-
 *Người ta chỉ cầu xin thần thánh một điều: điều không có cách nào khác.*
 
 Ngày hôm sau, Vela và Theo ngồi với mảnh ký ức như hai người phân tích bằng chứng — không phải vì không cảm xúc, mà vì cảm xúc quá nhiều, và cách duy nhất để không chìm là xử lý nó như dữ liệu. Tách bản thân ra. Nhìn từ xa. Đặt mỗi mảnh đúng chỗ và xem chúng ghép thành gì.

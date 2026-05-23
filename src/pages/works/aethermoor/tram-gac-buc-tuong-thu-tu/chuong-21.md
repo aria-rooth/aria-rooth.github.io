@@ -10,9 +10,6 @@ title: "Chương 21: Hồ Sơ"
 
 ***
 
-
-
-
 *180 năm là khoảng cách dài. Nhưng kiếm sứt mẻ không thay đổi.*
 
 Ba tuần sau khi đội Essam rời đi, một người đưa tin đến. Anh ta đi một mình từ Essam — ba ngày đường trên thảo nguyên xám, rồi theo mép tường về phía Đông cho đến khi thấy tháp đá thấp của Vela. Khi anh ta đến, mặt đỏ vì gió, môi nứt, ba lô đầy thư từ và tài liệu. Anh ta nhìn Vela đứng trên tường, kiếm trong tay, máu Bạch Lang chưa lau trên giáp — và mất vài giây trước khi nhớ phải chào.

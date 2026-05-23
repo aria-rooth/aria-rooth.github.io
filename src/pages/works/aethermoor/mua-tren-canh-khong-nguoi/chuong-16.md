@@ -10,9 +10,6 @@ title: "Chương 16: Quyết Định Đầu Tiên"
 
 ***
 
-
-
-
 Sáng.
 
 Elara ngồi trên phiến đá, *Người Đứng* mở trên đùi, nhưng cô không viết. Bút chì nằm ngang giữa hai trang, bất động. Cô nhìn về phía Huyền Môn Cốt — không có ai, tất nhiên, sáng là thời gian của đá trống và cỏ khô — nhưng cô nhìn như thể vẫn có thể thấy cô bé đứng ở đó.

@@ -10,9 +10,6 @@ title: "Chương 14: Học"
 
 ***
 
-
-
-
 ## Anh ta học về cô. Cô học về bản thân mình qua những gì anh ta tìm thấy
 
 Theo mang tài liệu lên tháp.

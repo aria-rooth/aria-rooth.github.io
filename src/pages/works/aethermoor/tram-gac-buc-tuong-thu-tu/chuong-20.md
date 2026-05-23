@@ -10,9 +10,6 @@ title: "Chương 20: Quyết Định Không Được Đặt Tên"
 
 ***
 
-
-
-
 *Không phải lựa chọn — chỉ là dừng không đuổi đi.*
 
 Một tháng kể từ khi đội Essam đến và đi. Vela và Theo có nhịp điệu riêng — một thứ ngôn ngữ không lời xây dựng từ những ngày bên nhau. Anh ta biết khi nào cô sắp đứng dậy trong đêm — ba mươi giây trước khi đàn đến, nhịp thở cô thay đổi, một chuyển dịch nhỏ đến mức hầu như không nhận ra, nhưng anh ta nhận ra. Cô biết khi nào anh ta đang đọc điều quan trọng — bút dừng, mắt hẹp, môi mím lại thành một đường. Họ không phải bạn. Không phải đồng đội. Là thứ giữa — chưa có tên, không cần tên.
@@ -45,14 +42,18 @@ Không phải "có" — cô không biết mình muốn gì. Không phải "khôn
 
 *Lần đầu tiên trong thời gian cô nhớ được, cô không đứng một mình. Và "không một mình" không phải thoải mái — nó là lạ, là nặng, là cần chú ý. Nhưng nó cũng là ấm. Và ấm, cô nhận ra, là thứ cô đã quên mình nhớ.*
 
-
 ## Ghi Chú So với Outline
 
 Không có sai lệch đáng kể. Tất cả chương 16–20 bám sát outline:
+
 - Ch.16: Làn sóng đa hướng, Bạch Lang + Bạch Ám Thú + Bạch Ảnh + Titan, Rynn và Maren chết, đội vỡ. ✅
+
 - Ch.17: Vela giết Titan một mình 20 phút 8 thương, xếp Rynn/Maren phủ áo choàng, "tôi đã cảnh báo. Không đủ." ✅
+
 - Ch.18: Kael quyết định rời, Vela giúp cáng Lyre, "không cần", Kain gật đầu, Theo ở lại. ✅
+
 - Ch.19: Gượng gạo ban đầu, Theo thiết lập thói quen, trận nhỏ anh ta gọi vị trí, Vela ngủ được. ✅
+
 - Ch.20: Một tháng, nhịp điệu riêng, mảnh ký ức từ bình yên, "tôi không nói đuổi đi", cột mốc Arc 1. ✅
 
 Quy tắc LORE_BIBLE tuân thủ: Titan, Bạch Lang Thần Thú, Bạch Ám Thú, Bạch Ảnh, lãnh vực.

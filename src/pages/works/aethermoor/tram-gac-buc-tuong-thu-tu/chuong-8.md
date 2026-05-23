@@ -10,9 +10,6 @@ title: "Chương 8: Họ Ở Lại"
 
 ***
 
-
-
-
 ## Một tuần
 
 Ngày thứ tư, Kael gọi cả đội họp. Vela không tham gia — cô ở trên tháp, nghe thấy tiếng nói chuyện nhưng không phân biệt chữ. Không phải chuyện của cô.
@@ -82,9 +79,6 @@ Nhưng đêm nay có khác — và cô biết khác ở đâu: có ai đó ở d
 Vela nhắm mắt. Và lần đầu tiên trong ba năm, cô ngủ với cảm giác rằng có ai đó ở gần — không phải kẻ thù, không phải người cần bảo vệ, chỉ là người.
 
 Chỉ là người. Đó là đủ.
-
-
-
 
 # Trạm Gác Bức Tường Thứ Tư
 

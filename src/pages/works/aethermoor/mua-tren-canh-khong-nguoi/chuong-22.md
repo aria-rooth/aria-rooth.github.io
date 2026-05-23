@@ -10,16 +10,11 @@ title: "Chương 22: Thay Đổi Nhận Thức"
 
 ***
 
-
-
-
 Sáng.
 
 Elara viết. Nhiều hơn bao giờ hết — không chỉ ghi chép, mà viết. Viết suy nghĩ. Viết câu hỏi. Viết điều cô nhận ra đêm qua và không biết cách đặt vào dòng nhật ký cho đến lúc bút chạm giấy.
 
 Cô viết về việc Lyss bước qua. Không có hiện tượng. Không chớp sáng, không tiếng động, không phản ứng từ mạch Linh Nguyên. Cổng là cổng — khoảng trống giữa hai trụ — và Lyss bước qua như bước qua cửa. Đơn giản. Bình thường. Nghĩa là: cổng không giữ ai. Cổng không cấm. Cổng chỉ đứng đó, và ai ở bên kia tự kẹt, không phải vì cổng nhốt, mà vì không ai cho họ biết họ có thể đi.
-
-
 
 Cô viết về việc Lyss mờ đi khi bình minh đến. Cô bé biết — *tôi nghĩ đến giờ rồi* — như thể cô bé đã trải qua điều đó nhiều lần. Mỗi đêm xuất hiện, mỗi bình minh biến mất. Hai trăm năm, cô bé đến và đi, đến và đi, và mỗi lần biến mất, cô bé không biết mình đi đâu. Chỉ biết giờ đến. Và đi.
 
@@ -36,8 +31,6 @@ Nhưng bên trong là gì? Hai mươi chín người đứng. Không cử độn
 Họ không phải quái vật. Quái vật không chờ. Quái vật không vẫy tay. Quái vật không hỏi *chị lạnh không* và không mỉm cười khi ai đó vẫy lại. Họ bị kẹt — kẹt bên kia, kẹt trong đứng yên, kẹt trong việc chờ người không đến. Và Elara đứng bên này, cũng kẹt — kẹt trong việc canh, kẹt trong mệnh lệnh cũ, kẹt trong cách nhìn xem bên kia là mối đe dọa.
 
 Cô nhìn hai mươi chín người khi họ xuất hiện lúc hoàng hôn. Lần đầu tiên cô không đếm. Lần đầu tiên cô không ghi vị trí. Lần đầu tiên cô chỉ nhìn — nhìn như nhìn người, không như nhìn mục tiêu quan sát. Và cô thấy điều cô không thấy trước: họ không giống nhau. Không phải cùng tư thế, cùng góc mặt, cùng khoảng cách. Họ khác nhau — hơi, nhưng khác. Người cao, người thấp. Người quay trái, người quay phải. Người gần cổng, người xa. Đêm nào cô cũng thấy họ, nhưng đêm nào cô cũng ghi *hai mươi chín người đứng yên*, như thể họ giống nhau, như thể họ là một thứ — *bóng hình* — mà không phải bốn mươi chín cá thể.
-
-
 
 Cô nhìn họ. Họ nhìn cô. Hoặc không nhìn — cô không biết. Họ không chớp, không xoay, không phản ứng khi cô nhìn. Nhưng đêm qua, một trong số họ bước qua, ngồi cạnh cô, chạm kiếm, nói *cỏ xanh hơn*. Một trong hai mươi chín người đó là Lyss. Cô bé tóc tết hai bên, váy viền thêu lá, tìm mẹ, không biết mình đã chết. Cô bé hỏi *chị lạnh không* và mỉm cười khi Elara vẫy lại.
 

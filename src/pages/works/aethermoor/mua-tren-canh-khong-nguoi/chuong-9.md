@@ -10,9 +10,6 @@ title: "Chương 9: Thử Nghiệm"
 
 ***
 
-
-
-
 Đêm thứ năm. Elara đếm mười tám bóng.
 
 Cô không gọi họ là người. Chưa. Họ có hình dạng người — đầu, vai, hai chân đứng — nhưng sự im lặng của họ không phải im lặng của người. Im lặng của người có ranh giới: người ta ngừng nói, người ta nín thở, người ta chờ. Im lặng này không có ranh giới. Nó là trạng thái, không phải hành động. Như đá im lặng. Như cổng im lặng.
@@ -125,14 +122,16 @@ Elara đứng trước hai mươi hai bóng trong đêm. Họ nhìn cô. Cô nh�
 
 Cô không sợ. Ít nhất là cô không gọi cảm giác này là sợ. Sợ là cảm xúc của người chạy. Cô không chạy. Cô ghi chép.
 
-
 Nhưng cơ thể cô ghi nhận khác. Gáy cô căng — không nhiều, chỉ một chút, như dây đàn căng thêm nửa vòng. Bàn tay trái cô, tay cầm đèn, mồ hôi trên cán gỗ — lạnh, trơn. Cô không sợ. Nhưng cô cũng không bình thường. Bốn kết luận trong đầu là cách cô giữ mình đứng thẳng: nghĩ, không cảm. Ghi, không chạy. Cô đã quên cách làm việc khác.
 
 Trong đầu cô, bốn kết luận:
 
 Một: họ theo dõi vị trí của cô bất kể ánh sáng.
+
 Hai: họ đến khi cô không nhìn.
+
 Ba: họ không phản ứng với âm thanh — cô đã di chuyển, đã thổi đèn, đã đếm to trong đầu, và họ không động đậy.
+
 Bốn: họ không vượt qua cổng.
 
 Cô không biết kết luận thứ tư có đúng không. Cô chỉ biết trong một trăm giây quay lưng, họ không đến gần hơn. Họ chỉ đến nhiều hơn.
@@ -158,7 +157,6 @@ Nhưng đêm nay, không biết là tất cả những gì cô có.
 Cô đóng nhật ký. Thổi tắt đèn.
 
 Nằm xuống. Nhắm mắt.
-
 
 Hai mươi hai. Trong bóng tối sau mí mắt, cô vẫn thấy họ. Không phải bằng mắt — bóng tối không có mắt. Bằng cách khác. Cô cảm nhận họ như cảm nhận lạnh từ tường đá: không nhìn thấy, nhưng biết ở đó. Kênh Linh Nguyên trong người cô — cấp 3, mờ, gần như tê liệt sau mười hai năm không dùng — mở ra một chút, tự phát, như da thứ hai vừa nhận ra có thứ cần cảm nhận.
 

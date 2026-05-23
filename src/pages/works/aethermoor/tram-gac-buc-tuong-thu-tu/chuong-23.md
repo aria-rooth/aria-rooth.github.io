@@ -10,9 +10,6 @@ title: "Chương 23: Dấu Vết"
 
 ***
 
-
-
-
 *Lịch sử không ghi tên những người chỉ đứng ở một chỗ.*
 
 Tài liệu mới từ Essam đến — lần này không phải về Bức Tường. Là về Thần Chiến. Cụ thể: về Velhar the Chained.

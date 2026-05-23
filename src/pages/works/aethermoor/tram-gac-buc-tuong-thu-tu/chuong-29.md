@@ -10,9 +10,6 @@ title: "Chương 29: Cầu Xin"
 
 ***
 
-
-
-
 *Mảnh ký ức thứ hai đến không xin phép.*
 
 Đêm không trăng. Đêm không trăng trên Bức Tường không phải tối hơn thường — tối là tối, trăng hay không trăng, mắt cô đã quen. Nhưng đêm không trăng có chất lượng khác: không có ranh giới, không có bóng đổ, mọi thứ hòa thành một khối xám đen mà chỉ kinh nghiệm hai trăm năm mới cho cô phân biệt được đất, đá, và thứ đang di chuyển trên đó.

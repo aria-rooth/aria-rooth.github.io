@@ -10,9 +10,6 @@ title: "Chương 20: Sự Thật Của Lyss"
 
 ***
 
-
-
-
 Tối hôm sau. Elara không chờ hoàng hôn. Cô ngồi cách cổng một bước từ chiều muộn. Đèn dầu sáng. *Người Đứng* đóng — không mở, không ghi, đêm nay không ghi chép. Đêm nay nói.
 
 Lyss đến. Vẫy tay. Ngồi xuống. Cùng vị trí. Nhìn Elara.
@@ -79,9 +76,7 @@ Mở cổng. Không phải bằng tay. Không phải bằng Linh Nguyên. Mở b
 
 Lyss nhìn cô. Nhìn khoảng trống. Nhìn hai mươi chín người phía sau — lần cuối, có thể. Rồi cô bé bước tới.
 
-
 *Kết chương*
-
 
 *Tiếp theo: Chương 21 — Qua Cổng.*
 

@@ -10,9 +10,6 @@ title: "Chương 30: Câu Hỏi Thứ Mười Hai Năm"
 
 ***
 
-
-
-
 Đêm đó Elara không ngủ. Không phải vì bóng hình — họ đến và đi như thường, Lyss vẫy, Corin ngồi, người đàn ông loại 3 giậm chân chờ, hai mươi bảy người đứng im. Không phải vì mạch — cô đã đọc xong, ghi xong, biết xong. Cô không ngủ vì cô cần đọc.
 
 Mười hai năm nhật ký. Tập một đến tập mười hai, rồi *Người Đứng*. Cô lấy hết từ hòm — từng tập, cẩn thận, vì giấy cũ giòn. Xếp theo thứ tự. Ngồi trên phiến đá, đèn dầu cháy hai bấc — sáng hơn thường, vì cô cần thấy chữ.
@@ -70,7 +67,6 @@ Cô cần thông tin. Thông tin không nằm ở đây — nằm ở nơi khác
 Cô nhìn về phía nam. Thế giới sống ở đó. Và thế giới sống có thể có câu trả lời.
 
 *Kết chương*
-
 
 *Tiếp theo: Chương 31 — Linh Nguyên Có Ký (Thiên Địa Hữu Ký).*
 

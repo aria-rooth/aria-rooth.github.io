@@ -10,9 +10,6 @@ title: "Chương 25: Cấp Độ"
 
 ***
 
-
-
-
 *Anh ta học nhanh. Cô không ngờ điều đó.*
 
 Đêm. Đàn Bạch Lang đến — mười bốn con, Bạch Ám Thú hai, kết hợp. Trận vừa phải. Nhưng lần này, khác.
@@ -59,23 +56,32 @@ Anh ta không phản đối. Không đồng ý. Chỉ gật đầu — gật ch�
 
 Vela không trả lời. Nhưng câu hỏi ở lại — như "muộn" trong cuốn sổ, như vết sứt trên kiếm, như mọi thứ đã đến và không rời đi sau khi nó nên rời. Có lẽ cô đã dạy ai đó. Có lẽ cô sẽ dạy lại. Có lẽ "đáng được dạy" là câu trả lời cho câu hỏi cô chưa hỏi. Cô không biết. Nhưng cô ngồi cạnh lửa, cạnh người đang viết, cạnh tiếng bút trên giấy — và không muốn ở đâu khác. *Câu hỏi ở lại. Và lần này, cô không đuổi nó đi.*
 
-
 ## HIỆU ĐÍNH — Ghi chú
 
 **Ngữ pháp đã sửa:**
+
 1. Ch.21: "Thời gian trên tường không phải dòng chảy..." — thêm hình ảnh lớp chồng lớp, giữ nhịp câu dài
+
 2. Ch.22: "Chỉ là bị khóa..." — bổ sung đối chiếu "bị khóa" vs "không có", tăng chiều sâu triết lý
+
 3. Ch.23: "nhưng giá: ký ức" → "nhưng cái giá: ký ức" — bổ sung thành phần câu
 
 **Giọng văn đã hiệu đính (không can thiệp plot/pacing):**
+
 - Ch.21: Giữ nhịp câu dài, không chém ngắn
+
 - Ch.22: Giữ "bức tường ký ức" là ẩn dụ intentional — không sửa
+
 - Ch.23: "cái giá" thay vì "giá" — tự nhiên hơn trong văn phong tiếng Việt
+
 - Các chương khác: prose đã tốt, không cần hiệu đính giọng văn
 
 **Tổng kết:**
+
 - Lỗi ngữ pháp sửa: 3
+
 - Chỗ hiệu đính giọng văn: 1 (bổ sung chiều sâu)
+
 - Intentional style giữ nguyên: toàn bộ prose Vela (nhịp chậm, nội tâm mơ hồ)
 
 ***

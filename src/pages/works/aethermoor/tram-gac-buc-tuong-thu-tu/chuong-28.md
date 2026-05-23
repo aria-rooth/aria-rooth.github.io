@@ -10,9 +10,6 @@ title: "Chương 28: Lựa Chọn Không Có Tên"
 
 ***
 
-
-
-
 *Anh ta hỏi câu hỏi mà cô chưa sẵn sàng trả lời.*
 
 Một buổi sáng yên tĩnh. Yên tĩnh trên Bức Tường là hiếm — yên tĩnh thực sự, không phải khoảng lặng giữa hai đợt tấn công. Sáng hôm nay: không có đàn di chuyển trong tầm mắt, không có mùi thay đổi trong gió, không có dấu vết mới trên đá. Trống trải. Mười hai dặm trống trải, và Vela đã đi hết, kiểm tra hết, và không tìm thấy gì.

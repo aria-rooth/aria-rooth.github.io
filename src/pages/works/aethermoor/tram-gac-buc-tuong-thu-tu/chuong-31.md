@@ -10,9 +10,6 @@ title: "Chương 31: Áp Lực"
 
 ***
 
-
-
-
 *Pale Creatures không hiểu chiến trật tự. Thứ đang điều khiển chúng thì hiểu.*
 
 Đợt tấn công đầu tiên đến lúc bình minh. Không phải đàn lớn — mười bốn Bạch Lang Thần Thú, hai Bạch Ám Thú. Vela xử lý trong chín phút. Bình thường. Thường. Không có gì đáng ghi ngoài số.

@@ -10,9 +10,6 @@ title: "Chương 6: Theo"
 
 ***
 
-
-
-
 ## Người hỏi
 
 Anh ta đến vào buổi tối hôm sau — leo lên tháp bằng bậc thang mòn, từng bước cẩn thận, tay vịn vào tường. Không phải vì sợ ngã. Vì tôn trọng — kiểu tôn trọng của người biết mình đang đi vào chỗ của ai khác.

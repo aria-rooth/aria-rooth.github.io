@@ -10,9 +10,6 @@ title: "Chương 29: Mạch Linh Nguyên Dưới Cổng"
 
 ***
 
-
-
-
 Ba đêm sau. Elara không cho thêm ai qua. Cô quan sát. Ghi chép. Nhưng đêm nay, cô làm điều khác — không nhìn lên, mà nhìn xuống.
 
 Linh Vương. Cấp 8. Cô có thể áp đặt ý chí lên không gian hẹp — đã dùng đêm đó để giữ người loại 3. Nhưng Linh Vương còn hơn thế: cô có thể cảm nhận Linh Nguyên của đất đai, đọc nó, hiểu nó, như người đọc sách. Và mạch dưới Huyền Môn Cốt — cuốn sách cô chưa đọc.

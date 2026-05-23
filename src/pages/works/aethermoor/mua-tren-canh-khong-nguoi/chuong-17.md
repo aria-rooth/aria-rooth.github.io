@@ -10,9 +10,6 @@ title: "Chương 17: Cuộc Trò Chuyện Qua Cổng"
 
 ***
 
-
-
-
 Ba mươi người. Lyss ở vị trí cũ — cách hàng cuối năm bước, lệch trái. Vẫy tay khi thấy Elara.
 
 Elara vẫy lại. Nhanh hơn đêm qua. Tự nhiên hơn. Cô không phải nghĩ — tay nâng lên trước khi cô quyết định, như thể cơ thể nhớ cách vẫy tay, cho dù tâm trí đã quên từ lâu. Rồi cô bước đến — năm bước, bốn, ba, hai, một — và ngồi xuống.

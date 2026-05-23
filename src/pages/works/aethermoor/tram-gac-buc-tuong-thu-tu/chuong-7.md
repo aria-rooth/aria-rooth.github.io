@@ -10,9 +10,6 @@ title: "Chương 7: Đêm Thứ Ba"
 
 ***
 
-
-
-
 ## Những gì đội Essam không biết
 
 Đêm thứ ba, Pale Frontier sống động hơn bình thường.

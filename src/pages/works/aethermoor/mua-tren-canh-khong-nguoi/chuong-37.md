@@ -55,4 +55,3 @@ Bốn mươi người đứng bên kia. Elara nhìn họ. Nhìn Lyss — cô bé
 *Kết chương*
 
 ***
-

@@ -10,9 +10,6 @@ title: "Chương 27: Người Không Được Qua"
 
 ***
 
-
-
-
 Ba đêm sau.
 
 Corin và Lyss đều qua mỗi đêm. Ba người — Elara, Lyss, Corin — ngồi trên phiến đá, nói chuyện. Về thứ nhỏ. Về thứ lớn. Về thứ ở giữa. Lyss kể về làng — nhà bếp mùi thảo mộc, mẹ đan len, đường đất sau mưa. Corin kể về doanh trại — mùi dầu cọ, tiếng mài kiếm, tiếng kèn. Hai người từ hai thế giới, hai thời đại, hai cái chết. Nhưng họ ngồi cạnh nhau và nói chuyện, và Elara nghe, và tối ấy hoang nguyên có tiếng người.

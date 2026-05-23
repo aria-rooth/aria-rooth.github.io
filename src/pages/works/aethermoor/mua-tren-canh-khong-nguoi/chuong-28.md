@@ -10,9 +10,6 @@ title: "Chương 28: Quyền Phán Xét"
 
 ***
 
-
-
-
 Sáng.
 
 Elara không ngủ. Cô ngồi trên phiến đá, *Người Đứng* mở, và viết. Không ghi chép — viết. Suy nghĩ bằng bút, vì suy nghĩ trong đầu trôi đi, nhưng suy nghĩ trên giấy ở lại.

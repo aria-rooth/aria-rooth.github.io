@@ -10,9 +10,6 @@ title: "Chương 26: Người Thứ Hai Qua Cổng"
 
 ***
 
-
-
-
 Hai tuần sau đêm Lyss bước qua.
 
 Elara viết tiêu chí vào *Người Đứng* — ba trang, viết lại, gạch, viết lại. Hướng dẫn, không phải luật. Cho chính mình. Thô. Nhưng có.

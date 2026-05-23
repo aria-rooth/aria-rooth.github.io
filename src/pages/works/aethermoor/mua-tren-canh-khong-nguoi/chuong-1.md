@@ -10,9 +10,6 @@ title: "Chương 1: Thứ Ba"
 
 ***
 
-
-
-
 Bình minh đến không có màu sắc.
 
 Mây che kín từ đêm trước, và ánh sáng lọc qua chỉ là một sự nhạt dần của bóng tối — xám thay đen, sau đó xám nhạt hơn. Elara nhận ra sự thay đổi không qua mắt mà qua thân thể. Cơ bắp thay đổi trạng thái khi đủ sáng để di chuyển. Xương cốt chuyển từ chế độ nghỉ sang chế độ canh trước khi não kịp ghi nhận.
@@ -72,7 +69,6 @@ Tháp canh cách ba mươi bước sau lưng, đủ che mưa nếu cô đứng g
 Không phải khổ hạnh. Không phải nghi lễ. Chỉ là cô đứng ở đây và trời mưa, và di chuyển vào bóng râm đòi hỏi cô quyết định di chuyển, và quyết định ấy không cần được đưa ra ngay lúc này.
 
 Mưa rơi. Huyền Môn Cốt đứng.
-
 
 Elara quan sát. Nước chảy xuống gáy, xuống lưng, xuống hai khuỷu tay để buông. Áo da dê nặng hơn mỗi phút. Cô cảm thấy lạnh — không phải lạnh của người chịu đựng, mà lạnh của người quen. Mười hai mùa thu đã dạy cơ thể cách đứng trong mưa mà không run. Run là đòi hỏi sự chú ý. Cô không đòi.
 

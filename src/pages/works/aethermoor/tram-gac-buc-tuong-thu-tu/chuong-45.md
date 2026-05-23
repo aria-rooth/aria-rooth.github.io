@@ -65,13 +65,19 @@ Bình minh tràn. Gió đổi hướng — Bắc sang Nam, lạnh sang ấm, ch�
 ## Ghi Chú So với Outline
 
 Không có sai lệch đáng kể. Tất cả chương 41–45 bám sát outline:
+
 - Ch.41: Mira — ký ức đầy đủ đến vì cô sẵn sàng, tên Mira, làng phía Nam, 8 năm, Thần Chiến, hứa về, về muộn, Mira chết, ngồi xuống giữa đường tuần tra. ✅
+
 - Ch.42: "Không phải Velhar khóa cô ở đây — là cô tự khóa," kể đầy đủ lần đầu tiên cho Theo, hợp đồng yêu cầu bảo vệ/không rời đi, lý do ký đã chết từ đêm đầu tiên. ✅
+
 - Ch.43: "Tôi ở đây vì tôi chọn ở đây," không rời vì sợ Velhar, không ở vì hợp đồng, ở vì chọn, chuẩn bị cho sắp đến cùng nhau. ✅
+
 - Ch.44: Velhar hiện thân, đối thoại trực tiếp, hỏi về hiệu lực hợp đồng khi người chỉ định chết, điều khoản ẩn lộ — người chết thì người ký thành vũ khí vĩnh viễn, Velhar rời vì phức tạp hơn tính toán. ✅
+
 - Ch.45: Viết "Mira Ashmarch. 18 tuổi. Thần Chiến năm thứ ba" vào sổ, hỏi Theo "anh ở đây vì gì," "cô xứng đáng được có người biết cô đang ở đây," đứng vì chọn, biết tại sao. ✅
 
 Quy tắc LORE_BIBLE tuân thủ: Linh Việt (Tier 9), Linh Hùng (Tier 5), Thần Vương Velhar the Chained, Thệ Ước Phong Lực (hợp đồng Velhar), Thiên Địa Hữu Ký (đá nhớ bước chân), Pale Frontier, Aether, lãnh vực, domain.
+
 Xưng hô: Calla ↔ Vela = "cô" (nữ-nữ), Theo ↔ Vela = "cô" (nam-nữ), Velhar ↔ Vela = "ngươi" (thần-người).
 
 Cô đứng. Lưng thẳng. Kiếm bên cạnh. Gió Bắc thổi — lạnh, quen, như luôn. Nhưng hôm nay, cô đứng và biết tại sao. Biết không phải vì lời nguyền ép. Biết không phải vì hợp đồng buộc. Biết không phải vì không còn chỗ khác. Biết vì chọn.

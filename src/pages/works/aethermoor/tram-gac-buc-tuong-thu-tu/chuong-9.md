@@ -10,9 +10,6 @@ title: "Chương 9: Câu Hỏi Không Có Câu Trả Lời"
 
 ***
 
-
-
-
 ## Anh ta hỏi những điều cô không nghĩ đến từ lâu lắm rồi
 
 Đêm yên. Không có đàn. Không có áp lực từ phía Bắc — thứ áp lực vô hình mà Vela cảm nhận như người trên biển cảm nhận bão: không phải gió, không phải sóng, mà là thứ chảy trong không khí trước khi gió đến. Hôm nay không khí nhẹ. Màn sương mờ nhạt như mọi đêm, gió từ hướng đông bắc thổi nhẹ và đều, mang theo bụi trắng lấp lánh trong ánh sao. Nhiệt độ ổn định — loại đêm mà Vela vẫn canh vì đó là việc cô làm, không vì cần. Sẽ không có gì đến. Cô biết điều đó theo cách cô biết mọi thứ về đêm trên Pale Frontier: bằng cách đã sống đủ đêm để phân biệt đêm yên và đêm sắp không yên.
@@ -68,7 +65,6 @@ Rồi anh ta dừng. Nhìn cô.
 Không phải lời đề nghị. Không phải lời hứa. Chỉ là tự giới thiệu — cách anh ta định nghĩa bản thân, cũng như cô định nghĩa mình bằng công việc: tôi đứng ở đây, tôi đánh, tôi ghi số. Anh ta tìm điều bị mất. Đủ.
 
 Vela không trả lời. Nhưng cô không đứng dậy bỏ đi.
-
 
 Họ ngồi cạnh nhau trên thềm tháp, nhìn về phía Bắc, trong im lặng. Không phải im lặng chờ — ai cũng không chờ ai nói thêm. Là im lặng cùng. Cùng nhìn một hướng. Cùng ở một nơi. Và trong lúc ngồi đó, Vela nhận ra: đây là lần đầu tiên trong ba năm, hoặc mười năm, hoặc hai trăm năm, có ai đó đang thấy thứ cô thấy mỗi đêm. Màn sương phương Bắc. Bóng tối dưới màn sương. Khoảng trống sau bóng tối. Cô nhìn nó mỗi đêm một mình. Đêm nay, có người ngồi cạnh và nhìn cùng.
 

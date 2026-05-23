@@ -10,9 +10,6 @@ title: "Chương 32: Dưới Bề Mặt"
 
 ***
 
-
-
-
 *Hai trăm năm chiến đấu không biến mất. Nó tích lũy.*
 
 Năm ngày sau khi đợt tấn công dừng, thư từ Essam đến. Không phải người đưa tin thường — lần này là một chim ưng huấn luyện, mang ống tre nhỏ buộc ở chân. Đôi cánh rũ sau đường bay dài. Đôi mắt đen tròn, không sợ, nhìn Vela rồi nhìn Theo rồi nhìn ống tre như thể biết thứ trong đó quan trọng hơn bản thân nó.

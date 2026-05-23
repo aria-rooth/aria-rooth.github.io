@@ -10,9 +10,6 @@ title: "Chương 33: Giữ Chặt"
 
 ***
 
-
-
-
 *Lời nguyền che giấu điều nó được thiết kế để che giấu.*
 
 Buổi tối, sau khi thư từ Essam đã đọc đi đọc lại, sau khi thử nghiệm đã ghi chép, sau khi im lặng đã kéo dài đủ lâu để cả hai xử lý — Theo nói. Không phải nói chuyện. Nói lý thuyết.

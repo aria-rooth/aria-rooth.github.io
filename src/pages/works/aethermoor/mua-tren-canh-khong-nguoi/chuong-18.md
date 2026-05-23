@@ -10,9 +10,6 @@ title: "Chương 18: Mưa Và Quyết Định"
 
 ***
 
-
-
-
 Một tuần.
 
 Mỗi tối, Elara ngồi cách cổng một bước. Mỗi tối, Lyss ngồi cách cổng ba bước bên kia. Họ nói chuyện — hoặc nói đủ để hiểu nhau, bằng hình miệng, cử chỉ, và thứ gì đó mờ hơn mà Elara không định nghĩa được. Linh Nguyên. Cô cảm nhận nó — yếu, mờ, như ánh nến xa — mỗi khi Lyss nói. Không phải từ lời nói. Từ ý định. Từ việc Lyss muốn cô hiểu. Linh Nguyên ở đây không phải sức mạnh, mà là cầu nối — mong muốn giao tiếp tạo ra kênh giao tiếp, yếu nhưng thật.

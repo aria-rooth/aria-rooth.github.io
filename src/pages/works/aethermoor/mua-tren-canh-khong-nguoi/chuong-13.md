@@ -10,9 +10,6 @@ title: "Chương 13: Tôi Muốn Biết"
 
 ***
 
-
-
-
 Sáng. Không mưa. Không nắng. Chỉ là một sự nhạt dần của bóng tối thành xám, rồi xám nhạt hơn — bình minh kiểu Pale Frontier, không có khoảnh khắc rực rỡ nào.
 
 Elara thức dậy sau bốn tiếng ngủ. Cơ thể bật dậy theo thói quen, nhưng hôm nay cô không đi tuần tra ngay. Cô ngồi trên giường, chân buông xuống sàn, và nhìn vào khoảng không trước mặt.
@@ -127,11 +124,10 @@ Gió thổi qua cổng. Không mang theo âm thanh nào từ bên kia. Chỉ gi�
 
 Elara đứng. Chờ.
 
-
 *Tiếp theo: Arc 2 — Người Trở Về.*
 
-
 # Mưa Trên Cảnh Không Người
+
 *Arc 2 — Người Trở Về*
 
 ***
