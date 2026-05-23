@@ -2,11 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 43
 story: "/works/aethermoor/trong-the"
-total: 45
+total: 60
 title: "Chương 43: Dự Án Thệ Hội Tụ"
 ---
 
-## Chương 43: Dự Án Thệ Hội Tụ
 
 Sera đọc trong kho, đứng, tệp trên tay, mắt lướt, não bắt, bộ lọc Thệ Vang mở nhẹ — không phải nghe người chết, nghe giấy. Giấy nhớ — giấy không nhớ như đất nhớ, nhưng giấy thấm mực, mực thấm ý, ý thấm người viết, và người viết mang Linh Nguyên nhẹ, Linh Nguyên nhẹ thấm vào giấy, và Thệ Vang Linh Phong đủ nhạy để đọc: giấy này viết bởi hai người. Người một: chữ đều, ngay, chữ người viết hành chính. Người hai: chữ nghiêng, nhanh, chữ người viết gấp. Hai người viết = hai người biết. Biết = người cần tìm sau.
 
@@ -46,7 +45,7 @@ Lira đứng cạnh cô. Lira không đọc — Lira canh. Canh vì Sera đọc,
 
 "Có gì?" Lira hỏi. Ngắn. Không tò mò — hỏi vì cần biết.
 
-Sera gập tệp. Đưa cho Lira. Lira đọc — đọc nhanh, đọc kiểu Tự Do Kiếm đọc tin tình báo: bỏ chi tiết, bắt từ khóa, từ khóa = Thệ Hạch, Đoàn, Thần Đế, Pale Frontier. Lira đọc trong mười lăm giây. Mười lăm giây đủ.
+Sera gập tệp. Đưa cho Lira. Lira đọc — đọc nhanh, đọc kiểu Free Sword đọc tin tình báo: bỏ chi tiết, bắt từ khóa, từ khóa = Thệ Hạch, Đoàn, Thần Đế, Pale Frontier. Lira đọc trong mười lăm giây. Mười lăm giây đủ.
 
 "Giáo Hội đang giết Đoàn để lấy Thệ Hạch," Lira nói. Không phải hỏi. "Thệ Hạch để đánh thức Thần Đế. Trọng Nham Hỏa Đạo bị diệt vì — vì viên đá chứa thề ước của họ."
 
@@ -67,3 +66,8 @@ Họ rời kho. Lira dẫn — lối vào, lối ra. Cửa sổ. Tường. Rừn
 Trở lại trại — trại mới, trại xa Draven, trại mà ai thấy cũng chỉ thấy hai người ngủ bên lửa nhỏ. Không ai thấy tệp da bọc dưới áo Sera. Không ai thấy hai người vừa cầm giấy nặng hơn kiếm.
 
 ---
+
+
+**Chương 43/60**
+
+[Chương kế](/works/aethermoor/trong-the/chuong-44)

@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 30
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 45
+total: 60
 title: "Chương 30: Câu Hỏi Thứ Mười Hai Năm"
 ---
 

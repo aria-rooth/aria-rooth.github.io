@@ -2,9 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 36
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 45
+total: 60
 title: "Chương 36: Nút và Người"
 ---
+
 
 Kiếm trong tay. Mười hai năm trong vỏ, và giờ — lưỡi phản chiếu ánh sáng không có nguồn, sáng của bình minh vừa qua, sáng của sương trên cỏ, sáng của thứ gì đó không hoàn toàn thuộc về ngày. Elara đứng trước cổng và cảm nhận khác.
 
@@ -58,4 +59,9 @@ Và Elara — lần đầu tiên trong mười hai năm — không chỉ đứng
 
 *Kết chương*
 
-***
+---
+
+
+**Chương 36/60**
+
+[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-37)

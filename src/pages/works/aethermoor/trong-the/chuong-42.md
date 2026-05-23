@@ -2,11 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 42
 story: "/works/aethermoor/trong-the"
-total: 45
+total: 60
 title: "Chương 42: Draven"
 ---
 
-## Chương 42: Draven
 
 Draven: thị trấn nhỏ nằm ở chỗ mà bản đồ quên — không phải vì thị trấn không đáng nhớ, vì thị trấn được thiết kế để không nhớ. Đường đến Draven hẹp, rẽ ba lần, hai lần rẽ vào ngõ cụt. Ai đến Draven phải biết Draven ở đâu — hoặc phải có người dẫn. Sera và Lira không có người dẫn. Sera có bản đồ Aldric — bản đồ nhỏ, vẽ tay, chi tiết đúng hai mươi năm trước. Draven không đổi nhiều trong hai mươi năm: thị trấn quên thì thị trấn không xây, không xây thì không đổi, không đổi thì bản đồ cũ vẫn đúng.
 
@@ -30,7 +29,7 @@ Họ đợi. Đợi trong rừng, đợi đến tối, đợi đến khi đèn t
 
 Nửa đêm.
 
-Lira đi trước. Không phải vì Sera nhường — vì Lira giỏi hơn việc này. Lira Tự Do Kiếm mười năm: xâm nhập, lấy, đi. Sera chiến đấu. Lira trinh sát. Đúng người đúng việc. Sera theo sau — theo kiểu theo: không bước chân Lira, bước cạnh Lira, nhưng trễ nửa bước, vì trễ nửa bước đủ để Lira dẫn mà Sera không cản.
+Lira đi trước. Không phải vì Sera nhường — vì Lira giỏi hơn việc này. Lira Free Sword mười năm: xâm nhập, lấy, đi. Sera chiến đấu. Lira trinh sát. Đúng người đúng việc. Sera theo sau — theo kiểu theo: không bước chân Lira, bước cạnh Lira, nhưng trễ nửa bước, vì trễ nửa bước đủ để Lira dẫn mà Sera không cản.
 
 Lira đến tường tòa nhà — tường sau, nơi bóng sâu nhất. Đá ẩm, rêu trơn dưới đầu ngón tay. Cô ta leo — không phải leo nhanh, leo đúng: tay chỗ nẻm, chân chỗ nẻm, nẻm mòn nghĩa là người leo trước, người leo trước nhiều nghĩa = lối leo thường, lối leo thường = không bẫy. Tầng hai. Cửa sổ — khóa trong, nhưng khóa mỏng, khóa kiểu khóa phòng không phải khóa tù. Lira rút kim — hai kim, kim mỏng, kim cong, kim nghề. Mười giây. Cửa sổ mở. Không tiếng.
 
@@ -63,3 +62,8 @@ Sera dừng. Nghe. Từ Thệ Vang — không cảnh báo. Từ tai: bước ch�
 Sera đọc tiếp.
 
 ---
+
+
+**Chương 42/60**
+
+[Chương kế](/works/aethermoor/trong-the/chuong-43)

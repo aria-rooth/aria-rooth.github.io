@@ -2,11 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 42
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 45
+total: 60
 title: "Chương 42: Tên Của Anh Ta"
 ---
 
-## Chương 42: Tên Của Anh Ta
 
 Đêm. Bốn mươi bốn người. Số tiếp tục tăng — không giảm, không dừng, tăng đều như thủy triều lên. Và đêm nay, Revenant Captain xuất hiện lại.
 
@@ -71,3 +70,8 @@ Cô. Chỉ cô. Không có ai khác. Và đó vừa là quyền vừa là gánh 
 *Kết chương*
 
 ---
+
+
+**Chương 42/60**
+
+[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-43)

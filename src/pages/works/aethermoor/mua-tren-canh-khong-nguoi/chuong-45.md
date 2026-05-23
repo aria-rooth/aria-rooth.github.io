@@ -2,11 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 45
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 45
+total: 60
 title: "Chương 45: Nửa Đêm"
 ---
 
-## Chương 45: Nửa Đêm
 
 Nửa đêm. Elara không ngủ — không phải vì không buồn, mà vì domain co không ngủ. Mỗi giờ cô cảm nhận — qua mạch, qua cổng, qua Linh Nguyên thấm — domain thu thêm một chút. Nhỏ. Như thủy triều lùi một phân. Nhưng lùi đều, không ngừng, và mỗi lần lùi, người bên trong lùi theo, xa cổng hơn, xa cô hơn.
 
@@ -96,3 +95,7 @@ Nửa đêm. Nửa gánh. Nửa bên trong, nửa bên ngoài. Và Elara — l�
 - **Grath giúp (ch.45):** Revenant Captain từ đối trọng thành đồng hành tạm — tạo complexity: không phải kẻ thù đơn giản, mà là người có lý, có trách nhiệm, có thể hợp tác. Giọng Elara: không tin ngay, nhưng chấp nhận tạm vì cần.
 - **Lyss kéo qua cổng lần 2 (ch.45):** Lần đầu (ch.21) Lyss qua rồi biến. Lần này Lyss ở lại — vì domain co, vì cần an toàn, vì Elara chủ động kéo. Beat này tạo thay đổi: Lyss bên ngoài cùng Elara, không còn bên trong.
 - **Chỉ 1 batch. Không viết thêm.**
+
+**Chương 45/60**
+
+[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-46)

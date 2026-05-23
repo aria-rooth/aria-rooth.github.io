@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 31
 story: "/works/aethermoor/trong-the"
-total: 45
+total: 60
 title: "Chương 31: Giáo Hội Có Mắt Ở Đâu"
 ---
 

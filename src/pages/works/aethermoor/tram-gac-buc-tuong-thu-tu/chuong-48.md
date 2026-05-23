@@ -2,11 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 48
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 50
+total: 60
 title: "Chương 48: Nguồn Cấp"
 ---
 
-Chương 48: Nguồn Cấp
 
 *Lời nguyền không cho — nó mượn. Mượn từ cô. Mượn cho ông ta.*
 
@@ -52,3 +51,7 @@ Vela ngồi với điều đó. Ngồi trong tháp, lửa nhỏ, gió ngoài. Nh
 
 ---
 
+
+**Chương 48/60**
+
+[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-49)

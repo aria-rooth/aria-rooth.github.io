@@ -2,11 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 44
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 45
+total: 60
 title: "Chương 44: Sóng Dưới"
 ---
 
-## Chương 44: Sóng Dưới
 
 Sáng. Elara thiền — kênh mở, Linh Nguyên chảy, mạch dưới chân đọc như sách mở. Nhưng lần này cô không chỉ đọc mạch quanh cổng. Cô đọc xa hơn.
 
@@ -79,3 +78,8 @@ Mười hai năm cô nghĩ mình canh cổng. Canh đá. Canh mạch. Giờ cô 
 *Kết chương*
 
 ---
+
+
+**Chương 44/60**
+
+[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-45)

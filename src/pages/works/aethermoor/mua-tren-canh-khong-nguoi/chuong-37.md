@@ -2,9 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 37
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 45
+total: 60
 title: "Chương 37: Nhiều Hơn"
 ---
+
 
 Số lượng tăng.
 
@@ -48,10 +49,15 @@ Elara ngồi xuống. Cổng phản ứng với người sống. Tại sao? Nế
 
 Deven Ash gật đầu. *Và cô thấm vào cổng. Linh Nguyên sống của cô thấm vào cơ chế, và cơ chế dùng Linh Nguyên đó để vận hành. Cô không chỉ chèo. Cô là nhiên liệu.*
 
-Nhiên liệu. Elara nhìn tay mình. Mười hai năm Linh Nguyên của cô chảy vào cổng — mỗi ngày, mỗi đêm, mỗi lần chạm, thiền, đứng. Cô nghĩ đó là thấm — thấm như nước thấm đất, thụ động, tự nhiên. Nhưng nếu cô là nhiên liệu, thì thấm đó không thụ động. Thấm đó là *cho*. Cô cho cổng Linh Nguyên của mình, và cổng dùng Linh Nguyên đó để giữ domain. Mười hai năm cô đứng không phải vì không có nơi đi — cô đứng vì cô *nuôi* cổng, và cổng *dùng* cô, và mối quan hệ đó — hai chiều, không một chiều — sâu hơn cô tưởng.
+Nhiên liệu. Elara nhìn tay mình. Mười hai năm — cô tưởng mình đứng, tưởng mình chờ, tưởng mình canh. Không ai nói cô cũng đang chảy. Chảy vào đá, chảy vào mạch, chảy vào thứ mà cô không nhìn thấy. Cô tưởng mình một mình. Nhưng không. Cô và cổng — đã cùng thở mười hai năm. Cùng chảy. Cùng giữ.
 
-Bốn mươi người đứng bên kia. Elara nhìn họ. Nhìn Lyss — cô bé ngồi trên cỏ, vẽ hình bằng ngón tay trên đất. Nhìn Corin — anh ta đứng, chờ, luôn chờ. Nhìn ba mươi tám người còn lại. Cô là nhiên liệu. Cổng là cơ chế. Domain là áp lực. Bốn mươi người là chứng nhân. Và mười hai năm — không phí. Không bao giờ phí.
+Bốn mươi người đứng bên kia. Elara nhìn họ. Nhìn Lyss — cô bé ngồi trên cỏ, vẽ hình bằng ngón tay trên đất. Nhìn Corin — anh ta đứng, chờ, luôn chờ. Nhìn ba mươi tám người còn lại. Mười hai năm — không phí. Không bao giờ phí.
 
 *Kết chương*
 
-***
+---
+
+
+**Chương 37/60**
+
+[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-38)

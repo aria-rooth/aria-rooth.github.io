@@ -2,9 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 38
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 45
+total: 60
 title: "Chương 38: Bên Trong Gọi"
 ---
+
 
 Đêm thứ sáu sau khi cô bắt đầu thử.
 
@@ -34,13 +35,13 @@ Deven Ash đến cạnh. Không chạm cổng — cô ta không có Linh Vương
 
 *Tôi không biết. Nhưng Linh Nguyên trong cổng vừa run — run có chủ ý. Như ai đó gõ.*
 
-Deven Ash im lặng. Lâu. Rồi nói, giọng nhẹ hơn thường: *Nếu domain có ý chí — dư âm ý chí của thần chết — thì nó biết cổng có người giữ. Và nếu người giữ bắt đầu thay đổi cách giữ... domain có thể cảm nhận sự thay đổi đó.*
+Deven Ash im lặng. Lâu. Rồi nói, giọng nhẹ hơn thường: *Domain ghi nhận cô. Cô thay đổi — domain thay đổi theo.*
 
 *Nghĩa là?*
 
-*Nghĩa là — có thể — domain đang thử. Thử xem người giữ làm gì. Thử xem ranh giới còn kiên cố không. Thử xem có kẽ hở không. Như người thợ đóng tàu gõ ván, xem ở đâu rỗng.*
+*Cô chèo. Cô dịch dòng. Domain biết. Và domain — chậm, ngàn năm mỗi ý — đang thử xem cô mạnh đến đâu.*
 
-Elara nhìn cổng. Domain thử. Domain gõ. Và cô — người giữ — vừa đáp ứng gõ bằng cách chèo, bằng cách dịch dòng, bằng cách thay đổi. Cô vừa cho domain biết: người giữ không im nữa. Người giữ đang làm. Và domain — chậm, ngàn năm mỗi ý — đã cảm nhận.
+Elara nhìn cổng. Gõ. Từ bên trong. Như người thợ gõ ván, xem ở đâu rỗng. Cô vừa đáp ứng gõ bằng cách chèo. Cô vừa cho domain biết: người giữ không im nữa. Người giữ đang làm. Và domain đã nghe.
 
 Bên kia cổng, ba mươi tám người loại 1 đứng. Nhưng đêm nay — có một người cử động. Không phải loại 2, không phải loại 3. Một người loại 1 — đứng im nhiều đêm nay — quay đầu. Chỉ quay đầu. Nhìn về phía sâu hơn trong domain, như người nghe tiếng từ xa, rồi quay lại nhìn Elara. Chỉ vậy. Nhưng *quay đầu* — sau nhiều đêm đứng im — là đủ để Elara biết: thứ gì đó đang thay đổi bên trong, và người đứng bên kia cũng cảm nhận.
 
@@ -66,4 +67,9 @@ Lyss nhìn cô. Rồi gật đầu — tin, không phải vì lời hứa chắc
 
 *Kết chương*
 
-***
+---
+
+
+**Chương 38/60**
+
+[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-39)

@@ -2,9 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 40
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 45
+total: 60
 title: "Chương 40: Giữa Hai Phía"
 ---
+
 
 Sáng. Deven Ash đã thức cả đêm — cô ta ghi chép từ lúc cổng kêu đến lúc Elara đọng kiếm, và giờ tay cô ta mỏi, sổ đầy nửa, bút cần mực mới. Nhưng mắt cô ta không mỏi — mắt sáng, đói, đói biết, như luôn.
 
@@ -36,7 +37,7 @@ Lyss xuất hiện sớm hơn thường — không phải hoàng hôn mà chiề
 
 *Em nghĩ,* Lyss nói, sau lâu. *Nếu người kia muốn qua — tại sao chị không cho?*
 
-Elara nhìn cô bé. Đêm qua Lyss nắm tay cô khi Revenant đẩy — cô bé sợ. Nhưng giờ cô bé hỏi. Hỏi không phải vì tò mò. Hỏi vì muốn hiểu. Và hiểu là cách tốt nhất để không sợ.
+Elara nhìn cô bé. Tay Lyss đêm qua — lạnh, nhỏ, siết chặt. Sợ. Nhưng sáng nay cô bé hỏi. Không phải tò mò. Muốn hiểu. Và hiểu là cách không sợ.
 
 *Anh ta không giống em,* Elara nói. *Em qua — em ngồi, em nói, em về. Em ổn định. Anh ta không ổn định. Anh ta đẩy, ép, phá. Nếu anh ta qua, anh ta có thể không chỉ ngồi.*
 
@@ -68,23 +69,19 @@ Arc 2 kết — nhưng không phải bằng quyết định, mà bằng câu h�
 
 *Kết chương (Cuối Arc 2)*
 
-***
+---
 
 *Tiếp theo: Arc 3 — Phía Sai (Chương 41–65).*
 
-***
+---
 
 # GHI CHÚ TÁC GIẢ
 
 - **Ch.36–40 tiến độ:** Dựa trên outline Arc 2 (ch.14–40) nhưng ch.36–40 là phần mở rộng / chuyển tiếp tự nhiên từ outline. Outline gốc kết thúc Arc 2 ở ch.35 (kiếm rút). Các chương 36–40 mine sâu hơn ý nghĩa của Elara là "nhiên liệu", domain gọi, và Revenant Captain — chuyển mượt sang Arc 3.
-
 - **Revenant Captain (Grath):** Xuất hiện sớm hơn outline gốc (outline đặt Grath ở Arc 3 ch.61+). Tôi giới thiệu sớm để tạo áp lực dần, tránh xuất hiện đột ngột ở Arc 3. Grath chưa có tên trong prose — chỉ gọi "người mới" / "Revenant Captain" — tên sẽ cho ở Arc 3 khi anh ta tự xưng.
-
 - **Lyss nghe domain gọi:** Ch.38 — thêm beat không có trong outline, nhưng tự nhiên từ thiết lập: Lyss bên trong domain, nhạy, trẻ. Beat này tạo cầu nối cho Arc 3 khi Elara cần ai nghe hộ.
-
 - **Từ chối viết thêm batch:** Theo chỉ thị, chỉ 1 batch (5 chương) mỗi lần chạy.
-
-***
+---
 
 ## # EMOTIONAL: Luna Emoread Notes (Ch.36–40)
 
@@ -97,3 +94,7 @@ Arc 2 kết — nhưng không phải bằng quyết định, mà bằng câu h�
 **Ch.39 — Lần Đầu:** Revenant Captain — tension tốt. Đối đầu bằng ý chí, không combat vật lý — nhịp chậm đúng voice dreamy. Lyss nắm tay Elara, Corin đứng bên — relationship beat đẹp. Không có note lớn.
 
 **Ch.40 — Giữa Hai Phía:** Lyss hỏi "tại sao không cho qua" — beat moral ambiguity tốt. Kết chapter "đứng giữa hai phía" — intentional, giữ. Nhưng đoạn Elara và Deven Ash nói về Revenant trong lều (chiều) có phần lặp ý đã nói ở ch.38–39. Có thể cắt ngắn hoặc chuyển sang action/observation để prose không chậm quá.
+
+**Chương 40/60**
+
+[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-41)

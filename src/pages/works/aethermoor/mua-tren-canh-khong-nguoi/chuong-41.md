@@ -2,11 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 41
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 45
+total: 60
 title: "Chương 41: Sáng Khác"
 ---
 
-## Chương 41: Sáng Khác
 
 Sáng. Nhưng khác.
 
@@ -73,3 +72,8 @@ Cách dài hạn nằm bên trong. Nhưng bên trong là domain. Và domain mu�
 *Kết chương*
 
 ---
+
+
+**Chương 41/60**
+
+[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-42)

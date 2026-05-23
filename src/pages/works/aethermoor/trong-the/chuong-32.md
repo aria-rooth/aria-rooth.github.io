@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 32
 story: "/works/aethermoor/trong-the"
-total: 45
+total: 60
 title: "Chương 32: Ba Ngày Một Mình"
 ---
 

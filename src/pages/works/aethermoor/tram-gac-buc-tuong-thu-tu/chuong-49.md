@@ -2,11 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 49
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 50
+total: 60
 title: "Chương 49: Hợp Đồng Đọc Được"
 ---
 
-Chương 49: Hợp Đồng Đọc Được
 
 *Mỗi giao thức đều có lỗi. Lỗi là cửa.*
 
@@ -58,3 +57,7 @@ Vela tỉnh giấc. Mồ hôi. Lạnh. Cô ngồi dậy. Tay run. Không phải 
 
 ---
 
+
+**Chương 49/60**
+
+[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-50)

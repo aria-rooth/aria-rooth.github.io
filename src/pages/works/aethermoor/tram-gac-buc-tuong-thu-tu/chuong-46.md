@@ -2,11 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 46
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 50
+total: 60
 title: "Chương 46: Mơ"
 ---
 
-Chương 46: Mơ
 
 *Velhar không đến bằng hiện thân lần này. Ông ta đến bằng cách mà kẻ giữ xiềng xích luôn đến — từ bên trong.*
 
@@ -78,3 +77,7 @@ Velhar thân thiện. Velhar nói đúng. Velhar không hối. Velhar cho cô th
 
 ---
 
+
+**Chương 46/60**
+
+[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-47)

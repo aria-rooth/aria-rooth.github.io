@@ -2,11 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 47
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 50
+total: 60
 title: "Chương 47: Giao Thức"
 ---
 
-Chương 47: Giao Thức
 
 *Hợp đồng là giao thức. Giao thức thì có thể đọc — nếu biết chỗ nhìn.*
 
@@ -54,3 +53,7 @@ Calla trở về từ tuần tra. Cô ta nhìn hai người — nhìn cách họ
 
 ---
 
+
+**Chương 47/60**
+
+[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-48)

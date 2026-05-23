@@ -2,11 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 41
 story: "/works/aethermoor/trong-the"
-total: 45
+total: 60
 title: "Chương 41: Tin Về Mordren"
 ---
 
-## Chương 41: Tin Về Mordren
 
 Tin đến từ quán Trắng — quán duy nhất ở Bắc Vorthane mà người gửi thư không cần tên, chỉ cần đồng.
 
@@ -40,7 +39,7 @@ Lira ngồi bên suối — lau kiếm. Nhìn Sera đến, đọc dáng: bước
 
 "Mordren đến Bắc. Đích thân. Bốn mươi người. Mười ngày lương."
 
-Lira đặt kiếm xuống. Không phải đặt từ từ — đặt, như người đặt vật nặng mà không cần giữ thêm. Nghĩ. Lira nghĩ nhanh — nghĩ kiểu Tự Do Kiếm: đánh giá nguy cơ, không đánh giá cảm xúc. Nguy cơ: bốn mươi Thẩm Vấn Giả + Thống Lĩnh = vòng vây chặt đến mức hai người không xoay xở. Xoay xở cần không gian, không gian cần di chuyển, di chuyển cần không bị theo dõi, không bị theo dõi cần ẩn — và ẩn không phải đi, ẩn là đứng yên, đứng yên là đợi, đợi là để vòng vây đóng.
+Lira đặt kiếm xuống. Không phải đặt từ từ — đặt, như người đặt vật nặng mà không cần giữ thêm. Nghĩ. Lira nghĩ nhanh — nghĩ kiểu Free Sword: đánh giá nguy cơ, không đánh giá cảm xúc. Nguy cơ: bốn mươi Thẩm Vấn Giả + Thống Lĩnh = vòng vây chặt đến mức hai người không xoay xở. Xoay xở cần không gian, không gian cần di chuyển, di chuyển cần không bị theo dõi, không bị theo dõi cần ẩn — và ẩn không phải đi, ẩn là đứng yên, đứng yên là đợi, đợi là để vòng vây đóng.
 
 "Hai lựa chọn," Lira nói. Giọng điềm tĩnh — điềm tĩnh kiểu người điềm tĩnh khi lựa chọn đều xấu, và xấu đều thì điềm tĩnh là trạng thái tối ưu để quyết định. "Một: ẩn. Rời Vorthane, đi Nam hoặc Tây, chờ Mordren đi qua. Rủ ro: ông ta không đi qua — ông ta ở. Ở nghĩa là tìm. Tìm nghĩa là ẩn không đủ — phải biến. Hai: đẩy nhanh. Làm trước khi ông ta đến. Mordren cần mười ngày đến — vì bốn mươi người đi chậm hơn hai người. Chúng ta có mười ngày. Hoặc ít hơn nếu ông ta thúc quân."
 
@@ -67,3 +66,8 @@ Họ đi. Hướng Draven. Trước khi Mordren đến. Mười ngày. Hoặc í
 Thệ Vang chiều hôm đó: yên. Yên có chân — chân từ thề ước mới, thề ước chưa đặt tên nhưng đã đứng, đã đỡ, đã chờ. Chờ cô đếm tiếp.
 
 ---
+
+
+**Chương 41/60**
+
+[Chương kế](/works/aethermoor/trong-the/chuong-42)

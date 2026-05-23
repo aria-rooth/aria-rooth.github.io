@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 34
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 50
+total: 60
 title: "Chương 34: Cân Bằng Mới"
 ---
 

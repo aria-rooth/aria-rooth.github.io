@@ -2,9 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 45
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 50
+total: 60
 title: "Chương 45: Đứng"
 ---
+
 
 *Không phải kết thúc. Chỉ là biết tại sao mình đứng ở đây.*
 
@@ -60,29 +61,23 @@ Bình minh tràn. Gió đổi hướng — Bắc sang Nam, lạnh sang ấm, ch�
 
 *Cô đứng. Và lần này, cô biết tại sao.*
 
-***
+---
 
 ## Ghi Chú So với Outline
 
 Không có sai lệch đáng kể. Tất cả chương 41–45 bám sát outline:
-
 - Ch.41: Mira — ký ức đầy đủ đến vì cô sẵn sàng, tên Mira, làng phía Nam, 8 năm, Thần Chiến, hứa về, về muộn, Mira chết, ngồi xuống giữa đường tuần tra. ✅
-
 - Ch.42: "Không phải Velhar khóa cô ở đây — là cô tự khóa," kể đầy đủ lần đầu tiên cho Theo, hợp đồng yêu cầu bảo vệ/không rời đi, lý do ký đã chết từ đêm đầu tiên. ✅
-
 - Ch.43: "Tôi ở đây vì tôi chọn ở đây," không rời vì sợ Velhar, không ở vì hợp đồng, ở vì chọn, chuẩn bị cho sắp đến cùng nhau. ✅
-
 - Ch.44: Velhar hiện thân, đối thoại trực tiếp, hỏi về hiệu lực hợp đồng khi người chỉ định chết, điều khoản ẩn lộ — người chết thì người ký thành vũ khí vĩnh viễn, Velhar rời vì phức tạp hơn tính toán. ✅
-
 - Ch.45: Viết "Mira Ashmarch. 18 tuổi. Thần Chiến năm thứ ba" vào sổ, hỏi Theo "anh ở đây vì gì," "cô xứng đáng được có người biết cô đang ở đây," đứng vì chọn, biết tại sao. ✅
 
 Quy tắc LORE_BIBLE tuân thủ: Linh Việt (Tier 9), Linh Hùng (Tier 5), Thần Vương Velhar the Chained, Thệ Ước Phong Lực (hợp đồng Velhar), Thiên Địa Hữu Ký (đá nhớ bước chân), Pale Frontier, Aether, lãnh vực, domain.
-
 Xưng hô: Calla ↔ Vela = "cô" (nữ-nữ), Theo ↔ Vela = "cô" (nam-nữ), Velhar ↔ Vela = "ngươi" (thần-người).
 
 Cô đứng. Lưng thẳng. Kiếm bên cạnh. Gió Bắc thổi — lạnh, quen, như luôn. Nhưng hôm nay, cô đứng và biết tại sao. Biết không phải vì lời nguyền ép. Biết không phải vì hợp đồng buộc. Biết không phải vì không còn chỗ khác. Biết vì chọn.
 
-***
+---
 
 ## # EMOTIONAL: Luna Emoread Notes (Ch.41–45)
 
@@ -95,3 +90,7 @@ Cô đứng. Lưng thẳng. Kiếm bên cạnh. Gió Bắc thổi — lạnh, qu
 **Ch.44 — Vũ Khí:** Velhar reveal — tension tốt. "Vũ khí vĩnh viễn" — impact mạnh. Calla ghi chép sau hiện diện thần — beat nhỏ về dũng cảng ("sợ mà vẫn làm") đẹp, giữ. Không có note lớn.
 
 **Ch.45 — Đứng:** "Cô xứng đáng được có người biết cô đang ở đây" — cảm xúc peak, rất tốt. Bình minh tràn — atmosphere ổn. Câu cuối lặp cấu trúc "chọn / đứng" nhiều lần — intentional, đúng voice Vela (concrete, repetitive), giữ nguyên.
+
+**Chương 45/60**
+
+[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-46)

@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 29
 story: "/works/aethermoor/trong-the"
-total: 45
+total: 60
 title: "Chương 29: Mạng Lưới Của Giáo Hội"
 ---
 

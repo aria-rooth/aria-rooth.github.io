@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 1
 story: "/works/aethermoor/trong-the"
-total: 45
+total: 60
 title: "Chương 1: Đêm Không Có Ngọn Lửa"
 ---
 

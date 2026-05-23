@@ -2,9 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 43
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 50
+total: 60
 title: "Chương 43: Lựa Chọn"
 ---
+
 
 *Lần đầu tiên trong hai trăm năm, cô chủ động quyết định điều gì đó.*
 
@@ -16,9 +17,9 @@ Velhar đang thức dậy. Hợp đồng vẫn ràng buộc — không phải v�
 
 Vela nghĩ về điều đó trong lúc chiến đấu. Đàn sói nhỏ — thường, quen, nhàm. Kiếm chém. Sói ngã. Lành. Tiếp. Não cô rảnh cho câu hỏi.
 
-Nếu cô phá hợp đồng — ý nghĩa là gì? Ý nghĩa là cô tự do. Tự do đi. Tự do không chiến đấu. Tự do không đứng canh. Nhưng tự do đó — tự do đó dẫn về đâu? Về nhà trống? Về làng không còn? Về thế giới không có Mira? Tự do đó tự do trống. Tự do đi mà không biết đi đâu.
+Nếu cô phá hợp đồng — cô tự do. Nhưng tự do đó dẫn về đâu? Về nhà trống? Về làng không còn? Về thế giới không có Mira? Tự do đi mà không biết đi đâu.
 
-Nếu cô giữ hợp đồng — ý nghĩa là gì? Ý nghĩa là cô tiếp tục. Tiếp tục canh. Tiếp tục chiến đấu. Tiếp tục đứng trên bức tường nhìn về phía Bắc mỗi đêm. Nhưng tiếp tục đó — tiếp tục đó khác với tiếp tục trước. Trước: tiếp tục vì không có lựa chọn. Bây giờ: tiếp tục vì chọn. Và khác đó — khác giữa ngục tù và nhà — là khác mà cả thế giới xoay quanh.
+Nếu cô giữ hợp đồng — cô tiếp tục. Tiếp tục canh. Tiếp tục đứng. Nhưng lần này khác. Trước: tiếp tục vì không có lựa chọn. Bây giờ: tiếp tục vì chọn. Và khác đó — khác giữa ngục tù và nhà — là khác mà cả thế giới xoay quanh.
 
 Hai ngày. Vela không nói nhiều. Calla lo — cô ta nhìn Vela với ánh mắt hỏi, nhưng không hỏi, vì cô ta biết khi nào nên đợi. Theo cũng không hỏi. Anh ta chỉ ở — ở trong tháp, ở trên tường, ở gần đủ để cô biết, xa đủ để cô không ngột.
 
@@ -54,4 +55,9 @@ Họ cùng nhau chuẩn bị cho những gì sắp đến. Vela sửa bẫy — 
 
 Calla tham gia. Cô ta không hỏi tại sao Vela thay đổi — cô ta chỉ thấy, và chấp nhận, và làm. Linh Hùng trong trận sắp đến cần mọi chuẩn bị có thể có.
 
-***
+---
+
+
+**Chương 43/60**
+
+[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-44)

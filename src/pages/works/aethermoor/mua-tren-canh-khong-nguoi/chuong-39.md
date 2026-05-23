@@ -2,9 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 39
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 45
+total: 60
 title: "Chương 39: Lần Đầu"
 ---
+
 
 Chuyện xảy ra đêm sau.
 
@@ -54,4 +55,9 @@ Cô đọng kiếm. Ngồi xuống. Lyss ngồi cạnh, tay vẫn nắm tay Elar
 
 *Kết chương*
 
-***
+---
+
+
+**Chương 39/60**
+
+[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-40)

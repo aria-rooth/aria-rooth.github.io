@@ -2,11 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 45
 story: "/works/aethermoor/trong-the"
-total: 45
+total: 60
 title: "Chương 45: Cuối Arc 2 — Lựa Chọn Không Có Trong Sách Quy Tắc"
 ---
 
-## Chương 45: Cuối Arc 2 — Lựa Chọn Không Có Trong Sách Quy Tắc
 
 Họ đi. Đi ngay — không chờ sáng, không chờ lửa tắt, không chờ gì ngoài quyết định. Quyết định đã thành. Thành thì hành. Hành thì đi.
 
@@ -49,3 +48,7 @@ Sáng. Họ đứng dậy. Đi. Đi về phía Caelmyr. Đi vì chưa xong. Đi 
 ---
 
 *→ [Chương 46–50](2b-ch46-50.md)*
+
+**Chương 45/60**
+
+[Chương kế](/works/aethermoor/trong-the/chuong-46)

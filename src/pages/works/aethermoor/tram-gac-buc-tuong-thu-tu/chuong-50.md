@@ -2,11 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 50
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 50
+total: 60
 title: "Chương 50: Giữa Hai Bờ"
 ---
 
-Chương 50: Giữa Hai Bờ
 
 *Cô không phải vũ khí nữa. Nhưng chưa hẳn tự do. Cô ở giữa — và giữa là chỗ khó đứng nhất.*
 
@@ -86,3 +85,8 @@ Chương viết bám sát outline:
 - Ch.50: Vela ở giữa hai bờ, mỗi nhát kiếm vừa bảo vệ vừa nuôi Velhar, Theo đề nghị đọc ngược kênh (cửa hai chiều), chuẩn bị thay vì hành động ngay. ✅
 
 Quy tắc LORE_BIBLE: Linh Việt (Tier 9), Thánh Vực (Tier 10), Thần Vương Velhar the Chained, Thệ Ước Phong Lực (giao thức thệ ước), Thiên Địa Hữu Ký (đất nhớ), Aether, domain, lãnh vực, kênh, Bạch Quái Thú. ✅
+Xưng hô: Velhar → Vela = "ngươi" (thần-người), Vela → Velhar = "anh" (phức tạp, không chỉ kẻ thù). ✅
+
+**Chương 50/60**
+
+[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-51)

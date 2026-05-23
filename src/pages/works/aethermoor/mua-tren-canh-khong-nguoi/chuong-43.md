@@ -2,11 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 43
 story: "/works/aethermoor/mua-tren-canh-khong-nguoi"
-total: 45
+total: 60
 title: "Chương 43: Ngày Khô"
 ---
 
-## Chương 43: Ngày Khô
 
 Ba ngày không mưa.
 
@@ -93,3 +92,8 @@ Chưa có đáp. Nhưng có câu hỏi mới — và câu hỏi mới đôi khi 
 *Kết chương*
 
 ---
+
+
+**Chương 43/60**
+
+[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-44)

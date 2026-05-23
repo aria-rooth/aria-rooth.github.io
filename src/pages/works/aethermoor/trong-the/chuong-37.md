@@ -2,13 +2,14 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 37
 story: "/works/aethermoor/trong-the"
-total: 45
-title: "Chương 37: Sau đột phá"
+total: 60
+title: "Chương 37: Sau Breakthrough"
 ---
+
 
 Linh Phong không giống Sera tưởng.
 
-Cô tưởng đột phá là leo thang — bậc năm lên bậc sáu, cao hơn, mạnh hơn. Nhưng Linh Phong không phải thang. Linh Phong là mở cửa — từ trong ra ngoài. Trước: cô dùng Linh Nguyên như nước trong bình — bao nhiêu, dùng bấy nhiêu. Sau: cô đứng cạnh suối — chảy không hết, nhưng lấy quá nhanh thì tràn, tràn thì vỡ.
+Cô tưởng breakthrough là leo thang — bậc năm lên bậc sáu, cao hơn, mạnh hơn. Nhưng Linh Phong không phải thang. Linh Phong là mở cửa — từ trong ra ngoài. Trước: cô dùng Linh Nguyên như nước trong bình — bao nhiêu, dùng bấy nhiêu. Sau: cô đứng cạnh suối — chảy không hết, nhưng lấy quá nhanh thì tràn, tràn thì vỡ.
 
 Thệ Vang cũng đổi. Trước: lời. Rồi: cảm xúc. Rồi: cảnh. Giờ: ba thứ cùng lúc, nhưng không trộn — ba thứ xếp lớp, lớp ngoài lời, lớp giữa cảm, lớp trong cảnh. Cô lắng nghe và chọn lớp: muốn nghe lời thì lọc cảm, muốn nghe cảm thì lọc cảnh, muốn thấy cảnh thì lọc cả lời lẫn cảm. Lọc — nhưng lọc không phải tắt, lọc là chọn tập trung, và phần không tập trung vẫn chảy dưới bề mặt, như dòng suối dưới băng: không thấy nhưng vẫn chảy.
 
@@ -16,9 +17,9 @@ Họ đi về phía Đông — đường Lira chọn, đường vòng tránh tuy
 
 Chiều. Họ dừng bên suối — cùng suối, khác đoạn. Sera ngồi. Lira ngồi — ghế đá tự nhiên, mòn mờ, ai đó từng ngồi đây trước họ. Im lặng. Nước chảy. Gió thổi. Sera để Thệ Vang chảy nhẹ — không lọc, không tập trung, chỉ chảy. Và trong dòng chảy nhẹ đó, cô nghe:
 
-*Hình.* Không phải hình nhìn — hình cảm. Cảm không gian quanh cô rộng hơn thường. Trước: cô cảm nhận Linh Nguyên trong phạm vi bước chân — năm, mười, tối đa mười lăm bước. Sau: cô cảm nhận Linh Nguyên trong phạm vi rộng hơn — năm mươi bước? Trăm? Không rõ ranh giới, nhưng ranh giới nới, và nới nghĩa là cô biết thêm — biết mạch đất dưới suối chảy hướng Bắc, biết cây sồi phía trên có Linh Nguyên cũ (cây già, Linh Nguyên tích trong rễ, chậm, đặc), biết Lira bên cạnh không có Linh Nguyên đáng kể (Tự Do Kiếm, không Thệ Liên, không Thệ Thiết — nhưng có thứ gì đó, sống, mỏng, như hơi ấm cơ thể, và cô cảm nhận hơi ấm đó từ năm bước xa).
+*Hình.* Không phải hình nhìn — hình cảm. Cảm không gian quanh cô rộng hơn thường. Trước: cô cảm nhận Linh Nguyên trong phạm vi bước chân — năm, mười, tối đa mười lăm bước. Sau: cô cảm nhận Linh Nguyên trong phạm vi rộng hơn — năm mươi bước? Trăm? Không rõ ranh giới, nhưng ranh giới nới, và nới nghĩa là cô biết thêm — biết mạch đất dưới suối chảy hướng Bắc, biết cây sồi phía trên có Linh Nguyên cũ (cây già, Linh Nguyên tích trong rễ, chậm, đặc), biết Lira bên cạnh không có Linh Nguyên đáng kể (Free Sword, không Thệ Liên, không Thệ Thiết — nhưng có thứ gì đó, sống, mỏng, như hơi ấm cơ thể, và cô cảm nhận hơi ấm đó từ năm bước xa).
 
-"đột phá cảm giác thế nào?" Lira hỏi. Giọng Lira bình — bình vì Lira không hỏi tò mò, Lira hỏi thực dụng. Biết cảm giác đột phá = biết cách đối phó khi gặp người đột phá.
+"Breakthrough cảm giác thế nào?" Lira hỏi. Giọng Lira bình — bình vì Lira không hỏi tò mò, Lira hỏi thực dụng. Biết cảm giác breakthrough = biết cách đối phó khi gặp người breakthrough.
 
 Sera nghĩ. Aldric hỏi cô câu này — lần cô lên Linh Hùng, ba năm trước. Cô trả lời gì? Cô không nhớ. Hoặc cô không trả lời — cô không giỏi mô tả cảm giác, vì cảm giác không phải thứ cô dùng lời cho.
 
@@ -30,7 +31,7 @@ Lira gật. Không hỏi thêm — câu trả lời đủ cho Lira. Lira không 
 
 Hoàng hôn. Lửa vươn. Sera nấu — canh khô từ túi, nước suối, nấm rừng. Lira không nấu. Lira lau dao. Việc Lira. Việc Sera: nấu. Việc Aldric: nấu. Sera nấu vì Aldric nấu, và nấu là cách cô nhớ Aldric mà không cần nói nhớ.
 
-Thệ Vang trong đêm: yên. Yên khác yên trước đột phá — yên trước là im lặng, yên sau là nghỉ. Nghỉ như người nghỉ sau chạy dài: thở đều, nhắm mắt, cơ thể phục hồi. Bốn mươi bảy mảnh thề ước — nghỉ. Lần đầu tiên Sera cảm nhận: bốn mươi bảy mảnh cũng mệt. Mệt như cô mệt. Mệt vì chiến đấu, mệt vì trào, mệt vì đột phá không phải chỉ cô đột phá — là cả kiếm, cả bốn mươi bảy mảnh, cùng chuyển, cùng lên, cùng đổi. Cô không đơn độc trong đột phá. Bốn mươi bảy người đi cùng cô. Bốn mươi bảy người — lần đầu tiên — cùng Linh Phong.
+Thệ Vang trong đêm: yên. Yên khác yên trước breakthrough — yên trước là im lặng, yên sau là nghỉ. Nghỉ như người nghỉ sau chạy dài: thở đều, nhắm mắt, cơ thể phục hồi. Bốn mươi bảy mảnh thề ước — nghỉ. Lần đầu tiên Sera cảm nhận: bốn mươi bảy mảnh cũng mệt. Mệt như cô mệt. Mệt vì chiến đấu, mệt vì trào, mệt vì breakthrough không phải chỉ cô breakthrough — là cả kiếm, cả bốn mươi bảy mảnh, cùng chuyển, cùng lên, cùng đổi. Cô không đơn độc trong breakthrough. Bốn mươi bảy người đi cùng cô. Bốn mươi bảy người — lần đầu tiên — cùng Linh Phong.
 
 Cô ngủ. Ngủ sâu. Ngủ sâu lần đầu kể từ đêm Đoàn tan — ngủ sâu vì trọng lượng vẫn đó, nhưng cơ thể đã quen, và quen là nền, nền là giường, giường là nơi người ngủ khi người tin rằng đêm không giết mình. Cô tin — không phải tin mù, tin có cơ sở: Linh Phong, kiếm Thệ Thiết, Lira bên cạnh năm bước. Nền đủ chắc. Giường đủ tốt. Đêm đủ yên.
 
@@ -52,4 +53,9 @@ Lira nhìn Sera. Cô ta thấy: Sera đứng kiểu đứng khi Sera quyết đ�
 
 "Đi," Sera nói.
 
-***
+---
+
+
+**Chương 37/60**
+
+[Chương kế](/works/aethermoor/trong-the/chuong-38)

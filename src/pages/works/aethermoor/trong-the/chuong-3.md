@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 3
 story: "/works/aethermoor/trong-the"
-total: 45
+total: 60
 title: "Chương 3: Người Duy Nhất Chạy"
 ---
 

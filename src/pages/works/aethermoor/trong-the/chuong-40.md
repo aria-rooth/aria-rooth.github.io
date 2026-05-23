@@ -2,9 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 40
 story: "/works/aethermoor/trong-the"
-total: 45
+total: 60
 title: "Chương 40: Điều Lira Không Nói"
 ---
+
 
 Đêm. Cắm trại trong rừng — không phải rừng sâu, rừng nông, cây thưa, lửa thấy xa nhưng lửa nhỏ, và nhỏ đủ. Sera ngồi. Lira ngồi — lần này không phải sàn, là ghế: gốc cây đổ, mòn, phẳng đủ để ngồi. Tiến bộ. Lira ngồi ghế thay sàn khi Lira mệt, và Lira mệt nay — mệt theo cách mà mệt khi đánh xong, chạy xong, quyết định xong, và quyết định nặng hơn đánh.
 
@@ -44,4 +45,33 @@ Mai: tiếp tục. Tiếp tục vì tiếp tục là lựa chọn duy nhất mà
 
 *→ [Chương 41–45](2b-ch41-45.md)*
 
-***
+---
+
+## # EMOTIONAL: Luna Emoread Notes (Ch.36–40)
+
+**Ch.36 — Bẫy:** Combat prose nhịp nhanh, đúng voice mechanical của Sera. Breakthrough beat tốt. Không có note lớn.
+
+**Ch.37 — Sau Breakthrough:** Đoạn giải thích Linh Phong mechanism (suối/bình/lọc/lớp) hơi dài và khô. Có thể thêm 1 beat cảm xúc giác quan (cơ thể Sera *cảm thấy* thay đổi thay vì chỉ mô tả cơ chế) để prose thở.
+
+**Ch.38 — Không Phải Của Mình Để Bảo Vệ:** Nhịp hành quân về tu viện tốt. Sera nghe sợ qua đất — beat sensory mới của Linh Phong rất đẹp. Nhưng đoạn Sera phân tích lời đe dọa của chỉ huy và tính toán hậu quả có phần bị cắt thành quá nhiều câu ngắn liên tiếp, giật cục. Có thể gộp 2–3 câu thành 1 câu dài hơn để nhịp mượt hơn.
+
+**Ch.39 — Giữa Không Phải Của Mình:** Combat ngắn, Sera không giữ nữa → mở. Tốt. Vestra ở cửa ("không chắc nên cảm ơn hay sợ") — beat phức tạp tốt. Thề ước nhỏ mới chớm (warmth từ bảo vệ người không phải của mình) — cảm xúc đẹp, giữ.
+
+**Ch.40 — Điều Lira Không Nói:** Lira lo lắng qua Thệ Vang (không phải lời, mà là cảm xúc mỏng dưới lớp giấu) — beat relationship rất tốt. Im lặng sau ăn — atmosphere ổn. Không có note lớn.
+---
+
+## # EMOTIONAL: Luna Emoread Notes (Ch.36–40)
+
+**Ch.36 — Bẫy:** Combat prose nhịp nhanh, đúng voice mechanical của Sera. Breakthrough beat tốt. Không có note lớn.
+
+**Ch.37 — Sau Breakthrough:** Đoạn giải thích Linh Phong mechanism (suối/bình/lọc/lớp) hơi dài và khô. Có thể thêm 1 beat cảm xúc giác quan (cơ thể Sera *cảm thấy* thay đổi thay vì chỉ mô tả cơ chế) để prose thở.
+
+**Ch.38 — Không Phải Của Mình Để Bảo Vệ:** Nhịp hành quân về tu viện tốt. Sera nghe sợ qua đất — beat sensory mới của Linh Phong rất đẹp. Nhưng đoạn Sera phân tích lời đe dọa của chỉ huy và tính toán hậu quả có phần bị cắt thành quá nhiều câu ngắn liên tiếp, giật cục. Có thể gộp 2–3 câu thành 1 câu dài hơn để nhịp mượt hơn.
+
+**Ch.39 — Giữa Không Phải Của Mình:** Combat ngắn, Sera không giữ nữa → mở. Tốt. Vestra ở cửa ("không chắc nên cảm ơn hay sợ") — beat phức tạp tốt. Thề ước nhỏ mới chớm (warmth từ bảo vệ người không phải của mình) — cảm xúc đẹp, giữ.
+
+**Ch.40 — Điều Lira Không Nói:** Lira lo lắng qua Thệ Vang (không phải lời, mà là cảm xúc mỏng dưới lớp giấu) — beat relationship rất tốt. Im lặng sau ăn — atmosphere ổn. Không có note lớn.
+
+**Chương 40/60**
+
+[Chương kế](/works/aethermoor/trong-the/chuong-41)

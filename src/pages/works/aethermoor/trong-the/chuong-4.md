@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 4
 story: "/works/aethermoor/trong-the"
-total: 45
+total: 60
 title: "Chương 4: Trọng Lượng Của Kiếm"
 ---
 

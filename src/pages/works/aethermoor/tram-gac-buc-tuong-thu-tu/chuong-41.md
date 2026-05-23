@@ -2,9 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 41
 story: "/works/aethermoor/tram-gac-buc-tuong-thu-tu"
-total: 50
+total: 60
 title: "Chương 41: Mira"
 ---
+
 
 *Mảnh thứ ba không đến từ gần chết — nó đến vì cô đã sẵn sàng.*
 
@@ -22,9 +23,9 @@ Cô gái trẻ hơn Vela mười tuổi. Mái tóc tối, cắt ngang vai, luôn
 
 Họ sống trong một ngôi làng. Không nhớ tên. Không nhớ vị trí chính xác — chỉ là phía Nam, nơi đất còn ấm, nơi thảo nguyên chưa xám. Ngôi nhà nhỏ. Hai giường, một bàn, cửa sổ nhìn ra đồng. Mira học — không phải tu luyện, mà là học chữ, học số, học những thứ mà người bình thường học. Cô ta không có linh lực. Không có Tier. Chỉ là người. Người bình thường trong thế giới không bình thường, và điều đó — việc cô ta bình thường — là điều Vela yêu nhất. Vì bình thường là thứ hiếm nhất. Bình thường là thứ dễ mất nhất.
 
-Vela nhớ: ăn cơm cùng nhau. Mira than vãn về việc học — "Tại sao phải nhớ ba mươi loại thuần thảo? Ai cần ba mươi loại?" — và Vela nghe. Không nói nhiều. Chỉ nghe. Và Mira biết cô đang nghe, nên cô ta nói tiếp, và tiếp, và tiếp, cho đến khi cả hai cười vì một câu nói ngu ngốc mà chỉ họ hiểu.
+Vela nhớ: ăn cơm cùng nhau. Mira than vãn về việc học — "Tại sao phải nhớ ba mươi loại thuần thảo? Ai cần ba mươi loại?" — và Vela nghe. Không nói nhiều. Chỉ nghe. Nhưng tai cô ấm. Ấm theo cách mà nghe người mình yêu than vãn về chuyện nhỏ — chuyện nhỏ là chuyện đời thật, và đời thật là thứ Vela muốn giữ. Cả hai cười vì một câu nói ngu ngốc mà chỉ họ hiểu.
 
-Vela nhớ: buổi tối. Mira ngồi cạnh cửa sổ, đọc, tóc rối, ánh nến vàng trên mặt. Vela đứng canh — không phải canh ngoài. Canh trong. Ở trong nhà, gần đủ để chạm, nhưng không chạm, vì Mira đang đọc và Vela không muốn ngắt. Canh vì muốn. Canh vì bình yên đó — bình yên của người đang đọc sách bên cạnh bạn — là thứ cô muốn bảo vệ hơn bất kỳ thứ gì khác trên thế giới.
+Vela nhớ: buổi tối. Mira ngồi cạnh cửa sổ, đọc, tóc rối, ánh nến vàng trên mặt. Vela đứng canh trong nhà — gần đủ để chạm, nhưng không chạm, vì Mira đang đọc và Vela không muốn ngắt. Nhưng mũi cô ngửi thấy mùi nến. Mùi giấy. Mùi tóc Mira. Những thứ không đáng nhớ — cho đến khi không còn. Canh vì bình yên đó là thứ cô muốn bảo vệ hơn bất kỳ thứ gì khác.
 
 Rồi Thần Chiến bắt đầu.
 
@@ -58,4 +59,9 @@ Không khóc. Vela không khóc. Không phải vì kiềm chế. Mà vì khóc c
 
 **Kết chương:** Cô nhớ tất cả bây giờ: cô đã đến gặp Velhar để xin sức mạnh bảo vệ Mira. Mira đã chết trước khi cô kịp về. Và cô đã ở đây — canh gác, chiến đấu, không cho phép bản thân nghỉ ngơi — vì không còn chỗ nào khác để đi. Không còn ai để về. Không còn nhà với cửa sổ nhìn ra đồng. Chỉ còn bức tường, và đêm, và kiếm, và việc đứng ở đây vì chưa biết cách đứng ở đâu khác.
 
-***
+---
+
+
+**Chương 41/60**
+
+[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-42)

@@ -2,11 +2,10 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 44
 story: "/works/aethermoor/trong-the"
-total: 45
+total: 60
 title: "Chương 44: Lira Bán Thông Tin"
 ---
 
-## Chương 44: Lira Bán Thông Tin
 
 Ba ngày sau Draven.
 
@@ -72,7 +71,7 @@ Năm từ. Năm từ nặng hơn tệp da bọc dưới áo Sera. Năm từ mà 
 
 "Em trai. Tên gì?" Sera hỏi. Không phải *tôi xin lỗi.* Xin lỗi không cứu em trai. Tên cứu.
 
-"Kael. Hai mươi tuổi. Giáo Hội giữ hai năm. Tôi — đổi tin. Tin về Tự Do Kiếm không thuần phục. Vị trí. Hành động. Ai gặp ai. Đổi Kael sống."
+"Kael. Hai mươi tuổi. Giáo Hội giữ hai năm. Tôi — đổi tin. Tin về Free Sword không thuần phục. Vị trí. Hành động. Ai gặp ai. Đổi Kael sống."
 
 Sera nghe. Nghe Lira nói. Nghe từng từ, từng khoảng, từng hụt hơi. Lira bán tin. Lira bán vị trí Sera. Lira — người đi cùng cô bảy tuần, người canh cô đêm, người đánh bên cô, người không hứa ở lại nhưng ở — Lira bán tin về cô cho Giáo Hội. Đổi em trai.
 
@@ -121,3 +120,8 @@ Thệ Vang: yên. Yên hoàn toàn — yên mà cô chưa nghe kể từ khi Đo
 Hai từ. Hai từ mà cô không hiểu hết nghĩa ngay — nhưng đủ để biết: thề ước mới vừa sinh. Không phải thề ước thừa hưởng từ Đoàn. Thề ước của cô. Riêng cô. Sinh từ quyết định đêm nay. Sinh từ *vì nó đúng.* Sinh từ lựa chọn không có trong sách quy tắc.
 
 ---
+
+
+**Chương 44/60**
+
+[Chương kế](/works/aethermoor/trong-the/chuong-45)
