@@ -6,7 +6,6 @@ total: 60
 title: "Chương 60: Thống Lĩnh"
 ---
 
-
 Ngày thứ tư. Cửa mở. Không phải bữa ăn. Không phải canh đổi. Cửa mở = nhiều chân. Nhiều chân = không tốt.
 
 Bốn người. Bốn = nhiều. Nhiều hơn canh. Canh một. Bốn = đưa đi. Đưa đi = không ở đây. Không ở đây = gặp Mordren.
@@ -116,6 +115,3 @@ Sera nằm. Nằm giả ngủ. Giả ngủ = quan sát. Quan sát canh. Canh ngo
 ---
 
 *→ [Chương 61–65](2b-ch61-65.md)*
-
-**Chương 60/60**
-

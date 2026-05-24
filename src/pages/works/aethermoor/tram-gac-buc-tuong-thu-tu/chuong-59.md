@@ -6,7 +6,6 @@ total: 60
 title: "Chương 59: Dưới Đá"
 ---
 
-
 *Mảnh vỡ lãnh vực không nằm trên đất. Nó nằm dưới. Và để đến dưới, cô phải đi xuống.*
 
 Chiều ngày thứ ba. Họ đến.
@@ -82,10 +81,3 @@ Giọng Velhar. Không từ xa. Từ trong mảnh. Từ ngay bên tai cô.
 "Ngươi đến rồi."
 
 **Kết chương:** Vela không rút tay. Rút tay bây giờ là thua — là để Velhar đóng cửa. Cô đứng đó, tay trên tinh thể, giọng Velhar bên tai, và cô nghĩ — nghĩ nhanh, nghĩ thực — rằng ông ta muốn cô đến. Ông ta muốn cô chạm. Và nếu ông ta muốn — thì đây là bẫy. *Nhưng bẫy không có nghĩa là cô không thể cắn lại. Tay cô trên mảnh. Giọng ông ta bên tai. Ba người trong phòng đá. Và bên ngoài — bên ngoài Bức Tường vẫn đứng, vẫn chờ, vẫn cần người canh.*
-
----
-
-
-**Chương 59/60**
-
-[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-60)

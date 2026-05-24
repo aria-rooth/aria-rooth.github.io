@@ -6,7 +6,6 @@ total: 60
 title: "Chương 53: Hồ Sơ Đoàn"
 ---
 
-
 Đêm. Đèn dầu. Hai cuốn sổ.
 
 Elara mở cuốn thứ nhất. Da cũ — nâu, cứng, viền bạc gỉ. Trên bìa, phù hiệu Bạch Hành Linh Đoàn — chữ trắng trên nền xám, thêu chỉ mờ vì thời gian. Cô mở trang đầu.
@@ -86,10 +85,3 @@ Mù như cô. Cô giữ mù. Hệ thống gửi mù. Mù không nối được. 
 Elara đặt hai cuốn sổ vào hòm. Sẽ đọc lại. Sẽ cần. Nhưng đêm nay đủ — đủ biết, đủ đọc, đủ ngồi với ý rằng mười hai năm không phải vì ai ác, mà vì ai mù, và mù là thứ mà mắt mở sửa được, và mắt cô mở rồi, và Therin đến rồi, và đến muộn hơn không đến, và muộn — với thông tin — là nền cho tiếp.
 
 *Kết chương*
-
----
-
-
-**Chương 53/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-54)

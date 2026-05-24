@@ -6,7 +6,6 @@ total: 60
 title: "Chương 60: Nút"
 ---
 
-
 *Phá nút không phải đấu sức. Là đấu ý chí. Và ý chí của thần — cô đã từng nghĩ — lớn hơn ý chí người. Nhưng cô đã từng nghĩ sai nhiều lần.*
 
 "Ngươi đến rồi." Giọng Velhar từ trong tinh thể. Không vang. Không lớn. Chỉ là — hiện diện. Như hơi thở bên tai. "Ta biết ngươi sẽ đến. Ta tính."
@@ -127,6 +126,3 @@ Chương viết bám sát outline và nối tiếp ch51-55:
 Quy tắc LORE_BIBLE: Linh Việt, Thánh Vực, Thần Vương Velhar the Chained, Thệ Ước Phong Lực, Thiên Địa Hữu Ký, Linh Nguyên, lãnh vực, kênh, Bạch Quái Thú, Bạch Lang Thần Thú, Pale Frontier, Bức Tường Thứ Tư, Thần Khố Trầm. ✅
 Xưng hô: Velhar → Vela = "ngươi" (thần-người), Vela → Velhar = "anh" (phức tạp), Calla → Vela = "cô", Vela → Calla = "em", Theo → Vela = "cô", Vela → Theo = "anh". ✅
 Voice Eve: lạnh-thực-dụng, concrete action, short sentences, silence = answer, Vela không biết cảm xúc mình nhưng reader biết. ✅
-
-**Chương 60/60**
-

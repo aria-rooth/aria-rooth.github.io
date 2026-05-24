@@ -6,7 +6,6 @@ total: 60
 title: "Chương 42: Tên Của Anh Ta"
 ---
 
-
 Đêm. Bốn mươi bốn người. Số tiếp tục tăng — không giảm, không dừng, tăng đều như thủy triều lên. Và đêm nay, Revenant Captain xuất hiện lại.
 
 Không phải ở vị trí xa như đêm qua. Gần hơn. Anh ta đứng cách cổng mười bước — gần hơn Lyss, gần hơn Corin, gần hơn mọi người loại 1. Và anh ta không đứng im. Anh ta *đi* — đi chậm, vòng, như tướng thị sát chiến trường, xem đâu mạnh đâu yếu đâu có thể tấn công đâu cần giữ. Đi — không phải bước vô định. Đi có mục đích.
@@ -68,10 +67,3 @@ Elara lấy trà. Nóng. Đêm lạnh. Gió bắc. Cô ngồi trước cổng, L
 Cô. Chỉ cô. Không có ai khác. Và đó vừa là quyền vừa là gánh — và cô chưa biết mang nổi hay không.
 
 *Kết chương*
-
----
-
-
-**Chương 42/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-43)

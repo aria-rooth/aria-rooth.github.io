@@ -6,7 +6,6 @@ total: 60
 title: "Chương 41: Mira"
 ---
 
-
 *Mảnh thứ ba không đến từ gần chết — nó đến vì cô đã sẵn sàng.*
 
 Sáng hôm ấy. Vela tuần tra một mình — Calla ngủ, Theo ghi chép, và cô cần đi. Không phải vì có dấu hiệu. Mà vì cần bước. Cần khoảng cách giữa mình và tháp, giữa mình và người, để nghe xem có gì còn ở lại trong đầu cô sau đêm qua.
@@ -58,10 +57,3 @@ Nửa giờ. Cô ngồi nửa giờ. Rồi đứng dậy. Không phải vì hế
 Không khóc. Vela không khóc. Không phải vì kiềm chế. Mà vì khóc cần năng lượng mà cô không có, và vì khóc không mang Mira về. Chỉ ngồi. Rồi đứng. Rồi đi. Đường tuần tra còn dài. Trận tối nay có thể đến. Và cô sẽ chiến đấu — như mọi đêm — vì đó là việc cô làm. Việc duy nhất cô biết làm đúng.
 
 **Kết chương:** Cô nhớ tất cả bây giờ: cô đã đến gặp Velhar để xin sức mạnh bảo vệ Mira. Mira đã chết trước khi cô kịp về. Và cô đã ở đây — canh gác, chiến đấu, không cho phép bản thân nghỉ ngơi — vì không còn chỗ nào khác để đi. Không còn ai để về. Không còn nhà với cửa sổ nhìn ra đồng. Chỉ còn bức tường, và đêm, và kiếm, và việc đứng ở đây vì chưa biết cách đứng ở đâu khác.
-
----
-
-
-**Chương 41/60**
-
-[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-42)

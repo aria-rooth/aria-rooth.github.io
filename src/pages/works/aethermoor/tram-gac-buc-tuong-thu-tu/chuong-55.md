@@ -6,7 +6,6 @@ total: 60
 title: "Chương 55: Thống Kê"
 ---
 
-
 *Một tháng. Cô đếm bằng trận, không bằng ngày. Nhưng lần này, cô đếm bằng hiểu.*
 
 Mười ngày kể từ giấc mơ đầu tiên. Hai mươi ngày còn lại. Vela không viết "còn hai mươi ngày" vào sổ — cô viết số: 17 trận, 44 lần lành, 3 đàn sói lớn, 1 Pale Stalker, 0 Titan. Số. Số là cách cô hiểu thế giới từ hai trăm năm nay. Số không nói dối. Số không cảm. Số chỉ là.
@@ -82,7 +81,3 @@ Chương viết bám sát outline:
 
 Quy tắc LORE_BIBLE: Linh Việt (Tier 9), Thánh Vực (Tier 10), Thần Vương Velhar the Chained, Thệ Ước Phong Lực, Thiên Địa Hữu Ký, Aether, lãnh vực, kênh, Bạch Quái Thú. ✅
 Xưng hô: Velhar → Vela = "ngươi" (thần-người), Vela → Velhar = "anh" (phức tạp), Calla → Vela = "cô" (bình đẳng), Vela → Calla = "em" (lớn hơn). ✅
-
-**Chương 55/60**
-
-[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-56)

@@ -6,7 +6,6 @@ total: 60
 title: "Chương 60: Varn Bên Này"
 ---
 
-
 Hoàng hôn. Năm mươi ba người bên trong. Và Varn — đứng cách cổng hai bước, lần cuối — từ bên kia.
 
 Elara đứng bên cạnh cổng. Tay mở. Cùng cử chỉ như đêm Lyss bước qua. *Đi đi.* Hai chữ. Đủ.
@@ -66,6 +65,3 @@ Varn bước qua. Sống thêm bên này. Ít giờ. Nhưng sống. Và sống �
 *Tiếp theo: Chương 61.*
 
 *← [Chương 51–55](europa-ch51-55.md)*
-
-**Chương 60/60**
-

@@ -6,7 +6,6 @@ total: 60
 title: "Chương 45: Đứng"
 ---
 
-
 *Không phải kết thúc. Chỉ là biết tại sao mình đứng ở đây.*
 
 Ngày sau cuộc đối thoại với Velhar. Trời sáng bình thường. Không có hiện thân. Không có áp lực thần thánh. Không có dạng thể năng lượng. Chỉ là sáng — cam, hồng, xám — và gió, và đá, và bức tường vẫn ở đó, như hai trăm năm nay.
@@ -90,7 +89,3 @@ Cô đứng. Lưng thẳng. Kiếm bên cạnh. Gió Bắc thổi — lạnh, qu
 **Ch.44 — Vũ Khí:** Velhar reveal — tension tốt. "Vũ khí vĩnh viễn" — impact mạnh. Calla ghi chép sau hiện diện thần — beat nhỏ về dũng cảng ("sợ mà vẫn làm") đẹp, giữ. Không có note lớn.
 
 **Ch.45 — Đứng:** "Cô xứng đáng được có người biết cô đang ở đây" — cảm xúc peak, rất tốt. Bình minh tràn — atmosphere ổn. Câu cuối lặp cấu trúc "chọn / đứng" nhiều lần — intentional, đúng voice Vela (concrete, repetitive), giữ nguyên.
-
-**Chương 45/60**
-
-[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-46)

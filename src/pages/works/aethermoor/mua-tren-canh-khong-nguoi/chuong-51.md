@@ -6,7 +6,6 @@ total: 60
 title: "Chương 51: Học Giữ"
 ---
 
-
 Ba ngày sau thệ.
 
 Ba ngày — và Elara học cách dùng Linh Vương không phải từ sách, không phải từ thầy, mà từ thử. Thử sai. Thử đúng. Thử lại. Mỗi sai dạy cô một giới. Mỗi đúng dạy cô một hướng. Và ba ngày đủ để cô biết: Linh Vương của cô nhỏ, chắc, và đủ cho cổng — nhưng không đủ cho hơn.
@@ -44,10 +43,3 @@ Lyss ngồi cạnh Elara. *Anh ta hôm nay hiền,* cô bé nói.
 Đêm. Năm mươi hai người. Gió bắc yếu. Mưa nhẹ. Elara ngồi trước cổng, Linh Vương mở, giữ màng, giữ van, giữ thệ. Ba bước. Vừa. Đủ.
 
 *Kết chương*
-
----
-
-
-**Chương 51/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-52)

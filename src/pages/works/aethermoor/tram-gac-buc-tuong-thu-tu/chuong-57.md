@@ -6,7 +6,6 @@ total: 60
 title: "Chương 57: Hướng Bắc"
 ---
 
-
 *Ba ngày đường. Mười tám ngày còn lại. Trừ đi: đi, làm, về. Còn lại không nhiều.*
 
 Sáng. Không đàn sói — hiếm. Calla về từ tuần đêm, mặt mệt nhưng không có tin xấu ngoài việc không có tin tốt. Ba người ngồi quanh bản đồ.
@@ -58,10 +57,3 @@ Không mở kênh. Không đọc. Chỉ nằm và nhìn trần đá. Nghĩ về 
 Không sợ. Nhưng nặng. Nặng theo cách mà nặng là biết mình đang làm việc lớn.
 
 **Kết chương:** Vela nhắm mắt. Ngủ đến. Giấc ngủ cuối trên giường đá — giường cô đã nằm hai trăm năm. Sáng mai, cô sẽ không thức dậy ở đây. *Và nếu cô thức dậy ở đây lần nữa — thì đó sẽ là vì cô đã quay về. Hoặc vì cô chưa bao giờ rời đi.*
-
----
-
-
-**Chương 57/60**
-
-[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-58)

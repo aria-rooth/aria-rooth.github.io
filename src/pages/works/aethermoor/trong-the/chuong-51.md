@@ -6,7 +6,6 @@ total: 60
 title: "Chương 51: Luyện"
 ---
 
-
 Ngày thứ tư. Ngày luyện.
 
 Sera dậy trước bình minh — không phải vì cần thời gian, vì cần im lặng. Im lặng trước khi chim kêu, trước khi gió lên, trước khi Kael thở dài trong giấc ngủ. Im lặng = không nhiễu. Không nhiễu = nghe Thệ Vang rõ. Rõ = biết. Biết = phản ứng.
@@ -66,10 +65,3 @@ Thệ Vang tối: yên. Yên có chân — chân từ bốn mươi tám mảnh, 
 Sera nhắm mắt. Không ngủ ngay. Đếm. Đếm mảnh. Đếm bước. Đếm phương án. Phương án A: ném bột, đóng băng chậm, vào hầm trong. Phương án B: không ném, đóng băng nhanh, thua. Phương án C: Lira tạo hỏa tầng hai, Asha và Grel lên, Veren một mình. Phương án C + A = tốt nhất. Tốt nhất không = chắc. Chắc không có. Không có chắc = chấp nhận rủ ro. Rủ ro = đi.
 
 Đếm xong. Ngủ.
-
----
-
-
-**Chương 51/60**
-
-[Chương kế](/works/aethermoor/trong-the/chuong-52)

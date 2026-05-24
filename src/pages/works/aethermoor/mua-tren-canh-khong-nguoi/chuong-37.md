@@ -6,7 +6,6 @@ total: 60
 title: "Chương 37: Nhiều Hơn"
 ---
 
-
 Số lượng tăng.
 
 Không phải đột ngột — không có đêm nào thêm mười người cùng lúc. Tăng chậm, như sương dày dần, như cỏ mọc sau mưa: mỗi đêm thêm một, hai, đôi khi ba. Ba mươi. Ba mươi hai. Ba mươi lăm. Bốn mươi. Elara đếm — cô luôn đếm, từ đêm đầu tiên một người đứng, đến giờ bốn mươi người đứng, và mỗi đêm có thể thêm.
@@ -54,10 +53,3 @@ Nhiên liệu. Elara nhìn tay mình. Mười hai năm — cô tưởng mình đ
 Bốn mươi người đứng bên kia. Elara nhìn họ. Nhìn Lyss — cô bé ngồi trên cỏ, vẽ hình bằng ngón tay trên đất. Nhìn Corin — anh ta đứng, chờ, luôn chờ. Nhìn ba mươi tám người còn lại. Mười hai năm — không phí. Không bao giờ phí.
 
 *Kết chương*
-
----
-
-
-**Chương 37/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-38)

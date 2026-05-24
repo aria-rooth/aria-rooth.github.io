@@ -6,7 +6,6 @@ total: 60
 title: "Chương 57: Mạch Đứt"
 ---
 
-
 Sáng. Deven Ash gọi Elara và Therin — không bằng tiếng, bằng cách đứng giữa hai lều, giơ tay, mặt nghiêm.
 
 Họ đến. Năm mươi bước từ cổng, ba người, đứng vòng, Deven Ash giữa.
@@ -60,10 +59,3 @@ Xoắn ốc mở thêm. Thệ Hạch → mạch ổn → van đỡ hao → ngư�
 Ba người đứng năm mươi bước từ cổng, và ý đó nằm giữa họ — ý về Thệ Hạch mới, từ người chết, nuôi mạch, giữ domain. Ý lớn. Ý cần thời gian. Nhưng ý — đúng hướng — là đủ cho hôm nay.
 
 *Kết chương*
-
----
-
-
-**Chương 57/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-58)

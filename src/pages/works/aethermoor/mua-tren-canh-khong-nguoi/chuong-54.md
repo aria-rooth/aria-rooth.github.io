@@ -6,7 +6,6 @@ total: 60
 title: "Chương 54: Đàm Phán"
 ---
 
-
 Hôm sau. Hoàng hôn. Năm mươi ba người. Grath xuất hiện — gần, chắc, mắt sáng.
 
 Elara đứng trước cổng. Không ngồi. Đứng. Linh Vương mở. Thệ giữ. Và cô cần nói với Grath — thật nói, không phải hỏi đáp đêm nào, mà nói về tương lai.
@@ -74,10 +73,3 @@ Varn nhìn cô. Rồi gật. Một lần. Ngắn. Gật của người chấp nh
 Đàm phán. Thật. Hai phía. Ba điều. Hệ thống tin. Thời gian. Không đáp sạch — nhưng nền. Nền cho tiếp.
 
 *Kết chương*
-
----
-
-
-**Chương 54/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-55)

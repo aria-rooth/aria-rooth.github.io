@@ -6,7 +6,6 @@ total: 60
 title: "Chương 52: Vụn Vặt"
 ---
 
-
 *Người không biết mình có bao nhiêu thời gian thì sống khác người biết. Cô biết. Đó vừa là quà vừa là gông.*
 
 Sáng hôm sau, Vela kể cho Theo và Calla. Tất cả — giấc mơ, thời hạn, một tháng. Ngắn gọn. Không trang trí. Giống báo cáo chiến trường: đây là tình hình, đây là thời gian, đây là lựa chọn.
@@ -90,10 +89,3 @@ Vela gật đầu. Hiểu. Đã cảm thấy — trong mơ, khi Velhar nói, cô
 Anh ta không nói thêm. Lật trang tiếp. Cô lau kiếm tiếp. Im lặng trở lại — nhưng im lặng giờ có thêm trọng lượng. Trọng lượng của hiểu biết mới. Trọng lượng của rủi ro lớn hơn.
 
 **Kết chương:** Vela đặt kiếm xuống. Nhìn lửa. Nhìn Theo đang đọc, mực trên tay, tóc rối. Nhìn Calla đang ngủ phía xa, kiệt sức vì tuần tra. Ba người trên một đoạn tường. Một tháng trước khi thần bước đi. *Vụn vặt: lau kiếm, đọc sách, ngủ, thức, tuần tra, đánh đàn sói nhỏ. Vụn vặt là đời. Đời là thứ cô sẽ mất nếu phá hợp đồng — nhưng cũng là thứ cô bảo vệ bằng cách tiếp tục. Vụn vặt không vô nghĩa. Vụn vặt là lý do.*
-
----
-
-
-**Chương 52/60**
-
-[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-53)

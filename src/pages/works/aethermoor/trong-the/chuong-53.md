@@ -6,7 +6,6 @@ total: 60
 title: "Chương 53: Cửa Phía Tây"
 ---
 
-
 Một giờ. Không nhiều. Không ít. Đủ để Mordren thở. Đủ để Kael kiểm tra bình nước. Đủ để Calla nhớ lại đường phố Caelmyr — không phải để đi, để tránh.
 
 Sera đứng trước cửa kho. Cửa kho = gỗ mục. Gỗ mục = không khóa. Không khóa = đẩy. Đẩy = ra. Ra = đêm Caelmyr. Đêm Caelmyr = không an toàn. Không an toàn = đi.
@@ -86,10 +85,3 @@ Năm người đi. Hướng Bắc. Bắc = Pale Frontier. Pale Frontier = xa. Xa
 Thệ Vang ngoài thành: lạ. Lạ không = cảnh báo. Lạ = khác. Khác vì đất. Đất ngoài thành khác đất trong thành. Trong thành = đá. Ngoài thành = đất. Đất = có ký ức. Ký ức nhỏ. Nhỏ không = không đọc được. Không đọc = chỉ cảm nhận. Cảm nhận = lạ. Lạ = ghi nhận.
 
 Sera đi. Đi và đếm. Đếm bước. Đếm mảnh. Bốn mươi tám. Thêm một. Thêm một cộng hưởng. Tổng cộng = bốn mươi tám trong, một ngoài, một cộng hưởng. Không bốn mươi chín. Không đếm sai. Đếm đúng.
-
----
-
-
-**Chương 53/60**
-
-[Chương kế](/works/aethermoor/trong-the/chuong-54)

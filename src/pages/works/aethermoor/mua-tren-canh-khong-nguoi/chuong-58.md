@@ -6,7 +6,6 @@ total: 60
 title: "Chương 58: Kể và Ghi"
 ---
 
-
 Mười đêm. Varn kể. Elara ghi.
 
 Mỗi đêm, Varn đứng cách cổng hai bước, kể ba người. Ba cái tên. Ba cuộc đời. Ba cái chết. Mỗi đêm, Elara ngồi trên phiến đá, *Người Đứng* mở, bút chạy. Ghi — tên, việc, cách chết. Ngắn. Không tô. Không thêm. Ghi đúng lời Varn kể, ghi đúng cách anh ta nhớ.
@@ -36,10 +35,3 @@ Lyss ngồi cạnh. *Chị ơi, anh ấy kể vì anh ấy cần. Không phải 
 Elara viết vào *Người Đứng*, cuối trang đêm năm: *Varn kể vì cần. Tôi ghi vì nghe. Nghe là việc của người giữ — không chỉ giữ van, giữ màng, giữ thệ. Giữ người. Và giữ người là nghe.*
 
 *Kết chương*
-
----
-
-
-**Chương 58/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-59)

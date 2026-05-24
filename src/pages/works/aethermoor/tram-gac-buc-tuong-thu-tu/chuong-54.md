@@ -6,7 +6,6 @@ total: 60
 title: "Chương 54: Gọi"
 ---
 
-
 *Trước khi đọc ngược, cô cần mở kênh. Trước khi mở, cô cần biết mình mở cho ai.*
 
 Năm ngày sau. Vela không mơ — hay đúng hơn, cô không ngủ đủ sâu để mơ. Cô ngủ ít, nông, canh — không phải canh Bức Tường, mà canh chính mình. Canh để không rơi vào giấc mơ mà không chủ đích. Canh để khi mở kênh, cô mở vì chọn, không vì ngủ quên.
@@ -86,10 +85,3 @@ Anh ta gật đầu. Không hỏi gì thêm. Chỉ gật đầu — và tiếp t
 Cô viết vào sổ: *Kênh = dây. Aether = nước trên dây. Chạm = rung. Rung hai chiều. Velhar nói không chèn đêm nay — nhưng không hứa mãi. Cửa sờ được. Nhưng mở thì ai cũng vào.* Rồi gập sổ.
 
 **Kết chương:** Vela nằm nhìn trần. Kênh. Dây. Nước. Rung. Cửa. Mỗi từ là một mảnh hiểu. Mảnh ghép lại: cô có thể mở, có thể đọc, có thể tìm mảnh vỡ — nhưng mở là cho Velhar vào, đọc là cho Velhar đọc lại, tìm là cho Velhar biết cô đang tìm. *Mỗi bước gần hơn mục tiêu cũng là bước gần hơn rủi ro. Đó là con đường hẹp. Và cô — cô đang đứng trước cửa hẹp đó, tay trên ổ khóa, chưa mở, chưa rời, đang quyết định.*
-
----
-
-
-**Chương 54/60**
-
-[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-55)

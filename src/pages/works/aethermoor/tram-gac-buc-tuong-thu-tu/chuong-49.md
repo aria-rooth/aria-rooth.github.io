@@ -6,7 +6,6 @@ total: 60
 title: "Chương 49: Hợp Đồng Đọc Được"
 ---
 
-
 *Mỗi giao thức đều có lỗi. Lỗi là cửa.*
 
 Hai ngày sau giấc mơ đầu tiên, Vela mơ lại. Lần thứ ba. Lần này cô chuẩn bị — nằm xuống có ý thức, nhắm mắt có chủ đích, và chờ. Chờ ông ta đến.
@@ -54,10 +53,3 @@ Im lặng. Dài hơn. Rồi giọng ông ta đến, lần này khác — không 
 Vela tỉnh giấc. Mồ hôi. Lạnh. Cô ngồi dậy. Tay run. Không phải vì giấc mơ đáng sợ. Mà vì mỗi lần mơ, ông ta cho cô thêm một mảnh hiểu, và mỗi mảnh hiểu là một bước gần hơn đến quyết định, và quyết định đó — quyết định cuối cùng về hợp đồng — là thứ sẽ thay đổi mọi thứ.
 
 **Kết chương:** Cô viết vào sổ: *Giá tự do = thời gian. Phá hợp đồng → già → chết. Cân bằng Aether. Velhar không cần kênh khi domain đủ → tôi thành gì?* Nhìn hàng từ. *Ông ta cho hiểu. Nhưng hiểu đó — hiểu ông ta cho — là mồi hay là thật? Cô chưa biết. Nhưng cô ghi. Vì ghi là cách giữ mình không bị cuốn theo giọng thân thiện của người giữ xiềng xích.*
-
----
-
-
-**Chương 49/60**
-
-[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-50)

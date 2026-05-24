@@ -6,7 +6,6 @@ total: 60
 title: "Chương 39: Lần Đầu"
 ---
 
-
 Chuyện xảy ra đêm sau.
 
 Elara không ngủ — cô đã quen không ngủ nhiều, bốn tiếng mỗi đêm, nhưng đêm nay cô bỏ cả bốn. Cô ngồi trước cổng, kiếm trong vỏ bên cạnh, *Người Đứng* mở trên đùi. Ghi chép. Ghi dao động, ghi số lượng, ghi lời Lyss, ghi cảm nhận domain gọi. Ghi — vì ghi là cách cô xử lý, và xử lý là cách cô chuẩn bị, và cô cần chuẩn bị, vì thứ gì đó đang đến.
@@ -54,10 +53,3 @@ Không. Không một người. Cô có Deven Ash — không chiến đấu, như
 Cô đọng kiếm. Ngồi xuống. Lyss ngồi cạnh, tay vẫn nắm tay Elara, nhỏ và lạnh. Corin ngồi bên kia — ba người trên phiến đá, như mọi đêm, nhưng đêm nay khoảng không giữa họ đặc hơn, nặng hơn, ý nghĩa hơn. Đêm nay là đêm đầu tiên ai đó cố phá ranh giới mà cô giữ. Đêm đầu tiên cô dùng kiếm để giữ. Và đêm đầu tiên cô biết — chắc chắn, không đoán — rằng sẽ còn nữa.
 
 *Kết chương*
-
----
-
-
-**Chương 39/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-40)

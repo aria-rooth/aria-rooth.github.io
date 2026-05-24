@@ -6,7 +6,6 @@ total: 60
 title: "Chương 59: Đếm Lại"
 ---
 
-
 Ngày thứ nhất trong ngục. Không cửa sổ = không biết ngày. Không biết = đếm. Đếm bữa ăn. Bữa sáng = ngày mới. Bữa tối = ngày cũ. Hai bữa = một ngày.
 
 Fenris nói tiếp. Nói khi canh không nghe. Canh xa = khe hở. Khe hở = tường không kín. Không kín = âm thanh lọt. Âm thanh lọt = nghe. Nghe = biết. Biết Fenris ở phòng bên. Phòng bên = cách một bức tường. Một bức tường = gần. Gần = đồng minh tiềm năng.
@@ -56,10 +55,3 @@ Thệ Vang: gần. Gần hơn? Không. Nhưng rõ. Rõ = cô khỏe. Khỏe = c�
 Sera nằm. Nằm giả ngủ. Giả ngủ = quan sát. Quan sát canh. Canh ngoài cửa. Cửa = khe sáng. Khe sáng = bóng. Bóng = một người. Một người = đêm nay. Đêm nay = đếm. Đếm nhịp thở. Nhịp thở canh: mười lăm mỗi phút. Mười lăm = chậm. Chậm = buồn ngủ. Buồn ngủ = cơ hội. Cơ hội = chưa. Chưa = đêm thứ hai.
 
 Đếm tiếp. Đếm ngày. Đếm đêm. Đếm thoát.
-
----
-
-
-**Chương 59/60**
-
-[Chương kế](/works/aethermoor/trong-the/chuong-60)

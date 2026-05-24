@@ -6,7 +6,6 @@ total: 60
 title: "Chương 38: Không Phải Của Mình Để Bảo Vệ"
 ---
 
-
 Họ chạy. Chạy không phải chạy nước rút — chạy hành quân nhanh: đều, nhịp, giữ sức. Mỗi bước đếm, mỗi nhịp thở đếm, mỗi giây đếm. Thời gian là khoảng cách giữa người thường và đau, và khoảng cách đó đang ngắn lại từng phút. Cova dẫn đường — cô ta biết đường tắt, đường rừng, đường mà bản đồ không vẽ. Cova chạy nhanh dù máu trên áo — sinh đôi, Bạc Ty Linh Đoàn, hai mươi ba năm rèn luyện: chạy là thứ cô ta làm trước khi biết đánh, chạy là cách cô ta sống sót khi Đoàn tan, chạy là cách cô ta đến được Sera trong đêm.
 
 Sera chạy sau Cova. Lira chạy sau Sera — không phải năm bước, lần này ba, vì chạy cần gần hơn, gần để nghe, gần để phản ứng, gần để nếu Cova bẫy thì Lira có Sera trong tầm dao. Cova không bẫy — Sera biết, vì Thệ Vang không cảnh báo. Thệ Vang mới: cảnh báo ngoài, cảnh báo trước. Đất dưới chân cô đọc: đường Cova chạy là đường thật, không bẫy, không vòng. Đất nhớ. Đất biết. Cô nghe đất.
@@ -38,10 +37,3 @@ Bắt người thường. Sera nghe — nghe từ xa, nghe tiếng chỉ huy l�
 Cô đứng dậy. Kiếm trên tay. Lira đứng bên — dao trên tay. Cova nhìn cả hai, rồi nhìn tu viện, rồi không nói gì — vì nói bây giờ là tốn thời gian, và thời gian người trong tu viện không có.
 
 Sera bước ra khỏi bóng cây.
-
----
-
-
-**Chương 38/60**
-
-[Chương kế](/works/aethermoor/trong-the/chuong-39)

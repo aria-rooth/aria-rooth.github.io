@@ -6,7 +6,6 @@ total: 60
 title: "Chương 42: Draven"
 ---
 
-
 Draven: thị trấn nhỏ nằm ở chỗ mà bản đồ quên — không phải vì thị trấn không đáng nhớ, vì thị trấn được thiết kế để không nhớ. Đường đến Draven hẹp, rẽ ba lần, hai lần rẽ vào ngõ cụt. Ai đến Draven phải biết Draven ở đâu — hoặc phải có người dẫn. Sera và Lira không có người dẫn. Sera có bản đồ Aldric — bản đồ nhỏ, vẽ tay, chi tiết đúng hai mươi năm trước. Draven không đổi nhiều trong hai mươi năm: thị trấn quên thì thị trấn không xây, không xây thì không đổi, không đổi thì bản đồ cũ vẫn đúng.
 
 Họ đến chiều hôm thứ tư. Bốn ngày đi — đi nhanh, đi đường rừng, tránh đường lớn. Mỗi đêm Thệ Vang chảy nhẹ — nhẹ như hồi phục, nhẹ như bốn mươi bảy mảnh đang chuẩn bị. Chuẩn bị cho gì? Sera không hỏi. Thệ Vang không trả lời hỏi — Thệ Vang trả lời khi Thệ Vang chọn.
@@ -25,17 +24,17 @@ Sera đếm. Tòa nhà ba tầng: tầng một cửa sắt — khóa, không ng�
 
 "Ban đêm," Lira nói. Không phải đề xuất — xác nhận. Lira xâm nhập ban đêm vì ban đêm ẩn, ẩn thì ít nguy hiểm, ít nguy hiểm thì nhiều cơ hội. Sera gật.
 
-Họ đợi. Đợi trong rừng, đợi đến tối, đợi đến khi đèn trong tòa nhà只剩 tầng hai, đợi đến khi thị trấn Draven ngủ — thị trấn nhỏ ngủ sớm, ngủ năm canh, ngủ vì không có gì thức đêm ngoài tòa nhà Giáo Hội.
+Họ đợi trong rừng, chờ cho đến tối, cho đến khi đèn trong tòa nhà chỉ còn tầng hai, cho đến khi thị trấn Draven chìm vào giấc ngủ — thị trấn nhỏ ngủ sớm, ngủ sâu, vì chẳng có gì đáng thức đêm ngoài tòa nhà Giáo Hội.
 
 Nửa đêm.
 
-Lira đi trước. Không phải vì Sera nhường — vì Lira giỏi hơn việc này. Lira Free Sword mười năm: xâm nhập, lấy, đi. Sera chiến đấu. Lira trinh sát. Đúng người đúng việc. Sera theo sau — theo kiểu theo: không bước chân Lira, bước cạnh Lira, nhưng trễ nửa bước, vì trễ nửa bước đủ để Lira dẫn mà Sera không cản.
+Lira đi trước. Không phải vì Sera nhường — vì Lira giỏi hơn việc này. Lira — mười năm làm Tự Do Kiếm Sĩ: xâm nhập, lấy, đi. Sera chiến đấu. Lira trinh sát. Đúng người đúng việc. Sera theo sau, bước cạnh Lira nhưng trễ nửa bước — đủ để Lira dẫn đường mà Sera không cản trở.
 
 Lira đến tường tòa nhà — tường sau, nơi bóng sâu nhất. Đá ẩm, rêu trơn dưới đầu ngón tay. Cô ta leo — không phải leo nhanh, leo đúng: tay chỗ nẻm, chân chỗ nẻm, nẻm mòn nghĩa là người leo trước, người leo trước nhiều nghĩa = lối leo thường, lối leo thường = không bẫy. Tầng hai. Cửa sổ — khóa trong, nhưng khóa mỏng, khóa kiểu khóa phòng không phải khóa tù. Lira rút kim — hai kim, kim mỏng, kim cong, kim nghề. Mười giây. Cửa sổ mở. Không tiếng.
 
-Vào.
+Cả hai lướt vào trong.
 
-Bên trong: hành lang hẹp, đèn dầu thấp — không phải sáng soi, sáng vừa đủ đi. Cửa phòng đóng. Lira mở — từng cửa, nhanh, nhẹ, kiểm tra: phòng trống, phòng ngủ (người ngủ sâu, lưng quay, không thức), phòng kho (giấy, mực, ấn). Kho. Kho là mục tiêu.
+Bên trong: hành lang hẹp, đèn dầu thấp — không phải sáng soi, sáng vừa đủ đi. Cửa phòng đóng. Lira mở — từng cửa, nhanh, nhẹ, kiểm tra: phòng trống, phòng ngủ (người ngủ sâu, lưng quay, không thức), phòng kho (giấy, mực, ấn). Phòng kho. Đó là mục tiêu của họ đêm nay.
 
 Sera vào kho. Giấy — nhiều. Kệ gỗ bốn hàng, mỗi hàng ba mươi cuộn, mỗi cuộn ghi năm. Tinh: năm sáu, năm bảy — trước khi Đoàn cô tan. Tinh hành chính: thu chi, nhân sự, vật tư. Bình thường. Tầm thường. Giấy tầm thường trong tòa nhà không tầm thường — nghĩa là giấy quan trọng không ở đây, hoặc giấy quan trọng ở đây nhưng không nhãn.
 
@@ -51,19 +50,12 @@ Sera mở tệp. Trang đầu. Tiêu đề viết tay, mực đen, chữ đều:
 
 *DỰ ÁN THỆ HỘI TỤ — GIAI ĐOẠN 3*
 
-Thệ Hội Tụ. Hội tụ thề ước. Hội tụ.
+Thệ Hội Tụ — hội tụ của các thề ước đã mất.
 
-Sera đọc tiếp. Đọc nhanh — đọc kiểu người đọc khi thời gian có hạn: mắt lướt, não bắt từ khóa, từ khóa là từ nặng. Tên. Địa điểm. Số. Tên: Mordren. Địa điểm: Pale Frontier. Số: Thệ Hạch.
+Sera đọc tiếp, nhanh — theo cách của người đọc khi thời gian có hạn: mắt lướt, não bắt từ khóa. Từ khóa là những từ nặng — tên người, địa điểm, con số. Mordren. Pale Frontier. Thệ Hạch.
 
 "Tạm dừng," Lira nói. Giọng thấp — nhưng đủ nghe. "Bên ngoài. Tiếng."
 
 Sera dừng. Nghe. Từ Thệ Vang — không cảnh báo. Từ tai: bước chân. Bước chân xa — không phải trong tòa nhà, ngoài tòa nhà, đường đá, bước đều, bước tuần tra. Tuần tra đêm — người tuần tra đi đường vòng, không vào tòa nhà. Hắn đi qua. Hắn không dừng. Bước xa dần.
 
 Sera đọc tiếp.
-
----
-
-
-**Chương 42/60**
-
-[Chương kế](/works/aethermoor/trong-the/chuong-43)

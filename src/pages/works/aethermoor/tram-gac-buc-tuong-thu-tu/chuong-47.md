@@ -6,7 +6,6 @@ total: 60
 title: "Chương 47: Giao Thức"
 ---
 
-
 *Hợp đồng là giao thức. Giao thức thì có thể đọc — nếu biết chỗ nhìn.*
 
 Vela không kể cho Theo về giấc mơ ngay. Không phải vì giấu — mà vì cô cần tự đọc trước. Tự xem. Tự hiểu cái gì trong mơ là thật và cái gì là mồi. Buổi sáng cô ngồi ngoài tháp, gió Bắc thổi qua tóc dài, và cô cảm thấy lời nguyền nhẹ hơn — lỏng, như dây thừng đã ướt đang khô lại, vẫn buộc nhưng không siết. Cô nhắm mắt. Không ngủ — nhắm để nghe bên trong.
@@ -50,10 +49,3 @@ Vela muốn bác. Nhưng không. Vì đúng. Cô cần đứng. Cần chắc ch�
 Calla trở về từ tuần tra. Cô ta nhìn hai người — nhìn cách họ đứng, cách im lặng, cách không cần nói nhiều để hiểu — và không hỏi. Chỉ gật đầu. Báo cáo: đoạn bên yên, không dấu vết. Vela gật đầu lại. Họ làm việc. Bẫy. Tuần tra. Chuẩn bị. Bức tường vẫn cần canh, dù Vela là kênh hay không.
 
 **Kết chương:** Vela ghi vào sổ, trang mới: *Giao thức. Kênh. Aether → Velhar. Mảnh vỡ domain.* Nhìn các từ. Nhìn khoảng trắng giữa chúng. *Cô chưa biết mảnh vỡ ở đâu. Chưa biết cách phá. Chưa sẵn sàng đối diện. Nhưng biết — biết là bắt đầu. Và bắt đầu, lần này, là cô chọn bắt đầu, không phải bị bắt.*
-
----
-
-
-**Chương 47/60**
-
-[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-48)

@@ -6,7 +6,6 @@ total: 60
 title: "Chương 54: Năm Bước"
 ---
 
-
 Một giờ đi. Một giờ = xa. Xa không = an toàn. An toàn không có. Chỉ có xa.
 
 Mordren bước. Bước chậm. Chậm hơn giờ đầu. Giờ đầu = còn lực tích. Tích từ nghỉ. Nghỉ một giờ trong kho = ít. Ít không = đủ. Đủ để đi một giờ. Giờ thứ hai = lực hết. Hết = chân trái yếu. Chân phải yếu hơn. Yếu hơn = Kael đỡ nhiều hơn. Calla đỡ nhiều hơn.
@@ -82,10 +81,3 @@ Nửa giờ hết. Sera đứng. Năm người đứng. Mordren đứng — đ�
 "Đi," Sera nói. "Hướng Bắc. Nghỉ tiếp khi trời sáng."
 
 Năm người đi. Mordren giữa Kael và Calla. Sera trước. Lira sau. Năm bước. Năm bước = khoảng cách an toàn.
-
----
-
-
-**Chương 54/60**
-
-[Chương kế](/works/aethermoor/trong-the/chuong-55)

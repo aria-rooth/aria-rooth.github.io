@@ -6,7 +6,6 @@ total: 60
 title: "Chương 52: Người Cũ"
 ---
 
-
 Ngày thứ tư. Elara tuần tra — vòng đầu, kiểm Linh Nguyên — và thấy ai đó.
 
 Không phải bên trong cổng. Bên ngoài. Trên hoang nguyên, cách cổng khoảng ba trăm bước, hướng Nam. Một người. Đi bộ. Chậm. Không phải thương nhân — thương nhân đi nhanh, muốn qua, muốn đi. Người này đi chậm, như người biết mình đến đâu và không vội đến.
@@ -84,10 +83,3 @@ Hoàng hôn đến sớm hơn cô nghĩ. Năm mươi hai người. Grath. Lyss. 
 Đêm sẽ dài. Đọc dài. Nghĩ dài. Nhưng dài — với thông tin — là dài có hướng, và hướng là tất cả những gì cô cần hôm nay.
 
 *Kết chương*
-
----
-
-
-**Chương 52/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-53)

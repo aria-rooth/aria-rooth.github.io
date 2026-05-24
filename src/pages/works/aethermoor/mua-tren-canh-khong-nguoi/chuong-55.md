@@ -6,7 +6,6 @@ total: 60
 title: "Chương 55: Hai Phía, Một Cổng"
 ---
 
-
 Sáng. Elara và Therin nói chuyện.
 
 Năm mươi bước — cô không cho anh ta gần hơn, chưa — nhưng đủ để nói. Họ đứng, mỗi người một phía trụ (cô trái, anh phải), và nói qua khoảng cách.
@@ -64,7 +63,3 @@ Mười hai năm cô đứng một mình. Giờ cô đứng giữa. Giữa — �
 *Tiếp theo: Chương 56.*
 
 *← [Chương 46–50](europa-ch46-50.md)*
-
-**Chương 55/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-56)

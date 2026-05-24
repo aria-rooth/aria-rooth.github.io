@@ -6,7 +6,6 @@ total: 60
 title: "Chương 46: Sáng Sau Đêm Chia"
 ---
 
-
 Sáng. Lần đầu tiên trong mười hai năm, Elara thức dậy và có ai đó ngủ cạnh.
 
 Lyss nằm cuộn trên cỏ, cách cô một khoảng tay — gần đủ chạm, xa đủ để không thức giấc. Cô bé thở nhẹ, đều, thở của người ngủ thật, không phải thở của bóng hình đứng chờ. Bên này cổng, Lyss có giấc ngủ. Bên kia, cô bé chỉ có khoảng chờ giữa hoàng hôn và bình minh. Sự khác biệt đó — ngủ và chờ — là sự khác biệt giữa sống và kẹt, và Elara thấy nó rõ hơn bao giờ hết khi nhìn cô bé ngủ trên cỏ ướt sương.
@@ -70,10 +69,3 @@ Nhưng bước vào cũng là bước vào bẫy. Domain gọi bằng gió ấm.
 Sáng. Cỏ. Sương khô. Lyss ngủ. Corin ngồi. Deven Ash ghi. Cổng đứng. Và Elara — lần đầu tiên — nghĩ về việc vào không phải như nguy hiểm mà như giải pháp. Giải pháp có giá. Giá là rủi ro. Nhưng rủi ro — đôi khi — là thứ phải trả khi đứng yên không còn đủ.
 
 *Kết chương*
-
----
-
-
-**Chương 46/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-47)

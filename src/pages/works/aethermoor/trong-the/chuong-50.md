@@ -6,7 +6,6 @@ total: 60
 title: "Chương 50: Kiến Trúc Sự Thật"
 ---
 
-
 Ngày thứ ba. Calla vẽ.
 
 Calla vẽ bằng than trên vải — vải Lira dự phòng, vải mà Lira không hỏi khi Sera xin. Than từ lửa đêm. Vải trải trên đất rừng. Calla vẽ — vẽ chậm, vẽ chắc, vẽ kiểu người vẽ khi vẽ là sự sống còn, vì sai một đường = sai một bước = chết.
@@ -60,7 +59,3 @@ Sera Voss. Linh Phong. Bốn mươi tám mảnh thệ ước. Hai hoàn thành. 
 ---
 
 *→ [Chương 51–55](2b-ch51-55.md)*
-
-**Chương 50/60**
-
-[Chương kế](/works/aethermoor/trong-the/chuong-51)

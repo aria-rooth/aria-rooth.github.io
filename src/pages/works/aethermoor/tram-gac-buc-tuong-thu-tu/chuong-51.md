@@ -6,7 +6,6 @@ total: 60
 title: "Chương 51: Đếm Ngược"
 ---
 
-
 *Mỗi giấc mơ là một lần ông ta gần hơn. Mỗi lần gần hơn là một lần cô hiểu hơn. Hiểu đó — ông ta tính cả rồi.*
 
 Hai tuần kể từ giấc mơ đầu tiên. Vela mơ sáu lần. Mỗi lần rõ hơn, mỗi lần Velhar gần hơn — không phải gần về khoảng cách, mà gần về cách nói. Ông ta đang học giọng cô — học khi nào cô im lặng là đang nghĩ, khi nào cô hỏi là đang thử, khi nào cô không trả lời là đang giấu. Và ông ta học nhanh. Nhanh theo cách mà người sống hai nghìn năm học — có đủ thời gian để học tất cả các cách mà người nói dối, và Vela, dù mạnh, không phải người giỏi nói dối.
@@ -66,10 +65,3 @@ Cô đặt sổ xuống. Tay không run. Lần đầu tiên sau nhiều giấc m
 Ngoài kia, gió Bắc thổi qua khe đá. Tiếng vọng xa — có thể sói, có thể không. Vela ngồi trong bóng tối tháp, lửa nhỏ trên tay, và nhìn ngọn lửa cho đến khi trời sáng. Không phải để suy nghĩ — suy nghĩ đã xong trong mơ. Nhưng để cảm. Cảm trọng lượng của ba mươi ngày trong lòng bàn tay. Cảm nó nặng. Cảm nó thật. Cảm nó — lần đầu tiên — là của cô, không phải của Velhar.
 
 **Kết chương:** Vela ngồi nhìn trần đá. Một tháng. Một tháng để chọn giữa phá hợp đồng (già, chết, nhưng tự do) và tiếp tục (sống, mạnh, nhưng nuôi thần). Một tháng để tìm mảnh vỡ, đọc ngược kênh, hoặc chấp nhận. *Một tháng ngắn. Nhưng một tháng — khi biết nó là tất cả những gì còn — là đủ. Đủ để không lơ lửng nữa.*
-
----
-
-
-**Chương 51/60**
-
-[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-52)

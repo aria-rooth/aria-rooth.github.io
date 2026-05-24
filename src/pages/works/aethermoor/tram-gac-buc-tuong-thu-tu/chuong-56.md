@@ -6,7 +6,6 @@ total: 60
 title: "Chương 56: Đêm Đúng"
 ---
 
-
 *Biết khi nào mở cửa là một kỹ năng. Biết khi nào đóng lại là kỹ năng khác. Tối nay, cô cần cả hai.*
 
 Mười hai ngày kể từ giấc mơ đầu tiên. Mười tám ngày còn lại. Vela không viết số vào sổ buổi sáng — cô viết vào buổi trưa, sau khi đã tuần tra, sau khi đã đánh đàn sói nhỏ lúc bình minh, sau khi đã biết hôm nay không có chuyện bất thường ngoài chuyện bất thường đã biết.
@@ -98,10 +97,3 @@ Anh ta không hỏi "có sao không" nữa. Anh ta hỏi: "Cô cần gì?"
 "Ngủ." Cô nói thật. "Mai — mai chúng ta bàn đường đi."
 
 **Kết chương:** Vela nằm xuống. Lần này ngủ thật — không chìm, không mở kênh. Chỉ ngủ. Nhưng trước khi ngủ, cô cảm thấy: kênh vẫn rung. Nhẹ hơn. Nhưng rung — như dây vừa được kéo và chưa trở lại hình dạng cũ. *Velhar đã cảm thấy cô đọc. Và ông ta — ông ta đang chờ, nhưng chờ không có nghĩa là không làm gì. Cô biết. Cô đã từng chờ hai trăm năm — và trong thời gian chờ, cô chiến đấu không ngừng.*
-
----
-
-
-**Chương 56/60**
-
-[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-57)

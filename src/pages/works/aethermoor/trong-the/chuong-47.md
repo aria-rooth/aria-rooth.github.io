@@ -6,7 +6,6 @@ total: 60
 title: "Chương 47: Trạm Gác"
 ---
 
-
 Nửa đêm. Canh ngoài quay lưng — đi vòng, vòng hẹp, vòng từ cửa tường Tây đến góc Bắc rồi quay lại. Mỗi vòng: sáu mươi giây. Sáu mươi giây đủ. Đủ để Lira đến tường, leo, qua, đáp. Lira leo nhanh — nhanh hơn đêm Draven, nhanh vì Lira biết tường này, tường Lira leo hai năm trước khi bị giam, tường Lira nhớ như nhớ sẹo. Mười lăm giây. Lira trên tường. Qua. Mất dạng trong bóng.
 
 Sera đếm. Ba mươi giây. Đếm nhịp tim — nhịp tim cô đều, nhịp tim chiến binh, nhịp tim người đếm khi đếm là cách biết thời gian. Ba mươi. Cô đi. Không chạy — chạy tiếng. Đi nhanh, chân chạm gót trước, gót trước mũi, mũi trước ngón, ngọn như bước Aldric dạy: nhẹ, nhẹ như bước không bước. Tường. Leo. Qua.
@@ -74,10 +73,3 @@ Thệ Vang bừng — bừng mạnh, bừng từ kiếm, bừng như hồi đáp
 Phụ nữ nhìn cô. Nhìn lâu. Rồi đứng — đứng chậm, đứng kiểu người đứng khi đứng cần hết sức. Đi. Ra cửa. Lên. Ra ngoài.
 
 Ba mươi giây. Sera đếm. Đủ.
-
----
-
-
-**Chương 47/60**
-
-[Chương kế](/works/aethermoor/trong-the/chuong-48)

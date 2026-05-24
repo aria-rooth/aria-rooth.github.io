@@ -6,7 +6,6 @@ total: 60
 title: "Chương 50: Giữa Hai Bờ"
 ---
 
-
 *Cô không phải vũ khí nữa. Nhưng chưa hẳn tự do. Cô ở giữa — và giữa là chỗ khó đứng nhất.*
 
 Một tuần kể từ giấc mơ đầu tiên. Vela mơ bốn lần, mỗi lần Velhar đến, mỗi lần ông ta cho thêm một mảnh hiểu. Không phải tất cả — ông ta không ngốc đến mức cho cô bản đồ phá hợp đồng. Nhưng cho đủ: giao thức, kênh, giá, cân bằng. Đủ để cô hiểu rằng phá hợp đồng có thể, nhưng giá cao, và đường khó, và ông ta chờ — chờ cô mệt, chờ cô sợ, chờ cô chọn tiếp tục vì dễ hơn.
@@ -86,7 +85,3 @@ Chương viết bám sát outline:
 
 Quy tắc LORE_BIBLE: Linh Việt (Tier 9), Thánh Vực (Tier 10), Thần Vương Velhar the Chained, Thệ Ước Phong Lực (giao thức thệ ước), Thiên Địa Hữu Ký (đất nhớ), Aether, domain, lãnh vực, kênh, Bạch Quái Thú. ✅
 Xưng hô: Velhar → Vela = "ngươi" (thần-người), Vela → Velhar = "anh" (phức tạp, không chỉ kẻ thù). ✅
-
-**Chương 50/60**
-
-[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-51)

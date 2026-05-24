@@ -6,7 +6,6 @@ total: 60
 title: "Chương 57: Tỉnh"
 ---
 
-
 Tỉnh. Không biết mình ngủ. Không biết = mất thời gian. Mất bao lâu? Không biết. Không biết = không đếm. Không đếm = lỗ hổng.
 
 Nằm trên đá. Đá cứng. Cứng = lạnh. Lạnh = ẩm. Ẩm = ngục. Ngục = dưới đất. Dưới đất = không ánh sáng. Không ánh sáng = tối.
@@ -74,10 +73,3 @@ Thoát. Từ xa. Xa = kiếm. Kiếm = Thệ Thiết. Thệ Thiết = bốn mư�
 Sera nghỉ. Nghỉ kiểu người nghỉ khi biết mình còn sống. Còn sống = đủ. Đủ để đếm. Đủ để tính. Đủ để thoát.
 
 Đếm tiếp. Đếm ngày. Đếm cơ hội.
-
----
-
-
-**Chương 57/60**
-
-[Chương kế](/works/aethermoor/trong-the/chuong-58)

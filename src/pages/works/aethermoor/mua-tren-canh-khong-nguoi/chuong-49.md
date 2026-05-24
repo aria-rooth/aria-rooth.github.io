@@ -6,7 +6,6 @@ total: 60
 title: "Chương 49: Bản Đồ Cũ, Chữ Mới"
 ---
 
-
 Sáng. Mưa tạnh. Mọi thứ ướt — cỏ, lều, sổ, tóc, giày — nhưng ướt của mưa tạnh khác ướt của mưa đang rơi: ướt tĩnh, không động, ướt chờ khô. Elara thích ướt tĩnh. Nó cho cô thời gian — thời gian trước khi khô đến, thời gian trước khi rỉ tăng, thời gian để làm việc cần làm.
 
 Cô cần nói chuyện với Deven Ash. Nghiêm túc. Không phải ghi chép cạnh lều — nói chuyện thật, ngồi đối diện, mắt gặp mắt, hỏi những câu mà ghi chép không đủ chứa.
@@ -92,10 +91,3 @@ Elara nhặt kiếm lên. Đặt lại vào vỏ. Đứng. Nhìn cổng. Cổng 
 Cỏ ướt. Trời trong sau mưa. Lyss quay lại vẽ — vẽ thêm kiếm, vẽ thêm thệ, vẽ thêm chữ *giữ* bằng nét vụng nhưng thật. Và Elara — đứng với thệ mới, Linh Nguyên mới chảy khác — bắt đầu ngày mới, nhịp mới, bước mới.
 
 *Kết chương*
-
----
-
-
-**Chương 49/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-50)

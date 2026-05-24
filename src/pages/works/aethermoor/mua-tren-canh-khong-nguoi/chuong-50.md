@@ -6,7 +6,6 @@ total: 60
 title: "Chương 50: Mười Hai Năm, Một Ngày"
 ---
 
-
 Elara thức dậy hôm sau và thế giới không khác.
 
 Cổng vẫn đứng. Mạch vẫn chảy. Domain vẫn thở — giãn, co, giãn, co — mười lăm giây mỗi nhịp. Sáng. Nắng. Cỏ ướt đọng. Lyss cuộn trên cỏ. Deven Ash ghi trong lều. Corin đứng gần cổng, canh. Bình thường — hoặc những gì bình thường ở đây, trước cổng, giữa domain và mưa.
@@ -87,7 +86,3 @@ Mười hai năm, một ngày. Một ngày khác mọi ngày. Và khác — nh�
 - **Điểm khác outline:** Ch.49 (thệ cá nhân) là beat mới — không có trong outline. Outline Arc 3 ghi ch.41-48 về Deven Ash và bản đồ, ch.49-55 về nhận thức đứng sai. Tôi đã gộp nhận thức đứng sai vào ch.41-45 (bản đồ, mạch đứt, domain co) và thêm thệ cá nhân ở ch.49 vì cần cầu nối: từ nhận thức sai → hành động đúng. Thệ cá nhân biến đứng-yên thành cam kết, tạo nền cho bước vào domain (sẽ ở batch sau).
 - **Grath:** Outline ghi Revenant Captain chiến đấu ở ch.61+. Tôi giữ Grath như đối trọng/đồng hành tạm — chiến đấu có thể xảy ra nếu vòng không mở, nhưng hiện tại xoắn ốc đang mở nên chiến đấu chưa cần.
 - **Chỉ 1 batch. Không viết thêm.**
-
-**Chương 50/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-51)

@@ -6,7 +6,6 @@ total: 60
 title: "Chương 58: Fenris"
 ---
 
-
 Fenris nói. Nói qua tường. Tường dày. Dày = không thấy. Không thấy = chỉ nghe. Nghe = đủ. Đủ với giọng già. Giọng già = chậm. Chậm = rõ.
 
 "Tôi vào Phong Quang Thánh Giáo ba mươi năm. Ba mươi = từ trẻ. Trẻ = tin. Tin = phụng sự. Phụng sự = Thẩm Vấn Giả. Thẩm Vấn Giả = tay. Tay = làm. Làm = không hỏi. Không hỏi = nhiều năm. Nhiều năm = quen. Quen = không thấy. Không thấy = lỗi."
@@ -76,10 +75,3 @@ Sera nằm. Nằm đau. Nhưng nằm. Nằm = nghỉ. Nghỉ = đếm nhịp tim
 Thệ Vang: mờ. Mờ không = không có. Có nhưng xa. Xa = kiếm ở đâu? Không biết. Cảm nhận = hướng. Hướng = phía trên. Phía trên = không xa lắm. Không xa lắm = cùng tòa nhà. Cùng tòa nhà = có thể.
 
 Đếm. Đếm tiếp.
-
----
-
-
-**Chương 58/60**
-
-[Chương kế](/works/aethermoor/trong-the/chuong-59)

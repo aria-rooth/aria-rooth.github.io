@@ -6,7 +6,6 @@ total: 60
 title: "Chương 55: Tiếng Chân"
 ---
 
-
 Hai giờ nữa. Hai giờ = ruộng hết. Ruộng hết = đất khô. Đất khô = cỏ thưa. Cỏ thưa = không che. Không che = lộ. Lộ = đi nhanh. Đi nhanh = mệt. Mệt = không dừng. Không dừng = đi tiếp.
 
 Mordren mệt. Mệt hơn. Chân trái run. Run = Kael siết chặt. Siết = đỡ. Đỡ = bước. Bước = không ngã. Không ngã = tốt.
@@ -106,7 +105,3 @@ Sera nhắm mắt. Không ngủ. Nhắm = đếm. Đếm bước. Đếm thời 
 Mắt nhắm. Thệ Vang không. Không vì kiếm xa. Kiếm xa = không nghe. Không nghe = yên. Yên lạ. Lạ = không quen. Không quen = lo. Lo không phải cảm xúc. Lo = tính. Tính xấu nhất. Xấu nhất = chết. Chết = không hoàn thành. Không hoàn thành = thất bại. Thất bại = không chấp nhận. Không chấp nhận = sống. Sống = tiếp tục.
 
 Đếm tiếp.
-
-**Chương 55/60**
-
-[Chương kế](/works/aethermoor/trong-the/chuong-56)

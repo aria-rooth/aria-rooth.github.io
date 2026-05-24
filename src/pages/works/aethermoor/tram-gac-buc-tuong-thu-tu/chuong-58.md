@@ -6,7 +6,6 @@ total: 60
 title: "Chương 58: Rò Rỉ"
 ---
 
-
 *Mở cửa hai chiều. Gió lùa. Đôi khi gió mang theo tiếng người.*
 
 Sáng thứ mười bốn. Ba người rời Trạm Gác Thứ Tư lúc bình minh. Calla dẫn đầu — Linh Hùng, chiến binh, người biết cách di chuyển trong đất địch. Vela đi giữa — cô biết đường, nhưng đường trong đầu không phải đường trên đất. Theo đi sau — mang sách, bản đồ, và đôi mắt quan sát.
@@ -90,10 +89,3 @@ Vela ngồi im. Nhìn lửa. Lửa nhỏ, không đủ sáng. Cô đếm hơi th
 Nhưng giọt đủ để cô biết: Velhar không chờ nữa. Ông ta đang nói. Nói là can thiệp. Can thiệp là ông ta lo. Lo là tốt — cho cô.
 
 **Kết chương:** Sáng ngày thứ ba. Họ đi tiếp. Vela không kể cho ai nghe giọng trong đêm. Không phải giấu — là chưa biết cần kể. Nhưng cô để kiếm sẵn tay hơn thường. Và cô đếm bước — không phải để biết đã đi bao xa, mà để biết còn bao xa đến nơi không thể quay đầu. *Bước thứ một nghìn. Bước thứ một nghìn linh một. Mảnh vỡ gần. Velhar gần hơn. Rò rỉ đã bắt đầu — và cô chưa biết đó là giọt đầu hay giọt cuối cùng trước khi mưa.*
-
----
-
-
-**Chương 58/60**
-
-[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-59)

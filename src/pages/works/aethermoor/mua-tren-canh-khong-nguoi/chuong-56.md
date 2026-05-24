@@ -6,7 +6,6 @@ total: 60
 title: "Chương 56: Varn Giữ"
 ---
 
-
 Năm đêm.
 
 Varn giữ ba điều năm đêm. Elara đếm — mỗi đêm cô hỏi, mỗi đêm anh ta đáp, và mỗi đáp đúng là tin tăng nhẹ, như mực thấm giấy, chậm nhưng thấy. Năm đêm không đẩy. Năm đêm nói — không hét. Năm đêm nhìn Lyss bước sang bên này và không cãi thứ tự.
@@ -62,10 +61,3 @@ Elara ghi vào *Người Đứng*. Hale. Thợ đào. Vợ bán cá. Con gái c�
 Ba mươi người. Mười đêm. Mỗi người được ghi — tên, việc, chết — là mỗi người không mất. Không mất như loại 1 đứng im mà không ai nhớ. Mất là khi không ai kể. Và Varn kể. Elara ghi. Kể và ghi — hai việc, cùng mục đích: cho người không biến.
 
 *Kết chương*
-
----
-
-
-**Chương 56/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-57)

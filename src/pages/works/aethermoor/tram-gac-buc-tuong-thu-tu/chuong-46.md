@@ -6,7 +6,6 @@ total: 60
 title: "Chương 46: Mơ"
 ---
 
-
 *Velhar không đến bằng hiện thân lần này. Ông ta đến bằng cách mà kẻ giữ xiềng xích luôn đến — từ bên trong.*
 
 Vela mơ.
@@ -74,10 +73,3 @@ Vela tỉnh giấc. Tháp. Lửa nhỏ. Gió Bắc ngoài cửa. Tay cô nắm m
 Velhar thân thiện. Velhar nói đúng. Velhar không hối. Velhar cho cô thời gian — vì thời gian đó phục vụ ông ta. Mỗi điều ông ta nói đều đúng theo cách mà đúng đáng sợ nhất: đúng không cần thiện. Đúng chỉ cần chính xác. Và chính xác đó — chính xác từ miệng kẻ giữ xiềng xích — là thứ khiến Vela nằm im trong bóng tối, không ngủ được nữa, không phải vì sợ, mà vì cô hiểu: Velhar không phải kẻ thù giản đơn. Ông ta là nợ. Nợ mà cô tự ký, nợ mà cô tự giữ, nợ mà ông ta thu với lãi hai trăm năm. Và trả nợ — trả nợ đúng cách — khó hơn giết kẻ thù. Vì giết xong là xong. Trả nợ xong thì phải sống với điều tiếp theo.
 
 **Kết chương:** Vela ngồi dậy. Lấy sổ. Viết thêm hai dòng dưới *Mira Ashmarch. 18 tuổi. Thần Chiến năm thứ ba:* *Velhar. Thân thiện. Không hối.* Rồi gập sổ. Đặt xuống. *Thân thiện từ kẻ giữ xiềng xích là thứ đáng sợ hơn bất kỳ Bạch Quái Thú nào. Vì quái thú chỉ muốn giết. Velhar muốn cô tiếp tục — và cô gần như muốn nghe.*
-
----
-
-
-**Chương 46/60**
-
-[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-47)

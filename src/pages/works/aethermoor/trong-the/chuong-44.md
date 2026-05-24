@@ -6,12 +6,11 @@ total: 60
 title: "Chương 44: Lira Bán Thông Tin"
 ---
 
-
 Ba ngày sau Draven.
 
 Họ đi về phía Đông — đường rừng, đường Lira chọn, đường vòng tránh tuyến tuần tra. Mordren đang đến Bắc — mười ngày biến thành bảy, vì Mordren thúc quân, vì Mordren biết Sera ở Vorthane, vì Mordren không chờ. Bảy ngày. Bảy ngày trước khi vòng vây đóng. Bảy ngày để làm gì? Sera chưa quyết định — nhưng cô biết: thông tin từ Draven cần chia. Chia với ai? Fen, Cova — qua quán Trắng. Nhưng quán Trắng mất bốn ngày gửi. Bốn ngày = quá lâu. Quá lâu khi Mordren cách bảy.
 
-Sera đi. Lira đi. Năm bước. Nhưng năm bước nay khác — năm bước nặng hơn, năm bước mà Sera cảm nhận Thệ Vang rỉ nhẹ, rỉ không từ kiếm, từ Lira. Lo. Lo từ đêm Draven — lo dày hơn, lo đặc hơn, lo kiểu người lo khi lo không còn chỉ là lo cho người khác, lo cho mình. Lo mới. Sera ghi nhận: Lira thay đổi sau Draven. Lira biết Đoàn cô tan vì Giáo Hội — biết làm lo đặc. Đặc = nặng. Nặng = khác bước. Khác bước = khác người đi cạnh.
+Sera và Lira đi cạnh nhau, cách năm bước. Nhưng năm bước nay khác — nặng hơn. Sera cảm nhận Thệ Vang rỉ nhẹ từ Lira, không phải từ kiếm. Lo lắng. Lo lắng từ đêm Draven dày hơn, đặc hơn — lo lắng của người không còn chỉ lo cho người khác, mà cả cho chính mình. Sera ghi nhận: Lira thay đổi sau Draven. Biết Đoàn cô tan vì Giáo Hội làm nỗi lo đặc lại. Đặc là nặng. Nặng là khác. Khác là người đi cạnh nay không còn như trước.
 
 Đêm thứ hai sau Draven. Sera tỉnh — không phải tỉnh vì tiếng, tỉnh vì Thệ Vang. Thệ Vang cảnh báo. Cảnh báo từ ngoài — từ xa, từ hướng Đông, từ thứ gì đó đang đến. Không phải Thẩm Vấn Giả — Thẩm Vấn Giả cách bảy ngày. Thứ khác. Thứ gần hơn. Thứ đang đến.
 
@@ -21,15 +20,15 @@ Sera đứng. Rút kiếm — không phải rút để đánh, rút để Thệ 
 
 Cô đi. Kiếm trên tay. Đi về phía âm thanh — không phải âm thanh tai nghe, âm thanh Thệ Vang nghe: nhịp tim, nhịp thở, nhịp bước. Người sống. Người sống mang Linh Nguyên nhẹ — nhẹ thường dân, nhẹ không đáng lo, nhưng thường dân không theo người trong rừng ban đêm. Thường dân ngủ. Thường dân không theo. Ai theo?
 
-Trăm bước. Năm mươi. Hai mươi. Mười.
+Một trăm bước. Năm mươi. Hai mươi. Mười bước cuối.
 
 Sera vòng — vòng phải, qua bụi, lén, lén kiểu Aldric dạy: bước nhẹ như bước không bước, chân trước chạm trước gót, gót chạm trước mũi, mũi chạm như mũi mũi kiếm chạm da — đủ để biết, không đủ để đau. Bóng. Người.
 
-Nam. Trung niên. Áo nâu, quần thô, giày đường — không phải giày rừng, giày người ở thị trấn. Mặt tròn, mắt nhỏ, tay không vũ khí. Không chiến đấu. Chỉ theo. Theo kiểu người theo khi được thuê theo — không phải vì ghét, vì tiền.
+Người đó là nam, trung niên, mặc áo nâu quần thô, đi giày đường — không phải giày rừng, loại người thị trấn hay mang. Mặt tròn, mắt nhỏ, tay không vũ khí. Không đến để chiến đấu. Chỉ đến để theo dõi. Theo kiểu người được thuê — không vì ghét, vì tiền.
 
 Sera bước ra. Kiếm sáng xanh — đủ để người kia thấy, đủ để người kia biết: bước sai là bước cuối.
 
-Người kia quay — quay nhanh, quay sợ, quay kiểu người quay khi không nghĩ mình bị phát hiện. Hắn nhìn kiếm. Nhìn sáng xanh. Nhìn Sera. Mắt mở — mở sợ, mở kiểu người mở khi thấy thứ không nên thấy.
+Người kia quay — quay nhanh, quay sợ, quay kiểu người quay khi không nghĩ mình bị phát hiện. Hắn nhìn kiếm, nhìn ánh sáng xanh lưỡi thép, rồi nhìn Sera. Đôi mắt mở to — mở vì sợ hãi, mở kiểu người ta mở khi trông thấy thứ không nên trông thấy.
 
 "Người nào thuê anh?" Sera hỏi. Một câu. Không cần hai.
 
@@ -71,7 +70,7 @@ Năm từ. Năm từ nặng hơn tệp da bọc dưới áo Sera. Năm từ mà 
 
 "Em trai. Tên gì?" Sera hỏi. Không phải *tôi xin lỗi.* Xin lỗi không cứu em trai. Tên cứu.
 
-"Kael. Hai mươi tuổi. Giáo Hội giữ hai năm. Tôi — đổi tin. Tin về Free Sword không thuần phục. Vị trí. Hành động. Ai gặp ai. Đổi Kael sống."
+"Kael. Hai mươi tuổi. Giáo Hội giữ hai năm. Tôi — đổi tin. Tin về các Tự Do Kiếm Sĩ không chịu tuân phục. Vị trí. Hành động. Ai gặp ai. Đổi Kael sống."
 
 Sera nghe. Nghe Lira nói. Nghe từng từ, từng khoảng, từng hụt hơi. Lira bán tin. Lira bán vị trí Sera. Lira — người đi cùng cô bảy tuần, người canh cô đêm, người đánh bên cô, người không hứa ở lại nhưng ở — Lira bán tin về cô cho Giáo Hội. Đổi em trai.
 
@@ -89,9 +88,9 @@ Lira không ngạc nhiên. Hoặc ngạc nhiên nhưng không để ngạc nhiê
 
 Sáu giờ. Sáu giờ để làm gì? Rời — rời ngay, đi xa, đi trước khi Thẩm Vấn Giả đến. Hoặc — đánh. Đánh đội đến: đội nhỏ, tuần tra, không phải bốn mươi người Mordren. Đánh được. Nhưng đánh không giải quyết Lira bán tin. Đánh = vẫn Lira bán tin. Vẫn Lira bán tin = vẫn vấn đề.
 
-Hoặc — giải quyết Lira. Giải quyết = giải quyết Kael. Lấy Kael ra. Kael ra = Lira không còn nợ. Lira không còn nợ = Lira không bán tin. Lira không bán tin = Sera không bị theo. Sợi dây: Kael → Lira → Sera. Cắt Kael khỏi Giáo Hội = cắt dây.
+Hoặc — giải quyết Lira. Giải quyết = giải quyết Kael. Cứu Kael ra. Kael thoát = Lira không còn nợ. Lira không còn nợ = Lira không bán tin. Lira không bán tin = Sera không bị theo. Sợi dây: Kael → Lira → Sera. Cắt Kael khỏi Giáo Hội = cắt dây.
 
-Sáu giờ. Không đủ để lấy Kael ra — Kael ở đâu? Lira biết. Lira sẽ nói. Nhưng sáu giờ không đủ. Đủ để rời. Đủ để tính. Đủ để quyết định.
+Sáu giờ. Không đủ để cứu Kael — Kael ở đâu? Lira biết. Lira sẽ nói. Nhưng sáu giờ không đủ. Đủ để rời. Đủ để tính. Đủ để quyết định.
 
 "Kael ở đâu?" Sera hỏi.
 
@@ -101,7 +100,7 @@ Trạm gác Caelmyr. Hai canh. Đơn giản — đơn giản hơn đội Thẩm 
 
 Sera tính. Sáu giờ. Rời đây: một giờ. Đến Caelmyr: ba ngày đi nhanh. Thẩm Vấn Giả đến: sáu giờ. Sáu giờ sau: trại này bị kiểm tra, không ai, họ đi tiếp. Tiếp tục đi: ba ngày, không bị theo (thám tử tư đã thả, không gửi thư hôm nay), đến Caelmyr, lấy Kael. Khoảng cách: ba ngày đi + thời gian lấy Kael + thời gian rời Caelmyr. Tổng: bốn hoặc năm ngày. Trong bốn năm ngày: Mordren đến Bắc. Vòng vây thay đổi. Biến số nhiều. Nhưng biến số nhiều không nghĩa là không làm — biến số nhiều nghĩa là cần linh hoạt, và linh hoạt là thứ Sera học từ sáu tuần lang thang.
 
-"Chúng ta sẽ lấy em trai cô ra," Sera nói.
+"Chúng ta sẽ cứu em trai cô ra," Sera nói.
 
 Không phải câu hỏi. Không phải đề xuất. Nói. Nói kiểu người nói khi quyết định đã thành — đá, không cát.
 
@@ -118,10 +117,3 @@ Thệ Vang: yên. Yên hoàn toàn — yên mà cô chưa nghe kể từ khi Đo
 *"Đếm tiếp."*
 
 Hai từ. Hai từ mà cô không hiểu hết nghĩa ngay — nhưng đủ để biết: thề ước mới vừa sinh. Không phải thề ước thừa hưởng từ Đoàn. Thề ước của cô. Riêng cô. Sinh từ quyết định đêm nay. Sinh từ *vì nó đúng.* Sinh từ lựa chọn không có trong sách quy tắc.
-
----
-
-
-**Chương 44/60**
-
-[Chương kế](/works/aethermoor/trong-the/chuong-45)

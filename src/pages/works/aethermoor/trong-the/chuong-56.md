@@ -6,7 +6,6 @@ total: 60
 title: "Chương 56: Đường Ra"
 ---
 
-
 Bình minh chưa lên. Caelmyr tối. Sera đi trước — chân kiểu Aldric: nhẹ như không bước. Đêm trước = bốn người. Đêm nay = năm. Năm với Mordren Chấp Sự. Mordren đi chậm — chân trái yếu, chân phải yếu hơn. Kael đỡ trái, Calla đỡ phải. Hai người đỡ = Mordren đi. Đi = chậm. Chậm = tiếng. Tiếng = nguy hiểm.
 
 Lira sau năm bước — khoảng cách an toàn. Nếu phía trước gặp, Lira chưa gặp = chạy = báo = phía sau biết = chuẩn bị = sống.
@@ -128,10 +127,3 @@ Sera nhắm mắt. Không ngủ. Nhắm = đếm. Đếm bước. Đếm thời 
 Mắt nhắm. Thệ Vang không. Không vì kiếm xa. Không nghe = yên. Yên lạ. Lạ = lo. Lo = tính xấu nhất. Xấu nhất = chết. Chết = không hoàn thành. Không hoàn thành = thất bại = không chấp nhận. Không chấp nhận = sống. Sống = tiếp tục.
 
 Đếm tiếp.
-
----
-
-
-**Chương 56/60**
-
-[Chương kế](/works/aethermoor/trong-the/chuong-57)

@@ -6,7 +6,6 @@ total: 60
 title: "Chương 42: Hiểu"
 ---
 
-
 *Không phải Velhar khóa cô ở đây. Là cô tự khóa.*
 
 Vela trở về tháp. Calla thức — cô ta nhìn Vela và biết điều gì đã xảy ra, không phải chi tiết, mà là loại: thay đổi lớn đã đến. Cô ta không hỏi. Vela gật đầu nhẹ — "tôi ổn" — và đó không phải lời dối, chỉ là cách cô ấy nói "tôi sẽ xử lý." Calla chấp nhận và quay lại vị trí.
@@ -64,10 +63,3 @@ Vela nhìn tay mình. Tay đã buông gối. Tay đang mở. Ngửa lên, như �
 Nói ra. Lần đầu tiên. Sự thật cuối cùng: cô tự giữ mình. Lời nguyền giữ sức mạnh, giữ ký ức — nhưng ý chí ở lại là của cô. Lựa chọn ở lại là của cô. Hai trăm năm đứng canh, hai trăm năm chiến đấu, hai trăm năm không ngủ, không nghỉ, không cho phép bản thân muốn thứ gì ngoài việc đứng — đó là cô. Không phải thần. Không phải hợp đồng. Cô.
 
 **Kết chương:** Lửa nhỏ. Hai người. Im lặng. Và im lặng đó — im lặng sau khi nói hết, sau khi nghe hết — là thứ mà Vela chưa từng có. Hai trăm năm cô im lặng một mình. Bây giờ cô im lặng với ai đó, và khác. Khác vì im lặng một mình là trống. Im lặng với người là đầy — đầy đủ để ngồi trong nó mà không cần chạy, không cần chiến đấu, không cần đếm giây đến lần lành tiếp theo. Chỉ ngồi. Với sự thật. Và sự thật đó, lần đầu tiên, không nặng đến mức cô không mang nổi.
-
----
-
-
-**Chương 42/60**
-
-[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-43)

@@ -6,7 +6,6 @@ total: 60
 title: "Chương 52: Hầm Ngoài"
 ---
 
-
 Đêm thứ năm. Caelmyr ngủ — không im, chỉ yếu. Tiếng chó xa, tiếng cửa đóng, tiếng người say ngã. Không nguy hiểm. Nguy hiểm = tiếng nhiều chân. Nhiều chân = Thẩm Vấn Giả. Calla đếm: ban đêm trụ sở Bắc, hai canh ngoài, một trong, tuần tra mỗi hai giờ. Hai giờ = cửa sổ. Đủ.
 
 Sera đi trước. Chân kiểu Aldric: nhẹ, nhẹ như không bước. Lira sau ba bước. Kael sau Lira năm bước. Calla cuối — chậm nhưng chắc, chắc vì biết đường.
@@ -174,7 +173,3 @@ Sera đi. Đi và đếm. Đếm bước. Đếm mảnh. Đếm ngày đến Pal
 ---
 
 *→ [Chương 53: Cửa Phía Tây](2b-ch53.md)*
-
-**Chương 52/60**
-
-[Chương kế](/works/aethermoor/trong-the/chuong-53)

@@ -6,7 +6,6 @@ total: 60
 title: "Chương 38: Bên Trong Gọi"
 ---
 
-
 Đêm thứ sáu sau khi cô bắt đầu thử.
 
 Elara thiền — thói quen, nền tảng, mười hai năm nền tảng. Kênh Linh Nguyên mở, chảy qua cổng, chảy vào mạch, chảy vào sâu. Thiền thường là im lặng — dòng chảy êm, đều, không gợn. Nhưng đêm nay — gợn.
@@ -66,10 +65,3 @@ Elara chạm tóc cô bé. Lạnh — lạnh của người chết, không có n
 Lyss nhìn cô. Rồi gật đầu — tin, không phải vì lời hứa chắc, mà vì người nói hứa thật. Và ở nơi này, giữa domain thần chết và bốn mươi người đứng, thật quý hơn chắc.
 
 *Kết chương*
-
----
-
-
-**Chương 38/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-39)

@@ -6,7 +6,6 @@ total: 60
 title: "Chương 48: Lời Hồi Đáp"
 ---
 
-
 Mưa trở lại.
 
 Ngày thứ sáu — đêm thứ sáu — trời đổ mưa. Không phải mưa nhỏ, không phải mưa bụi. Mưa lớn. Mưa xối. Mưa như trời chụp nước xuống, như mạch trên cao vỡ, như domain bên trong khóc — nếu domain biết khóc, nếu thần biết khóc, nếu mười hai năm mưa mà cô đứng trong là mưa của thần rơi.
@@ -72,10 +71,3 @@ Mưa tạnh. Nửa đêm. Cổng rỉ giảm — giãn — và Elara nghỉ gi�
 Và Elara — trong đêm tạnh mưa, trong giãn domain, trong nhịp chậm của thần thở — nghĩ: vào. Khi nào? Chưa. Nhưng gần hơn hôm qua. Gần hơn hôm kia. Mỗi đêm gần hơn một chút. Và gần hơn — như domain co — là thứ không ngừng, chỉ chậm, và chậm không nghĩa không đến.
 
 *Kết chương*
-
----
-
-
-**Chương 48/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-49)

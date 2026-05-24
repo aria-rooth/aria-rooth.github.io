@@ -6,7 +6,6 @@ total: 60
 title: "Chương 53: Tiền Lệ"
 ---
 
-
 *Người trước cô đã đối diện thần — và sống. Không nhiều. Nhưng có.*
 
 Ba ngày sau. Theo tìm thấy nó.
@@ -70,10 +69,3 @@ Anh ta định cãi. Rồi nhìn cô. Thấy. Không phải thấy mệt — th�
 Anh ta gật đầu. Đóng sách. Nằm xuống. Và trong vòng vài phút — tiếng thở đều. Anh ta cần ngủ. Cô biết. Cô cũng cần — nhưng cô cần suy nghĩ hơn.
 
 **Kết chương:** Vela ngồi một mình với cuốn sách cổ. Lật lại trang tiền lệ. Đọc lại: người mở kênh, đọc ngược, tìm mảnh vỡ, phá nút — nhưng mất tâm trí. Mất bản thân. Đáng không? *Cô chưa biết. Nhưng cô biết điều này: tiền lệ cho con đường. Con đường hẹp. Hẹp nhưng có. Có — khi không còn lựa chọn nào rộng hơn — là đủ để bước.*
-
----
-
-
-**Chương 53/60**
-
-[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-54)

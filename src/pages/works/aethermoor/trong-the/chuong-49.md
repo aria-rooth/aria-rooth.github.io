@@ -6,7 +6,6 @@ total: 60
 title: "Chương 49: Tin Từ Bắc"
 ---
 
-
 Hai ngày sau rời Caelmyr. Hai ngày đi về phía Nam — xa trạm gác, xa trụ sở, xa nơi Thẩm Vấn Giả sẽ kiểm tra khi phát hiện Kael mất. Hai ngày Kael phục hồi — phục hồi chậm, phục hồi kiểu người phục hồi khi hai năm hầm giam ăn thịt cơ thể, nhưng phục hồi. Kael đi bộ xa hơn ngày đầu: năm mươi bước, rồi một trăm, rồi không đếm. Kael ăn nhiều hơn: ba phần thay một, uống nhiều hơn, ngủ nhiều hơn. Cơ thể chữa. Chữa chậm nhưng chữa.
 
 Calla đi cùng — đi không hỏi, đi không chậm, đi kiểu người đi khi đi là lựa chọn duy nhất không chết. Calla biết Sera sẽ quay lại Caelmyr. Calla biết vì Calla nghe Thệ Thiết đáp, nghe như Sera nghe, nghe kiểu người nghe khi biết điều mình biết có trọng. Calla không hỏi Sera sẽ làm gì — Calla biết: Sera sẽ tìm Mordren Chấp Sự. Tìm = đối mặt. Đối mặt = đánh hoặc đàm. Đàm cần thông tin. Calla = thông tin. Thông tin sống.
@@ -54,10 +53,3 @@ Sera quay nhìn Lira — Lira ngủ, ngủ nhẹ, tay trên bao dao. Sera nghe T
 Kael thức — thức từ tiếng nói. Kael nằm, mắt mở, nghe. Kael hai năm hầm — hai năm đủ để biết nghe là sống. Kael nghe: trụ sở, phụ tá, Linh Chủ. Kael không hỏi. Kael biết: hỏi không giúp. Biết giúp. Biết = sống. Kael biết: chị anh đang đi vào chỗ khó. Kael không cản — cản không phải quyền Kael, quyền Kael là đi theo và không chậm.
 
 Thệ Vang đêm: khác. Khác vì có thêm âm — âm từ Calla, âm từ thề ước Mordren Chấp Sự, âm từ người sống mà Thệ Thiết đáp. Bốn mươi tám mảnh chết + một mảnh sống cộng hưởng = bốn mươi chín? Không. Không bốn mươi chín — vì mảnh Calla không nằm trong kiếm. Mảnh Calla nằm ngoài, cộng hưởng, nhưng không nhập. Chưa nhập. Nhập = khi nào? Khi Calla chết? Hoặc khi thề ước hoàn thành? Hoặc khi Thệ Thiết chấp nhận? Sera chưa biết. Chưa biết = ghi nhận. Ghi nhận = đếm sau.
-
----
-
-
-**Chương 49/60**
-
-[Chương kế](/works/aethermoor/trong-the/chuong-50)

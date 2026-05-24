@@ -6,7 +6,6 @@ total: 60
 title: "Chương 43: Lựa Chọn"
 ---
 
-
 *Lần đầu tiên trong hai trăm năm, cô chủ động quyết định điều gì đó.*
 
 Hai ngày. Vela tuần tra, chiến đấu, làm mọi thứ thường làm. Nhưng bên trong đang xử lý. Như máy nghiền đá — chậm, liên tục, không dừng — tâm trí cô quay đi quay lại cùng câu hỏi: bây giờ thì sao?
@@ -54,10 +53,3 @@ Anh ta hiểu. Không phải là từ bỏ, cũng không phải bất lực ti�
 Họ cùng nhau chuẩn bị cho những gì sắp đến. Vela sửa bẫy — bẫy mới, bẫy linh lực, bẫy Linh Việt. Kiếm cô cắm xuống đá và Aether chảy qua lưỡi, khắc đường dẫn, khắc điểm nghẽn, khắc chỗ mà kẻ thù sẽ dừng và cô sẽ chém. Cô không hỏi Theo cần gì — anh ta tự lấy, tự làm, tự sắp xếp. Họ không cần hỏi. Họ biết. Vài tháng ở cạnh nhau, và họ biết — không phải biết mọi thứ, mà là biết đủ để không cản nhau, đủ để bổ sung, đủ để làm việc cùng nhau mà không cần nói.
 
 Calla tham gia. Cô ta không hỏi tại sao Vela thay đổi — cô ta chỉ thấy, và chấp nhận, và làm. Linh Hùng trong trận sắp đến cần mọi chuẩn bị có thể có.
-
----
-
-
-**Chương 43/60**
-
-[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-44)

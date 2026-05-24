@@ -6,7 +6,6 @@ total: 60
 title: "Chương 47: Nhịp Mới"
 ---
 
-
 Ngày thứ năm không mưa. Và Elara bắt đầu một nhịp mới.
 
 Không phải nhịp cũ — sáng kiểm Linh Nguyên, trưa tuần tra, chiều ghi chép, tối ngồi nhìn. Nhịp cũ là nhịp gác — thụ động, giữ, đứng. Nhịp mới là nhịp hành — chủ động, thử, bước. Cô không bỏ nhịp cũ. Cô thêm nhịp mới vào giữa.
@@ -92,10 +91,3 @@ Grath nhìn lại. Lâu. Rồi gật đầu. *Tôi chờ. Nhưng không chờ v�
 Hoàng hôn chìm. Đêm lên. Năm mươi người đứng bên trong, Grath giữ sâu, Elara giữ gần, và giữa họ là cổng — không phải ranh giới nữa, mà là cầu. Cầu mà hai người giữ từ hai phía. Và cầu — nếu một phía buông — sập.
 
 *Kết chương*
-
----
-
-
-**Chương 47/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-48)

@@ -6,7 +6,6 @@ total: 60
 title: "Chương 36: Nút và Người"
 ---
 
-
 Kiếm trong tay. Mười hai năm trong vỏ, và giờ — lưỡi phản chiếu ánh sáng không có nguồn, sáng của bình minh vừa qua, sáng của sương trên cỏ, sáng của thứ gì đó không hoàn toàn thuộc về ngày. Elara đứng trước cổng và cảm nhận khác.
 
 Không phải vì kiếm. Kiếm là công cụ — cô biết điều đó, biết từ năm mười sáu tuổi khi cô cầm kiếm lần đầu, biết từ hai mươi lăm năm sống cạnh lưỡi thép. Kiếm không thay đổi người. Người thay đổi kiếm. Và cô đã thay đổi — mười hai năm đứng yên thay đổi cô theo cách mà chiến đấu không bao giờ làm, theo cách mà lưỡi kiếm trong vỏ không biết, chỉ cô biết: cô khác. Cô chậm hơn. Kiên nhẫn hơn. Rõ hơn. Rõ về thứ cô muốn — và giờ cô muốn.
@@ -58,10 +57,3 @@ Cổng đứng. Mạch chảy. Deven Ash đã bắt đầu nói về domain — 
 Và Elara — lần đầu tiên trong mười hai năm — không chỉ đứng trước cổng. Cô *làm việc* với nó.
 
 *Kết chương*
-
----
-
-
-**Chương 36/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-37)

@@ -6,7 +6,6 @@ total: 60
 title: "Chương 59: Bước Vào"
 ---
 
-
 Đêm thứ mười. Varn kể người cuối cùng.
 
 *Người thứ ba mươi. Tên Sage.* Giọng Varn nhẹ hơn mười đêm trước — nhẹ của người sắp xong. *Sage — thợ nước. Quản lý bơm. Không vợ, không con. Nuôi mèo hoang ngoài mỏ. Bảy mươi tuổi. Chết cuối — không phải vì đá, vì nước. Nước tràn. Sage ở lại giữ bơm, để nước chậm, để người khác chạy. Chết đứng. Tay vẫn trên bơm.*
@@ -40,10 +39,3 @@ Mười hai năm cô đứng một mình. Giờ — đêm sau — Varn bước q
 Hướng. Chưa đến. Nhưng hướng — rõ — là đủ cho đêm nay.
 
 *Kết chương*
-
----
-
-
-**Chương 59/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-60)

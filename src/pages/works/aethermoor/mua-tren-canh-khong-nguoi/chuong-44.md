@@ -6,7 +6,6 @@ total: 60
 title: "Chương 44: Sóng Dưới"
 ---
 
-
 Sáng. Elara thiền — kênh mở, Linh Nguyên chảy, mạch dưới chân đọc như sách mở. Nhưng lần này cô không chỉ đọc mạch quanh cổng. Cô đọc xa hơn.
 
 Linh Vương cho cô phạm vi — không vô tận, nhưng đủ để chạm ranh giới nhận thức. Cô đẩy ý chí ra xa: mười bước, hai mươi, năm mươi, trăm. Linh Nguyên dưới chân mở ra như bản đồ — mạch lớn, mạch nhỏ, mạch phụ, điểm nối, điểm rẽ, và ở xa — rất xa — mạch đứt.
@@ -76,10 +75,3 @@ Lạnh. Không lạnh đá, không lạnh rỉ — lạnh hiểu. Elara nhìn v�
 Mười hai năm cô nghĩ mình canh cổng. Canh đá. Canh mạch. Giờ cô biết: cô canh thần. Thần đang chìm. Và thần phản ứng.
 
 *Kết chương*
-
----
-
-
-**Chương 44/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-45)

@@ -6,7 +6,6 @@ total: 60
 title: "Chương 37: Sau Breakthrough"
 ---
 
-
 Linh Phong không giống Sera tưởng.
 
 Cô tưởng breakthrough là leo thang — bậc năm lên bậc sáu, cao hơn, mạnh hơn. Nhưng Linh Phong không phải thang. Linh Phong là mở cửa — từ trong ra ngoài. Trước: cô dùng Linh Nguyên như nước trong bình — bao nhiêu, dùng bấy nhiêu. Sau: cô đứng cạnh suối — chảy không hết, nhưng lấy quá nhanh thì tràn, tràn thì vỡ.
@@ -17,7 +16,7 @@ Họ đi về phía Đông — đường Lira chọn, đường vòng tránh tuy
 
 Chiều. Họ dừng bên suối — cùng suối, khác đoạn. Sera ngồi. Lira ngồi — ghế đá tự nhiên, mòn mờ, ai đó từng ngồi đây trước họ. Im lặng. Nước chảy. Gió thổi. Sera để Thệ Vang chảy nhẹ — không lọc, không tập trung, chỉ chảy. Và trong dòng chảy nhẹ đó, cô nghe:
 
-*Hình.* Không phải hình nhìn — hình cảm. Cảm không gian quanh cô rộng hơn thường. Trước: cô cảm nhận Linh Nguyên trong phạm vi bước chân — năm, mười, tối đa mười lăm bước. Sau: cô cảm nhận Linh Nguyên trong phạm vi rộng hơn — năm mươi bước? Trăm? Không rõ ranh giới, nhưng ranh giới nới, và nới nghĩa là cô biết thêm — biết mạch đất dưới suối chảy hướng Bắc, biết cây sồi phía trên có Linh Nguyên cũ (cây già, Linh Nguyên tích trong rễ, chậm, đặc), biết Lira bên cạnh không có Linh Nguyên đáng kể (Free Sword, không Thệ Liên, không Thệ Thiết — nhưng có thứ gì đó, sống, mỏng, như hơi ấm cơ thể, và cô cảm nhận hơi ấm đó từ năm bước xa).
+*Hình.* Không phải hình nhìn — hình cảm. Cảm không gian quanh cô rộng hơn thường. Trước: cô cảm nhận Linh Nguyên trong phạm vi bước chân — năm, mười, tối đa mười lăm bước. Sau: cô cảm nhận Linh Nguyên trong phạm vi rộng hơn — năm mươi bước? Trăm? Không rõ ranh giới, nhưng ranh giới nới, và nới nghĩa là cô biết thêm — biết mạch đất dưới suối chảy hướng Bắc, biết cây sồi phía trên có Linh Nguyên cũ (cây già, Linh Nguyên tích trong rễ, chậm, đặc), biết Lira bên cạnh không có Linh Nguyên đáng kể (Tự Do Kiếm Sĩ, không Thệ Liên, không Thệ Thiết — nhưng có thứ gì đó, sống, mỏng, như hơi ấm cơ thể, và cô cảm nhận hơi ấm đó từ năm bước xa).
 
 "Breakthrough cảm giác thế nào?" Lira hỏi. Giọng Lira bình — bình vì Lira không hỏi tò mò, Lira hỏi thực dụng. Biết cảm giác breakthrough = biết cách đối phó khi gặp người breakthrough.
 
@@ -52,10 +51,3 @@ Cô tính nhanh. Tu viện: hai mươi phút chạy từ đây. Thẩm Vấn Gi�
 Lira nhìn Sera. Cô ta thấy: Sera đứng kiểu đứng khi Sera quyết định. Kiểu đứng cứng. Kiểu đứng mà chân không di chuyển vì chân đã biết đi đâu — chỉ cần bước. Lira đã thấy kiểu đứng này trước: ở nhà kho Vorthane, khi Sera quyết định hợp tác. Ở rãnh, khi Sera quyết định đánh thay tránh. Lira biết: Sera quyết định chậm — nhưng khi quyết định, quyết định là đá, không phải cát. Đá không đổi hình. Cát tản ra.
 
 "Đi," Sera nói.
-
----
-
-
-**Chương 37/60**
-
-[Chương kế](/works/aethermoor/trong-the/chuong-38)

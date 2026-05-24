@@ -6,7 +6,6 @@ total: 60
 title: "Chương 43: Ngày Khô"
 ---
 
-
 Ba ngày không mưa.
 
 Ba ngày — và Elara nhận ra cô đã quên mặt trời trông thế nào khi không có mây. Trắng. Sáng. Gắt. Cỏ xanh dưới nắng nhưng cỏ vàng trên ngọn, và gió bắc không mang mưa mà mang bụi, và bụi dính vào cổng, vào kiếm, vào tóc, vào nhật ký, và mọi thứ khô — khô theo cách mà mười hai năm mưa không cho cô biết: khô mỏng, khô giòn, khô như giấy cũ dễ cháy.
@@ -90,10 +89,3 @@ Cô ghi vào *Người Đứng*: *Ba cổng. Một tan. Một mỏng. Nút đây
 Chưa có đáp. Nhưng có câu hỏi mới — và câu hỏi mới đôi khi là bước tiến lớn hơn đáp cũ.
 
 *Kết chương*
-
----
-
-
-**Chương 43/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-44)

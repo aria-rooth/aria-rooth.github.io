@@ -6,7 +6,6 @@ total: 60
 title: "Chương 48: Người Biết Quá Nhiều"
 ---
 
-
 Bốn người rời Caelmyr. Bốn — nhiều hơn hai, nhiều hơn ba, bốn là đội nhỏ nhưng bốn là đội đủ để ai thấy nhớ. Sera không thích bốn. Bốn = chậm hơn, ồn hơn, lộ hơn. Nhưng bốn = cần. Kael cần vì Kael là lý do đến. Phụ nữ cần vì Thệ Vang đáp, và Thệ Vang đáp không phải trùng hợp — Thệ Vang không trùng hợp, Thệ Vang chỉ kết nối khi kết nối đúng.
 
 Phụ nữ tên Calla. Calla không nói nhiều trong năm giờ đầu — năm giờ đi đêm, năm giờ rời Caelmyr, năm giờ mà Kael hỏi ba lần "chúng ta đi đâu" và Lira đáp một lần "im" rồi không đáp lại. Calla đi — đi chậm nhưng đi, đi kiểu người đi khi đi là lựa chọn duy nhất giữa đi và chết trong hầm. Calla năm mươi tuổi, Calla thẳng lưng, Calla mắt xanh nhìn thẳng — nhìn thẳng kiểu người nhìn khi không có gì phải nhìn xiên.
@@ -80,10 +79,3 @@ Bảy ngày. Hoặc ít hơn. Hoặc hơn. Biến số. Nhưng biến số có c
 "Chúng ta cần đi," Sera nói. Không nói đi đâu — đi đâu đã rõ: trụ sở Bắc, Caelmyr, tầng dưới, Mordren Chấp Sự. Nhưng không hôm nay — hôm nay rời Caelmyr, hôm nay xa Thẩm Vấn Giả, hôm nay nghỉ. Ngày mai: tính. Ngày kia: hành động.
 
 Thệ Vang: âm. Âm mới — âm từ thề ước Calla, âm từ Mordren Chấp Sự, âm từ người sống mà Thệ Thiết đáp. Bốn mươi tám mảnh. Nhưng bốn mươi tám không còn đủ — vì Thệ Thiết đang kết nối rộng hơn, rộng ra khỏi người chết, rộng đến người sống mang thề ước thật. Rộng = khác. Khác = mới. Mới = chưa biết hết. Chưa biết hết = cẩn thận. Cẩn thận = sống. Sống = đếm tiếp.
-
----
-
-
-**Chương 48/60**
-
-[Chương kế](/works/aethermoor/trong-the/chuong-49)

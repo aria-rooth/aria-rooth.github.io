@@ -6,7 +6,6 @@ total: 60
 title: "Chương 40: Giữa Hai Phía"
 ---
 
-
 Sáng. Deven Ash đã thức cả đêm — cô ta ghi chép từ lúc cổng kêu đến lúc Elara đọng kiếm, và giờ tay cô ta mỏi, sổ đầy nửa, bút cần mực mới. Nhưng mắt cô ta không mỏi — mắt sáng, đói, đói biết, như luôn.
 
 Họ ngồi trong lều. Trà. Lạnh. Gió bắc không ngừng từ đêm qua — hoặc Elara mới nhận ra, vì đêm qua cô bận hơn để ý gió. Cô uống trà. Nóng. Ấm tay. Đôi khi ấm tay đủ để nghĩ rõ hơn.
@@ -94,7 +93,3 @@ Arc 2 kết — nhưng không phải bằng quyết định, mà bằng câu h�
 **Ch.39 — Lần Đầu:** Revenant Captain — tension tốt. Đối đầu bằng ý chí, không combat vật lý — nhịp chậm đúng voice dreamy. Lyss nắm tay Elara, Corin đứng bên — relationship beat đẹp. Không có note lớn.
 
 **Ch.40 — Giữa Hai Phía:** Lyss hỏi "tại sao không cho qua" — beat moral ambiguity tốt. Kết chapter "đứng giữa hai phía" — intentional, giữ. Nhưng đoạn Elara và Deven Ash nói về Revenant trong lều (chiều) có phần lặp ý đã nói ở ch.38–39. Có thể cắt ngắn hoặc chuyển sang action/observation để prose không chậm quá.
-
-**Chương 40/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-41)

@@ -6,7 +6,6 @@ total: 60
 title: "Chương 41: Sáng Khác"
 ---
 
-
 Sáng. Nhưng khác.
 
 Elara nhận ra khác trước khi mở mắt — không phải ánh sáng, không phải âm thanh, mà là Linh Nguyên. Dòng dưới chân cô, mạch quen mười hai năm, chảy theo hướng khác. Không lớn — không đổi hướng hoàn toàn, chỉ lệch, như sông lùi bờ một vài phân, như gió đổi tần một phần nốt. Nhưng cô là người dán tay vào mạch, cô là nhiên liệu, cô là phần của cơ chế — và cơ chế lệch nghĩa là cô lệch, và cô lệch nghĩa là thứ gì đó đã đẩy, và đẩy đủ mạnh để dịch dòng thì không phải đẩy nhẹ.
@@ -70,10 +69,3 @@ Elara không nói thêm. Cô đứng dậy, đi tuần tra — lần đầu tiê
 Cách dài hạn nằm bên trong. Nhưng bên trong là domain. Và domain muốn cô vào.
 
 *Kết chương*
-
----
-
-
-**Chương 41/60**
-
-[Chương kế](/works/aethermoor/mua-tren-canh-khong-nguoi/chuong-42)

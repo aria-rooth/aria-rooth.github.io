@@ -6,7 +6,6 @@ total: 60
 title: "Chương 44: Vũ Khí"
 ---
 
-
 *Lần đầu tiên, cô hỏi về điều khoản thay vì chỉ tuân.*
 
 Velhar hiện thân vào ban ngày — không phải ban đêm, không phải trong chiến đấu. Giữa ban ngày, giữa tháp, bóng dáng tối đứng đối diện Vela. Không phải dạng năng lượng — mà là hiện thân thật. Có thể nhìn thấy, có thể nghe, có thể đối đầu.
@@ -60,10 +59,3 @@ Calla nhìn cô. Muốn hỏi — hỏi nhiều — nhưng không hỏi. Cô ta 
 Vela nhìn Calla ghi. Nhìn cách bút chạy, cách tay cô ta run nhẹ — run còn lại từ hiện diện thần — cách cô ta cắn môi để tập trung. Calla mạnh. Nhưng mạnh không nghĩa là không sợ. Và sợ đó — sợ mà cô ta vẫn ghi chép — là dũng cảm thật. Dũng cảm không phải không sợ. Dũng cảm là sợ mà vẫn làm.
 
 **Kết chương:** Velhar rời đi không phải vì thua — mà vì nhận ra điều này sẽ phức tạp hơn ông ta tính toán. Vũ khí đã biết mình là vũ khí. Và vũ khí biết — chọn đứng khác với bị đứng. Vela đứng nhìn theo bóng dáng tan. Lần đầu tiên trong hai trăm năm, cô đang nhìn về phía trước thay vì chỉ nhìn đến trận tiếp theo. Phía trước có gì, cô chưa biết. Nhưng cô biết mình sẽ bước tới, không phải vì bị đẩy, mà vì chọn bước.
-
----
-
-
-**Chương 44/60**
-
-[Chương kế](/works/aethermoor/tram-gac-buc-tuong-thu-tu/chuong-45)

@@ -6,7 +6,6 @@ total: 60
 title: "Chương 40: Điều Lira Không Nói"
 ---
 
-
 Đêm. Cắm trại trong rừng — không phải rừng sâu, rừng nông, cây thưa, lửa thấy xa nhưng lửa nhỏ, và nhỏ đủ. Sera ngồi. Lira ngồi — lần này không phải sàn, là ghế: gốc cây đổ, mòn, phẳng đủ để ngồi. Tiến bộ. Lira ngồi ghế thay sàn khi Lira mệt, và Lira mệt nay — mệt theo cách mà mệt khi đánh xong, chạy xong, quyết định xong, và quyết định nặng hơn đánh.
 
 Sera nấu. Canh khô, nước suối, không nấm — hết nấm. Canh nhạt hơn mọi khi. Nhạt đủ. Nhạt là ổn — ổn khi cơ thể cần ấm hơn vị.
@@ -71,7 +70,3 @@ Mai: tiếp tục. Tiếp tục vì tiếp tục là lựa chọn duy nhất mà
 **Ch.39 — Giữa Không Phải Của Mình:** Combat ngắn, Sera không giữ nữa → mở. Tốt. Vestra ở cửa ("không chắc nên cảm ơn hay sợ") — beat phức tạp tốt. Thề ước nhỏ mới chớm (warmth từ bảo vệ người không phải của mình) — cảm xúc đẹp, giữ.
 
 **Ch.40 — Điều Lira Không Nói:** Lira lo lắng qua Thệ Vang (không phải lời, mà là cảm xúc mỏng dưới lớp giấu) — beat relationship rất tốt. Im lặng sau ăn — atmosphere ổn. Không có note lớn.
-
-**Chương 40/60**
-
-[Chương kế](/works/aethermoor/trong-the/chuong-41)
