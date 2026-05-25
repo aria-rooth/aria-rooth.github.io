@@ -82,6 +82,6 @@ Rồi cô mở mắt. Nhìn anh ta. Thở đều.
 
 Anh ta gật đầu. Không hỏi gì thêm. Chỉ gật đầu — và tiếp tục ngồi.
 
-Cô viết vào sổ: *Kênh = dây. Aether = nước trên dây. Chạm = rung. Rung hai chiều. Velhar nói không chèn đêm nay — nhưng không hứa mãi. Cửa sờ được. Nhưng mở thì ai cũng vào.* Rồi gập sổ.
+Cô viết vào sổ: *Kênh là dây. Aether là nước trên dây. Chạm là rung. Rung hai chiều. Velhar nói không chèn đêm nay — nhưng không hứa mãi. Cửa sờ được. Nhưng mở thì ai cũng vào.* Rồi gập sổ.
 
 **Kết chương:** Vela nằm nhìn trần. Kênh. Dây. Nước. Rung. Cửa. Mỗi từ là một mảnh hiểu. Mảnh ghép lại: cô có thể mở, có thể đọc, có thể tìm mảnh vỡ — nhưng mở là cho Velhar vào, đọc là cho Velhar đọc lại, tìm là cho Velhar biết cô đang tìm. *Mỗi bước gần hơn mục tiêu cũng là bước gần hơn rủi ro. Đó là con đường hẹp. Và cô — cô đang đứng trước cửa hẹp đó, tay trên ổ khóa, chưa mở, chưa rời, đang quyết định.*

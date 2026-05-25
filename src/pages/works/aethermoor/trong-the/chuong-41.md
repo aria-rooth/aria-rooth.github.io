@@ -18,7 +18,7 @@ Nội dung:
 
 *Thông tin từ người đi đường: Mordren — Thẩm Vấn Giả Thống Lĩnh — đang đến miền Bắc. Đích thân. Đoàn lớn. Không rõ số. Hướng: từ Caelmyr qua Vorthane.*
 
-*Nguồn: thương nhân nội bộ Giáo Hội mua lương khô đủ cho bốn mươi người, mười ngày. Bốn mươi người = đội lớn hơn đội tuần tra. Mười ngày = không phải đi qua, là ở lại.*
+*Nguồn: thương nhân nội bộ Giáo Hội mua lương khô đủ cho bốn mươi người, mười ngày. Bốn mươi người, đội lớn hơn đội tuần tra. Mười ngày — không phải đi qua, là ở lại.*
 
 *Mordren đến vì cô. Cô đủ quan trọng để ông ta ra mặt.*
 
@@ -30,7 +30,7 @@ Quán Trắng bên cạnh tường đá — tường cũ, mòn, rêu bám nửa 
 
 Mordren. Thứ Hai. Thẩm Vấn Giả Thống Lĩnh. Linh Hùng? Linh Phong? Aldric nói Mordren Thứ Hai là Linh Hùng, nhưng Aldric nói ba tuần trước, và ba tuần đủ để người tăng cấp — hoặc đủ để tình báo lỗi. Aldric đã chết. Aldric không còn cập nhật. Thông tin của cô về Mordren là thông tin tĩnh — tĩnh nghĩa là sai nếu Mordren thay đổi, và Mordren không đứng yên trong ba tuần khi người mang Thệ Thiết của Đoàn ông ta diệt đang gây rắc rối khắp Vorthane.
 
-Bốn mươi người. Mordren đích thân. Bốn mươi + Linh Hùng hoặc Linh Phong = đội đủ để quét sạch thị trấn nhỏ. Đội đủ để bao vây rừng. Đội đủ để cô và Lira không thể đánh — không phải không thể thắng một trận, không thể thắng chiến. Chiến là nhiều trận. Một trận thắng. Nhiều trận thua, vì bốn mươi người thay đổi, còn cô và Lira thì không.
+Bốn mươi người. Mordren đích thân. Bốn mươi + Linh Hùng hoặc Linh Phong, đội đủ để quét sạch thị trấn nhỏ. Đội đủ để bao vây rừng. Đội đủ để cô và Lira không thể đánh — không phải không thể thắng một trận, không thể thắng chiến. Chiến là nhiều trận. Một trận thắng. Nhiều trận thua, vì bốn mươi người thay đổi, còn cô và Lira thì không.
 
 Sera đi về trại. Bước nhanh nhưng không chạy — chạy ở thị trấn thu sự chú ý, và sự chú ý là thứ cô không cần khi Mordren đang đến.
 
@@ -38,7 +38,7 @@ Lira ngồi bên suối — lau kiếm. Nhìn Sera đến, đọc dáng: bước
 
 "Mordren đến Bắc. Đích thân. Bốn mươi người. Mười ngày lương."
 
-Lira đặt kiếm xuống. Không phải đặt từ từ — đặt, như người đặt vật nặng mà không cần giữ thêm. Nghĩ. Lira nghĩ nhanh — theo cách của một Tự Do Kiếm Sĩ: đánh giá nguy cơ, không đánh giá cảm xúc. Nguy cơ: bốn mươi Thẩm Vấn Giả + Thống Lĩnh = vòng vây chặt đến mức hai người không xoay xở. Xoay xở cần không gian, không gian cần di chuyển, di chuyển cần không bị theo dõi, không bị theo dõi cần ẩn — và ẩn không phải đi, ẩn là đứng yên, đứng yên là đợi, đợi là để vòng vây đóng.
+Lira đặt kiếm xuống. Không phải đặt từ từ — đặt, như người đặt vật nặng mà không cần giữ thêm. Nghĩ. Lira nghĩ nhanh — theo cách của một Tự Do Kiếm Sĩ: đánh giá nguy cơ, không đánh giá cảm xúc. Nguy cơ: bốn mươi Thẩm Vấn Giả + Thống Lĩnh, vòng vây chặt đến mức hai người không xoay xở. Xoay xở cần không gian, không gian cần di chuyển, di chuyển cần không bị theo dõi, không bị theo dõi cần ẩn — và ẩn không phải đi, ẩn là đứng yên, đứng yên là đợi, đợi là để vòng vây đóng.
 
 "Hai lựa chọn," Lira nói. Giọng điềm tĩnh — điềm tĩnh kiểu người điềm tĩnh khi lựa chọn đều xấu, và xấu đều thì điềm tĩnh là trạng thái tối ưu để quyết định. "Một: ẩn. Rời Vorthane, đi Nam hoặc Tây, chờ Mordren đi qua. Rủ ro: ông ta không đi qua — ông ta ở. Ở nghĩa là tìm. Tìm nghĩa là ẩn không đủ — phải biến. Hai: đẩy nhanh. Làm trước khi ông ta đến. Mordren cần mười ngày đến — vì bốn mươi người đi chậm hơn hai người. Chúng ta có mười ngày. Hoặc ít hơn nếu ông ta thúc quân."
 
@@ -52,7 +52,7 @@ Lira gật. Không ngạc nhiên. Lira đoán đúng. Sáu tuần qua đủ đ�
 
 Sera nghĩ. Mordren đến vì cô. Vì cô mang Thệ Thiết. Vì cô biết di vật Pale Frontier. Vì cô biết Dự án mà cô chưa biết tên. Danh sách sáu Đoàn — pattern. Pattern cần bằng chứng. Bằng chứng cần tài liệu. Tài liệu nằm đâu? Không ở tu viện, không ở quán Trắng, không ở rừng. Tài liệu nằm ở nơi Giáo Hội lưu: chi nhánh, văn phòng, kho. Chi nhánh nhỏ nhất — nơi mà tài liệu được lưu nhưng không được canh gác kỹ, vì chi nhánh nhỏ không đáng canh.
 
-"Draven," Sera nói. Tên thị trấn từ danh sách Aldric — thị trấn nhỏ ở biên Vorthane-Essam, nơi có chi nhánh Giáo Hội nhỏ. Aldric không nói chi nhánh đó có gì. Nhưng chi nhánh nhỏ nằm ở thị trấn nhỏ — thị trấn nhỏ ít Thẩm Vấn Giả, ít canh, ít kiểm tra. Ít = cơ hội. Cơ hội mỏng — nhưng mỏng là cơ hội, và cơ hội là thứ cô cần khi Mordren cách mười ngày và thu hẹp từng giờ.
+"Draven," Sera nói. Tên thị trấn từ danh sách Aldric — thị trấn nhỏ ở biên Vorthane-Essam, nơi có chi nhánh Giáo Hội nhỏ. Aldric không nói chi nhánh đó có gì. Nhưng chi nhánh nhỏ nằm ở thị trấn nhỏ — thị trấn nhỏ ít Thẩm Vấn Giả, ít canh, ít kiểm tra. Ít, cơ hội. Cơ hội mỏng — nhưng mỏng là cơ hội, và cơ hội là thứ cô cần khi Mordren cách mười ngày và thu hẹp từng giờ.
 
 "Cô có muốn biết mình đang đi vào cái gì không?" Lira hỏi. Câu hỏi thực — không phải hỏi lấp, hỏi vì Lira cần biết: Sera có đủ thông tin để quyết định, hay Sera quyết định mù.
 

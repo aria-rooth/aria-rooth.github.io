@@ -12,7 +12,7 @@ Sera đếm. Ba mươi giây. Đếm nhịp tim — nhịp tim cô đều, nhị
 
 Bên trong: sân nhỏ, đá, mùi ẩm, mùi hầm. Lira ở cửa sau — cửa sau trạm gác, cửa không dùng ban đêm, khóa trong. Lira đã mở — mở bằng kim, mười giây, mười giây kiểu người mở khi đã mở cửa này mười lần trước. Cửa mở. Vào.
 
-Hành lang hẹp. Đèn dầu thấp — không tắt, tắt = ai thấy, ai thấy = hỏi. Đèn dầu sáng vừa đủ đi, vừa đủ không thấy rõ, vừa đủ Sera nhìn Lira phía trước, vừa đủ Lira nhìn cửa, vừa đủ không thấy canh. Canh đâu? Canh trong — canh trong nằm phòng tầng hai. Canh trong chợt.
+Hành lang hẹp. Đèn dầu thấp — không tắt, tắt là ai thấy, ai thấy là hỏi. Đèn dầu sáng vừa đủ đi, vừa đủ không thấy rõ, vừa đủ Sera nhìn Lira phía trước, vừa đủ Lira nhìn cửa, vừa đủ không thấy canh. Canh đâu? Canh trong — canh trong nằm phòng tầng hai. Canh trong chợt.
 
 Hầm: cầu thang xuống, đá mòn, mòn kiểu mòn nhiều chân, mòn nhiều năm. Bảy bước. Dưới: hành lang hẹp hơn, tối hơn, mùi rêu và mùi người không tắm. Ba cửa. Sắt. Khóa. Lira đến cửa thứ hai — không đầu, không cuối, thứ hai. Lira nhớ. Lira nhớ vì Lira từng ở phòng bên cạnh. Lira gõ — gõ nhẹ, gõ ba, hai, một. Mã. Mã Lira và Kael dùng hai năm trước khi Kael đến thăm Lira trong tù, mã mà canh không biết, mã mà hai anh em tạo khi còn nhỏ.
 
@@ -44,9 +44,9 @@ Kael ngồi trên giường — giường cứng, giường quán trọ bẩn, n
 
 Kael không hỏi tại sao. Kael hai năm trong hầm — hai năm đủ để biết: hỏi tại sao không trả lời, hành động trả lời. Kael đứng. Lira đưa cho Kael: áo Lira dự phòng, giày Lira dự phòng, dao ngắn. Kael mặc. Tay run — run nhẹ, run kiểu người run khi tay không quen cầm dao hai năm.
 
-Lira nhìn Kael. Nhìn kiểu người nhìn khi nhìn lại thứ đã mất — nhìn để chắc thứ đã mất đã về, nhìn để chắc mắt không lừa, nhìn để chắc hai năm không phải mơ. Rồi Lira quay đi. Không khóc. Lira không khóc — Lira đóng, Lira giữ, Lira không mở thứ đó ở nơi có người khác. Nhưng Sera thấy: tay Lira nắm chày hơn cần. Nắm chày = cảm xúc trong. Trong = có. Có = Lira yêu Kael. Yêu — từ mà Lira không nói, nhưng tay nói thay.
+Lira nhìn Kael. Nhìn kiểu người nhìn khi nhìn lại thứ đã mất — nhìn để chắc thứ đã mất đã về, nhìn để chắc mắt không lừa, nhìn để chắc hai năm không phải mơ. Rồi Lira quay đi. Không khóc. Lira không khóc — Lira đóng, Lira giữ, Lira không mở thứ đó ở nơi có người khác. Nhưng Sera thấy: tay Lira nắm chày hơn cần. Nắm chày là cảm xúc trong. Trong là có. Có là Lira yêu Kael. Yêu — từ mà Lira không nói, nhưng tay nói thay.
 
-Thệ Vang: ấm. Ấm nhẹ — ấm từ thề ước mới, ấm như xác nhận. Lấy Kael ra = đúng. Đúng = ấm. Ấm từ Thệ Thiết, ấm từ nơi bốn mươi tám mảnh, ấm từ nơi đếm tiếp. Sera ghi nhận. Ghi nhận ấm không phải cảm xúc cô — ghi nhận vì ghi nhận là cách cô hiểu: thề ước mới đang sống. Sống = có sức. Sức = có thể dùng.
+Thệ Vang: ấm. Ấm nhẹ — ấm từ thề ước mới, ấm như xác nhận. Lấy Kael ra là đúng. Đúng là ấm. Ấm từ Thệ Thiết, ấm từ nơi bốn mươi tám mảnh, ấm từ nơi đếm tiếp. Sera ghi nhận. Ghi nhận ấm không phải cảm xúc cô — ghi nhận vì ghi nhận là cách cô hiểu: thề ước mới đang sống. Sống là có sức. Sức là có thể dùng.
 
 "Ba mươi mảnh," Sera nói. Lira quay. Kael quay. "Tôi cần ba mươi giây trong hầm. Tù nhân thứ ba. Có thứ gì đó ở đó."
 
@@ -66,7 +66,7 @@ Tù nhân thứ ba: phụ nữ, năm mươi tuổi, tóc trắng, mắt xanh, n�
 
 "Người biết quá nhiều thứ không nên biết," phụ nữ nói. Giọng đều — đều kiểu người đều khi đều là lựa chọn cuối cùng. "Cô đến vì kiếm đó. Thệ Thiết. Tôi nghe nó từ hầm. Nó nghe tôi."
 
-Thệ Vang bừng — bừng mạnh, bừng từ kiếm, bừng như hồi đáp. Mảnh thề ước. Mảnh thề ước từ phụ nữ này. Không — không phải mảnh thề ước. Mảnh thề ước từ người đã chết. Thệ Vang chỉ kết nối người chết. Nhưng — nhưng — Thệ Vang đang đáp. Đáp từ phụ nữ sống. Sera nghe: mảnh từ kiếm đang cộng hưởng với thứ gì đó trong phụ nữ này. Cộng hưởng = giống tần. Giống tần = phụ nữ này mang thề ước. Thề ước sống. Thề ước từ người chưa chết.
+Thệ Vang bừng — bừng mạnh, bừng từ kiếm, bừng như hồi đáp. Mảnh thề ước. Mảnh thề ước từ phụ nữ này. Không — không phải mảnh thề ước. Mảnh thề ước từ người đã chết. Thệ Vang chỉ kết nối người chết. Nhưng — nhưng — Thệ Vang đang đáp. Đáp từ phụ nữ sống. Sera nghe: mảnh từ kiếm đang cộng hưởng với thứ gì đó trong phụ nữ này. Cộng hưởng là giống tần. Giống tần là phụ nữ này mang thề ước. Thề ước sống. Thề ước từ người chưa chết.
 
 "Đi," Sera nói. "Cửa mở. Ba mươi giây."
 

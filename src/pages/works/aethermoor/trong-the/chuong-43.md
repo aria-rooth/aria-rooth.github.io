@@ -6,7 +6,7 @@ total: 60
 title: "Chương 43: Dự Án Thệ Hội Tụ"
 ---
 
-Sera đọc trong kho, đứng, tệp trên tay, mắt lướt, não bắt, bộ lọc Thệ Vang mở nhẹ — không phải nghe người chết, nghe giấy. Giấy nhớ — giấy không nhớ như đất nhớ, nhưng giấy thấm mực, mực thấm ý, ý thấm người viết, và người viết mang Linh Nguyên nhẹ, Linh Nguyên nhẹ thấm vào giấy, và Thệ Vang Linh Phong đủ nhạy để đọc: giấy này viết bởi hai người. Người một: chữ đều, ngay, chữ người viết hành chính. Người hai: chữ nghiêng, nhanh, chữ người viết gấp. Hai người viết = hai người biết. Biết = người cần tìm sau.
+Sera đọc trong kho, đứng, tệp trên tay, mắt lướt, não bắt, bộ lọc Thệ Vang mở nhẹ — không phải nghe người chết, nghe giấy. Giấy nhớ — giấy không nhớ như đất nhớ, nhưng giấy thấm mực, mực thấm ý, ý thấm người viết, và người viết mang Linh Nguyên nhẹ, Linh Nguyên nhẹ thấm vào giấy, và Thệ Vang Linh Phong đủ nhạy để đọc: giấy này viết bởi hai người. Người một: chữ đều, ngay, chữ người viết hành chính. Người hai: chữ nghiêng, nhanh, chữ người viết gấp. Hai người viết là hai người biết. Biết, người cần tìm sau.
 
 Nội dung:
 
@@ -30,7 +30,7 @@ Sera dừng. Đọc lại dòng ba. Trọng Nham Hỏa Đạo. Thệ Hạch phá
 
 Ba tháng. Ba tháng kể từ đêm cô ngồi trong hầm tối, đêm cô nghe tiếng kêu la bên trên, đêm cô phá khóa leo lên và thấy sân trống đầy xác. Ba tháng kể từ khi Đoàn cô bị diệt vì — Thệ Hạch. Đoàn cô chết vì Thệ Hạch. Không phải vì nội ứng. Không phải vì di tích. Di tích là lý do phụ. Thệ Hạch là lý do chính. Di tích ở Pale Frontier là bộ kích hoạt — thứ cần Thệ Hạch để hoạt động. Đoàn cô giữ di tích. Giáo Hội cần di tích. Giáo Hội cần Thệ Hạch. Đoàn có Thệ Hạch. Giáo Hội lấy Thệ Hạch — bằng cách diệt Đoàn.
 
-Sera đứng yên. Giấy trên tay. Tay không run — tay cô không run từ đêm Đoàn tan, không phải vì không đau, vì đau không chạy qua tay, đau chạy qua nơi khác. Bụng cô lạnh. Không lạnh gió — lạnh từ trong, từ chỗ đọng tin xấu, từ chỗ cơ thể biết trước não rằng thế giới vừa nghiêng. nơi sâu hơn tay, nơi mà Thệ Vang sống, nơi mà bốn mươi bảy mảnh thề ước đọng. Đau ở đó. Đau luôn ở đó. Đau không biến mất — đau biến nhẹ, từng mảnh một, khi thề ước hoàn thành. Hai mảnh hoàn thành = hai mảnh nhẹ. Bốn mươi lăm chưa = bốn mươi lăm nặng. Nặng nay nặng hơn — vì Sera vừa biết: bốn mươi bảy người chết vì Thệ Hạch. Không phải vì chiến đấu, vì lý do chiến đấu. Chết vì Giáo Hội cần viên đá chứa thề ước của họ. Chết vì thề ước của họ giá hơn mạng sống của họ.
+Sera đứng yên. Giấy trên tay. Tay không run — tay cô không run từ đêm Đoàn tan, không phải vì không đau, vì đau không chạy qua tay, đau chạy qua nơi khác. Bụng cô lạnh. Không lạnh gió — lạnh từ trong, từ chỗ đọng tin xấu, từ chỗ cơ thể biết trước não rằng thế giới vừa nghiêng. nơi sâu hơn tay, nơi mà Thệ Vang sống, nơi mà bốn mươi bảy mảnh thề ước đọng. Đau ở đó. Đau luôn ở đó. Đau không biến mất — đau biến nhẹ, từng mảnh một, khi thề ước hoàn thành. Hai mảnh hoàn thành là hai mảnh nhẹ. Bốn mươi lăm chưa là bốn mươi lăm nặng. Nặng nay nặng hơn — vì Sera vừa biết: bốn mươi bảy người chết vì Thệ Hạch. Không phải vì chiến đấu, vì lý do chiến đấu. Chết vì Giáo Hội cần viên đá chứa thề ước của họ. Chết vì thề ước của họ giá hơn mạng sống của họ.
 
 Cô đọc tiếp.
 

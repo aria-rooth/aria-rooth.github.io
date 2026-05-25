@@ -6,9 +6,11 @@ total: 60
 title: "Chương 60: Varn Bên Này"
 ---
 
+Elara nhìn Varn. Anh ta đã giữ mười đêm. Đã kể ba mươi người. Đã buông được buồn. Anh ta ổn. Ổn đủ để ra. Ổn đủ để đứng bên này, nghe, ghi, nhớ — cùng cô. Và Elara cần người như vậy. Vì một mình cô không ghi hết, không nghe hết, không nhớ hết.
+
 Hoàng hôn. Năm mươi ba người bên trong. Và Varn — đứng cách cổng hai bước, lần cuối — từ bên kia.
 
-Elara đứng bên cạnh cổng. Tay mở. Cùng cử chỉ như đêm Lyss bước qua. *Đi đi.* Hai chữ. Đủ.
+Elara đứng bên cạnh cổng. Tay mở. Cùng cử chỉ như đêm Lyss bước qua. *Đi đi.* Hai chữ. Đủ. Elara nhìn Varn. Anh ta đã giữ mười đêm. Đã kể ba mươi người. Đã buông được buồn. Anh ta ổn. Ổn đủ để ra. Ổn đủ để đứng bên này, nghe, ghi, nhớ — cùng cô. Và Elara cần người như vậy. Vì một mình cô không ghi hết, không nghe hết, không nhớ hết.
 
 Varn bước.
 
@@ -18,7 +20,8 @@ Anh ta đứng. Nhìn xuống chân. Nhìn cỏ — cùng cỏ Lyss nhìn đêm 
 
 Varn nhìn lên. Nhìn quanh. Hoang nguyên. Cổng. Hai trụ. Lều — hai lều, cách năm mươi bước. Đèn dầu. Hòm gỗ. Phiến đá. Và người — Elara, đứng cạnh; Lyss, chạy ra từ chăn, mắt mở to; Deven Ash, thò đầu lều, bút sẵn; Therin, đứng năm mươi bước, nhìn, không đến.
 
-*Nhiều hơn tôi nghĩ,* Varn nói. Giọng — cùng giọng, nhưng khác chỗ. Vang hơn. Trống hơn. Như tiếng nói trong phòng trống so với tiếng nói trong hầm đầy. *Bên này — rộng.*
+*Nhiều hơn tôi nghĩ,* Varn nói. Giọng — cùng giọng, nhưng khác chỗ. Vang hơn. Trống hơn. Như tiếng nói trong phòng trống so với tiếng nói trong hầm đầy. *Bên này — rộng.* Elara nhìn anh ta. *Rộng,* cô nghĩ. *Rộng là khác. Bên trong — domain ép. Bên này — không gian mở. Mở là khác lớn. Và Varn — người quen hầm tối, quen đứng một chỗ ba trăm năm — giờ đứng dưới sao, dưới trời rộng. Anh ta sẽ cần thời gian để quen.*
+ Elara nhìn anh ta. *Rộng,* cô nghĩ. *Rộng là khác. Bên trong — domain ép. Bên này — không gian mở. Mở là khác lớn. Và Varn — người quen hầm tối, quen đứng một chỗ ba trăm năm — giờ đứng dưới sao, dưới trời rộng. Anh ta sẽ cần thời gian để quen.*
 
 *Rộng hơn bên trong,* Elara xác nhận. *Bên trong — domain ép. Không gian hẹp. Bên này — không gian mở. Mở là khác lớn.*
 
@@ -30,9 +33,9 @@ Varn gật. Anh ta không hỏi nhiều. Trưởng mỏ không hỏi nhiều —
 
 *Không nói,* Varn lặp lại. Và trong hai từ đó, Elara nghe — nghe rõ — rằng Varn hiểu. Ba trăm năm không ai hỏi tên. Ba trăm năm kể cho ba mươi người không nghe. Ba trăm năm không *nói với ai* — chỉ kể, chỉ đứng, chỉ giữ. Cùng cô. Khác phía. Cùng không nói.
 
-Họ ngồi trên phiến đá. Lần đầu tiên bốn người ngồi ở đó — Elara, Lyss, Varn, và chỗ Corin khi anh ta đến. Bốn người. Nhiều hơn bất kỳ lúc nào trong mười hai năm.
+Họ ngồi trên phiến đá. Lần đầu tiên bốn người ngồi ở đó — Elara, Lyss, Varn, và chỗ Corin khi anh ta đến. Bốn người. Nhiều hơn bất kỳ lúc nào trong mười hai năm. Elara nhìn Varn. Anh ta không phải người thứ ba. Anh ta là người thứ ba có ý chí. Người thứ ba có thể giúp cô giữ. Người thứ ba — với ba mươi người trong lòng — có thể làm cho bên này không còn một mình.
 
-Varn kể tiếp — nhưng đêm nay không kể người chết. Kể mình. Kể trưởng mỏ. Kể cách anh ta quản lý hầm, cách anh ta giải tranh chấp giữa thợ, cách anh ta quyết định ai đi đường nào, cách anh ta đứng trước chủ mỏ và cãi lương. Kể — không phải buồn, mà là giới thiệu. Giới thiệu mình cho người bên này, như người mới đến xóm giới thiệu cho hàng xóm.
+Varn kể tiếp — nhưng đêm nay không kể người chết. Kể mình. Kể trưởng mỏ. Kể cách anh ta quản lý hầm, cách anh ta giải tranh chấp giữa thợ, cách anh ta quyết định ai đi đường nào, cách anh ta đứng trước chủ mỏ và cãi lương. Kể — không phải buồn, mà là giới thiệu. Giới thiệu mình cho người bên này, như người mới đến xóm giới thiệu cho hàng xóm. Elara nghe. Varn kể và cô nghe, và nghe là cách cô giữ người, và giữ người là việc cô làm tốt nhất — tốt hơn giữ van, tốt hơn giữ màng, tốt hơn giữ thệ. Giữ người là nghe. Và nghe — đúng lúc, đúng người, đúng cách — là tất cả.
 
 Lyss nghe. Cô bé không hiểu hết — trưởng mỏ, hầm, lương — nhưng cô bé hiểu giọng. Giọng Varn không hét. Giọng kể. Giọng người. Cô bé ngồi, chân đung đưa, nghe như nghe truyện.
 

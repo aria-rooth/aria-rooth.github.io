@@ -22,20 +22,18 @@ Varn nhìn cô. Im. Lâu. Rồi: *Đủ để ra?*
 
 Elara nghĩ. Varn giữ mười đêm. Kể ba mươi người. Không đẩy. Không hét. Không cãi. Ổn? Ổn là điều kiện cô đặt. Varn giữ vì muốn ra — khác giữ vì hiểu cần giữ. Giống nhưng khác. Nhưng giữ mà không vi phạm — giữ là giữ. Kể ba mươi người — kể là nhớ, nhớ là thương, thương là ổn. Varn ổn hơn đêm đầu.
 
-Cô nhìn Grath. Anh ta không nói — mắt nói: *quyết định cô.* Cô nhìn Lyss — ngủ, không ý kiến. Cô nhìn cổng. Màng. Mạch. Vết nứt còn. 80-100 năm. Van đơn. Giữ một mình.
+Cô nhìn Grath. Anh ta không nói — mắt nói: *quyết định cô.* Cô nhìn Lyss — ngủ, không ý kiến. Cô nhìn cổng. Màng. Mạch. Vết nứt còn. 80-100 năm. Van đơn. Giữ một mình. *Nếu Varn ra,* cô nghĩ, *bên này có thêm người. Người chết, nhưng người có ý chí, người ổn, người kể ba mươi người và buông được buồn. Người như vậy — bên này — có thể giúp giữ người. Nghe, ghi, nhớ — việc mà cô cần, vì cô một người không ghi hết, không nghe hết, không nhớ hết.*
 
-Varn ra — Varn bên này. Bên này có thêm người. Người chết, nhưng người có ý chí, người ổn, người kể ba mươi người và buông được buồn. Người như vậy — bên này — có thể giúp giữ người. Nghe, ghi, nhớ — việc mà cô cần, vì cô một người không ghi hết, không nghe hết, không nhớ hết.
+Varn ra — Varn bên này. Bên này có thêm người. Người chết, nhưng người có ý chí, người ổn, người kể ba mươi người và buông được buồn. Người như vậy — bên này — có thể giúp giữ người. Nghe, ghi, nhớ — việc mà cô cần, vì cô một người không ghi hết, không nghe hết, không nhớ hết. Elara nhìn Varn. Anh ta đã giữ mười đêm. Đã kể ba mươi người. Đã buông được buồn. Anh ta ổn. Ổn đủ để ra. Ổn đủ để đứng bên này, nghe, ghi, nhớ — cùng cô.
 
 *Được,* Elara nói. *Đêm sau — anh bước qua.*
 
-Varn không cử động. Anh ta đứng. Nhìn cô. Và trong cái nhìn đó — lần đầu tiên — không giận. Không gắt. Chỉ nhẹ. Nhẹ của người được cho điều mà ba trăm năm không ai cho. Nhẹ của người biết ba mươi người mình nhớ sẽ không mất. Nhẹ của người sắp bước từ kẹt sang tự do, và tự do đó nhỏ — vài giờ bên này trước bình minh — nhưng nhỏ là đủ, vì nhỏ hơn không.
+Varn không cử động. Anh ta đứng. Nhìn cô. Và trong cái nhìn đó — lần đầu tiên — không giận. Không gắt. Chỉ nhẹ. Nhẹ của người được cho điều mà ba trăm năm không ai cho. Nhẹ của người biết ba mươi người mình nhớ sẽ không mất. Nhẹ của người sắp bước từ kẹt sang tự do, và tự do đó nhỏ — vài giờ bên này trước bình minh — nhưng nhỏ là đủ, vì nhỏ hơn không. Elara nhìn anh ta. *Đêm sau,* cô nghĩ, *Varn sẽ đứng đây. Không phải bên trong. Bên này. Và bên này — có người.*
 
-Grath gật đầu. Chậm. Chắc. Anh ta không nói *tới lượt tôi chưa* — vì anh ta biết: Varn đạt tiêu chí, Varn ra trước, và trước không nghĩa ưu tiên, trước nghĩa sẵn.
+Grath gật đầu. Chậm. Chắc. Anh ta không nói *tới lượt tôi chưa* — vì anh ta biết: Varn đạt tiêu chí, Varn ra trước, và trước không nghĩa ưu tiên, trước nghĩa sẵn. Grath hiểu. Elara hiểu. Varn hiểu. Ba người hiểu — và đó là đủ.
 
-Đêm rơi. Năm mươi ba người. Varn đứng gần — không đẩy, kể xong, chờ đêm sau. Elara ngồi trên phiến đá, *Người Đứng* đóng, ba mươi tên trong, ba mươi người không mất.
+Đêm rơi. Năm mươi ba người. Varn đứng gần — không đẩy, kể xong, chờ đêm sau. Elara ngồi trên phiến đá, *Người Đứng* đóng, ba mươi tên trong, ba mươi người không mất. Lyss ngủ. Grath tuần tra. Deven Ash ghi. Therin năm mươi bước. Mọi thứ ổn. Ổn đủ.
 
-Mười hai năm cô đứng một mình. Giờ — đêm sau — Varn bước qua. Người thứ ba. Lyss. Corin. Varn. Ba người bên này. Không nhiều. Nhưng ba hơn không. Và ba — với ý chí, với nhớ, với ổn — là nền cho thứ lớn hơn. Thứ mà cô chưa thấy rõ, nhưng thấy hướng: Thệ Hạch. Tập thể. Nhiều ý chí gộp. Giữ không một mình.
-
-Hướng. Chưa đến. Nhưng hướng — rõ — là đủ cho đêm nay.
+Mười hai năm cô đứng một mình. Giờ — đêm sau — Varn bước qua. Người thứ ba. Lyss. Corin. Varn. Ba người bên này. Không nhiều. Nhưng ba hơn không. Và ba — với ý chí, với nhớ, với ổn — là nền cho thứ lớn hơn. Thứ mà cô chưa thấy rõ, nhưng thấy hướng: Thệ Hạch. Tập thể. Nhiều ý chí gộp. Giữ không một mình. Elara nhìn cổng. *Hướng,* cô nghĩ. *Chưa đến. Nhưng hướng — rõ — là đủ cho đêm nay.*
 
 *Kết chương*

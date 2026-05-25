@@ -6,10 +6,6 @@ total: 60
 title: "Chương 6: Bóng Hình Đầu Tiên"
 ---
 
-← [Chương 5](chuong-5)  **Chương 6/30**  → [Chương 7](chuong-7)
-
-***
-
 Elara nhận ra anh ta ngay lập tức.
 
 Hoàng hôn. Ánh sáng cuối ngày nghiêng từ phía tây, kéo dài bóng đổ qua hoang nguyên. Cô đang ngồi trên tảng đá — vị trí quen thuộc, quen đến mức cô có thể ngồi xuống trong bóng tối mà không cần nhìn — khi cô thấy.
@@ -46,6 +42,7 @@ Mười.
 
 Trời tối hoàn toàn.
 
+
 Elara vẫn ngồi. Tay đặt trên đùi, không run — không phải vì không sợ, vì cô không biết mình có đang sợ hay không. Cô chỉ biết rằng nếu đứng lên, cô sẽ phải làm gì đó. Và làm gì đó đòi hỏi quyết định. Quyết định đòi hỏi lý do. Cô không có lý do để đi, cũng không có lý do để ở. Nên cô ngồi.
 
 Trường kiếm nằm cạnh, không rút. Cô đã không rút kiếm trong ba năm — lần cuối là khi một con sói hoang lạc vào bán kính tuần tra. Cô không rút bây giờ. Lenn không phải sói.
@@ -79,7 +76,3 @@ Cô đóng nhật ký. Không ghi thêm.
 Ra ngoài. Tuần tra buổi sáng như mọi buổi sáng. Nhưng lần này, khi đi qua vị trí mà cô từng ngồi suốt đêm, cô dừng lại nhìn Huyền Môn Cốt từ góc độ đó. Từ tảng đá, vị trí Lenn đứng là một điểm mờ giữa hoang nguyên. Không có gì đánh dấu nó. Chỉ là đất. Chỉ là cỏ.
 
 Cô tiếp tục đi.
-
-***
-
-← [Chương 5](chuong-5)  **Chương 6/30**  → [Chương 7](chuong-7)

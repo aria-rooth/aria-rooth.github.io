@@ -20,7 +20,7 @@ Cô không biết đi đâu chính xác. Chỉ biết đi lên. Lên và ra. Ra 
 
 Ngày hôm sau, cô và Theo ngồi với tài liệu. Calla ngủ — cô ta cần ngủ, vì Linh Hùng không bất tử và cần nghỉ. Vela và Theo đọc, hoặc đúng hơn, anh ta đọc và cô nghe, vì cô đọc chậm — không phải vì không biết chữ, mà vì chữ trong sách khác với chữ trong chiến đấu, và hai trăm năm chỉ đọc số đã làm mất thói quen đọc đoạn.
 
-Anh ta đọc về giao thức thệ ước thần thánh: không phải giấy mực, mà là linh lực. Thệ ước được viết bằng Aether — ký vào thực tại, không phải trang giấy. Khi hai bên ký, Aether từ mỗi bên chảy vào giao điểm, tạo nút. Nút đó — nút thệ ước — là thứ giữ hai bên liên kết. Phá nút = phá thệ ước. Nhưng nút thần thánh không dễ phá — cần hoặc sức mạnh vượt nút (sát thần), hoặc chìa khóa (mảnh vỡ domain người ký giấu).
+Anh ta đọc về giao thức thệ ước thần thánh: không phải giấy mực, mà là linh lực. Thệ ước được viết bằng Aether — ký vào thực tại, không phải trang giấy. Khi hai bên ký, Aether từ mỗi bên chảy vào giao điểm, tạo nút. Nút đó — nút thệ ước — là thứ giữ hai bên liên kết. Phá nút là phá thệ ước. Nhưng nút thần thánh không dễ phá — cần hoặc sức mạnh vượt nút (sát thần), hoặc chìa khóa (mảnh vỡ domain người ký giấu).
 
 "Chìa khóa," Vela nói. "Anh nhắc lại — mảnh vỡ domain."
 
@@ -46,4 +46,4 @@ Vela suy nghĩ. Đá lạnh trong mơ. Cột sáng. Kênh. Và ở đâu đó �
 
 Vela ngồi với điều đó. Ngồi trong tháp, lửa nhỏ, gió ngoài. Nhận thức. Không phải sức mạnh — nhận thức. Cô đã mạnh hai trăm năm mà không biết. Nhưng nhận thức — nhận thức cần mở mắt, mở tai, mở chỗ mà lời nguyền từng khóa. Và mở đó, mở từ từ, từng chút, như ngày lên sau đêm dài.
 
-**Kết chương:** Vela viết vào sổ: *Nút thệ ước. Mảnh vỡ = chìa khóa. Đất nhớ. Thiên Địa Hữu Ký. Cần Thánh Vực để đọc.* Rồi nhìn từ *Thánh Vực*. Tier 10. Ngưỡng thần. Cô ở Tier 9. Một ngưỡng. Một ngưỡng duy nhất giữa cô và cách phá hợp đồng không cần sát thần. *Một ngưỡng. Nhưng một ngưỡng — khi đã biết nó ở đâu — là mục tiêu. Và mục tiêu, lần đầu tiên, là thứ cô tự đặt.*
+**Kết chương:** Vela viết vào sổ: *Nút thệ ước. Mảnh vỡ là chìa khóa. Đất nhớ. Thiên Địa Hữu Ký. Cần Thánh Vực để đọc.* Rồi nhìn từ *Thánh Vực*. Tier 10. Ngưỡng thần. Cô ở Tier 9. Một ngưỡng. Một ngưỡng duy nhất giữa cô và cách phá hợp đồng không cần sát thần. *Một ngưỡng. Nhưng một ngưỡng — khi đã biết nó ở đâu — là mục tiêu. Và mục tiêu, lần đầu tiên, là thứ cô tự đặt.*

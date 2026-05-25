@@ -72,7 +72,7 @@ Không có sai lệch đáng kể. Tất cả chương 41–45 bám sát outline
 - Ch.45: Viết "Mira Ashmarch. 18 tuổi. Thần Chiến năm thứ ba" vào sổ, hỏi Theo "anh ở đây vì gì," "cô xứng đáng được có người biết cô đang ở đây," đứng vì chọn, biết tại sao. ✅
 
 Quy tắc LORE_BIBLE tuân thủ: Linh Việt (Tier 9), Linh Hùng (Tier 5), Thần Vương Velhar the Chained, Thệ Ước Phong Lực (hợp đồng Velhar), Thiên Địa Hữu Ký (đá nhớ bước chân), Pale Frontier, Aether, lãnh vực, domain.
-Xưng hô: Calla ↔ Vela = "cô" (nữ-nữ), Theo ↔ Vela = "cô" (nam-nữ), Velhar ↔ Vela = "ngươi" (thần-người).
+Xưng hô: Calla ↔ Vela "cô" (nữ-nữ), Theo ↔ Vela "cô" (nam-nữ), Velhar ↔ Vela "ngươi" (thần-người).
 
 Cô đứng. Lưng thẳng. Kiếm bên cạnh. Gió Bắc thổi — lạnh, quen, như luôn. Nhưng hôm nay, cô đứng và biết tại sao. Biết không phải vì lời nguyền ép. Biết không phải vì hợp đồng buộc. Biết không phải vì không còn chỗ khác. Biết vì chọn.
 

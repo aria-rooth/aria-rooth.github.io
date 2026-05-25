@@ -10,9 +10,9 @@ PUBLISHED_DIR = Path("/home/thoor/papers/writing/kiemhiep/published")
 STORIES_DIR = SITE_ROOT / "src/pages/works/aethermoor"
 
 STORY_MAP = {
-    "2b": ("trong-the", "/works/aethermoor/trong-the", 60),
-    "europa": ("mua-tren-canh-khong-nguoi", "/works/aethermoor/mua-tren-canh-khong-nguoi", 60),
-    "eve": ("tram-gac-buc-tuong-thu-tu", "/works/aethermoor/tram-gac-buc-tuong-thu-tu", 60),
+    "2b": ("trong-the", "/works/aethermoor/trong-the", 65),
+    "europa": ("mua-tren-canh-khong-nguoi", "/works/aethermoor/mua-tren-canh-khong-nguoi", 65),
+    "eve": ("tram-gac-buc-tuong-thu-tu", "/works/aethermoor/tram-gac-buc-tuong-thu-tu", 65),
 }
 
 def parse_batch(file_path):

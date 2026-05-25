@@ -6,10 +6,6 @@ total: 60
 title: "Chương 7: Nhịp Điệu"
 ---
 
-← [Chương 6](chuong-6)  **Chương 7/30**  → [Chương 8](chuong-8)
-
-***
-
 Đêm thứ hai, có ba người.
 
 Elara đã chuẩn bị. Sau đêm Lenn, cô không ngủ ban ngày — một thay đổi từ thói quen bốn tiếng. Cô nằm xuống, nhắm mắt, nhưng giữ ý thức ở trạng thái mở, như khi cảm nhận Linh Nguyên. Không mơ. Không ngủ. Chờ. Thân thể phản đối — cô cảm thấy nặng ở sau mắt, cảm giác cát trong miệng khi không đủ nghỉ. Nhưng cô đã từng thức lâu hơn thế trong chiến đấu, hồi còn là Linh Chiến. Cô nhớ cách giữ ý thức bằng ý chí, không bằng cà phê hay thuốc.
@@ -65,7 +61,3 @@ Nhưng cô không đi. Và bây giờ, với những bóng hình đứng bên ki
 Cô không ghi điều đó vào nhật ký.
 
 Cô ra ngoài, tuần tra buổi chiều như bình thường. Nhưng khi đi ngang qua tảng đá, cô nhìn vào vị trí ba bóng hình đã đứng. Không có gì. Chỉ là đất. Chỉ là cỏ. Chỉ là Pale Frontier như nó vẫn là.
-
-***
-
-← [Chương 6](chuong-6)  **Chương 7/30**  → [Chương 8](chuong-8)

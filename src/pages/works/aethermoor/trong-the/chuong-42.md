@@ -12,11 +12,11 @@ Họ đến chiều hôm thứ tư. Bốn ngày đi — đi nhanh, đi đường
 
 Draven: bốn trăm người, ngói đỏ, đường đá mòn, mùi than và mùi cá khô. Thị trấn bình thường theo mọi nghĩa — trừ một thứ: tòa nhà lớn ở trung tâm. Tòa nhà ba tầng, đá trắng, cửa sắt, cửa kính màu — không phải nhà thương mại, nhà ở, hay nhà kho. Tòa nhà Giáo Hội. Phong Quang Thánh Giáo. Chi nhánh Draven.
 
-Sera đếm nhà khi đi qua rìa thị trấn — thói quen cũ, thói quen từ Đoàn: đếm nhà = đếm người = đếm tài nguyên = đếm chỗ ẩn = đếm lối thoát. Bốn trăm người = tám mươi nhà. Tám mươi nhà = tám mươi mái, mái ngói đỏ, ngói đỏ nghĩa là hố gạch gần, hố gần nghĩa là đất sét, đất sét nghĩa là đào được, đào được nghĩa là lối thoát dưới nếu cần. Lối thoát: phòng bị.
+Sera đếm nhà khi đi qua rìa thị trấn — thói quen cũ, thói quen từ Đoàn: đếm nhà là đếm người, là đếm tài nguyên, là đếm chỗ ẩn, là đếm lối thoát. Bốn trăm người là tám mươi nhà. Tám mươi nhà là tám mươi mái, mái ngói đỏ, ngói đỏ nghĩa là hố gạch gần, hố gần nghĩa là đất sét, đất sét nghĩa là đào được, đào được nghĩa là lối thoát dưới nếu cần. Lối thoát: phòng bị.
 
-Tòa nhà lớn không tương xứng với thị trấn — như kiếm thép trên bàn nông dân: quá tốt cho nơi này, quá đắt cho người đây, quá nhiều cho thứ mà thị trấn bốn trăm người cần. Không tương xứng = tòa nhà không ở đây vì thị trấn. Tòa nhà ở đây vì thứ khác. Thứ khác nằm trong tòa nhà — thứ đủ quan trọng để xây ba tầng, cửa sắt, kính màu, nhưng không đủ quan trọng để đặt ở Caelmyr nơi mọi người thấy. Để ở nơi quên = giấu. Giấu nhưng không chôn — chôn là không ai tìm được. Giấu ở Draven = ai biết thì tìm được, ai không biết thì không.
+Tòa nhà lớn không tương xứng với thị trấn — như kiếm thép trên bàn nông dân: quá tốt cho nơi này, quá đắt cho người đây, quá nhiều cho thứ mà thị trấn bốn trăm người cần. Không tương xứng — tòa nhà không ở đây vì thị trấn. Tòa nhà ở đây vì thứ khác. Thứ khác nằm trong tòa nhà — thứ đủ quan trọng để xây ba tầng, cửa sắt, kính màu, nhưng không đủ quan trọng để đặt ở Caelmyr nơi mọi người thấy. Để ở nơi quên là giấu. Giấu nhưng không chôn — chôn là không ai tìm được. Giấu ở Draven, ai biết thì tìm được, ai không biết thì không.
 
-Kiến trúc nói. Sera đọc kiến trúc như đọc báo cáo: tường dày = chứa thứ nổ hoặc thứ cần cách âm. Kính màu tầng hai = phòng làm việc, phòng làm việc nhìn ra đường = người trong phòng quan sát ai ra vào. Cửa sắt = không phải chống trộm, chống hỏa — hỏa thiêu giấy, giấy chứa tin, tin cần bảo vệ. Tòa nhà bảo vệ tin. Tin là thứ Giáo Hội giấu ở Draven.
+Kiến trúc nói. Sera đọc kiến trúc như đọc báo cáo: tường dày, chứa thứ nổ hoặc thứ cần cách âm. Kính màu tầng hai là phòng làm việc, phòng làm việc nhìn ra đường, người trong phòng quan sát ai ra vào. Cửa sắt, không phải chống trộm, chống hỏa — hỏa thiêu giấy, giấy chứa tin, tin cần bảo vệ. Tòa nhà bảo vệ tin. Tin là thứ Giáo Hội giấu ở Draven.
 
 Sera và Lira không vào thị trấn ngay. Họ dừng ở rìa rừng — quan sát từ xa, cách hai trăm bước, nơi cây che và đất cao đủ để nhìn xuống.
 
@@ -30,7 +30,7 @@ Nửa đêm.
 
 Lira đi trước. Không phải vì Sera nhường — vì Lira giỏi hơn việc này. Lira — mười năm làm Tự Do Kiếm Sĩ: xâm nhập, lấy, đi. Sera chiến đấu. Lira trinh sát. Đúng người đúng việc. Sera theo sau, bước cạnh Lira nhưng trễ nửa bước — đủ để Lira dẫn đường mà Sera không cản trở.
 
-Lira đến tường tòa nhà — tường sau, nơi bóng sâu nhất. Đá ẩm, rêu trơn dưới đầu ngón tay. Cô ta leo — không phải leo nhanh, leo đúng: tay chỗ nẻm, chân chỗ nẻm, nẻm mòn nghĩa là người leo trước, người leo trước nhiều nghĩa = lối leo thường, lối leo thường = không bẫy. Tầng hai. Cửa sổ — khóa trong, nhưng khóa mỏng, khóa kiểu khóa phòng không phải khóa tù. Lira rút kim — hai kim, kim mỏng, kim cong, kim nghề. Mười giây. Cửa sổ mở. Không tiếng.
+Lira đến tường tòa nhà — tường sau, nơi bóng sâu nhất. Đá ẩm, rêu trơn dưới đầu ngón tay. Cô ta leo — không phải leo nhanh, leo đúng: tay chỗ nẻm, chân chỗ nẻm, nẻm mòn nghĩa là người leo trước, người leo trước nhiều nghĩa là lối leo thường, lối leo thường, không bẫy. Tầng hai. Cửa sổ — khóa trong, nhưng khóa mỏng, khóa kiểu khóa phòng không phải khóa tù. Lira rút kim — hai kim, kim mỏng, kim cong, kim nghề. Mười giây. Cửa sổ mở. Không tiếng.
 
 Cả hai lướt vào trong.
 
@@ -38,7 +38,7 @@ Bên trong: hành lang hẹp, đèn dầu thấp — không phải sáng soi, s�
 
 Sera vào kho. Giấy — nhiều. Kệ gỗ bốn hàng, mỗi hàng ba mươi cuộn, mỗi cuộn ghi năm. Tinh: năm sáu, năm bảy — trước khi Đoàn cô tan. Tinh hành chính: thu chi, nhân sự, vật tư. Bình thường. Tầm thường. Giấy tầm thường trong tòa nhà không tầm thường — nghĩa là giấy quan trọng không ở đây, hoặc giấy quan trọng ở đây nhưng không nhãn.
 
-Lira tìm nhanh hơn — Lira tìm kiểu người tìm khi biết thứ cần không nằm nơi thấy. Cô ta kiểm tra kệ, rồi kiểm tra tường, rồi kiểm tra sàn. Sàn — gạch trúc, đều, nhưng một hàng gạch mòn khác: mòn nhẹ, mòn kiểu người bước nhiều lần ở cùng chỗ. Bước nhiều = nơi bị mở nhiều. Mở nhiều = nơi quan trọng.
+Lira tìm nhanh hơn — Lira tìm kiểu người tìm khi biết thứ cần không nằm nơi thấy. Cô ta kiểm tra kệ, rồi kiểm tra tường, rồi kiểm tra sàn. Sàn — gạch trúc, đều, nhưng một hàng gạch mòn khác: mòn nhẹ, mòn kiểu người bước nhiều lần ở cùng chỗ. Bước nhiều là nơi bị mở nhiều. Mở nhiều là nơi quan trọng.
 
 Lira ấn gạch. Gạch lùi — lùi nhẹ, lùi nửa ngón, rồi dừng. Khe. Khe dưới gạch: hộp gỗ mỏng, không khóa. Lira mở.
 

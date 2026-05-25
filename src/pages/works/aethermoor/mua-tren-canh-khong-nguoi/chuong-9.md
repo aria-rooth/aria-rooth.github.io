@@ -6,10 +6,6 @@ total: 60
 title: "Chương 9: Thử Nghiệm"
 ---
 
-← [Chương 8](chuong-8)  **Chương 9/30**  → [Chương 10](chuong-10)
-
-***
-
 Đêm thứ năm. Elara đếm mười tám bóng.
 
 Cô không gọi họ là người. Chưa. Họ có hình dạng người — đầu, vai, hai chân đứng — nhưng sự im lặng của họ không phải im lặng của người. Im lặng của người có ranh giới: người ta ngừng nói, người ta nín thở, người ta chờ. Im lặng này không có ranh giới. Nó là trạng thái, không phải hành động. Như đá im lặng. Như cổng im lặng.
@@ -116,22 +112,20 @@ Họ đã đến trong một trăm giây cô quay lưng. Hoặc họ đã đến
 
 Bây giờ là hai mươi hai.
 
-Cô ghi nhớ: *đến khi không được nhìn. Không đến khi được nhìn. Quan sát = ngăn chặn?*
+Cô ghi nhớ: *đến khi không được nhìn. Không đến khi được nhìn. Quan sát là ngăn chặn?*
 
 Elara đứng trước hai mươi hai bóng trong đêm. Họ nhìn cô. Cô nhìn lại.
 
 Cô không sợ. Ít nhất là cô không gọi cảm giác này là sợ. Sợ là cảm xúc của người chạy. Cô không chạy. Cô ghi chép.
+
 
 Nhưng cơ thể cô ghi nhận khác. Gáy cô căng — không nhiều, chỉ một chút, như dây đàn căng thêm nửa vòng. Bàn tay trái cô, tay cầm đèn, mồ hôi trên cán gỗ — lạnh, trơn. Cô không sợ. Nhưng cô cũng không bình thường. Bốn kết luận trong đầu là cách cô giữ mình đứng thẳng: nghĩ, không cảm. Ghi, không chạy. Cô đã quên cách làm việc khác.
 
 Trong đầu cô, bốn kết luận:
 
 Một: họ theo dõi vị trí của cô bất kể ánh sáng.
-
 Hai: họ đến khi cô không nhìn.
-
 Ba: họ không phản ứng với âm thanh — cô đã di chuyển, đã thổi đèn, đã đếm to trong đầu, và họ không động đậy.
-
 Bốn: họ không vượt qua cổng.
 
 Cô không biết kết luận thứ tư có đúng không. Cô chỉ biết trong một trăm giây quay lưng, họ không đến gần hơn. Họ chỉ đến nhiều hơn.
@@ -158,6 +152,7 @@ Cô đóng nhật ký. Thổi tắt đèn.
 
 Nằm xuống. Nhắm mắt.
 
+
 Hai mươi hai. Trong bóng tối sau mí mắt, cô vẫn thấy họ. Không phải bằng mắt — bóng tối không có mắt. Bằng cách khác. Cô cảm nhận họ như cảm nhận lạnh từ tường đá: không nhìn thấy, nhưng biết ở đó. Kênh Linh Nguyên trong người cô — cấp 3, mờ, gần như tê liệt sau mười hai năm không dùng — mở ra một chút, tự phát, như da thứ hai vừa nhận ra có thứ cần cảm nhận.
 
 Đứng. Nhìn. Chờ.
@@ -165,7 +160,3 @@ Hai mươi hai. Trong bóng tối sau mí mắt, cô vẫn thấy họ. Không p
 Không chờ cô làm gì. Cô biết điều đó. Họ không đợi cô chạy, không đợi cô chiến đấu. Họ chỉ... đứng.
 
 Điều đó đáng sợ hơn mọi thứ khác. Vì nếu họ chờ cô làm gì, cô có thể làm. Nếu họ muốn cô sợ, cô có thể không sợ. Nếu họ muốn cô chạy, cô có thể đứng. Nhưng họ không muốn gì. Họ chỉ đứng. Và sự không muốn đó — trống rỗng, vô hạn, không có lối vào — nặng hơn bất kỳ đòn tấn công nào.
-
-***
-
-← [Chương 8](chuong-8)  **Chương 9/30**  → [Chương 10](chuong-10)

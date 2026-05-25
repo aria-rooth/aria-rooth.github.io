@@ -64,7 +64,7 @@ Vela nghĩ. Rồi: "Tôi sẽ biết."
 
 Vela giết con sói cuối cùng. Đứng. Nhìn kiếm. Nhìn máu — máu sói, máu cô, lẫn. Cô lau kiếm. Về tháp.
 
-**Kết chương:** Vela mở sổ. Viết vào cột hiểu: *kênh mạnh khi công, yếu khi nghỉ, rung khi vừa. Rung = có thể đọc. Đọc = cần đêm đúng. Đêm đúng = đêm tôi đủ tỉnh.* Nhìn trang sổ. Hai cột: số và hiểu. Số nói cô đã đánh bao nhiêu. Hiểu nói cô đã biết bao nhiêu. *Hai mươi ngày. Hai mươi đêm. Và mỗi đêm — mỗi đêm cô gần hơn đêm đúng. Đêm mà cô mở kênh, đọc ngược, và tìm mảnh vỡ. Hoặc đêm mà Velhar chèn, và cô mất tất cả. Đêm đúng và đêm sai — chỉ khác ở chỗ cô tỉnh hay không. Và tỉnh — tỉnh là điều mà hai trăm năm chiến đấu đã dạy cô tốt nhất.*
+**Kết chương:** Vela mở sổ. Viết vào cột hiểu: *kênh mạnh khi công, yếu khi nghỉ, rung khi vừa. Rung là có thể đọc. Đọc là cần đêm đúng. Đêm đúng là đêm tôi đủ tỉnh.* Nhìn trang sổ. Hai cột: số và hiểu. Số nói cô đã đánh bao nhiêu. Hiểu nói cô đã biết bao nhiêu. *Hai mươi ngày. Hai mươi đêm. Và mỗi đêm — mỗi đêm cô gần hơn đêm đúng. Đêm mà cô mở kênh, đọc ngược, và tìm mảnh vỡ. Hoặc đêm mà Velhar chèn, và cô mất tất cả. Đêm đúng và đêm sai — chỉ khác ở chỗ cô tỉnh hay không. Và tỉnh — tỉnh là điều mà hai trăm năm chiến đấu đã dạy cô tốt nhất.*
 
 ---
 
@@ -74,10 +74,10 @@ Arc 3 outline: Ch.46–52 — Velhar giao tiếp lần đầu qua giấc mơ, to
 
 Chương viết bám sát outline:
 - Ch.51: Velhar đặt thời hạn (tháng), thông báo sẽ một thể lãnh vực, không cần kênh sau đó. ✅
-- Ch.52: Vela chia sẻ thời hạn với Theo và Calla, tiếp tục canh gác dù biết mỗi nhát kiếm nuôi Velhar, vụn vặt = lý do sống. ✅
+- Ch.52: Vela chia sẻ thời hạn với Theo và Calla, tiếp tục canh gác dù biết mỗi nhát kiếm nuôi Velhar, vụn vặt, lý do sống. ✅
 - Ch.53: Theo tìm thấy tiền lệ pháp sư cổ — phá thệ ước bằng đọc ngược kênh, nhưng mất tâm trí. Con đường hẹp. ✅
 - Ch.54: Vela thử chạm kênh (sờ cửa), cảm nhận kênh như dây, Velhar cảnh báo nhưng không chèn, hiểu rủi ro hai chiều. ✅
 - Ch.55: Vela thống kê hiểu biết, thêm cột "hiểu" vào sổ, Calla báo Essam tiếp viện 3 tuần (sau thời hạn), Vela quyết định sẽ đọc ngược kênh khi tìm được "đêm đúng", thu thập số liệu về kênh khi chiến đấu. ✅
 
 Quy tắc LORE_BIBLE: Linh Việt (Tier 9), Thánh Vực (Tier 10), Thần Vương Velhar the Chained, Thệ Ước Phong Lực, Thiên Địa Hữu Ký, Aether, lãnh vực, kênh, Bạch Quái Thú. ✅
-Xưng hô: Velhar → Vela = "ngươi" (thần-người), Vela → Velhar = "anh" (phức tạp), Calla → Vela = "cô" (bình đẳng), Vela → Calla = "em" (lớn hơn). ✅
+Xưng hô: Velhar → Vela "ngươi" (thần-người), Vela → Velhar "anh" (phức tạp), Calla → Vela "cô" (bình đẳng), Vela → Calla "em" (lớn hơn). ✅

@@ -46,7 +46,7 @@ Khó. Lira nói *khó* — không nói *không thể*, không nói *chạy.* Lir
 
 "Có. Qua suối cạn, lên đồi Đông, vòng thêm một ngày. Nhưng—" Lira dừng. Cô ta nhìn Sera. Nhìn kiếm. "Cô không muốn tránh."
 
-Không phải hỏi. Sera không muốn tránh. Tránh hôm nay = tránh ngày mai. Tránh mãi = không bao giờ tiến. Giáo Hội thắt vòng vây — mỗi lần tránh, vòng hẹp hơn. Mỗi lần đánh, vòng lùi một bước. Cô cần vòng lùi. Cô cần Giáo Hội biết: người mang Thệ Thiết không chạy. Aldric không chạy. Aldric ở lại lò rèn và nói chuyện với Thẩm Vấn Giả để cô chuẩn bị. Aldric chết vì ở lại. Cô không ở lại — cô tiến.
+Không phải hỏi. Sera không muốn tránh. Tránh hôm nay là tránh ngày mai. Tránh mãi là không bao giờ tiến. Giáo Hội thắt vòng vây — mỗi lần tránh, vòng hẹp hơn. Mỗi lần đánh, vòng lùi một bước. Cô cần vòng lùi. Cô cần Giáo Hội biết: người mang Thệ Thiết không chạy. Aldric không chạy. Aldric ở lại lò rèn và nói chuyện với Thẩm Vấn Giả để cô chuẩn bị. Aldric chết vì ở lại. Cô không ở lại — cô tiến.
 
 "Không tránh," Sera nói. "Chọn mặt đất."
 
@@ -54,7 +54,7 @@ Chọn mặt đất: không phải chọn đánh ở đâu — là chọn đánh
 
 "Chín," Lira nói. Cô ta cũng đếm. "Chỉ huy Linh Chủ. Tám dưới — Linh Chiến hoặc Linh Kỵ. Không thấy Linh Phong trở lên ngoài chỉ huy."
 
-Sera gật. Mật độ: Linh Chủ + tám = đủ để giết cô nếu cô đánh một mình. Cô và Lira cùng đánh: tỷ lệ cân bằng hơn, nhưng chỉ huy Linh Chủ là biến số — Linh Chủ có thể áp đặt ý chí lên không gian hẹp, và không gian hẹp trong chiến đấu nghĩa là: cô không kiểm soát hoàn toàn nơi cô đứng. Đứng không chắc = đánh không chắc.
+Sera gật. Mật độ: Linh Chủ + tám, đủ để giết cô nếu cô đánh một mình. Cô và Lira cùng đánh: tỷ lệ cân bằng hơn, nhưng chỉ huy Linh Chủ là biến số — Linh Chủ có thể áp đặt ý chí lên không gian hẹp, và không gian hẹp trong chiến đấu nghĩa là: cô không kiểm soát hoàn toàn nơi cô đứng. Đứng không chắc thì đánh không chắc.
 
 Nhưng có lợi thế. Lợi thế cô có và họ không: cô biết họ ở đó. Họ không biết cô biết. Mai phục có tác dụng khi nạn nhân không biết mình bị mai phục. Khi nạn nhân biết — mai phục thành bẫy hở, và bẫy hở là bẫy có thể phản.
 
@@ -116,13 +116,13 @@ Kiếm chém. Không phải cô chém — Thệ Vang chém. Thệ Vang chạy qu
 
 Đòn. Một đòn. Sera chém — chém ngang, chém vừa, không phải đòn mạnh nhất, nhưng đòn đúng nhất. Đúng vì Thệ Vang chọn góc: Thệ Vang biết nơi chỉ huy yếu, vì Thệ Vang đọc kiếm chỉ huy như đọc báo cáo — đọc Linh Nguyên, đọc dòng chảy, đọc nơi năng lượng mỏng nhất. Và nơi mỏng nhất là dưới nách phải — nơi giáp nối, nơi Linh Nguyên chưa chạm, nơi domain chỉ huy không che. Kiếm chém qua. Máu. Nách phải đứt. Chỉ huy sụp — không chết, nhưng tay phải mất lực, kiếm hai tay rơi một tay, và kiếm một tay Linh Chủ không mạnh bằng kiếm hai tay Linh Hùng. Lợi thế mất.
 
-Sera không dừng. Cô xoay — xoay về phía năm người đang kẹp. Năm người đã chậm — chậm vì chỉ huy sụp, chậm vì không còn domain ép, chậm vì tâm lý: khi chỉ huy ngã, lính ngập ngừng một giây, và một giây là đủ. Sera vào. Kiếm Thệ Thiết chém — hai đòn liên tiếp, chém chéo, chém nhanh, chém bằng Linh Nguyên trào từ breakthrough. Hai người sụp. Ba còn lại lùi — lùi không phải chiến thuật, lùi bản năng. Lùi bản năng = lùi chết, vì lùi để khoảng trống, khoảng trống cho Lira.
+Sera không dừng. Cô xoay — xoay về phía năm người đang kẹp. Năm người đã chậm — chậm vì chỉ huy sụp, chậm vì không còn domain ép, chậm vì tâm lý: khi chỉ huy ngã, lính ngập ngừng một giây, và một giây là đủ. Sera vào. Kiếm Thệ Thiết chém — hai đòn liên tiếp, chém chéo, chém nhanh, chém bằng Linh Nguyên trào từ breakthrough. Hai người sụp. Ba còn lại lùi — lùi không phải chiến thuật, lùi bản năng. Lùi bản năng là lùi chết, vì lùi để khoảng trống, khoảng trống cho Lira.
 
 Lira. Nơi hứa. Ba mươi giây. Sera đếm: chưa mười lăm. Lira chưa cần vào. Nhưng Lira vào — vào vì Lira không cần ba mươi giây, Lira cần ba giây, và ba giây là đủ để cô ta đâm từ sau lưng tên đang lùi. Dao Lira ngắn — nhưng dao ngắn gần, và gần là nơi tên lùi không nhìn. Một tên sụp. Dao rút. Hai tên quay — nhưng quay chậm, vì Lira đã lùi, lùi vào bóng cây, lùi vào nơi mắt không thấy, lùi về phía Sera, và Sera đang chém xuống.
 
 Hai tên cuối. Một đứng. Một quỳ — quỳ vì vai đứt, quỳ vì chân gãy, quỳ vì Thệ Vang chảy qua kiếm và đòn chém cuối mang theo năng lượng lớn hơn đòn thường. Sera nhìn tên quỳ. Tên đứng bỏ chạy — chạy về phía rừng, chạy về phía chỉ huy đang rên dưới đất. Lira ném dao — dao ngắn, ném xa yếu, nhưng đủ găm vào bắp chân tên chạy. Tên ngã. Không chết — nhưng không chạy được.
 
-Sera đứng giữa bãi chiến — chín người: hai chết, bốn gãy/trầy, ba còn ý thức. Chỉ huy nằm — máu nách phải chảy nhiều, nhưng không chết nếu cầm. Sera không kết liễu. Giáo Hội muốn cô nói chuyện — cô không muốn Giáo Hội nói chuyện. Giáo Hội nói chuyện khi Giáo Hội bắt, không khi Giáo Hội thua. Thua hôm nay = lùi ngày mai. Lùi ngày mai = vòng vây nới. Vòng vây nới = cô có thêm không gian.
+Sera đứng giữa bãi chiến — chín người: hai chết, bốn gãy/trầy, ba còn ý thức. Chỉ huy nằm — máu nách phải chảy nhiều, nhưng không chết nếu cầm. Sera không kết liễu. Giáo Hội muốn cô nói chuyện — cô không muốn Giáo Hội nói chuyện. Giáo Hội nói chuyện khi Giáo Hội bắt, không khi Giáo Hội thua. Thua hôm nay là lùi ngày mai. Lùi ngày mai là vòng vây nới. Vòng vây nới, cô có thêm không gian.
 
 Cô đứng. Thở. Thệ Vang chảy chậm lại — trào dâng rút, như nước triều rút sau bão. Van. Van đóng — không hoàn toàn, nhưng đủ. Đủ để cô đứng. Đủ để cô thở. Đủ để cô nhận ra: cơ thể cô khác. Khác từ khi nào? Từ đòn chém chỉ huy. Từ lúc Thệ Vang trào. Từ lúc van không vỡ. Khác nhẹ — nhưng nhẹ theo cách mà nhẹ khi trọng lượng không giảm nhưng người mang quen hơn. Hoặc: nhẹ theo cách mà nhẹ khi người mang mạnh hơn. Mạnh hơn — không phải mạnh cơ bắp, mạnh Linh Nguyên. Linh Nguyên trong cô chảy mạnh hơn, sâu hơn, rộng hơn. Cô cảm nhận đất dưới chân — không phải cảm nhận giác quan, cảm nhận Linh Nguyên: mạch đất chảy dưới cô, mạch cũ, mạch yếu, nhưng mạch, và cô biết mạch ở đó, biết mạch chảy hướng nào, biết mạch chảy nhanh hay chậm. Đất nhớ. Thiên Địa Hữu Ký. Cô chưa đọc — nhưng cô nghe. Nghe đất. Nghe cách đất nhớ. Nghe cách đất thở. Nghe cách đất sống dù đất không có phổi.
 

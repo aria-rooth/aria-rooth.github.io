@@ -8,7 +8,7 @@ title: "Chương 44: Lira Bán Thông Tin"
 
 Ba ngày sau Draven.
 
-Họ đi về phía Đông — đường rừng, đường Lira chọn, đường vòng tránh tuyến tuần tra. Mordren đang đến Bắc — mười ngày biến thành bảy, vì Mordren thúc quân, vì Mordren biết Sera ở Vorthane, vì Mordren không chờ. Bảy ngày. Bảy ngày trước khi vòng vây đóng. Bảy ngày để làm gì? Sera chưa quyết định — nhưng cô biết: thông tin từ Draven cần chia. Chia với ai? Fen, Cova — qua quán Trắng. Nhưng quán Trắng mất bốn ngày gửi. Bốn ngày = quá lâu. Quá lâu khi Mordren cách bảy.
+Họ đi về phía Đông — đường rừng, đường Lira chọn, đường vòng tránh tuyến tuần tra. Mordren đang đến Bắc — mười ngày biến thành bảy, vì Mordren thúc quân, vì Mordren biết Sera ở Vorthane, vì Mordren không chờ. Bảy ngày. Bảy ngày trước khi vòng vây đóng. Bảy ngày để làm gì? Sera chưa quyết định — nhưng cô biết: thông tin từ Draven cần chia. Chia với ai? Fen, Cova — qua quán Trắng. Nhưng quán Trắng mất bốn ngày gửi. Bốn ngày, quá lâu. Quá lâu khi Mordren cách bảy.
 
 Sera và Lira đi cạnh nhau, cách năm bước. Nhưng năm bước nay khác — nặng hơn. Sera cảm nhận Thệ Vang rỉ nhẹ từ Lira, không phải từ kiếm. Lo lắng. Lo lắng từ đêm Draven dày hơn, đặc hơn — lo lắng của người không còn chỉ lo cho người khác, mà cả cho chính mình. Sera ghi nhận: Lira thay đổi sau Draven. Biết Đoàn cô tan vì Giáo Hội làm nỗi lo đặc lại. Đặc là nặng. Nặng là khác. Khác là người đi cạnh nay không còn như trước.
 
@@ -16,7 +16,7 @@ Sera và Lira đi cạnh nhau, cách năm bước. Nhưng năm bước nay khác
 
 Sera ngồi dậy. Lira ngủ — ngủ nhẹ, ngủ luôn nhẹ, nhưng đêm nay ngủ nhẹ hơn thường, ngủ mà tay đặt trên bao dao, ngủ mà mắt nhắm nhưng cơ thể thức. Thức — vì Lira cũng biết gì đó. Biết gì?
 
-Sera đứng. Rút kiếm — không phải rút để đánh, rút để Thệ Vang chảy rõ hơn, rõ hơn = nghe rõ hơn. Thệ Vang chảy. Cô nghe: một người. Một người ở cách trăm bước, trăm bước trong rừng, rừng tối, rừng mà không ai nên vào ban đêm nếu không phải người có lý do. Lý do: theo. Theo ai? Theo Sera.
+Sera đứng. Rút kiếm — không phải rút để đánh, rút để Thệ Vang chảy rõ hơn, rõ hơn, nghe rõ hơn. Thệ Vang chảy. Cô nghe: một người. Một người ở cách trăm bước, trăm bước trong rừng, rừng tối, rừng mà không ai nên vào ban đêm nếu không phải người có lý do. Lý do: theo. Theo ai? Theo Sera.
 
 Cô đi. Kiếm trên tay. Đi về phía âm thanh — không phải âm thanh tai nghe, âm thanh Thệ Vang nghe: nhịp tim, nhịp thở, nhịp bước. Người sống. Người sống mang Linh Nguyên nhẹ — nhẹ thường dân, nhẹ không đáng lo, nhưng thường dân không theo người trong rừng ban đêm. Thường dân ngủ. Thường dân không theo. Ai theo?
 
@@ -40,15 +40,15 @@ Hắn lưỡng lự. Lưỡng lự hai giây — rồi nhìn kiếm thêm lần.
 
 "Thirteen-seven."
 
-Sera gật. Thông tin đủ — hộp thư trung gian = không truy được khách hàng, nhưng truy được người gửi tin cập nhật vị trí. Người theo cô = người cập nhật vị trí. Vị trí = Sera ở đâu. Ở đâu = Thẩm Vấn Giả biết nơi đến. Biết nơi đến = bẫy.
+Sera gật. Thông tin đủ — hộp thư trung gian, không truy được khách hàng, nhưng truy được người gửi tin cập nhật vị trí. Người theo cô là người cập nhật vị trí. Vị trí là Sera ở đâu. Ở đâu là Thẩm Vấn Giả biết nơi đến. Biết nơi đến, bẫy.
 
 "Anh cập nhật vị trí bao lâu một lần?"
 
 "Mỗi ngày. Báo cáo bằng thư, gửi hòm thư Caelmyr."
 
-Gửi hòm thư Caelmyr = mất ba ngày đến người nhận. Ba ngày. Ba ngày trước khi người thuê biết vị trí Sera hiện tại. Ba ngày — đủ. Đủ để Sera rời nơi này trước khi thư đến. Nhưng ba ngày trước: hắn đã gửi thư. Thư đó đang trên đường. Thư đó cho người thuê biết: ba ngày trước, Sera ở rừng Đông Vorthane.
+Gửi hòm thư Caelmyr, mất ba ngày đến người nhận. Ba ngày. Ba ngày trước khi người thuê biết vị trí Sera hiện tại. Ba ngày — đủ. Đủ để Sera rời nơi này trước khi thư đến. Nhưng ba ngày trước: hắn đã gửi thư. Thư đó đang trên đường. Thư đó cho người thuê biết: ba ngày trước, Sera ở rừng Đông Vorthane.
 
-"Đi," Sera nói. Không giết — giết người không chiến đấu không phải thề ước cô mang, và không phải logic: giết = thêm xác, thêm xác = thêm điều tra, thêm điều tra = vòng vây thắt nhanh hơn. Thả = hắn về, hắn không còn việc, hắn không gửi thêm thư vì Sera không ở đây vào ngày mai.
+"Đi," Sera nói. Không giết — giết người không chiến đấu không phải thề ước cô mang, và không phải logic: giết là thêm xác, thêm xác là thêm điều tra, thêm điều tra là vòng vây thắt nhanh hơn. Thả là hắn về, hắn không còn việc, hắn không gửi thêm thư vì Sera không ở đây vào ngày mai.
 
 Hắn chạy — chạy về phía thị trấn, chạy kiểu người chạy khi biết mình sống. Sera quay về trại.
 
@@ -74,9 +74,9 @@ Năm từ. Năm từ nặng hơn tệp da bọc dưới áo Sera. Năm từ mà 
 
 Sera nghe. Nghe Lira nói. Nghe từng từ, từng khoảng, từng hụt hơi. Lira bán tin. Lira bán vị trí Sera. Lira — người đi cùng cô bảy tuần, người canh cô đêm, người đánh bên cô, người không hứa ở lại nhưng ở — Lira bán tin về cô cho Giáo Hội. Đổi em trai.
 
-Sera không giận. Giận là cảm xúc. Cảm xúc không xử lý vấn đề. Sera xử lý vấn đề: Lira bán tin. Tin = vị trí. Vị trí = bẫy. Bẫy = chết. Lira bán vị trí = Lira bán Sera chết. Nhưng Lira không bán Sera chết — Lira bán vị trí cũ, ba ngày trước, vị trí mà Sera đã rời. Lira bán chậm — bán đủ để Kael sống, bán không đủ để Sera chết ngay. Chậm = cửa. Cửa = lựa chọn.
+Sera không giận. Giận là cảm xúc. Cảm xúc không xử lý vấn đề. Sera xử lý vấn đề: Lira bán tin. Tin là vị trí. Vị trí là bẫy. Bẫy là chết. Lira bán vị trí là Lira bán Sera chết. Nhưng Lira không bán Sera chết — Lira bán vị trí cũ, ba ngày trước, vị trí mà Sera đã rời. Lira bán chậm — bán đủ để Kael sống, bán không đủ để Sera chết ngay. Chậm là cửa. Cửa là lựa chọn.
 
-Lira đứng. Đứng chờ — chờ phản ứng, chờ kiếm, chờ dao, chờ đòn. Tay cô ta mở, ngón tay hơi cong, tư thế của người không rút vũ khí nhưng sẵn sàng nếu cần. Chờ Sera quyết định: giết, đuổi, hoặc — thứ ba. Thứ ba không có trong quy tắc. Giết: đúng — Lira phản bội. Đuổi: đúng — Lira không đáng tin. Nhưng đúng không nghĩa là chỉ có đúng. Đúng còn nghĩa là: Lira bán tin vì Kael. Kael hai mươi tuổi. Kael bị giữ hai năm. Kael — em trai Lira. Giết Lira = Kael chết. Đuổi Lira = Kael chết (Lira không còn tin bán = Giáo Hội không cần Kael sống). Giết và đuổi đều kết thúc bằng Kael chết. Kael chết không phải vấn đề Sera. Nhưng — nhưng — Kael hai mươi tuổi. Aldric hai mươi năm phục vụ Đoàn. Aldric chết vì ở lại. Kael hai mươi tuổi. Kael không chọn bị bắt. Kael không chọn làm con tin. Kael — giống Fen, giống Cova, giống người không chọn số phận mình.
+Lira đứng. Đứng chờ — chờ phản ứng, chờ kiếm, chờ dao, chờ đòn. Tay cô ta mở, ngón tay hơi cong, tư thế của người không rút vũ khí nhưng sẵn sàng nếu cần. Chờ Sera quyết định: giết, đuổi, hoặc — thứ ba. Thứ ba không có trong quy tắc. Giết: đúng — Lira phản bội. Đuổi: đúng — Lira không đáng tin. Nhưng đúng không nghĩa là chỉ có đúng. Đúng còn nghĩa là: Lira bán tin vì Kael. Kael hai mươi tuổi. Kael bị giữ hai năm. Kael — em trai Lira. Giết Lira là Kael chết. Đuổi Lira là Kael chết (Lira không còn tin bán, Giáo Hội không cần Kael sống). Giết và đuổi đều kết thúc bằng Kael chết. Kael chết không phải vấn đề Sera. Nhưng — nhưng — Kael hai mươi tuổi. Aldric hai mươi năm phục vụ Đoàn. Aldric chết vì ở lại. Kael hai mươi tuổi. Kael không chọn bị bắt. Kael không chọn làm con tin. Kael — giống Fen, giống Cova, giống người không chọn số phận mình.
 
 Sera đứng dậy. Lira không lùi — Lira đứng, chờ, mắt mở, mắt không xin, mắt chỉ nhìn. Sera đến trước Lira. Gần — gần hơn năm bước, gần hơn họ từng đứng. Gần một bước. Nhìn Lira. Lira nhìn lại.
 
@@ -84,11 +84,11 @@ Sera đứng dậy. Lira không lùi — Lira đứng, chờ, mắt mở, mắt 
 
 Lira không ngạc nhiên. Hoặc ngạc nhiên nhưng không để ngạc nhiên hiện. Cô ta xử lý câu hỏi — câu hỏi mà Lira tưởng là kiếm, hóa ra là thời gian.
 
-"Sáu giờ," Lira nói. "Có thể hơn. Hắn báo cáo mỗi ngày — hôm nay chưa gửi. Nếu hắn không gửi hôm nay, Giáo Hội dùng vị trí hôm qua. Vị trí hôm qua = sáu giờ hành quân từ trạm gần nhất."
+"Sáu giờ," Lira nói. "Có thể hơn. Hắn báo cáo mỗi ngày — hôm nay chưa gửi. Nếu hắn không gửi hôm nay, Giáo Hội dùng vị trí hôm qua. Vị trí hôm qua là sáu giờ hành quân từ trạm gần nhất."
 
-Sáu giờ. Sáu giờ để làm gì? Rời — rời ngay, đi xa, đi trước khi Thẩm Vấn Giả đến. Hoặc — đánh. Đánh đội đến: đội nhỏ, tuần tra, không phải bốn mươi người Mordren. Đánh được. Nhưng đánh không giải quyết Lira bán tin. Đánh = vẫn Lira bán tin. Vẫn Lira bán tin = vẫn vấn đề.
+Sáu giờ. Sáu giờ để làm gì? Rời — rời ngay, đi xa, đi trước khi Thẩm Vấn Giả đến. Hoặc — đánh. Đánh đội đến: đội nhỏ, tuần tra, không phải bốn mươi người Mordren. Đánh được. Nhưng đánh không giải quyết Lira bán tin. Đánh là vẫn Lira bán tin. Vẫn Lira bán tin là vẫn vấn đề.
 
-Hoặc — giải quyết Lira. Giải quyết = giải quyết Kael. Cứu Kael ra. Kael thoát = Lira không còn nợ. Lira không còn nợ = Lira không bán tin. Lira không bán tin = Sera không bị theo. Sợi dây: Kael → Lira → Sera. Cắt Kael khỏi Giáo Hội = cắt dây.
+Hoặc — giải quyết Lira. Giải quyết là giải quyết Kael. Cứu Kael ra. Kael thoát là Lira không còn nợ. Lira không còn nợ là Lira không bán tin. Lira không bán tin là Sera không bị theo. Sợi dây: Kael → Lira → Sera. Cắt Kael khỏi Giáo Hội là cắt dây.
 
 Sáu giờ. Không đủ để cứu Kael — Kael ở đâu? Lira biết. Lira sẽ nói. Nhưng sáu giờ không đủ. Đủ để rời. Đủ để tính. Đủ để quyết định.
 
@@ -96,7 +96,7 @@ Sáu giờ. Không đủ để cứu Kael — Kael ở đâu? Lira biết. Lira 
 
 "Trạm gác Caelmyr. Hầm giam dưới tầng trệt. Hai canh. Một tù nhân khác."
 
-Trạm gác Caelmyr. Hai canh. Đơn giản — đơn giản hơn đội Thẩm Vấn Giả đang đến sáu giờ. Nhưng đơn giản không nghĩa là dễ. Dễ = không chết. Đơn giản = ít biến số. Ít biến số = kế hoạch chắc hơn. Chắc hơn không nghĩa là chắc — chắc hơn.
+Trạm gác Caelmyr. Hai canh. Đơn giản — đơn giản hơn đội Thẩm Vấn Giả đang đến sáu giờ. Nhưng đơn giản không nghĩa là dễ. Dễ là không chết. Đơn giản là ít biến số. Ít biến số là kế hoạch chắc hơn. Chắc hơn không nghĩa là chắc — chắc hơn.
 
 Sera tính. Sáu giờ. Rời đây: một giờ. Đến Caelmyr: ba ngày đi nhanh. Thẩm Vấn Giả đến: sáu giờ. Sáu giờ sau: trại này bị kiểm tra, không ai, họ đi tiếp. Tiếp tục đi: ba ngày, không bị theo (thám tử tư đã thả, không gửi thư hôm nay), đến Caelmyr, lấy Kael. Khoảng cách: ba ngày đi + thời gian lấy Kael + thời gian rời Caelmyr. Tổng: bốn hoặc năm ngày. Trong bốn năm ngày: Mordren đến Bắc. Vòng vây thay đổi. Biến số nhiều. Nhưng biến số nhiều không nghĩa là không làm — biến số nhiều nghĩa là cần linh hoạt, và linh hoạt là thứ Sera học từ sáu tuần lang thang.
 
@@ -108,7 +108,7 @@ Lira nhìn cô. Mở miệng — đóng. Mở lại. Không nói. Không cần n
 
 "Tại sao?"
 
-Sera không trả lời ngay. Vì câu hỏi cần câu trả lời đúng, và đúng không phải nhanh. Tại sao? Vì chiến lược? Lira không bán tin = Sera an toàn hơn. Đúng. Nhưng chiến lược là lý do phụ. Lý do chính — lý do mà cô không nói thành lời dễ — lý do nằm nơi Thệ Vang chảy nhẹ, nơi hai mảnh hoàn thành ấm, nơi thề ước mới chớm chưa đặt tên. Lý do: vì Aldric chết. Vì bốn mươi bảy người chết. Vì Fen trốn. Vì Cova chạy đêm. Vì người không chọn số phận mình không nên trả giá cho người chọn. Kael hai mươi tuổi. Kael không chọn bị bắt. Lira không chọn phản bội. Lira chọn giữa hai chết — em chết hoặc đồng đội chết. Lựa chọn không có trong sách quy tắc. Lựa chọn mà Sera hiểu — không phải vì cô sẽ làm giống, vì cô hiểu tại sao Lira làm.
+Sera không trả lời ngay. Vì câu hỏi cần câu trả lời đúng, và đúng không phải nhanh. Tại sao? Vì chiến lược? Lira không bán tin là Sera an toàn hơn. Đúng. Nhưng chiến lược là lý do phụ. Lý do chính — lý do mà cô không nói thành lời dễ — lý do nằm nơi Thệ Vang chảy nhẹ, nơi hai mảnh hoàn thành ấm, nơi thề ước mới chớm chưa đặt tên. Lý do: vì Aldric chết. Vì bốn mươi bảy người chết. Vì Fen trốn. Vì Cova chạy đêm. Vì người không chọn số phận mình không nên trả giá cho người chọn. Kael hai mươi tuổi. Kael không chọn bị bắt. Lira không chọn phản bội. Lira chọn giữa hai chết — em chết hoặc đồng đội chết. Lựa chọn không có trong sách quy tắc. Lựa chọn mà Sera hiểu — không phải vì cô sẽ làm giống, vì cô hiểu tại sao Lira làm.
 
 "Vì nó đúng," Sera nói. Ba từ. Đủ.
 

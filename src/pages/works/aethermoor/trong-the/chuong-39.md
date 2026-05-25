@@ -14,13 +14,13 @@ Chỉ huy giơ tay — dừng đội. Mười hai Thẩm Vấn Giả dừng. H�
 
 "Cô biết tôi ở đây vì Bạc Ty Linh Đoàn," Sera nói. Không phải hỏi. "Và cô biết tôi sẽ không để cô bắt người thường."
 
-Chỉ huy im. Tính. Tính nhanh — tính mà người chỉ huy tính khi đứng giữa lựa chọn: đánh hay đàm phán. Đánh: mười hai người chống Linh Phong + Tự Do Kiếm Sĩ. Tỷ lệ: thắng, nhưng thương vong. Thẩm Vấn Giả không sợ thương vong, nhưng thương vong cần báo, báo cần giải trình, giải trình cần lý do, lý do ở đây là: bắt hai người Bạc Ty Linh Đoàn. Bắt hai người Bạc Ty Linh Đoàn đáng mấy mạng Thẩm Vấn Giả? Không đáng — theo sổ sách Giáo Hội. Theo sổ sách, người Bạc Ty Linh Đoàn đáng bắt, Thẩm Vấn Giả đáng giữ. Đánh = mất giữ. Không đáng.
+Chỉ huy im. Tính. Tính nhanh — tính mà người chỉ huy tính khi đứng giữa lựa chọn: đánh hay đàm phán. Đánh: mười hai người chống Linh Phong + Tự Do Kiếm Sĩ. Tỷ lệ: thắng, nhưng thương vong. Thẩm Vấn Giả không sợ thương vong, nhưng thương vong cần báo, báo cần giải trình, giải trình cần lý do, lý do ở đây là: bắt hai người Bạc Ty Linh Đoàn. Bắt hai người Bạc Ty Linh Đoàn đáng mấy mạng Thẩm Vấn Giả? Không đáng — theo sổ sách Giáo Hội. Theo sổ sách, người Bạc Ty Linh Đoàn đáng bắt, Thẩm Vấn Giả đáng giữ. Đánh là mất giữ. Không đáng.
 
 "Tôi đề nghị," chỉ huy nói, giọng đổi — đổi từ lệnh sang thương lượng, vì thương lượng rẻ hơn đánh. "Cô giao người Bạc Ty Linh Đoàn. Tôi để người thường đi. Cô đi. Mọi người sống."
 
 "Mọi người sống," Sera lặp lại. "Trừ Fen. Trừ Cova. Trừ hai người cô sẽ thẩm vấn bằng đau. Sống — nhưng sống thế nào?"
 
-Chỉ huy không trả lời — vì câu hỏi không cần trả lời. Sera đã biết. Thẩm vấn = đau. Đau = sống nhưng sống không đáng. Đáng — theo cô, không theo ông ta.
+Chỉ huy không trả lời — vì câu hỏi không cần trả lời. Sera đã biết. Thẩm vấn là đau. Đau là sống nhưng sống không đáng. Đáng — theo cô, không theo ông ta.
 
 "Tôi đề nghị khác," Sera nói. "Cô rút. Người thường tự do. Bạc Ty Linh Đoàn đi đâu là việc của họ — không của cô, không của Giáo Hội."
 
@@ -36,9 +36,9 @@ Trận chiến ngắn hơn trận ở rãnh — vì lần này cô không cần 
 
 Bốn đòn. Bốn người sụp. Chỉ huy hét: "Kẹp!" — nhưng kẹp cần thời gian, và Sera không cho thời gian. Cô chen qua khoảng trống — khoảng trống mà mười hai người dàn trải tạo, khoảng trống mà Linh Phong dùng: tốc độ. Tốc độ Linh Phong nhanh hơn Linh Hùng — nhanh rõ rệt, nhanh mà mắt thường theo không kịp, nhanh mà Thẩm Vấn Giả Linh Chiến thấy bóng thay thấy người. Bóng chém. Người sụp. Bóng chém. Người sụp.
 
-Lira vào — Lira không chờ ba mươi giây. Lira vào sau mười. Lira đánh từ ngoài: dao ném, dao cận chiến, dao đỡ, dao rút. Lira không Thệ Thiết, không Thệ Vang, không breakthrough — Lira có kinh nghiệm. Kinh nghiệm mười năm Tự Do Kiếm Sĩ, kinh nghiệm đánh người, đánh đội, đánh khi yếu hơn. Kinh nghiệm không tăng tốc độ, không tăng lực — kinh nghiệm tăng chỗ đứng. Đứng đúng chỗ = đòn đúng. Đòn đúng = thắng nhanh. Lira đứng đúng chỗ.
+Lira vào — Lira không chờ ba mươi giây. Lira vào sau mười. Lira đánh từ ngoài: dao ném, dao cận chiến, dao đỡ, dao rút. Lira không Thệ Thiết, không Thệ Vang, không breakthrough — Lira có kinh nghiệm. Kinh nghiệm mười năm Tự Do Kiếm Sĩ, kinh nghiệm đánh người, đánh đội, đánh khi yếu hơn. Kinh nghiệm không tăng tốc độ, không tăng lực — kinh nghiệm tăng chỗ đứng. Đứng đúng chỗ là đòn đúng. Đòn đúng là thắng nhanh. Lira đứng đúng chỗ.
 
-Năm mươi giây. Mười hai Thẩm Vấn Giả: bốn sụp (Sera), hai rút (Lira dao), sáu lùi. Chỉ huy lùi cùng sáu người — lùi không phải chạy, lùi chiến thuật: lùi để nhóm lại, lùi để kẹp lại, lùi để đánh lần hai. Nhưng lần hai không đến — vì Sera không đuổi. Sera dừng — vì đuổi là sai. Đuổi sáu người vào rừng = rời tu viện, rời người thường, rời khoảng an toàn cô vừa tạo. Tu viện cần cô ở — ở cho đến khi người thường ra, cho đến khi Vestra an, cho đến khi Fen và Cova quyết định đi hay ở. Đuổi sáu người = thêm xác, thêm máu, thêm tiếng, thêm bằng chứng cho Giáo Hội rằng cô nguy hiểm hơn họ tưởng. Sáu người về báo: Linh Phong, Thệ Thiết, thắng mười hai. Đủ để Mordren tính lại. Đủ để vòng vây nới. Nới = thêm thời gian. Thời gian = thêm tiến.
+Năm mươi giây. Mười hai Thẩm Vấn Giả: bốn sụp (Sera), hai rút (Lira dao), sáu lùi. Chỉ huy lùi cùng sáu người — lùi không phải chạy, lùi chiến thuật: lùi để nhóm lại, lùi để kẹp lại, lùi để đánh lần hai. Nhưng lần hai không đến — vì Sera không đuổi. Sera dừng — vì đuổi là sai. Đuổi sáu người vào rừng là rời tu viện, rời người thường, rời khoảng an toàn cô vừa tạo. Tu viện cần cô ở — ở cho đến khi người thường ra, cho đến khi Vestra an, cho đến khi Fen và Cova quyết định đi hay ở. Đuổi sáu người là thêm xác, thêm máu, thêm tiếng, thêm bằng chứng cho Giáo Hội rằng cô nguy hiểm hơn họ tưởng. Sáu người về báo: Linh Phong, Thệ Thiết, thắng mười hai. Đủ để Mordren tính lại. Đủ để vòng vây nới. Nới là thêm thời gian. Thời gian là thêm tiến.
 
 Dừng. Kiếm trên tay. Thở. Thệ Vang chảy chậm. Chậm — nhưng không tắt. Không tắt vì van không đóng hoàn toàn — breakthrough mới, van chưa quen đóng. Thệ Vang rỉ — rỉ nhẹ, rỉ như nước rỉ qua kẽ đá, rỉ không đáng lo nhưng rỉ liên tục. Cô sẽ cần luyện đóng. Nhưng luyện đóng là việc sau. Việc bây giờ: người thường.
 

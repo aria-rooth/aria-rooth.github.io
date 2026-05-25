@@ -78,10 +78,10 @@ Arc 3 outline: Ch.46–52 — Velhar giao tiếp lần đầu tiên qua giấc m
 
 Chương viết bám sát outline:
 - Ch.46: Velhar đến qua giấc mơ, giọng thân thiện, nhắc hợp đồng, cho cô lựa chọn (tiếp tục hay phá), nói phá cần đối diện trực tiếp. ✅
-- Ch.47: Vela nhận ra mình là kênh Aether nuôi Velhar, giao thức thệ ước, mảnh vỡ domain = chìa khóa, Thiên Địa Hữu Ký, cần Thánh Vực để đọc đất. ✅
-- Ch.48: Mơ lần 2, thấy kênh Aether (cột sáng), Velhar không xuất hiện chỉ để cô thấy, tìm hiểu về nút thệ ước, nhận thức = bước tới Thánh Vực. ✅
-- Ch.49: Mơ lần 3, Velhar thân thiện hơn, tiết lộ giá tự do = thời gian (phá hợp đồng → già → chết), Vela hỏi điều ông ta không nói (khi domain đủ thì cô thành gì), ông ta thừa nhận. ✅
+- Ch.47: Vela nhận ra mình là kênh Aether nuôi Velhar, giao thức thệ ước, mảnh vỡ domain là chìa khóa, Thiên Địa Hữu Ký, cần Thánh Vực để đọc đất. ✅
+- Ch.48: Mơ lần 2, thấy kênh Aether (cột sáng), Velhar không xuất hiện chỉ để cô thấy, tìm hiểu về nút thệ ước, nhận thức là bước tới Thánh Vực. ✅
+- Ch.49: Mơ lần 3, Velhar thân thiện hơn, tiết lộ giá tự do là thời gian (phá hợp đồng → già → chết), Vela hỏi điều ông ta không nói (khi domain đủ thì cô thành gì), ông ta thừa nhận. ✅
 - Ch.50: Vela ở giữa hai bờ, mỗi nhát kiếm vừa bảo vệ vừa nuôi Velhar, Theo đề nghị đọc ngược kênh (cửa hai chiều), chuẩn bị thay vì hành động ngay. ✅
 
 Quy tắc LORE_BIBLE: Linh Việt (Tier 9), Thánh Vực (Tier 10), Thần Vương Velhar the Chained, Thệ Ước Phong Lực (giao thức thệ ước), Thiên Địa Hữu Ký (đất nhớ), Aether, domain, lãnh vực, kênh, Bạch Quái Thú. ✅
-Xưng hô: Velhar → Vela = "ngươi" (thần-người), Vela → Velhar = "anh" (phức tạp, không chỉ kẻ thù). ✅
+Xưng hô: Velhar → Vela "ngươi" (thần-người), Vela → Velhar "anh" (phức tạp, không chỉ kẻ thù). ✅

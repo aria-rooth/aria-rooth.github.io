@@ -124,5 +124,5 @@ Chương viết bám sát outline và nối tiếp ch51-55:
 - Ch.60: Đối đầu trực tiếp qua kênh. Velhar tiết lộ mảnh là bẫy — ông ta đặt để cô tìm khi đủ mạnh. Vela bị khóa tay. Nhưng cô phá từ bên trong bằng pattern Linh Nguyên hỗn loạn của chính mình (200 năm chiến đấu). Theo chạm tinh thể tạo đòn bẩy. Tinh thể vỡ. Kênh đứt một nửa. Velhar bị tổn thương lần đầu. Họ chạy ra. ✅
 
 Quy tắc LORE_BIBLE: Linh Việt, Thánh Vực, Thần Vương Velhar the Chained, Thệ Ước Phong Lực, Thiên Địa Hữu Ký, Linh Nguyên, lãnh vực, kênh, Bạch Quái Thú, Bạch Lang Thần Thú, Pale Frontier, Bức Tường Thứ Tư, Thần Khố Trầm. ✅
-Xưng hô: Velhar → Vela = "ngươi" (thần-người), Vela → Velhar = "anh" (phức tạp), Calla → Vela = "cô", Vela → Calla = "em", Theo → Vela = "cô", Vela → Theo = "anh". ✅
-Voice Eve: lạnh-thực-dụng, concrete action, short sentences, silence = answer, Vela không biết cảm xúc mình nhưng reader biết. ✅
+Xưng hô: Velhar → Vela "ngươi" (thần-người), Vela → Velhar "anh" (phức tạp), Calla → Vela "cô", Vela → Calla "em", Theo → Vela "cô", Vela → Theo "anh". ✅
+Voice Eve: lạnh-thực-dụng, concrete action, short sentences, silence is answer, Vela không biết cảm xúc mình nhưng reader biết. ✅

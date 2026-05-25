@@ -6,10 +6,6 @@ total: 60
 title: "Chương 10: Nhật Ký Mới"
 ---
 
-← [Chương 9](chuong-9)  **Chương 10/30**  → [Chương 11](chuong-11)
-
-***
-
 Sáng. Mưa.
 
 Không phải mưa như đêm đầu tiên — mưa này nhẹ hơn, thưa hơn, loại mưa mà người ta không chắc có nên gọi là mưa hay chỉ là không khí quá ẩm để giữ hình dạng. Elara ngồi bên cửa sổ tháp canh, nhìn ra Huyền Môn Cốt, và biết mình sẽ không ra ngoài hôm nay.
@@ -70,6 +66,7 @@ Không gạch.
 
 Chiều đến. Mưa chuyển sang nặng hạt. Elara đặt bút xuống và kiểm tra Linh Nguyên.
 
+
 Tay cô đau — không nhiều, chỉ đủ để cô nhận ra. Đau ở khớp ngón giữa, nơi bút chì ép vào trong suốt ba trang. Cô chưa từng viết nhiều đến mức này trong mười hai năm. Viết cảm xúc khác viết số liệu: số liệu chạy qua đầu rồi xuống tay, không dừng lại. Cảm xúc dừng lại ở ngực, ở bụng, ở cổ, và cô phải kéo nó lên, ra, xuống tay. Mỗi câu là một lần kéo. Ba trang là ba lần kéo dài. Cô đau. Nhưng cô cũng cảm thấy thứ gì đó lạ — như thể cơ thể cô nhớ lại rằng nó có thể cảm thấy nhiều hơn mức nền.
 
 Thiết bị đo là một hộp đồng nhỏ, mặt kính pha lê, kim chỉ thị. Bạch Hành Linh Đoàn sản xuất hai mươi năm trước. Cô vẫn giữ nó hoạt động bằng cách vệ sinh định kỳ, bảo quản khô ráo, thay pin từ năng lượng Linh Nguyên tích trữ. Kim chỉ 2.3. Nền. Bình thường.
@@ -112,8 +109,6 @@ Trong ba ngày, cô chỉ ra ngoài để kiểm tra Linh Nguyên và lấy nư�
 
 Chờ điều gì? Cô không trả lời câu hỏi đó. Không trong đầu, không trên giấy. Nhưng cô chờ.
 
+---
+
 *→ [Chương 11–15](europa-ch11-15-final.md)*
-
-***
-
-← [Chương 9](chuong-9)  **Chương 10/30**  → [Chương 11](chuong-11)
