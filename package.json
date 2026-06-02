@@ -9,6 +9,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@rollup/rollup-darwin-arm64": "^4.61.0",
     "astro": "^6.3.3"
   }
 }
