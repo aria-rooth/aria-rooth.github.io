@@ -5,6 +5,9 @@ story: "/works/heavendestinysword/thien-menh-kiem"
 total: 12
 title: "Chương 12: Đường Máu"
 ---
+
+# Chương 12: Đường Máu
+
 Họ rời biên thành lúc trời chưa sáng hẳn. Sương còn phủ trên mặt đất, mỏng, lạnh, mùi cỏ ướt bám vào ống quần. Trần Mạc Trần đi trước, kiếm đeo chéo lưng, tay phải buông lỏng cạnh đùi. Tô Tịnh Y đi sau hai bước, gậy trúc gõ nhịp đều — tách, tách, tách — âm thanh nhỏ nhưng rõ giữa đồng cỏ trống, vọng đi rất xa.
 
 Hắn nghe thấy tiếng gậy của nàng, nghe thấy hơi thở nàng nhẹ phía sau, nghe thấy gió cọ vào lá trúc mỏng ở phía bắc. Mỗi thứ một âm thanh riêng, mỗi âm thanh một vị trí. Từ khi có mệnh hạch trong ngực, thế giới quanh hắn không còn là một khối mờ — nó tách ra thành từng lớp, từng chi tiết, từng tiếng nhỏ mà trước đây hắn nghe loáng thoáng mà không phân biệt được. Mệnh hạch rung nhẹ mỗi khi hắn chú ý, như đang nhắc — ngươi đang sống, ngươi đang đi, ngươi đang nghe.
@@ -363,7 +366,7 @@ Trần Mạc Trần đứng yên. Rồi hắn bước tới, cầm một cây b�
 
 Phương trượng nhìn chữ. Một lúc.
 
-"Ngồi." Phương trượng nói. "Nói chuyện dài. Bạch Vô Ưu, dẫn cô Tô Tịnh Y đi nghỉ. Cô ấy mệt."
+"Ngồi." Phương trượng nói. "Nói chuyện dài. Bạch Vô Ưu, dẫn Tô cô nương đi nghỉ. Nàng ấy mệt."
 
 Bạch Vô Ưu gật, đưa tay cho Tô Tịnh Y. Nàng cầm lấy, theo Bạch Vô Ưu ra ngoài. Trước khi đi, nàng quay lại — quay về phía hắn — dù nàng không nhìn thấy.
 
@@ -389,7 +392,7 @@ Hắn nghe. Hắn không viết. Hắn chỉ nghe.
 
 Và hắn hiểu — rằng cuộc đời hắn, cho đến giờ, chỉ là phần nổi của một thứ gì đó rất lớn, rất cũ, rất sâu. Một thứ mà cha hắn đã bước vào trước hắn, và cha của cha hắn đã bước vào trước nữa. Một thứ mà hắn không chọn, nhưng hắn sẽ phải sống với.
 
-Bên ngoài, sương dày hơn. Tiếng chuông ở đâu đó rất xa — xa lắm, lạnh lắm — vẫn vang. Một tiếng. Lặp. Lặp. Lặp.
+Bên ngoài, sương dày hơn. Tiếng chuông ở đâu đó rất xa — xa lắm, lạnh lắm — vẫn vang. Một tiếng. Rồi một tiếng nữa. Đều đều, vọng từ chốn không biết đâu.
 
 Và ở rất xa — xa lắm, lạnh lắm, nơi mà ngay cả ánh sáng cũng đi mất nửa đời mới tới — tiếng cười đó vẫn vang. Nhưng lần này, tiếng cười không đến từ phương bắc. Nó đến từ chính con đường mà hắn vừa đi qua — từ phía sau lưng hắn, từ phía dưới chân núi, từ một nơi mà hắn không nhìn thấy nhưng mệnh hạch trong ngực bắt đầu cảm nhận.
 
