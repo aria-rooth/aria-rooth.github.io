@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 4
 story: "/works/heavendestinysword/thien-menh-kiem"
-total: 12
+total: 13
 title: "Chương 4"
 ---Họ tìm thấy lối ra vào ngày thứ năm, hoặc đêm thứ năm, không ai đếm được thời gian trong Cửu U.
 

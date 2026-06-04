@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 7
 story: "/works/heavendestinysword/thien-menh-kiem"
-total: 12
+total: 13
 title: "Chương 7: Trừng Phạt"
 ---
 Lão già buôn mệnh thạch tên là Cáp. Không phải tên thật — ai nhớ tên thật của lão? Người ta chỉ gọi lão là Cáp vì lão thích người ta sợ, sợ như sợ cá kho.

@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 5
 story: "/works/heavendestinysword/thien-menh-kiem"
-total: 12
+total: 13
 title: "Chương 5: Mười Năm"
 ---
 Thiên Khải năm thứ hai mươi lăm.

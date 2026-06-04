@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 10
 story: "/works/heavendestinysword/thien-menh-kiem"
-total: 12
+total: 13
 title: "Chương 10: Cửu U"
 ---
 Đường vào Cửu U không có cổng.

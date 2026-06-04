@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 6
 story: "/works/heavendestinysword/thien-menh-kiem"
-total: 12
+total: 13
 title: "Chương 6: Không Giết"
 ---
 Lão Hổ dặn trước khi hắn đi: "Mày nhận việc, mày hoàn thành. Không hoàn thành thì không về."
