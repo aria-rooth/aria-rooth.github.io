@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 2
 story: "/works/heavendestinysword/thien-menh-kiem"
-total: 13
+total: 14
 title: "Chương 2"
 ---Trần Mạc Trần tỉnh dậy trong bóng tối không đáy của Cửu U, nơi không có ngày tháng hay ánh sáng mặt trời, chỉ còn lại ánh xanh yếu ớt từ đáy hồ đủ để phân biệt được hình dáng mơ hồ.
 

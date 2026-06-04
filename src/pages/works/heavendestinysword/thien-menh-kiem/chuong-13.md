@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 13
 story: "/works/heavendestinysword/thien-menh-kiem"
-total: 13
+total: 14
 title: "Chương 13: Tên Theo Dõi"
 ---
 

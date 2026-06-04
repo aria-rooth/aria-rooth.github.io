@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 3
 story: "/works/heavendestinysword/thien-menh-kiem"
-total: 13
+total: 14
 title: "Chương 3"
 ---Trong bóng tối xanh của Cửu U, Tô Tịnh Y "nhìn" được những gì mà mắt thường không thấy.
 

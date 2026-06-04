@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 11
 story: "/works/heavendestinysword/thien-menh-kiem"
-total: 13
+total: 14
 title: "Chương 11: Kiếm Đổi"
 ---
 Hắn tỉnh dậy sau bao lâu, hắn không biết. Chỉ biết rằng — nơi hắn đang nằm không còn là chỗ cũ, và tiếng thở dài kia đã tan vào bóng tối từ lâu lắm rồi.

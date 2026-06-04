@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 1
 story: "/works/heavendestinysword/thien-menh-kiem"
-total: 13
+total: 14
 title: "Chương 1: Đêm Không Tiếng"
 ---
 Thiên Khải năm thứ mười lăm, triều Đại Hưng.

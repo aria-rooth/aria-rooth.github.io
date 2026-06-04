@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 8
 story: "/works/heavendestinysword/thien-menh-kiem"
-total: 13
+total: 14
 title: "Chương 8: Vô Mệnh"
 ---
 Ma Đạo Tự không phải tên thật của ngôi chùa.
