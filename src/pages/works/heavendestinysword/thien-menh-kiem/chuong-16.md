@@ -8,7 +8,7 @@ title: "Chương 16: Huyết Sát"
 
 # Chương 16: Huyết Sát
 
-Biên thành không thay đổi — đường đất xám, nhà tranh nứt, mùi thiền khói lẫn máu khô, tiếng gió rít qua khe cửa những đêm không trăng. Ba năm qua, Trần Mạc Trần đã quen với tất cả — quen đến mức hắn có thể nhắm mắt đi qua chợ đêm, nhắm mắt nghe tiếng ai đó kéo dao mài trên đá, nhắm mắt cảm nhận được vị trí của từng con người trong bán kính ba trượng chỉ bằng luồng khí họ để lại.
+Biên thành không thay đổi — đường đất xám, nhà tranh nứt, mùi thiêu khói lẫn máu khô, tiếng gió rít qua khe cửa những đêm không trăng. Ba năm qua, Trần Mạc Trần đã quen với tất cả — quen đến mức hắn có thể nhắm mắt đi qua chợ đêm, nhắm mắt nghe tiếng ai đó kéo dao mài trên đá, nhắm mắt cảm nhận được vị trí của từng con người trong bán kính ba trượng chỉ bằng luồng khí họ để lại.
 
 Hôm nay gió mang theo mùi khác. Một mùi lạ, không phải thiền, không phải máu, không phải mưa — là mùi sắt nguội lẫn hương thơm rất nhẹ, rất xa, của một loại hoa không mọc ở biên thành. Mùi đó đến từ hướng miệng Cửu U, nơi ba người vừa bước ra chưa đầy nửa canh giờ.
 
@@ -25,7 +25,7 @@ Chợ biên thành náo nhiệt như mọi khi. Những kẻ buôn mệnh thạc
 Lão già không trả lời ngay. Tiếng hít rượu dừng lại. Một lúc lâu, lão mới khẽ, giọng khàn:
 — Ngũ hành... tiểu nha đầu, ngươi đang chơi với lửa.
 
-— Ta chỉ hỏi có hay không. — Nàng cười, tiếng cười khô, đều, như người vừa nghe một câu hỏi mà mình đã chờ hai mươi năm. — Tiền không thiếu.
+— Ta chỉ hỏi có hay không. — Nàng cười, tiếng cười khô khốc, đều, như người vừa nghe một câu hỏi mà mình đã chờ hai mươi năm. — Tiền không thiếu.
 
 Lão già im lặng. Rồi một tiếng gõ nhẹ lên bàn — không phải mệnh thạch, là một tờ giấy da chuột, nét chữ mờ, vẽ một bản đồ sơ sài.
 — Không có ngũ hành ở đây. Nhưng có tin đồn — Huyết Sát Môn đang tìm. Ngươi biết Huyết Sát Môn không? Họ không mua. Họ cướp. Và họ vừa phái người đến biên thành ba ngày trước.
@@ -94,7 +94,7 @@ Hắn nhận ra. Mười năm trước, ở Thiên Kiếm Tông, trong sân võ 
 
 Chẳng viết thêm. Chỉ nhìn.
 
-Người đó — Huyết Y — cười. Tiếng cười khô, đều, vang trong sảnh vắng như tiếng gõ vào tim.
+Người đó — Huyết Y — cười. Tiếng cười khô khốc, đều, vang trong sảnh vắng như tiếng gõ vào tim.
 — Ta nhớ ngươi. Con chưởng môn kia còn sống à? Thú vị.
 
 Tay trái vẽ trên không khí, nét chữ vững, rõ — như đang viết lên bức tranh vô hình.
