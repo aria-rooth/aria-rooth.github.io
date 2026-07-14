@@ -48,12 +48,12 @@ Sera giữ nguyên bản. Kellen không cần nữa — Đoàn ông sắp tan, v
 
 Đêm đó, Thệ Vang mạnh hơn thường. Sera nằm trong phòng trọ thị trấn — phòng nhỏ, giường hẹp, tường gỗ mỏng đủ nghe gió rít ngoài cửa. Lira ở phòng bên. Giữa họ là vách gỗ — mỏng, nhưng đủ để chia hai không gian riêng. Sera nhắm mắt. Cố tĩnh. Như Aldric dạy. Nhưng Thệ Vang không tĩnh — nó ồn.
 
-Ba giọng cùng lúc. Không phải một — ba. Chồng lên nhau, đan vào nhau, không rõ ranh giới. Giọng thứ nhất: thấp, nặng, như người gánh vật quá nặng. Giọng thứ hai: cao hơn, sắc hơn, như tiếng kim loại chạm kim loại. Giọng thứ ba: không phải giọng — là tiếng thở, dài, mỏng, như người thở lần cuối.
+Không phải một giọng — ba. Chồng lên nhau, đan vào nhau, không rõ ranh giới. Một giọng chạm vào đỉnh đầu cô, nặng, như có ai đang gánh thứ gì đó trên vai. Một giọng rào rạt ở lồng ngực, sắc, như lưỡi kiếm mài vào xương sườn. Một giọng cuối cùng — không phải giọng, mà là hơi thở, dài, mỏng, chạm vào cổ họng cô như tay người khác đang cố nói nhưng không còn hơi.
 
-Cô không nghe được lời. Chỉ nghe cường độ. Ba mảnh thề ước đang nói cùng lúc — hoặc đang phản ứng, hoặc đang cảnh báo, hoặc chỉ đang nặng thêm vì danh sách cô vừa đọc. Sáu Đoàn. Sáu cách chết. Thệ Vang trong kiếm cũng đọc danh sách đó — qua cô, qua mắt cô, qua ký ức cô mới thấy. Và bốn mươi bảy mảnh thề ước phản ứng — không phải vì chúng biết sáu Đoàn đó, mà vì chúng biết *cái chết Đoàn* từ bên trong. Chúng đã chết cùng cách. Cùng đêm. Cùng im lặng.
+Cô không nghe được lời. Chỉ nghe cường độ. Ba mảnh thề ước phản ứng — vì danh sách cô vừa đọc. Sáu Đoàn. Sáu cách chết. Và bốn mươi bảy mảnh thề ước trong kiếm — chúng biết *cái chết Đoàn* từ bên trong. Chúng đã chết cùng cách. Cùng đêm. Cùng im lặng.
 
-Sera không ngủ được. Cô nằm và mang ba giọng, và ba giọng nằm trong kiếm, và kiếm nặng trên sàn gỗ, và sàn gỗ kêu nhẹ dưới trọng lượng — tiếng kêu nhỏ, như tiếng người thở dài trong giấc mơ không yên.
+Sera không ngủ được. Kiếm nặng trên sàn gỗ, và sàn gỗ kêu nhẹ dưới trọng lượng — tiếng kêu nhỏ, như tiếng người thở dài trong giấc mơ không yên.
 
-Bên kia vách, Lira cũng thức. Sera không thấy — nhưng cô nghe: tiếng giường cọt kẹt nhẹ, tiếng kiếm đặt lại trên bàn, tiếng nước đổ vào ly. Lira cũng không ngủ. Hai người không ngủ, cách nhau một vách gỗ, cùng mang thứ không thể nói ra, và cùng im về nó. Đây có thể là im lặng gần nhất với *cùng nhau* mà hai người từng có.
+Bên kia vách, Lira cũng thức. Sera không thấy — nhưng cô nghe: tiếng giường cọt kẹt nhẹ, tiếng kiếm đặt lại trên bàn, tiếng nước đổ vào ly. Hai người không ngủ, cách nhau một vách gỗ, cùng mang thứ không thể nói ra, và cùng im về nó. Im lặng gần nhất với *cùng nhau* mà hai người từng có.
 
 ***
