@@ -24,7 +24,7 @@ Kellen gật. Nhìn Sera. Nhìn kiếm Thệ Thiết trên lưng cô. Mắt ông
 
 "Đến để thuê?" ông hỏi.
 
-"Đến để hỏi," Lira nói. *"Đoàn cô sao rồi?"*
+"Đến để hỏi," Lira nói. *"Đoàn ông sao rồi?"*
 
 Kellen không trả lời ngay. Ông nhìn quanh — thói quen của người ở nơi không an toàn. Rồi chỉ về phía quán rượu gần nhất. Uống trong đó, nói ngoài này không tiện.
 
@@ -50,9 +50,9 @@ Sera không xác nhận, cũng không phủ nhận. Kellen im thêm một lúc r
 
 "Phong Quang Thánh Giáo. Họ có dịch vụ bảo vệ hành trình mới — rẻ hơn, an toàn hơn, được bảo chứng bởi Giáo Hội. Khách hàng chuyển sang họ hết."
 
-Sera nghe. Ly rượu trong tay cô nặng hơn — không phải vì rượu, mà vì cô đang nghĩ. Phong Quang Thánh Giáo không cần giết ai. Họ chỉ cần làm cho Đoàn hết tiền. Hết tiền thì người đi, người đi thì kiếm thiếu tay, kiếm thiếu tay thì hợp đồng mất, hợp đồng mất thì chết — chậm, sạch, không ai đổ máu. Trọng Nham Hỏa Đạo bị diệt bằng lửa. Hoàng Tinh Linh Đoàn tan bằng Thệ Hạch. Bạch Linh Mạc Đoàn đang chết bằng con số trong sổ sách. Cùng kẻ thù, khác cách giết.
+Sera nghe. Ly rượu trong tay cô nặng hơn — không phải vì rượu, mà vì cô đang nghĩ. Phong Quang Thánh Giáo không cần giết ai. Họ chỉ cần làm cho Đoàn hết tiền, rồi người sẽ tự rời, hợp đồng sẽ tự mất, và cái chết sẽ đến — chậm, sạch, không ai đổ máu. Trọng Nham Hỏa Đạo bị diệt bằng lửa. Hoàng Tinh Linh Đoàn tan bằng Thệ Hạch. Bạch Linh Mạc Đoàn đang chết bằng con số trong sổ sách. Cùng kẻ thù, khác cách giết.
 
-Lira hỏi: "Đoàn cô có liên quan đến Pale Frontier không?"
+Lira hỏi: "Đoàn ông có liên quan đến Pale Frontier không?"
 
 Kellen ngẩn ra. Nhìn Lira. Nhìn Sera. Rồi gật — chậm, nặng, như cái gật ấy mang theo trọng lượng của điều ông sắp nói.
 
