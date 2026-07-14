@@ -58,9 +58,9 @@ Sera gật. Thông tin hữu ích — nhưng không đủ. Cô tin hắn: hắn 
 
 "Tôi dừng, tôi không được trả tiền. Khách hàng sẽ thuê người khác."
 
-"Người khác sẽ không giỏi bằng anh. Người khác sẽ ồn hơn. Ồn hơn thì tôi phát hiện nhanh hơn. Hoặc tôi giết. Anh chọn."
+"Người khác sẽ không giỏi bằng anh. Ồn hơn thì tôi phát hiện nhanh hơn. Hoặc tôi giết. Anh chọn."
 
-Hắn im, tính toán. Rồi gật — không phải vì cô đe giết, vì cô đúng. Người thay thế sẽ ồn, và ồn là chết. Hắn lấy con chim từ cành — nhẹ nhàng, chim quen tay — rồi thả. Chim bay lên, vòng một vòng, rồi bay về hướng Greymark. Hắn không gửi thư cuối. Chim bay không thư nghĩa là: hết tin. Khách hàng sẽ biết thám tử dừng — và sẽ phải bắt đầu lại từ đầu.
+Hắn im. Rồi gật — vì cô đúng. Người thay thế sẽ ồn, và ồn là chết. Hắn lấy con chim từ cành — nhẹ nhàng, chim quen tay — rồi thả. Chim bay lên, vòng một vòng, rồi bay về hướng Greymark. Hắn không gửi thư cuối. Chim bay không thư nghĩa là: hết tin. Khách hàng sẽ biết thám tử dừng — và sẽ phải bắt đầu lại từ đầu.
 
 Hắn đi, không nhanh không chậm. Đi như người rời nơi không còn tiền — bình tĩnh, vì bình tĩnh giữ người sống trong nghề này. Sera không theo. Cô đứng cạnh suối và nhìn hắn khuất sau rễ.
 
