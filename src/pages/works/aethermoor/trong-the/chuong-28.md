@@ -30,7 +30,7 @@ Không gì xảy ra trong một phút, rồi hai phút, rồi cô định bỏ c
 
 Cô mở mắt. Tay vẫn trên rễ, rễ vẫn lạnh, nhưng cô thì ấm — ấm từ nơi không phải cơ thể cô, ấm từ ký ức của người đã ngồi ở đây trước cô, năm ngoái hoặc mười năm hoặc năm mươi, cô không biết, và đã hoàn thành thứ gì đó mà cô chưa hoàn thành. Mảnh thề ước đó đã hoàn thành — không phải của Đoàn cô, của Đoàn khác, người khác, thề khác — nhưng bình yên đó còn lại, thấm vào rễ, thấm vào gỗ, thấm vào không gian quanh cô, và cô vừa chạm vào.
 
-Thệ Vang trong đêm đó cũng khác. Khi cô nhắm mắt — lần đầu tiên kể từ khi Đoàn tan — cô không nghe giọng, không nghe sợ. Cô nghe bình yên. Một mảnh nhỏ trong bốn mươi bảy mảnh, mảnh của ai đó đã hoàn thành thề ước từ lâu nhưng chưa biến mất hoàn toàn. Thề ước hoàn thành không nặng — nó nhẹ, nó trôi, nhưng nó không đi, nó ở lại, mỏng, như sương mỏng trên cành cây buổi sáng, và khi cô lắng nghe, cô chạm vào nó, nó chạm vào cô, và cả hai cùng ấm.
+Thệ Vang trong đêm đó cũng khác. Khi cô nhắm mắt — lần đầu tiên kể từ khi Đoàn tan — cô không nghe giọng, không cảm thấy bất an. Cô nghe bình yên. Một mảnh nhỏ trong bốn mươi bảy mảnh, mảnh của ai đó đã hoàn thành thề ước từ lâu nhưng chưa biến mất hoàn toàn. Thề ước hoàn thành không nặng — nó nhẹ, nó trôi, nhưng nó không đi, nó ở lại, mỏng, như sương mỏng trên cành cây buổi sáng, và khi cô lắng nghe, cô chạm vào nó, nó chạm vào cô, và cả hai cùng ấm.
 
 Cô ngủ. Lần đầu tiên kể từ Harren's Cross — ngủ thật, không phải nằm và đợi. Thệ Vang yên. Kiếm nhẹ hơn — chỉ nhẹ một chút, nhưng đủ để cô biết: trong bốn mươi bảy mảnh, có ít nhất một mảnh đã hoàn thành. Chưa biết của ai, chưa biết là gì. Nhưng hoàn thành — và hoàn thành nhẹ hơn chưa hoàn thành.
 
