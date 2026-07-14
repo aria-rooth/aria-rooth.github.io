@@ -40,17 +40,17 @@ Sera nghe, không nháy mắt. Pale Frontier — hai từ ấy luôn đi cùng n
 
 Lira nhìn Sera, nháy mắt phải — tín hiệu: *để ông nói.* Sera im.
 
-"Chúng tôi thấy nó. Giữa đồng trắng. Không phải đền — đền có tường, có cột, có cửa. Cái này... giống đền theo cách mà xương giống người: có hình, có cấu trúc, nhưng không có da, không có thịt, chỉ còn khung. Tường đen — không phải đá đen, là đen theo cách mà ánh sáng chạm vào và không phản chiếu. Đen tuyệt đối. Nhìn vào đó như nhìn vào hố — mắt không có gì để bám vào, không có điểm tiêu, không có ranh giới. Trên tường có dấu, khắc. Dấu chạy dọc bốn phía, như văn bản, nhưng không phải văn bản — hoặc là văn bản mà tôi không đọc được."
+"Chúng tôi thấy nó. Giữa đồng trắng. Không phải đền — đền có tường, có cột, có cửa. Cái này... giống đền theo cách mà xương giống người: có hình, có cấu trúc, nhưng không có da, không có thịt, chỉ còn khung. Tường đen — không phải đá đen, là đen theo cách mà ánh sáng chạm vào và không phản chiếu. Đen tuyệt đối. Nhìn vào đó như nhìn vào hố — mắt không có gì để bám vào, không có điểm tiêu, không có ranh giới. Trên tường có hình khắc. Dấu khắc chạy dọc bốn phía, như văn bản, nhưng không phải văn bản — hoặc là văn bản mà tôi không đọc được."
 
 Ôngta dừng, uống thêm rượu. Tay run nhiều hơn — run say đều, run nhớ giật.
 
-"Một trong hai Hiệp Sĩ nhận ra dấu. Hắn nói — giọng hắn thay đổi, từ bình thường sang sợ trong chưa đầy hai giây — hắn nói: 'Đó là huy hiệu Trọng Nham Hỏa Đạo.' Tôi không biết huy hiệu đó. Tôi không thuộc Đoàn nào. Nhưng hắn biết. Và hắn sợ. Hắn nói chúng tôi phải đi ngay, không quay lại, không nói với ai. Và chúng tôi đi."
+"Một trong hai Hiệp Sĩ nhận ra dấu khắc. Hắn nói — giọng hắn thay đổi, từ bình thường sang sợ trong chưa đầy hai giây — hắn nói: 'Đó là huy hiệu Trọng Nham Hỏa Đạo.' Tôi không biết huy hiệu đó. Tôi không thuộc Đoàn nào. Nhưng hắn biết. Và hắn sợ. Hắn nói chúng tôi phải đi ngay, không quay lại, không nói với ai. Và chúng tôi đi."
 
-Sera nắm được. Huy hiệu Trọng Nham Hỏa Đạo — khắc trên tường đền giữa Pale Frontier. Đoàn cô đã đến đó. Đoàn cô đã thấy thứ đó, và giữ lại, và không báo cáo, và bị diệt vì giữ lại. Nhật ký Mordren ghi: *Họ biết. Chúng ta không còn nhiều thời gian.* Bây giờ cô biết *họ* là ai — Phong Quang Thánh Giáo — và *cái gì* họ biết — di tích ở Pale Frontier mang huy hiệu Đoàn cô. Không phải Đoàn cô phát hiện di tích. Đoàn cô để lại dấu trên di vật. Hoặc di vật thuộc về Đoàn cô từ đầu.
+Sera nắm được. Huy hiệu Trọng Nham Hỏa Đạo — khắc trên tường đền giữa Pale Frontier. Đoàn cô đã đến đó. Đoàn cô đã thấy thứ đó, giữ lại, không báo cáo, rồi chết vì giữ lại. Nhật ký Mordren ghi: *Họ biết. Chúng ta không còn nhiều thời gian.* Bây giờ cô biết *họ* là ai — Phong Quang Thánh Giáo — và *cái gì* họ biết — di tích ở Pale Frontier mang huy hiệu Đoàn cô. Không phải Đoàn cô phát hiện di tích. Đoàn cô để lại dấu khắc trên di vật. Hoặc di vật thuộc về Đoàn cô từ đầu.
 
 "Chúng tôi rời đi," Torvin tiếp. "Nhưng không ai rời được hoàn toàn. Trong sáu tháng, bốn thương nhân chết — khác cách, khác nơi, nhưng cùng kết quả. Một Hiệp Sĩ mất tích. Hiệp Sĩ kia — người nhận ra huy hiệu — hắn tìm tôi. Nửa điên, nửa tỉnh. Hắn nói: 'Họ biết. Họ biết chúng ta đã thấy. Họ đang dọn dẹp.' Hắn nói 'họ' nhưng không nói là ai. Rồi hắn cũng mất tích. Tôi thì..."
 
-Ông ta giơ chai lên. "Tôi uống. Uống để quên. Nhưng không quên được. Tôi nhớ tường đen đó mỗi đêm. Nhớ dấu trên tường. Nhớ mặt Hiệp Sĩ khi hắn nhận ra. Tôi không quay lại — nhưng tôi cũng không tiến lên. Tôi ở đây, ở ngã ba, ở giữa, và tôi uống."
+Ông ta giơ chai lên. "Tôi uống. Uống để quên. Nhưng không quên được. Tôi nhớ tường đen đó mỗi đêm. Nhớ dấu khắc trên tường. Nhớ mặt Hiệp Sĩ khi hắn nhận ra. Tôi không quay lại — nhưng tôi cũng không tiến lên. Tôi ở đây, ở ngã ba, ở giữa, và tôi uống."
 
 Im lặng. Tiếng gỗ lửa nổ lách cách trong lò. Tiếng người ở bàn khác nói — nhưng lời họ không liên quan. Chỉ có ba người ở bàn này, và một trong ba người vừa mở cửa mà cô cần mở.
 
@@ -64,17 +64,17 @@ Không phải hỏi.
 
 "Vâng."
 
-"Đoàn cô đặt dấu đó."
+"Đoàn cô đặt dấu khắc đó."
 
 Sera im. Cô không biết. Nhật ký Mordren nói Đoàn phát hiện di tích — không nói Đoàn tạo ra nó. Nhưng nếu huy hiệu Đoàn khắc trên tường — theo cách mà người khắc dấu trên thứ thuộc về mình — thì di tích đó không phải thứ Đoàn tìm thấy. Nó là thứ Đoàn để lại. Hoặc xây, hoặc phong ấn. Trọng Nham Hỏa Đạo. *Trọng Nham Hỏa.* *Nham* là vách đá. *Hỏa* là lửa. Vách đá lửa — hoặc lửa trong đá, hoặc thứ cháy bên trong không thể chạm. Tên Đoàn không phải ngẫu nhiên. Tên Đoàn mô tả thứ họ canh giữ.
 
 Torvin đứng dậy, lảo đảo — nhưng đứng được. Ông ta lấy từ túi áo một mảnh giấy, gấp tư, ố vàng, cạnh cháy nhẹ, rồi đưa cho Sera.
 
-"Tôi vẽ lại dấu trên tường đó. Mỗi đêm tôi vẽ lại vì sợ quên. Rồi tôi đốt vì sợ ai thấy. Rồi tôi vẽ lại. Mười một năm." Ôngta gật. "Cô giữ đi. Tôi không cần nữa. Tôi giữ đủ lâu."
+"Tôi vẽ lại dấu khắc trên tường đó. Mỗi đêm tôi vẽ lại vì sợ quên. Rồi tôi đốt vì sợ ai thấy. Rồi tôi vẽ lại. Mười một năm." Ôngta gật. "Cô giữ đi. Tôi không cần nữa. Tôi giữ đủ lâu."
 
 Sera nhận mảnh giấy, mở ra. Bản vẽ thô — nét run, nhưng rõ, hình học khắc trên tường đen. Cô nhìn — và thanh Thệ Thiết trên lưng nặng lên. Không phải nặng dần. Nặng đột ngột — như thể một trong bốn mươi bảy mảnh vừa nhận ra thứ gì đó và đang phản ứng. Thệ Vang: không phải giọng, không phải cảm xúc — là áp lực, đẩy xuống, như tay ai đó đặt lên vai cô và ấn.
 
-Cô gấp giấy lại, nhét vào áo — cùng nhật ký, cùng danh sách, cùng lệnh Giáo Hội. Bốn mảnh giấy. Bốn bằng chứng. Và giờ có dấu — dấu của Đoàn cô trên di tích cô chưa thấy.
+Cô gấp giấy lại, nhét vào áo — cùng nhật ký, cùng danh sách, cùng lệnh Giáo Hội. Bốn mảnh giấy. Bốn bằng chứng. Và giờ có dấu khắc — dấu khắc của Đoàn cô trên di tích cô chưa thấy.
 
 Lira đã đứng dậy, đợi cô. Không giục — chỉ đợi, như người đợi đồng đội gật giày trước khi đi tiếp. Lira không hỏi cô nghe thấy gì từ Thệ Vang. Không hỏi giấy ghi gì. Chỉ hỏi một câu khi họ bước ra khỏi quán, gió lạnh hất vào mặt:
 
