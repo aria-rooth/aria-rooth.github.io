@@ -40,7 +40,7 @@ Sera nghe, không nháy mắt. Pale Frontier — hai từ ấy luôn đi cùng n
 
 Lira nhìn Sera, nháy mắt phải — tín hiệu: *để ông nói.* Sera im.
 
-"Chúng tôi thấy nó. Giữa đồng trắng. Không phải đền — đền có tường, có cột, có cửa. Cái này... giống đền theo cách mà xương giống người: có hình, có cấu trúc, nhưng không có da, không có thịt, chỉ còn khung. Tường đen — không phải đá đen, là đen theo cách mà ánh sáng chạm vào và không phản chiếu. Đen tuyệt đối. Nhìn vào đó như nhìn vào hố — mắt không có gì để bám vào, không có điểm tiêu, không có ranh giới. Trên tường có hình khắc. Dấu khắc chạy dọc bốn phía, như văn bản, nhưng không phải văn bản — hoặc là văn bản mà tôi không đọc được."
+"Chúng tôi thấy nó. Giữa đồng trắng. Không phải đền — đền có tường, có cột, có cửa. Cái này... giống đền theo cách mà bộ xương người giống một con người: có hình, có cấu trúc, nhưng không có da, không có thịt, chỉ còn khung. Tường đen — không phải đá đen, là đen theo cách mà ánh sáng chạm vào và không phản chiếu. Đen tuyệt đối. Nhìn vào đó như nhìn vào hố — mắt không có gì để bám vào, không có điểm tiêu, không có ranh giới. Trên tường có hình khắc. Dấu khắc chạy dọc bốn phía, như văn bản, nhưng không phải văn bản — hoặc là văn bản mà tôi không đọc được."
 
 Ôngta dừng, uống thêm rượu. Tay run nhiều hơn — run say đều, run nhớ giật.
 
