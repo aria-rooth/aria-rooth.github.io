@@ -22,19 +22,19 @@ Tòa nhà gỗ nửa chìm dưới rễ sồi lớn, mái sụp một bên, tư�
 
 Họ nghỉ lại. Lira kiểm tra tường — còn đứng, không sập trong đêm. Sera kiểm tra sàn — mục nhưng phân bố trọng lượng được nếu nằm gần cột. Lira nhóm lửa nhỏ — đủ nhìn, không đủ soi xa. Đèn lửa phản chiếu trên rễ sồi trần trên đầu, như lửa cháy trong hang sống.
 
-Sera ngồi cạnh lửa. Đóng mắt. Thử.
+Sera ngồi cạnh lửa, nhắm mắt lại. Thử.
 
-Không phải đất — cây. Aldric nói đất nhớ, nhưng rễ cũng nhớ. Rễ cắm sâu hơn đất bề mặt — sâu vào mạch Linh Nguyên. Nếu đất là giấy, rễ là mực — mực thấm sâu hơn, nhớ lâu hơn. Cô đặt tay lên rễ sồi. Lạnh. Ẩm. Sần sùi. Cố — không, đừng cố. Trống rỗng. Chờ.
+Không phải đất — cây. Aldric nói đất nhớ, nhưng rễ cũng nhớ. Rễ cắm sâu hơn đất bề mặt — sâu vào mạch Linh Nguyên. Nếu đất là giấy, rễ là mực — mực thấm sâu hơn, nhớ lâu hơn. Cô đặt tay lên rễ sồi. Lạnh, ẩm, sần sùi dưới ngón tay. Trống rỗng. Chờ.
 
-Không gì. Một phút. Hai. Rồi — mỏng, như sương chạm da — thứ gì đó đến. Không phải sợ. Không phải đau. Bình yên. Bình yên theo cách mà lò sưởi ấm vào đêm đông: không cháy, không rực, chỉ là ấm — ấm đều, ấm chậm, ấm từ ngoài vào trong. Bình yên của ai đó đã hoàn thành điều gì đó và đang ngồi cạnh lửa — lửa như lửa cô đang ngồi cạnh — và thở ra, và biết: xong rồi.
+Không gì xảy ra. Một phút. Hai phút. Rồi — mỏng, như sương chạm da — thứ gì đó đến. Không phải sợ. Không phải đau. Bình yên. Bình yên theo cách mà lò sưởi ấm vào đêm đông: không cháy, không rực, chỉ là ấm — ấm đều, ấm chậm, ấm từ ngoài vào trong. Bình yên của ai đó đã hoàn thành điều gì đó và đang ngồi cạnh lửa — lửa như lửa cô đang ngồi cạnh — và thở ra, và biết: xong rồi.
 
 Cô mở mắt. Tay vẫn trên rễ. Rễ vẫn lạnh. Nhưng cô — cô ấm. Ấm từ nơi không phải cơ thể cô. Ấm từ ký ức của người đã ngồi ở đây trước cô, năm ngoái, hoặc mười năm, hoặc năm mươi — cô không biết — và đã hoàn thành thứ gì đó. Mảnh thề ước đã hoàn thành — không phải của Đoàn cô, của Đoàn khác, người khác, thề khác — nhưng bình yên đó còn lại, thấm vào rễ, thấm vào gỗ, thấm vào không gian, và cô vừa chạm vào.
 
-Thệ Vang trong đêm đó cũng khác. Khi cô nhắm mắt — lần đầu tiên kể từ khi Đoàn tan — cô không nghe giọng, không nghe sợ. Cô nghe bình yên. Một mảnh nhỏ trong bốn mươi bảy mảnh — mảnh của ai đó đã hoàn thành thề ước từ lâu, nhưng chưa biến mất hoàn toàn. Thề ước hoàn thành không nặng — nó nhẹ. Nó trôi. Nhưng nó không đi — nó ở lại, mỏng, như sương mỏng trên cành cây buổi sáng, và khi cô lắng nghe, cô chạm vào nó, và nó chạm vào cô, và cả hai cùng ấm.
+Thệ Vang trong đêm đó cũng khác. Khi cô nhắm mắt — lần đầu tiên kể từ khi Đoàn tan — cô không nghe giọng, không nghe sợ. Cô nghe bình yên. Một mảnh nhỏ trong bốn mươi bảy mảnh — mảnh của ai đó đã hoàn thành thề ước từ lâu, nhưng chưa biến mất hoàn toàn. Thề ước hoàn thành không nặng — nó nhẹ, nó trôi. Nhưng nó không đi, nó ở lại, mỏng, như sương mỏng trên cành cây buổi sáng, và khi cô lắng nghe, cô chạm vào nó, và nó chạm vào cô, và cả hai cùng ấm.
 
-Cô ngủ. Lần đầu tiên kể từ Harren's Cross — ngủ thật, không phải nằm và đợi. Thệ Vang yên. Kiếm nhẹ hơn — chỉ nhẹ một chút, nhưng đủ để cô biết: trong bốn mươi bảy mảnh, có ít nhất một mảnh đã hoàn thành. Chưa biết của ai. Chưa biết là gì. Nhưng hoàn thành — và hoàn thành nhẹ hơn chưa hoàn thành.
+Cô ngủ. Lần đầu tiên kể từ Harren's Cross — ngủ thật, không phải nằm và đợi. Thệ Vang yên. Kiếm nhẹ hơn — chỉ nhẹ một chút, nhưng đủ để cô biết: trong bốn mươi bảy mảnh, có ít nhất một mảnh đã hoàn thành. Chưa biết của ai, chưa biết là gì. Nhưng hoàn thành — và hoàn thành nhẹ hơn chưa hoàn thành.
 
-Sáng. Lira đã thức trước — như mọi sáng. Cô ta nấu nước. Không phải canh — chỉ nước sôi với lá rừng, đắng, nhưng ấm. Đưa cho Sera. Sera nhận. Uống.
+Sáng. Lira đã thức trước — như mọi sáng. Cô ta nấu nước, không phải canh — chỉ nước sôi với lá rừng, đắng, nhưng ấm. Đưa cho Sera. Sera nhận, uống.
 
 "Đêm qua cô ngủ," Lira nói. Không phải hỏi — nhận xét.
 
@@ -53,3 +53,5 @@ Lira kể về đời sống Tự Do Kiếm Sĩ. Không phải vì Sera hỏi �
 Sera gật. Cô hiểu. Aldric cũng chọn: ông ở lại lò rèn, ông rèn, ông nấu, ông dạy. Ông cũng chết — chết vì cô, gián tiếp, vì người đến lò rèn tìm cô và thấy ông. Nhưng ông chết theo cách ông chọn: ở nơi ông muốn, làm việc ông muốn, cho người ông chọn. Chọn — không phải lựa chọn tốt. Chọn — lựa chọn duy nhất mà người ta có thể sống với.
 
 Họ dọn dẹp ẩn cư. Không để dấu — Lira phủ đất lên tro lửa, Sera xóa dấu chân trên sàn mục. Rời đi. Rừng Vorthane tiếp tục sống quanh họ: cây, rễ, mạch Linh Nguyên xanh nhạt dưới chân, im lặng đặc, ẩm, và — ở nơi sâu nhất, nơi rễ sồi lớn chạm đất sâu — bình yên mỏng của người đã hoàn thành thề, vẫn còn đó, vẫn ấm, vẫn chờ ai đó chạm vào.
+
+***
