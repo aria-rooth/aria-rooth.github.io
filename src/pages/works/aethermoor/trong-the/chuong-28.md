@@ -22,15 +22,15 @@ Tòa nhà gỗ nửa chìm dưới rễ sồi lớn, mái sụp một bên, tư�
 
 Họ nghỉ lại. Lira kiểm tra tường — còn đứng, không sập trong đêm. Sera kiểm tra sàn — mục nhưng phân bố trọng lượng được nếu nằm gần cột. Lira nhóm lửa nhỏ — đủ nhìn, không đủ soi xa. Đèn lửa phản chiếu trên rễ sồi trần trên đầu, như lửa cháy trong hang sống.
 
-Sera ngồi cạnh lửa, nhắm mắt lại. Thử.
+Sera ngồi cạnh lửa, nhắm mắt lại, rồi thử — không phải bằng sức mạnh mà bằng sự im lặng, như chạm mặt nước bằng đầu ngón tay mà không nhảy xuống.
 
-Không phải đất — cây. Aldric nói đất nhớ, nhưng rễ cũng nhớ. Rễ cắm sâu hơn đất bề mặt — sâu vào mạch Linh Nguyên. Nếu đất là giấy, rễ là mực — mực thấm sâu hơn, nhớ lâu hơn. Cô đặt tay lên rễ sồi. Lạnh, ẩm, sần sùi dưới ngón tay. Trống rỗng. Chờ.
+Không phải đất mà là cây. Aldric nói đất nhớ, nhưng rễ còn nhớ hơn — chúng cắm sâu hơn đất bề mặt, sâu vào mạch Linh Nguyên, nơi mà mọi thứ kết nối với nhau mà không cần dây. Nếu đất là giấy thì rễ là mực, và mực thấm sâu hơn giấy, nhớ lâu hơn giấy, giữ lại thứ mà giấy đã viết từ lâu rồi quên. Cô đặt tay lên rễ sồi — lạnh, ẩm, sần sùi dưới ngón tay như da của người đã sống quá lâu. Trống rỗng. Cô chờ.
 
-Không gì xảy ra. Một phút. Hai phút. Rồi — mỏng, như sương chạm da — thứ gì đó đến. Không phải sợ. Không phải đau. Bình yên. Bình yên theo cách mà lò sưởi ấm vào đêm đông: không cháy, không rực, chỉ là ấm — ấm đều, ấm chậm, ấm từ ngoài vào trong. Bình yên của ai đó đã hoàn thành điều gì đó và đang ngồi cạnh lửa — lửa như lửa cô đang ngồi cạnh — và thở ra, và biết: xong rồi.
+Không gì xảy ra trong một phút, rồi hai phút, rồi cô định bỏ cuộc thì nó đến — mỏng, như sương chạm da trên cánh tay trần lúc sáng sớm, nhẹ đến mức cô không chắc đó là thật hay là tưởng tượng. Không phải sợ. Không phải đau. Bình yên — bình yên theo cách mà lò sưởi ấm vào đêm đông, không cháy, không rực, chỉ là ấm, ấm đều, ấm chậm, ấm từ ngoài vào trong như nước ấm lan từ bụng lên ngực. Bình yên của ai đó đã hoàn thành điều gì đó từ lâu rồi và đang ngồi cạnh lửa, thở ra, rồi biết rằng mọi thứ đã xong.
 
-Cô mở mắt. Tay vẫn trên rễ. Rễ vẫn lạnh. Nhưng cô — cô ấm. Ấm từ nơi không phải cơ thể cô. Ấm từ ký ức của người đã ngồi ở đây trước cô, năm ngoái, hoặc mười năm, hoặc năm mươi — cô không biết — và đã hoàn thành thứ gì đó. Mảnh thề ước đã hoàn thành — không phải của Đoàn cô, của Đoàn khác, người khác, thề khác — nhưng bình yên đó còn lại, thấm vào rễ, thấm vào gỗ, thấm vào không gian, và cô vừa chạm vào.
+Cô mở mắt. Tay vẫn trên rễ, rễ vẫn lạnh, nhưng cô thì ấm — ấm từ nơi không phải cơ thể cô, ấm từ ký ức của người đã ngồi ở đây trước cô, năm ngoái hoặc mười năm hoặc năm mươi, cô không biết, và đã hoàn thành thứ gì đó mà cô chưa hoàn thành. Mảnh thề ước đó đã hoàn thành — không phải của Đoàn cô, của Đoàn khác, người khác, thề khác — nhưng bình yên đó còn lại, thấm vào rễ, thấm vào gỗ, thấm vào không gian quanh cô, và cô vừa chạm vào.
 
-Thệ Vang trong đêm đó cũng khác. Khi cô nhắm mắt — lần đầu tiên kể từ khi Đoàn tan — cô không nghe giọng, không nghe sợ. Cô nghe bình yên. Một mảnh nhỏ trong bốn mươi bảy mảnh — mảnh của ai đó đã hoàn thành thề ước từ lâu, nhưng chưa biến mất hoàn toàn. Thề ước hoàn thành không nặng — nó nhẹ, nó trôi. Nhưng nó không đi, nó ở lại, mỏng, như sương mỏng trên cành cây buổi sáng, và khi cô lắng nghe, cô chạm vào nó, và nó chạm vào cô, và cả hai cùng ấm.
+Thệ Vang trong đêm đó cũng khác. Khi cô nhắm mắt — lần đầu tiên kể từ khi Đoàn tan — cô không nghe giọng, không nghe sợ. Cô nghe bình yên. Một mảnh nhỏ trong bốn mươi bảy mảnh, mảnh của ai đó đã hoàn thành thề ước từ lâu nhưng chưa biến mất hoàn toàn. Thề ước hoàn thành không nặng — nó nhẹ, nó trôi, nhưng nó không đi, nó ở lại, mỏng, như sương mỏng trên cành cây buổi sáng, và khi cô lắng nghe, cô chạm vào nó, nó chạm vào cô, và cả hai cùng ấm.
 
 Cô ngủ. Lần đầu tiên kể từ Harren's Cross — ngủ thật, không phải nằm và đợi. Thệ Vang yên. Kiếm nhẹ hơn — chỉ nhẹ một chút, nhưng đủ để cô biết: trong bốn mươi bảy mảnh, có ít nhất một mảnh đã hoàn thành. Chưa biết của ai, chưa biết là gì. Nhưng hoàn thành — và hoàn thành nhẹ hơn chưa hoàn thành.
 
