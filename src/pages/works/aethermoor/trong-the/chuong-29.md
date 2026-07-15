@@ -14,13 +14,13 @@ Lira vào quán. Sera đi lò rèn — không phải để rèn, để nghe. Lò
 
 Lò rèn Venn's Hollow do một phụ nữ trung niên tên Helda vận hành — hiếm, vì thợ rèn thường là nam, nhưng Vorthane không theo luật thường. Helda to, tay chắc, da sạm khói — bà rèn dao rừng, dao nhà, và đôi khi kiếm cho thợ săn. Kiếm của bà không phải Thệ Thiết, nhưng sắc và cân — đủ cho người cần kiếm mà không cần kiếm để sống.
 
-Sera ngồi chờ trong khi Helda rèn. Dao trên đe, búa trên dao, lửa trên than — nhịp điệu quen mà cô nghe ở lò rèn Aldric. Khác — búa Helda nhẹ hơn, vì dao nhẹ hơn kiếm, và than Helda nóng hơn, vì nấm Vorthane cháy nóng hơn than thường. Nhưng nhịp thì đồng: búa, đe, thép, lửa. Aldric sẽ thích lò này — ông sẽ nói Helda nén thép quá nhanh, nhưng nhịp đúng.
+Sera ngồi chờ trong khi Helda rèn. Dao trên đe, búa trên dao, lửa trên than — nhịp điệu quen mà cô nghe ở lò rèn Aldric. Khác ở chỗ búa Helda nhẹ hơn, vì dao nhẹ hơn kiếm, và than Helda nóng hơn, vì nấm Vorthane cháy nóng hơn than thường. Nhưng nhịp thì đồng: búa, đe, thép, lửa. Aldric sẽ thích lò này — ông sẽ nói Helda nén thép quá nhanh, nhưng nhịp đúng.
 
 Một người nông dân đến lấy dao. Helda đưa, người nông dân trả tiền. Rồi nói — không phải với Helda, với không ai cụ thể, chỉ nói vì miệng cần việc sau khi tay xong việc:
 
 "Anh Harvel nói giá gỗ giảm lần nữa. Lần thứ ba năm nay. Anh Harvel nói người mua ở Caelmyr không mua nữa — họ mua từ nguồn khác. Nguồn Phong Quang Thánh Giáo. Rẻ hơn. Anh Harvel tức."
 
-Helda không trả lời — bà rèn. Nhưng Sera nghe: Phong Quang Thánh Giáo. Lại. Lại ở nơi cô không tìm. Giáo Hội không chỉ bóp Đoàn — họ bóp cả thương nhân, cả lâm sản, cả thứ không liên quan đến Đoàn hay thề ước hay di tích. Họ bóp kinh tế. Mua rẻ, bán rẻ, lấy thị phần, ép đối thủ rời đi. Đơn giản và thực dụng. Không cần giết — chỉ cần rẻ hơn.
+Helda không trả lời — bà rèn. Nhưng Sera nghe: Phong Quang Thánh Giáo. Lại, lại ở nơi cô không tìm. Giáo Hội không chỉ bóp Đoàn — họ bóp cả thương nhân, cả lâm sản, cả thứ không liên quan đến Đoàn hay thề ước hay di tích. Họ bóp kinh tế. Mua rẻ, bán rẻ, lấy thị phần, ép đối thủ rời đi. Đơn giản và thực dụng. Không cần giết — chỉ cần rẻ hơn.
 
 Sera hỏi — nhẹ, như hỏi vô tình: "Phong Quang Thánh Giáo bán gỗ từ khi nào?"
 
@@ -44,7 +44,7 @@ Mạng lưới. Không chính thức. Không quân sự. Không giết người.
 
 Sera ngồi trong phòng trọ Venn's Hollow và nghĩ. Thệ Thiết nặng trên lưng. Bốn mảnh giấy nặng trong áo. Và giờ: thêm một thứ nặng trong đầu — mạng lưới.
 
-Đánh Mordren thì đánh một người. Nhưng Giáo Hội không phải một người — là hệ thống. Mordren ra lệnh, Thẩm Vấn Giả thi hành, thường dân nhìn, trung gian chuyển, chim thư bay, và tiền chảy từ trên xuống dưới, từ trung tâm ra biên giới, từ tay người giàu đến túi người nghèo. Hệ thống. Cơ chế. Máy.
+Đánh Mordren thì đánh một người. Nhưng Giáo Hội không phải một người — là hệ thống. Mordren ra lệnh, Thẩm Vấn Giả thi hành, thường dân nhìn, trung gian chuyển, chim thư bay, và tiền chảy từ trên xuống dưới, từ trung tâm ra biên giới, từ tay người giàu đến túi người nghèo. Một hệ thống cơ chế — một cỗ máy lớn.
 
 Đập máy thì đập nơi nào? Đập Mordren — người vận hành. Nhưng người vận hành thay được. Mordren chết, người khác đứng vào. Đập mắt — thường dân Poll, người giao thư, người bán ngựa. Nhưng mắt cũng thay được. Và mắt không có tội — mắt chỉ nhìn.
 
