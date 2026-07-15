@@ -52,6 +52,6 @@ Sera nhận ra: để chống Giáo Hội, cô không thể chỉ đánh vào Mo
 
 Cô cần cách khác. Chưa biết cách nào. Nhưng cô biết: cắt đầu rắn thì rắn chết. Cắt đầu mạng nhện thì mạng nhện vẫn dính. Giáo Hội là mạng nhện. Và cô cần tìm cách đốt mạng — không phải cắt chỉ.
 
-Lira không hỏi cô nghĩ gì. Lira làm việc Lira làm: lau kiếm, kiểm tra bao da, đếm tiền. Nhưng khi cô ta thấy Sera ngồi yên quá lâu, cô ta đưa một tách nước nóng. Không nói. Đặt rồi đi. Lira đã học: khi Sera im, Sera nghĩ. Và khi Sera nghĩ, nước nóng đủ. Không cần lời. Nước nóng là thứ Lira cho — không phải vì bạn, không phải vì tình, vì cùng đi thì cùng sống, cùng sống thì cùng uống nước.
+Lira không hỏi cô nghĩ gì. Lira làm việc Lira làm: lau kiếm, kiểm tra bao da, đếm tiền. Nhưng khi cô ta thấy Sera ngồi yên quá lâu, cô ta đưa một tách nước nóng, đặt xuống bàn rồi đi, không nói lời nào. Lira đã học: khi Sera im, Sera nghĩ. Và khi Sera nghĩ, nước nóng đủ. Không cần lời. Nước nóng là thứ Lira cho — không phải vì bạn, không phải vì tình, vì cùng đi thì cùng sống, cùng sống thì cùng uống nước.
 
 ***
