@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 14
 story: "/works/aethermoor/trong-the"
-total: 60
+total: 66
 title: "Chương 14: Điều Aldric Biết"
 ---
 

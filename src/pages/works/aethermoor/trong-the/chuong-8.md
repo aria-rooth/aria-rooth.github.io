@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 8
 story: "/works/aethermoor/trong-the"
-total: 60
+total: 66
 title: "Chương 8: Caelmyr, Thành Phố Không Chọn Phe"
 ---
 

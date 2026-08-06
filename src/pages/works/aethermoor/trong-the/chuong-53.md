@@ -2,86 +2,130 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 53
 story: "/works/aethermoor/trong-the"
-total: 60
+total: 66
 title: "Chương 53: Cửa Phía Tây"
 ---
 
-Một giờ. Không nhiều. Không ít. Đủ để Mordren thở. Đủ để Kael kiểm tra bình nước. Đủ để Calla nhớ lại đường phố Caelmyr — không phải để đi, để tránh.
+Hang đất cách Huyền Môn Cốt một dặm. Đất khô, nứt, không cỏ. Cổng hút Aether — đất quanh nó chết. Sera ngồi xuống. Đặt kiếm ngang đùi. Lira canh ngoài cửa hang. Kael đỡ Mordren dựa vách. Calla vẽ sơ đồ cổng trên nền đất.
 
-Sera đứng trước cửa kho. Cửa kho là gỗ mục. Gỗ mục là không khóa. Không khóa là đẩy. Đẩy là ra. Ra là đêm Caelmyr. Đêm Caelmyr là không an toàn. Không an toàn là đi.
+Sera nhắm mắt. Aldric dạy: im lặng, nghe một, hiểu, dẫn, lực, dùng. Sáu bước. Cô chưa từng làm trọn. Lần này cô chọn làm.
 
-"Đi," Sera nói. Không hỏi. Xác nhận.
+Thệ Vang dậy. Bốn mươi bảy mảnh — mỗi mảnh một giọng. Không phải lời, là áp lực. Cô không nghe tất cả. Cô nghe một. Jorin. "Bên trái." Hai từ. Ông từng nói khi dạy cô đọc địa hình — "luôn nhìn bên trái trước, kẻ phục kích thích bên trái." Giờ ông nói lại. Không phải chỉ dẫn. Là nợ.
 
-Năm người đứng. Mordren đứng chậm. Chậm là hai người đỡ. Kael bên trái. Calla bên phải. Hai người đỡ là Mordren di chuyển. Di chuyển là chậm. Chậm là nguy hiểm. Nguy hiểm không là ở lại. Ở lại là chết. Chết là không phá Dự Án. Không phá là thần trở lại. Thần trở lại là chết nhiều. Chết nhiều là tệ hơn chậm.
+Jorin nợ mạng. Một người lính trẻ — con trai người chủ quán — chết dưới tay ông trong một cuộc đột kích sai lầm. Ông không bao giờ kể. Ông mang nó xuống mồ. Giờ nó nằm trong kiếm.
 
-Sera đi trước. Không chạy. Chạy là tiếng. Đi nhanh. Nhanh là chân kiểu Aldric. Aldric dạy: nhẹ, nhẹ như không bước. Không bước là không tiếng. Không tiếng là không ai nghe. Không ai nghe là an toàn.
+Sera không phán xét. Không dừng để hỏi ông xứng đáng hay không. Cô lắng nghe. Hiểu. Rồi dẫn.
 
-Lira sau năm bước. Năm bước là khoảng cách. Khoảng cách là an toàn. An toàn không là không lộ. Nếu phía trước gặp, Lira chưa gặp. Chưa gặp là chạy. Chạy là báo. Báo là phía sau biết. Biết là chuẩn bị. Chuẩn bị là sống.
+"Ông nợ. Ông trả. Tôi hoàn thành thay ông."
 
-Thệ Vang đêm: yên. Yên có chân — chân từ bốn mươi tám mảnh, chân từ thề ước mới, chân từ cộng hưởng Calla. Yên không là không có kẻ thù gần. Không có kẻ thù gần là đi tiếp. Đi tiếp là đúng.
+Kiếm rung. Không phải bùng nổ — rung như dây đàn vừa gảy. Mảnh Jorin tách ra. Nhẹ. Một mảnh rời khỏi tổng. Bốn mươi bảy còn bốn mươi sáu.
 
-Sera đếm đường. Từ nhà kho đến cửa Bắc: ba dãy nhà, hai ngã tư, một quảng trường nhỏ. Ba dãy nhà là tối. Hai ngã tư là đèn ít. Một quảng trường là lộ. Lộ là nhanh. Nhanh qua là ít nhìn. Ít nhìn là ít bị nhìn.
+Lãnh vực quanh cô — vốn ồn ào, chao đảo, sẵn sàng nổ — lặng xuống. Không ồn. Thệ Vang yên. Lần đầu tiên kể từ khi cô nhận kiếm.
 
-Ngã tư thứ nhất. Không người. Đèn dầu leo lét. Sera qua. Năm người qua. Mordren bước chậm nhưng không dừng. Không dừng là tốt.
+Sera mở mắt. Kiếm trên đùi. Cô nhấc lên. Nhẹ hơn. Không nhiều — nhưng đo được. Cô biết quy tắc: kiếm nhẹ khi thệ ước được giải phóng. Giờ cô đã chứng kiến.
 
-Ngã tư thứ hai. Tiếng chân xa. Xa không là gần. Gần là dừng. Sera dừng. Năm người dừng trong bóng. Bóng là che. Che là đợi. Đợi tiếng chân qua.
+"Xong," cô nói. Không thêm gì.
 
-Hai người đi qua. Không Thẩm Vấn Giả. Không đồng phục. Dân thường — hoặc trông như vậy. Không nhìn vào bóng. Không nhìn là không thấy. Không thấy là đi tiếp.
+Lira nhìn vào. "Xong gì?"
 
-Quảng trường nhỏ. Không đèn. Tối là tốt. Tối là qua nhanh. Qua nhanh là không ai nhớ.
+"Mảnh đầu. Jorin."
 
-Cửa Bắc. Cổng thành. Hai trụ đá. Một canh. Canh đứng bên trái. Một người là ít. Ít là có thể qua. Có thể qua là không phải đánh.
+Lira không hỏi thêm. Cô biết giá của việc hỏi.
 
-Nhưng — có xe. Xe đậu cạnh cổng. Xe đêm là không bình thường. Xe là hàng. Hàng là canh kiểm. Kiểm là dừng. Dừng là không qua.
+Sera đứng dậy. Cô không nói cảm xúc. Nhưng tay cô — vốn luôn siết chuôi kiếm — giờ buông lỏng. Một chi tiết nhỏ. Lira thấy. Không nói.
 
-Sera quan sát. Xe: một. Ngựa: hai. Người bên cạnh: ba. Ba người không đồng phục. Không đồng phục không là không Thẩm Vấn Giả. Nhưng ba người đứng đêm là không ngẫu nhiên. Không ngẫu nhiên là chờ. Chờ ai? Chờ năm người đi ra? Có thể.
+Mordren ho. Ho nhẹ — ngoài hang không có tường phản, tiếng tan vào đất khô. "Bao nhiêu còn lại?"
 
-Sera lùi. Năm người lùi vào bóng giữa hai nhà. Khe tối là ẩn. Ẩn là đợi.
+"Bốn mươi sáu. Ba ngày. Nếu mỗi mảnh như Jorin."
 
-"Không cửa Bắc," Sera nói.
+"Chúng không giống."
 
-Lira: "Cửa Tây. Xa hơn. Nhưng không xe."
+"Biết."
 
-"Xe có thể di chuyển."
+Mordren gật. Ông không nói thêm. Ông đã sống hai mươi năm trong hối hận — ông biết giá của từng mảnh nợ.
 
-"Có thể. Nhưng cửa Tây không có. Tôi đếm."
+Sera ngồi lại. Không phải để nghỉ. Để nghe. Một mảnh khác — sau khi Jorin rời đi — bắt đầu nói to hơn. Như thể việc trả nợ đầu tiên đánh thức những mảnh khác. Cô ghi nhận. Không vội. Mỗi mảnh có giá riêng.
 
-Sera gật. Gật là đồng ý. Đồng ý là đi Tây. Tây là xa hơn. Xa hơn là chậm hơn. Chậm hơn là Mordren mệt. Mệt không là dừng. Dừng là chết. Nhưng cửa Bắc có người chờ. Người chờ là chết nhanh hơn. Nhanh hơn là tệ. Tệ hơn mệt là đi Tây.
+Calla bước tới, chỉ vào bản vẽ trên đất. "Cổng. Ba người cao. Đá đen không phản chiếu. Khóa bằng di vật thần cổ. Bộ Kích Hoạt — phá nó trước khi Mordren kịp kích hoạt."
 
-Đi Tây. Năm người đi. Đường dài hơn. Dài hơn là mệt hơn. Nhưng đi.
+"Bao xa?"
 
-Cửa Tây. Không xe. Không người đứng. Canh: một. Canh ngồi. Ngồi là mệt. Mệt là không nhìn. Không nhìn là qua. Qua cổng Tây là ra khỏi Caelmyr.
+"Một dặm. Đi bộ — nửa giờ."
 
-Sera bước. Năm người bước. Qua. Canh không nhìn. Có thể nhìn nhưng không quan tâm. Không quan tâm là không dừng.
+Sera nhìn bản vẽ. Đường nét chính xác — Calla nhớ kiến trúc như người khác nhớ mặt người thân. "Tối nay. Phá Bộ Kích Hoạt. Rồi quay lại — hoàn thành mảnh thứ hai."
 
-Ngoài thành, gió Bắc thổi. Gió lạnh. Lạnh không giống đêm Caelmyr. Đêm Caelmyr là ẩm + đá. Gió Bắc là khô + cỏ. Khô là hút hơi. Hút là môi nứt. Nứt là liếm. Liếm là không đủ. Không đủ là chịu.
+"Ba ngày," Mordren nhắc. "Mordren — em tôi — đã đi được nửa đường. Có thể ít hơn."
 
-Mordren ho. Ho nhẹ. Nhẹ không là không có. Có. Nhưng ngoài là không hồi âm. Trong thành là tường phản. Phản là to. To là áp. Ngoài là không tường. Không tường là ho nhỏ. Nhỏ là không ai nghe. Không ai nghe là tự do ho. Tự do là lạ. Lạ sau hai năm.
+Sera không trả lời. Cô đếm trong đầu: nửa đường. Ít thời gian hơn cô nghĩ. Nhưng giờ cô có công cụ — không phải mối đe dọa. Lãnh vực yên. Kiếm nhẹ. Cô chọn con đường này — không phải vì Đoàn, không phải vì Jorin xứng đáng. Vì cô chọn.
 
-Kael nhìn Mordren. Nhìn kiểu người nhìn khi thấy ai đó tự do lần đầu. "Ông ổn?" Kael hỏi. Hỏi nhỏ. Nhỏ là không phải sợ. Sợ là không. Chỉ là... không quen. Không quen thấy người tự do ho.
+Cô đứng dậy. Nhìn về phía cổng — bóng đen hút sáng giữa đất chết.
 
-Mordren gật. Gật là ổn. ổn không là tốt. Tốt là không. Nhưng ổn là đủ. Đủ để đi. Đi là sống.
+"Đi."
 
-Lira dừng. Dừng không là mệt. Dừng là nghe. Nghe tiếng. Tiếng xa. Xa là không chân. Chân là đuổi. Không chân là động vật. Động vật là Pale Frontier. Pale Frontier là có. Có là nguy hiểm. Nguy hiểm không là bạch quái. Bạch quái là đêm. Đêm là kiếm. Kiếm là Sera.
+Cô bước ra khỏi hang trước. Đất khô kêu dưới giày — từng bước một tiếng nứt nhẹ, như vỏ bánh mì nướng quá lửa. Cô không nhìn lại. Cô biết Lira đi sau bên phải, tay phải đặt trên cán dao găm — thói quen cũ từ những ngày làm lính trinh sát, không bao giờ đi giữa đường, luôn sát mép để có chỗ né. Kael đi sau cùng, một tay đỡ Mordren, tay kia cầm bình nước. Calla đi trước, mắt dán xuống đất — cô ấy đang đọc dấu vết, không phải dấu chân mà là dấu của dòng chảy Aether bị cổng hút lệch đi, những đường cong vô hình in trên đất khô như mạch máu của một cơ thể đang chết.
 
-"Tiếng," Lira nói. "Không người. Nhưng không yên."
+Nửa giờ đi bộ. Im lặng. Không ai nói. Tiếng duy nhất là tiếng giày trên đất và tiếng thở của Mordren — không đều, có lúc ngắt quãng như ông đang cố giữ cơn ho lại trong cổ họng. Sera không quay lại. Cô biết ông không muốn ai nhìn thấy ông yếu. Ông đã sống hai mươi năm trong hối hận — ông có quyền giữ lấy sự im lặng của mình.
 
-Sera nghe. Nghe như Lira. Lira nghe tốt. Tốt là chuyên môn. Chuyên môn là Thẩm Vấn Giả. Thẩm Vấn Giả là đuổi người. Người là tiếng chân. Chân là đều. Đều là quân. Không đều là thú. Thú là không quân. Không quân là không đuổi. Nhưng thú là ăn. Ăn là chết. Chết là không khác.
+Cổng hiện ra sau một gò đất thấp. Không phải công trình — không có tường, không có trụ, không có mái. Nó đứng đó như một vết nứt trên không trung, một khe đen cao ba người, mép không đều như vết rách trên vải. Xung quanh nó, đất không chỉ khô — nó trắng bệch, như bị tẩy trắng, như thể màu sắc đã bị hút ra khỏi từng hạt cát. Không một bóng cây. Không một viên đá nhô lên. Mặt đất phẳng lặng đến mức đáng sợ — một vùng đất đã bị bào mòn bởi thứ gì đó không ngừng hút, không ngừng nuốt.
 
-"Đi," Sera nói. "Nhanh hơn. Nhưng không chạy. Chạy là tiếng. Tiếng là thú nghe. Thú nghe là đến."
+Calla quỳ xuống cách cổng khoảng ba mươi bước. Cô không đến gần hơn. Cô vẽ nhanh trên đất — không phải bản đồ, mà là một chuỗi ký hiệu. Sera đứng sau cô, nhìn.
 
-Năm người đi nhanh hơn. Nhanh hơn là Mordren mệt. Mệt là Kael siết. Siết là đỡ. Đỡ là đi. Không chạy. Không chạy là đúng. Đúng là không thú đến. Không đến là tốt.
+"Bộ Kích Hoạt," Calla nói, giọng thấp. "Không phải vật thể. Là một điểm trên mặt đất — nơi dòng Aether bị bẻ cong nhiều nhất. Nếu phá nó, cổng sẽ không thể mở từ phía này."
 
-Calla nhìn đất. Nhìn kiểu người nhìn khi nhớ kiến trúc. Đất không kiến trúc. Không kiến trúc là không nhớ. Không nhớ là lạ. Lạ ngoài thành. Ngoài thành là thế giới khác. Thế giới khác là Caelmyr không duy nhất. Không duy nhất là có chỗ khác. Chỗ khác là đích. Đích là Huyền Môn Cốt. Huyền Môn Cốt là không biết. Không biết là đi.
+"Nó trông như thế nào?"
 
-Ngoài thành. Ruộng. Cỏ. Đêm. Không đèn. Tối là đi. Đi nhanh. Nhanh nhất có thể. Có thể là chậm vì Mordren. Mordren bước. Bước kiểu người bước khi hai năm ngồi. Nhưng bước. Không ngã. Ngã là dừng. Không ngã là tốt.
+"Không trông như gì cả. Nó là một điểm. Tôi có thể tìm thấy nó bằng cách đọc dòng chảy — nhưng tôi cần thời gian."
 
-Sera nhìn lại. Caelmyr tối. Tường thành đen. Không biết bên trong đã phát hiện chưa. Chưa phát hiện là tốt. Phát hiện là đuổi. Đuổi là sau. Sau là đi trước.
+"Bao lâu?"
 
-"Đi," Sera nói. "Không nhìn lại. Nhìn lại là chậm. Chậm là chết."
+Calla nhìn lên. Mắt cô hơi nheo lại — cô đang tính toán, không phải thời gian, mà là độ chính xác. "Mười phút. Nếu tôi không bị gián đoạn."
 
-Năm người đi. Hướng Bắc. Bắc là Pale Frontier. Pale Frontier là xa. Xa là chưa biết sống.
+Sera gật. Cô quay sang Lira. "Canh chừng."
 
-Thệ Vang ngoài thành: lạ. Lạ không là cảnh báo. Lạ là khác. Khác vì đất. Đất ngoài thành khác đất trong thành. Trong thành là đá. Ngoài thành là đất. Đất là có ký ức. Ký ức nhỏ. Nhỏ không là không đọc được. Không đọc là chỉ cảm nhận. Cảm nhận là lạ. Lạ là ghi nhận.
+Lira không nói. Cô lùi ra xa, chọn một vị trí trên gò đất thấp — nơi có thể nhìn thấy cả cổng lẫn con đường họ vừa đi. Cô ngồi xuống, không phải để nghỉ — để thấp xuống, khó bị nhìn thấy, khó bị nhắm tới. Tay phải cô đặt trên dao găm. Không rút ra. Chỉ đặt.
 
-Sera đi. Đi và đếm. Đếm bước. Đếm mảnh. Bốn mươi tám. Thêm một. Thêm một cộng hưởng. Tổng cộng là bốn mươi tám trong, một ngoài, một cộng hưởng. Không bốn mươi chín. Không đếm sai. Đếm đúng.
+Sera ngồi xuống cách Calla vài bước. Cô không nhìn cổng. Cô nhìn Calla — nhìn cách cô ấy di chuyển bàn tay trên đất, cách cô ấy đọc những đường cong vô hình, cách cô ấy dừng lại, lắc đầu, vẽ lại. Calla không bao giờ vội. Cô ấy từng nói: "Kiến trúc không tha thứ cho sự vội vàng. Nó chỉ tha thứ cho sự chính xác."
+
+Mordren ngồi dựa vào một tảng đá — tảng đá duy nhất trong vùng đất trắng, như thể nó đã ở đó trước khi cổng xuất hiện và không chịu khuất phục. Kael ngồi cạnh ông, mở bình nước, đưa cho ông. Mordren uống một ngụm nhỏ. Ông không nói. Kael không hỏi.
+
+Sera nhắm mắt. Không phải để nghe Thệ Vang — cô để nó yên, để nó nghỉ sau khi Jorin rời đi. Cô nhắm mắt để cảm nhận mặt đất dưới chân mình. Đất trắng. Không có sự sống. Nhưng có một rung động — rất nhẹ, rất sâu, như một mạch đập yếu ớt dưới lớp vỏ khô. Cô không biết đó là gì. Cô chỉ ghi nhận.
+
+"Tìm thấy rồi."
+
+Calla đứng dậy. Cô chỉ vào một điểm trên mặt đất — cách cổng khoảng mười bước, hơi lệch về bên trái. Không có gì khác biệt. Không có màu sắc khác, không có vết nứt, không có dấu hiệu. Chỉ là một điểm trên đất trắng.
+
+"Ở đó," Calla nói. "Dưới đó khoảng một sải tay. Một viên đá — không phải đá tự nhiên. Được đặt, không phải hình thành."
+
+Sera đứng dậy. Cô bước tới. Mỗi bước đi, mặt đất dưới chân cô càng trở nên im lặng — không phải im lặng của sự yên bình, mà là im lặng của sự chờ đợi. Cô dừng lại ở điểm Calla chỉ. Cô quỳ xuống. Đặt tay lên đất.
+
+Đất lạnh. Không phải lạnh của ban đêm — lạnh của sự vắng mặt. Cô đào. Không dùng kiếm — dùng tay. Đất khô vỡ ra dễ dàng, như cát, như tro. Cô đào sâu khoảng một sải tay thì ngón tay cô chạm vào thứ gì đó cứng.
+
+Viên đá. Không lớn — chỉ bằng nắm tay. Màu đen, không phản chiếu, bề mặt nhẵn như thủy tinh nhưng không lạnh như thủy tinh. Nó ấm. Không phải ấm của cơ thể — ấm của thứ gì đó đang hoạt động, đang chuyển động bên trong.
+
+Sera nhìn viên đá. Cô không chạm vào nó. Cô nhìn.
+
+"Đây là Bộ Kích Hoạt?"
+
+"Đúng," Calla nói từ phía sau. "Phá nó — cổng sẽ không thể mở từ phía này."
+
+Sera không trả lời ngay. Cô nhìn viên đá. Cô cảm nhận hơi ấm tỏa ra từ nó — đều đặn, như nhịp thở. Một nhịp thở không phải của con người. Của thứ gì đó đang chờ.
+
+Cô rút kiếm. Thệ Vang ra khỏi bao — không rung, không kêu. Nó im lặng. Nhưng cô cảm nhận được sự thay đổi — kiếm nhẹ hơn, nhưng cũng sắc hơn, như thể việc giải phóng Jorin đã mài sắc lưỡi kiếm theo cách không ai có thể mài bằng đá.
+
+Cô giơ kiếm lên. Không vung mạnh — chỉ đặt lưỡi kiếm lên viên đá đen, nhẹ nhàng, như đặt một câu hỏi.
+
+Viên đá không vỡ ngay. Nó chống lại — một lực vô hình đẩy ngược lưỡi kiếm, không mạnh, nhưng đủ để cô cảm nhận được. Sera không đẩy mạnh hơn. Cô giữ nguyên áp lực. Cô chờ.
+
+Rồi viên đá nứt. Không phải từ lưỡi kiếm — từ bên trong. Một vết nứt nhỏ chạy dọc bề mặt, rồi một vết nữa, rồi một vết nữa. Viên đá vỡ thành từng mảnh nhỏ, không phát ra tiếng động — chỉ là sự sụp đổ im lặng, như cát chảy qua kẽ tay.
+
+Sera đứng dậy. Cô nhìn cổng. Khe đen vẫn đứng đó — nhưng không còn hút nữa. Không còn dòng chảy vô hình kéo Aether về phía nó. Nó chỉ là một vết nứt trên không trung, tối, im lặng, vô hại.
+
+"Xong," cô nói. Không thêm gì.
+
+Cô quay lại. Nhìn Mordren. Ông đang nhìn cô — không phải nhìn cổng, không phải nhìn viên đá vỡ. Nhìn cô.
+
+"Bây giờ," Sera nói, "quay lại. Mảnh thứ hai."
+
+Cô không chờ câu trả lời. Cô bắt đầu đi về phía hang. Đất trắng kêu dưới giày — nhưng lần này, tiếng kêu khác đi. Không còn là tiếng của sự chết. Là tiếng của sự im lặng đã được giải phóng.
+
+Lira đi sau cô. Không nói. Nhưng cô thấy — tay Sera, vốn buông lỏng bên hông, giờ nắm lấy chuôi kiếm. Không siết. Chỉ nắm. Như một lời hứa với chính mình.

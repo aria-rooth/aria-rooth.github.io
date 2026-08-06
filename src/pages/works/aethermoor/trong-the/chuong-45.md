@@ -2,8 +2,8 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 45
 story: "/works/aethermoor/trong-the"
-total: 60
-title: "Chương 45: Cuối Arc 2 — Lựa Chọn Không Có Trong Sách Quy Tắc"
+total: 66
+title: "Chương 45: chapter-45"
 ---
 
 Họ đi. Đi ngay — không chờ sáng, không chờ lửa tắt, không chờ gì ngoài quyết định. Quyết định đã thành. Thành thì hành. Hành thì đi.

@@ -2,80 +2,52 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 48
 story: "/works/aethermoor/trong-the"
-total: 60
-title: "Chương 48: Người Biết Quá Nhiều"
+total: 66
+title: "Chương 48: Mordren Sống"
 ---
 
-Bốn người rời Caelmyr. Bốn — nhiều hơn hai, nhiều hơn ba, bốn là đội nhỏ nhưng bốn là đội đủ để ai thấy nhớ. Sera không thích bốn. Bốn là chậm hơn, ồn hơn, lộ hơn. Nhưng bốn là cần. Kael cần vì Kael là lý do đến. Phụ nữ cần vì Thệ Vang đáp, và Thệ Vang đáp không phải trùng hợp — Thệ Vang không trùng hợp, Thệ Vang chỉ kết nối khi kết nối đúng.
+Sera ngồi trong hang đất, cách Huyền Môn Cốt một dặm. Đất quanh cô cạn — Huyền Môn Cốt hút Aether, hút cả hơi ẩm, hút cả tiếng. Im lặng đến mức cô nghe được nhịp thở của chính mình, và bên dưới nhịp thở, tiếng Thệ Vang.
 
-Phụ nữ tên Calla. Calla không nói nhiều trong năm giờ đầu — năm giờ đi đêm, năm giờ rời Caelmyr, năm giờ mà Kael hỏi ba lần "chúng ta đi đâu" và Lira đáp một lần "im" rồi không đáp lại. Calla đi — đi chậm nhưng đi, đi kiểu người đi khi đi là lựa chọn duy nhất giữa đi và chết trong hầm. Calla năm mươi tuổi, Calla thẳng lưng, Calla mắt xanh nhìn thẳng — nhìn thẳng kiểu người nhìn khi không có gì phải nhìn xiên.
+Bốn mươi bảy mảnh. Cô đếm lại lần thứ ba — bốn mươi bảy, không sai. Kiếm nặng trên đùi, nặng theo cách quen thuộc, nặng như thể cả Đoàn đang ngồi lên lưỡi thép. Cô đã quen với trọng lượng này — không phải trọng lượng của thép, mà là trọng lượng của những lời hứa chưa trả, những mạng sống chưa được đền đáp. Mỗi mảnh vỡ trên lưỡi kiếm là một giọng nói, một câu chuyện, một món nợ. Cô có thể cảm nhận từng mảnh một như cảm nhận nhịp đập của chính tim mình — đều đặn, dai dẳng, không bao giờ ngừng.
 
-Rạng sáng. Họ dừng — dừng trong lùm cây, lùm đủ che bốn người nằm, lùm đủ xa đường để không nghe xe. Sera canh đầu. Lira canh cuối. Kael ngủ — ngủ ngay, ngủ kiểu người ngủ khi hai năm không ngủ thật. Calla ngồi. Không ngủ.
+Cô nhắm mắt. Nhớ Aldric. Không phải khuôn mặt — khuôn mặt ông mờ rồi. Nhớ giọng ông, giọng nói qua ký ức, qua lời dạy cuối cùng: *Im lặng. Nghe một. Hiểu. Dẫn. Lực. Dùng.* Ông đã nói những lời đó với cô khi cô mười sáu tuổi, trong một buổi tối lạnh giá ở doanh trại phía bắc, khi cô hỏi ông làm thế nào để trở thành một người dẫn đường xứng đáng. Ông không giải thích dài dòng. Ông chỉ nói sáu từ đó, rồi đứng dậy, rời đi, để cô ngồi lại với sáu từ đó suốt đêm. Cô đã không hiểu hết vào lúc đó. Bây giờ, cô bắt đầu hiểu.
 
-"Ngươi nghe Thệ Thiết," Calla nói. Không hỏi — khẳng định. Khẳng định kiểu người khẳng định khi biết đúng.
+Sera im lặng. Thệ Vang ồn — bốn mươi bảy giọng nói cùng lúc, không phải lời, là áp lực, là tiếng vọng của những thề ước chưa trả. Cô không nghe tất cả. Cô nghe một.
 
-"Tôi nghe," Sera nói.
+Jorin.
 
-"Từ người chết."
+Giọng ông tách ra khỏi hỗn âm — Jorin, người dạy cô đọc địa hình, người chỉ cô hướng đi khi cô lạc trong rừng Pale Frontier năm mười bốn tuổi. Cô nhớ khuôn mặt ông — không phải khuôn mặt già nua với những nếp nhăn sâu, mà là đôi mắt ông, luôn nhìn xa hơn những gì người khác nhìn thấy. Ông có thể đọc một thung lũng như đọc một trang sách, biết nơi nào an toàn, nơi nào nguy hiểm, nơi nào nước chảy ngầm dưới lòng đất. Ông đã dạy cô cách nhìn đất, cách nghe gió, cách cảm nhận sự thay đổi của không khí trước khi cơn bão đến. Giọng ông không kể chuyện. Giọng ông chỉ nói một từ, lặp đi lặp lại, như một vết nứt trên đá:
 
-"Đúng."
+*Bên trái.*
 
-"Từ người sống cũng?"
+Sera hiểu. Không phải bằng lý trí — bằng cách nghe. Jorin nợ một mạng. Một người lính, trong trận chiến ở hẻm núi, Jorin chọn cứu mình thay vì cứu người lính đó. Người lính ngã bên trái. Jorin không bao giờ quay lại. Thề ước của ông: trả mạng đã mượn. Cô không biết tên người lính đó, không biết mặt, chỉ biết vị trí — bên trái, hẻm núi, đá đỏ. Nhưng cô biết điều quan trọng nhất: Jorin đã chọn. Ông đã chọn cứu cô, một đứa trẻ mười bốn tuổi lạc đường, thay vì cứu một người lính đã chiến đấu bên cạnh ông. Và ông đã mang món nợ đó suốt phần đời còn lại.
 
-Sera nhìn Calla. Thệ Vang đêm qua: đáp. Đáp từ Calla. Đáp không phải mảnh thề ước — đáp như hồi âm, hồi âm từ một thề ước sống trong Calla. Thề ước sống không nên cộng hưởng với Thệ Thiết — Thệ Thiết kết nối người chết, không người sống. Nhưng cộng hưởng. Vậy: Calla mang thề ước gần với thề ước chết, hoặc Calla gần chết, hoặc — thứ ba — thề ước Calla mang liên kết với người đã chết trong Thệ Thiết.
+"Ngươi không vô tội," Sera nói. Không phán xét — ghi nhận. "Thật. Đúng." Cô không nói những lời đó với sự cay đắng hay oán giận. Cô nói với sự chấp nhận — chấp nhận rằng Jorin đã làm một điều sai, và rằng điều sai đó đã trở thành một món nợ, và rằng món nợ đó đã trở thành một phần của ông, và rằng bây giờ nó đã trở thành một phần của cô.
 
-"Ai chết trong kiếm mà cô biết?" Sera hỏi.
+Cô chọn hoàn thành. Không phải vì Jorin xứng đáng. Vì cô chọn. Thề mới của cô — hoàn thành thề cũ vì chính mình, không phải vì Đoàn — đứng vững khi đối tượng không xứng đáng. Đó là lần đầu tiên lý thuyết bị thử thách bằng thực tế. Aldric đã dạy cô rằng một người dẫn đường không chọn dựa trên giá trị của người khác — họ chọn dựa trên giá trị của chính mình. Cô đã không hiểu điều đó cho đến bây giờ. Cô đã nghĩ rằng hoàn thành thề ước là để trả nợ cho người đã vay. Bây giờ cô hiểu: hoàn thành thề ước là để trả nợ cho chính mình, để giữ lời hứa của mình với chính mình, để trở thành người mà cô muốn trở thành.
 
-Calla im. Im ba giây. Rồi: "Mordren."
+Sera dẫn. Cô hình dung người lính — không biết tên, không biết mặt, chỉ biết vị trí: bên trái, hẻm núi, đá đỏ. Cô hình dung Jorin quay lại. Không phải để chiến đấu — để nhặt người lính lên. Để trả mạng. Cô hình dung cảnh đó một cách chi tiết — Jorin cúi xuống, đặt tay lên vai người lính, nói một lời xin lỗi, một lời cảm ơn, một lời tạm biệt. Cô hình dung người lính đứng dậy, không còn là một cái bóng mờ nhạt trong ký ức, mà là một con người hoàn chỉnh, một người đã được trả lại sự sống mà họ đã mất.
 
-Mordren. Không — không phải Mordren Thứ Hai. Mordren Chấp Sự. Mordren của Đoàn. Mordren viết nhật ký. Mordren mà Sera đọc trang cuối: *Họ biết. Chúng ta không còn nhiều thời gian.*
+Lực. Sera đẩy — không phải bằng tay, bằng ý chí, bằng toàn bộ trọng lượng của thề ước Jorin đang đè lên cô. Đẩy qua điểm gãy. Cô cảm thấy sức nặng đó như một tảng đá trên ngực, như một dòng sông ngầm đang chảy ngược, như một cánh cửa đang bị đẩy từ phía bên kia. Cô không dừng lại. Cô không lùi bước. Cô đẩy.
 
-"Cô biết Mordren Chấp Sự?"
+Dùng.
 
-"Tôi là người viết nhật ký cùng ông."
+Thệ Vang: âm.
 
-Sera ngồi xuống. Ngồi đối diện Calla. Ngồi kiểu người ngồi khi cần nghe, ngồi khi đứng không đủ tĩnh để xử lý tin. Calla biết Mordren. Mordren Chấp Sự — người mà Sera tưởng đã chết đêm Đoàn tan, người mà Sera chưa từng hỏi Aldric vì Aldric không đề cập, người mà Sera chưa từng tìm vì cô tưởng không cần. Nhưng Calla biết Mordren. Calla viết cùng Mordren. Calla — trong hầm giam Caelmyr hai năm. Hai năm. Ai giam Calla? Giáo Hội. Tại sao? Vì Calla biết Mordren. Biết Mordren là biết nhật ký. Biết nhật ký là biết di vật. Biết di vật là biết Dự án. Biết Dự án là nguy hiểm. Nguy hiểm là giam.
+Không phải im lặng như trước — im lặng kiểu không có gì để nghe. Im lặng kiểu bão vừa đi qua. Bốn mươi bảy giọng nói... không. Bốn mươi sáu. Một giọng đã ngừng. Giọng Jorin — không còn vang, không còn nặng, không còn treo. Cô cảm thấy sự nhẹ nhõm đó lan tỏa từ lưỡi kiếm lên cánh tay, từ cánh tay lên vai, từ vai xuống toàn thân. Không phải sự nhẹ nhõm của chiến thắng — là sự nhẹ nhõm của một món nợ đã được trả, một câu chuyện đã được kể đến hồi kết.
 
-"Mordren Chấp Sự chết đêm Đoàn tan," Sera nói. Khẳng định. Khẳng định để Calla sửa nếu sai.
+Kiếm trên đùi cô: nhẹ hơn. Không nhiều — nhưng cô đo được. Cô luôn đo được. Bốn mươi bảy thành bốn mươi sáu. Quy tắc thế giới số bốn: kiếm nhẹ khi thề ước được giải phóng. Đúng. Cô đã học quy tắc đó từ Aldric, nhưng cô chưa bao giờ thực sự hiểu nó cho đến bây giờ. Kiếm không chỉ là một vũ khí — nó là một vật chứa, một nơi lưu giữ những lời hứa chưa trả, những câu chuyện chưa kể. Mỗi mảnh vỡ trên lưỡi kiếm là một cuộc đời, một sự lựa chọn, một hậu quả.
 
-Calla lắc đầu. Chậm. Lắc kiểu người lắc khi lắc nặng hơn gật. "Không chết. Ông bị bắt. Giáo Hội bắt ông cùng đêm — trước khi diệt Đoàn. Ông biết di vật ở đâu, biết cách đọc, biết cách dùng. Giáo Hội không giết người biết nhiều. Giáo Hội giam người biết nhiều."
+Lãnh vực Thệ Vang — lần đầu tiên, ổn định. Không ồn. Không rung. Bốn mươi sáu mảnh còn lại không la hét — chúng lắng nghe. Lắng nghe như thể vừa học được rằng có cách để được nghe. Cô cảm nhận được sự thay đổi đó — không phải bằng giác quan, mà bằng một thứ gì đó sâu hơn, một thứ gì đó giống như bản năng. Những giọng nói còn lại không còn là một bức tường âm thanh hỗn loạn — chúng là những cá thể riêng biệt, mỗi giọng một câu chuyện, mỗi giọng một chìa khóa.
 
-Sera nghe. Nghe và xử lý. Mordren Chấp Sự — sống. Bị giam. Hai năm. Bị giam hai năm như Calla. Nhưng Calla ở trạm gác Caelmyr, trạm gác nhỏ. Mordren ở đâu? Không ở trạm gác nhỏ — Mordren biết nhiều hơn Calla, Mordren giá hơn Calla, Mordren ở nơi canh hơn, nơi sâu hơn. Nơi sâu: trụ sở. Trụ sở nào? Caelmyr lớn hơn trạm gác, Caelmyr có trụ sở Giáo Hội — tòa nhà ba tầng mà Sera nhìn từ xa lần đầu đến. Hoặc — Pale Frontier. Giáo Hội đang hội tụ Thệ Hạch tại Pale Frontier. Mordren biết di vật. Mordren ở gần di vật? Có thể. Có thể là biến số. Biến số là cần tính.
+Sera mở mắt. Hang đất vẫn cạn, vẫn tối, vẫn cách Huyền Môn Cốt một dặm. Nhưng khác. Cô vừa học được cách — và vừa học được rằng cách đó không lặp lại. Mảnh Jorin: "Bên trái" — nợ mạng, trả nợ tức hoàn thành. Mảnh tiếp theo sẽ có chìa khóa khác. Bốn mươi sáu mảnh — bốn mươi sáu chìa khóa. Không phải một công thức lặp lại. Là một chuỗi dài, mỗi mảnh một cách riêng, mỗi mảnh một câu chuyện chưa kể. Cô không thể dựa vào những gì cô vừa học — cô phải học lại từ đầu với mỗi mảnh mới.
 
-"Tại sao Thệ Thiết đáp cô?" Sera hỏi.
+Cô đứng dậy. Kiếm nhẹ hơn — cô vác lên vai, không cần đổi tay. Đất dưới chân rung nhẹ. Không phải động đất — là Aether dịch chuyển. Xa, rất xa, nhưng cô cảm nhận được: Mordren đang đến. Còn khoảng một ngày rưỡi. Cô đã biết Mordren sẽ đến — cô đã biết từ khi rời Đoàn, từ khi nhận nhiệm vụ này. Nhưng biết và cảm nhận là hai điều khác nhau. Cảm nhận được sự hiện diện của hắn trong dòng Aether, cảm nhận được sức nặng của hắn đang tiến gần, là một trải nghiệm hoàn toàn khác.
 
-"Vì tôi mang thề ước ông. Mordren Chấp Sự thề với tôi — ba mươi năm trước, khi ông còn trẻ, khi tôi còn trẻ, khi Đoàn còn sống. Thề ước nhỏ: ông hứa không giấu tôi điều ông biết. Thề ước nhỏ nhưng thật. Thật nên Thệ Thiết nghe."
+Sera bước ra khỏi hang. Bên bờ suối cạn, cô dừng lại. Một dấu chân — không phải của cô, không phải của Lira, không phải của Kael. Dấu chân lạ, in trên đất cạn, hướng về phía Huyền Môn Cốt. Cô cúi xuống, quan sát kỹ — dấu chân sâu, đều, không vội vã. Người để lại dấu chân này không chạy trốn. Họ đang đi về phía Huyền Môn Cốt với một mục đích rõ ràng. Cô không biết họ là ai, không biết họ muốn gì, không biết họ có liên quan đến nhiệm vụ của cô hay không.
 
-Thề ước nhỏ. Thề ước thật. Thật nên Thệ Thiết kết nối — kết nối dù thề ước từ người sống, vì Thệ Thiết không phân biệt sống chết, Thệ Thiết phân biệt thật giả. Thật là nhận. Nhận là cộng hưởng. Cộng hưởng là Sera nghe Calla đêm qua.
+Cô ghi nhận. Không giải thích. Không đuổi theo. Cô đếm: bốn mươi sáu mảnh, một ngày rưỡi, một dấu chân lạ. Ba biến số. Cô cần ba ngày cho bốn mươi sáu mảnh — nhưng Mordren đến trong một ngày rưỡi. Cô không có đủ thời gian. Cô sẽ phải chọn — chọn giữa việc hoàn thành nhiệm vụ và việc đối mặt với Mordren. Hoặc cô sẽ phải tìm một cách khác, một cách nhanh hơn, một cách mà cô chưa nghĩ ra.
 
-"Thề ước đó hoàn thành chưa?"
+Sera rút kiếm. Nhẹ hơn — nhưng chưa đủ nhẹ. Cô nhắm mắt, im lặng, nghe một.
 
-"Chưa. Ông giấu tôi di vật. Ba mươi năm. Tôi biết ông giấu — tôi không biết gì. Thề ước chưa hoàn thành. Thệ Thiết biết."
-
-Ba mươi năm. Ba mươi năm Mordren Chấp Sự giấu Calla di vật. Ba mươi năm thề ước treo. Treo là nặng. Nặng trong Thệ Thiết? Không — thề ước Calla không trong Thệ Thiết Sera. Thệ Thiết Sera mang thề ước từ Trọng Nham Hỏa Đạo. Calla không thuộc Đoàn — Calla thuộc Đoàn? Sera không biết. Chưa biết.
-
-"Cô thuộc Đoàn?"
-
-"Không. Tôi là người ghi chép — người ngoài, người thuê, người viết. Mordren thuê tôi viết báo cáo Đoàn gửi lên trên. Tôi biết vì tôi viết. Viết là biết. Biết là giam."
-
-Người ghi chép. Người viết báo cáo. Người biết vì viết. Calla — giống Aldric? Không hoàn toàn. Aldric giấu nghề thật. Calla giấu vì viết — viết là nghề thật, nhưng viết biết nhiều hơn nghề. Viết biết là nguy hiểm. Giáo Hội giam nguy hiểm.
-
-Sera nghĩ. Mordren Chấp Sự sống. Thông tin mới. Thông tin nặng — nặng hơn tệp Draven, nặng hơn danh sách sáu Đoàn. Mordren Chấp Sự biết mọi thứ: di vật, Dự án, lý do Đoàn bị diệt, lý do thật, lý do mà nhật ký chỉ hé. Nếu Mordren sống — Mordren có thể nói. Nói là sự thật hoàn chỉnh. Sự thật hoàn chỉnh là vũ khí. Vũ khí cần đúng lúc, đúng chỗ, đúng người. Đúng lúc: khi đối mặt Mordren Thứ Hai. Đúng chỗ: nơi Mordren Chấp Sự bị giam. Đúng người: Sera.
-
-"Mordren Chấp Sự ở đâu?" Sera hỏi.
-
-Calla nhìn cô. Nhìn lâu. Nhìn kiểu người nhìn khi biết câu trả lời mình sắp nói sẽ thay đổi mọi thứ — thay đổi vì người hỏi sẽ đi tìm, và đi tìm nghĩa là đối mặt, đối mặt nghĩa là đánh, đánh nghĩa là sống hoặc chết. "Trụ sở Bắc. Caelmyr. Tầng dưới. Nơi không ai ra."
-
-Trụ sở Bắc. Caelmyr. Tòa nhà ba tầng mà Sera nhìn từ xa. Tầng dưới — tầng không có trên bản đồ, tầng mà kiến trúc giấu, tầng mà Aldric không biết vì Aldric không biết mọi thứ, tầng mà Calla biết vì Calla bị giam ở đó một năm trước khi chuyển xuống trạm gác.
-
-"Kiến trúc tầng dưới?"
-
-"Hầm đôi. Hầm ngoài là hầm giam thường. Hầm trong là hầm sâu. Một cửa. Một khóa. Khóa Thệ Thiết — khóa mà chỉ Thẩm Vấn Giả Thống Lĩnh mở được."
-
-Khóa Thệ Thiết. Khóa mà chỉ Mordren Thứ Hai mở được. Mordren Thứ Hai là Linh Hùng hoặc hơn. Mục tiêu khó. Khó nhưng không bất khả — bất khả là không có khóa. Có khóa là có cách mở. Cách mở: phá khóa, hoặc lấy chìa, hoặc người mở phá. Người mở phá là Mordren Thứ Hai. Mordren Thứ Hai đang đến Bắc. Bắc là nơi Sera vừa rời. Mordren đến Bắc để tìm Sera. Sera ở Caelmyr. Mordren không ở Caelmyr — Mordren ở Bắc, cách bảy ngày. Bảy ngày là cửa sổ. Cửa sổ: Mordren không ở trụ sở là trụ sở không có Thống Lĩnh là khóa Thệ Thiết không ai mở là Mordren Chấp Sự không ai thăm. Nhưng cũng là không ai canh mạnh.
-
-Bảy ngày. Hoặc ít hơn. Hoặc hơn. Biến số. Nhưng biến số có chân — chân từ thông tin Calla. Thông tin là nền. Nền là kế hoạch. Kế hoạch là bước.
-
-"Chúng ta cần đi," Sera nói. Không nói đi đâu — đi đâu đã rõ: trụ sở Bắc, Caelmyr, tầng dưới, Mordren Chấp Sự. Nhưng không hôm nay — hôm nay rời Caelmyr, hôm nay xa Thẩm Vấn Giả, hôm nay nghỉ. Ngày mai: tính. Ngày kia: hành động.
-
-Thệ Vang: âm. Âm mới — âm từ thề ước Calla, âm từ Mordren Chấp Sự, âm từ người sống mà Thệ Thiết đáp. Bốn mươi tám mảnh. Nhưng bốn mươi tám không còn đủ — vì Thệ Thiết đang kết nối rộng hơn, rộng ra khỏi người chết, rộng đến người sống mang thề ước thật. Rộng là khác. Khác là mới. Mới là chưa biết hết. Chưa biết hết là cẩn thận. Cẩn thận là sống. Sống là đếm tiếp.
+Mảnh tiếp theo.

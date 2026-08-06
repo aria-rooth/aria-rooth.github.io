@@ -2,38 +2,40 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 38
 story: "/works/aethermoor/trong-the"
-total: 60
-title: "Chương 38: Không Phải Của Mình Để Bảo Vệ"
+total: 66
+title: "Chương 38: chapter-38"
 ---
 
-Họ chạy. Chạy không phải chạy nước rút — chạy hành quân nhanh: đều, nhịp, giữ sức. Mỗi bước đếm, mỗi nhịp thở đếm, mỗi giây đếm. Thời gian là khoảng cách giữa người thường và đau, và khoảng cách đó đang ngắn lại từng phút. Cova dẫn đường — cô ta biết đường tắt, đường rừng, đường mà bản đồ không vẽ. Cova chạy nhanh dù máu trên áo — sinh đôi, Bạc Ty Linh Đoàn, hai mươi ba năm rèn luyện: chạy là thứ cô ta làm trước khi biết đánh, chạy là cách cô ta sống sót khi Đoàn tan, chạy là cách cô ta đến được Sera trong đêm.
+Hang đất cách Huyền Môn Cốt một dặm. Sera ngồi xếp bằng trên nền đất khô, kiếm đặt ngang đùi. Lira đứng ngoài cửa hang — tay trên chuôi dao, lưng quay vào trong, giữ canh. Không ai nói. Không cần nói.
 
-Sera chạy sau Cova. Lira chạy sau Sera — không phải năm bước, lần này ba, vì chạy cần gần hơn, gần để nghe, gần để phản ứng, gần để nếu Cova bẫy thì Lira có Sera trong tầm dao. Cova không bẫy — Sera biết, vì Thệ Vang không cảnh báo. Thệ Vang mới: cảnh báo ngoài, cảnh báo trước. Đất dưới chân cô đọc: đường Cova chạy là đường thật, không bẫy, không vòng. Đất nhớ. Đất biết. Cô nghe đất.
+Sera nhắm mắt. Kỹ thuật Aldric dạy qua ký ức lặp lại trong đầu: *im lặng, nghe một, hiểu, dẫn, lực, dùng.* Sáu bước. Cô chưa từng làm được bước nào trọn vẹn — Thệ Vang luôn ồn, luôn dồn dập, luôn là bốn mươi bảy giọng nói cùng lúc. Những giọng nói đó không bao giờ ngừng, không bao giờ nhường chỗ cho nhau. Chúng chồng lên nhau như những lớp vải mục, mỗi lớp một câu chuyện dang dở, một lời thề chưa trả, một cái chết chưa được công nhận. Cô đã quen với việc sống trong cái ồn ào đó đến mức đôi khi cô tự hỏi: nếu Thệ Vang im lặng, cô có còn nghe thấy chính mình không?
 
-Hai mươi phút. Tu viện hiện ra — tường đá thấp, mái gỗ dốc, cửa sắt mỏng. Và ngoài tường: Thẩm Vấn Giả. Mười hai người. Không phải mai phục — bao vây. Bao vây khác mai phục: mai phục giấu, bao vây phô. Bao vây không cần giấu vì bao vây không sợ người trong trốn — bao vây chờ người trong ra, hoặc chờ lệnh vào.
+Nhưng bây giờ khác. Linh Phong mở cửa — cô không còn bị động chịu đựng. Cô lọc.
 
-Chỉ huy: nam, thấp, giáp xám, kiếm một tay. Đứng trước cửa — nói chuyện. Nói chuyện với ai? Sera không thấy từ đây — xa, cây che, sáng mờ. Nhưng cô nghe đất: mạch Linh Nguyên dưới tu viện run nhẹ — run nhân tạo, run do người tạo, run từ Thẩm Vấn Giả dùng domain ép tu viện. Ép — không phá. Ép để thương lượng. Thẩm Vấn Giả bao vây nhưng không tấn công — chưa. Họ thương lượng.
+*Im lặng.* Cô không ép Thệ Vang im. Cô ngồi trong ồn ào, không chống lại, để nó chảy qua như nước qua kẽ tay. Dần dần, ồn ào không còn là tường — nó thành lớp. Ba lớp, như cô đã học: lớp ngoài là cảnh báo, lớp giữa là ký ức, lớp trong là thề ước. Cảnh báo là những tiếng gào thét khi nguy hiểm đến gần — chúng sắc như dao, luôn khiến cô giật mình. Ký ức là những mảnh vụn của quá khứ, những hình ảnh lóe lên rồi tắt, những câu nói bị cắt ngang giữa chừng. Thề ước là lớp sâu nhất, nặng nhất — những lời hứa chưa hoàn thành, những món nợ chưa trả, những cái chết chưa được báo đáp. Lớp đó không bao giờ ngừng rung lên, như một sợi dây đàn bị bấm sai nốt, mãi mãi chờ được gảy đúng.
 
-Sera kể. Mười hai Thẩm Vấn Giả. Chỉ huy — Linh Phong, có thể Linh Chủ. Cô vừa đánh chín người, mất chưa đầy mười lăm phút, và breakthrough. Mười hai người — khó hơn chín. Nhưng khó không nghĩa là không. Vấn đề: nếu cô đánh, cô lộ vị trí. Lộ vị trí, Giáo Hội biết cô ở đâu. Biết là vòng vây thắt. Thắt là khó di chuyển. Khó di chuyển là chết chậm thay chết nhanh.
+*Nghe một.* Cô chọn một giọng. Giọng quen nhất, gần nhất, rõ nhất: Jorin. Thầy dạy cô đọc địa hình, người đã đứng giữa cô và lưỡi kiếm trong trận đầu tiên. Giọng ông không kể chuyện — ông nói một từ: *"Bên trái."*
 
-Cova thở nhanh bên cạnh. "Fen còn trong đó. Vestra. Sáu người thường trong tu viện. Thẩm Vấn Giả nói: giao người từ Bạc Ty Linh Đoàn, phần còn lại tự do. Không giao — tất cả bị thẩm vấn."
+*Hiểu.* Cô nhớ. Trận chiến ở hẻm núi Vorthane, mười năm trước. Jorin che cho cô, lĩnh một nhát kiếm vào vai trái. Ông không chết — nhưng ông nợ cô một mạng, vì cô đã kéo ông ra khỏi đám loạn quân. Nợ mạng. Ông thề sẽ trả. Ông chưa trả thì Đoàn tan. Cô nhớ rõ cái ngày Đoàn tan — không phải một ngày, mà là một khoảnh khắc. Một đêm, một tiếng nổ, một vết nứt chạy dọc qua lòng đất, và bốn mươi bảy người chết cùng lúc, bốn mươi bảy lời thề chưa hoàn thành bị đóng băng trong khoảnh khắc đó. Jorin là một trong số họ. Ông chết với lời thề còn nguyên trên môi, với món nợ chưa trả, với câu nói *"Bên trái"* vẫn còn vang vọng trong đầu cô như một dấu chấm lửng.
 
-Thẩm vấn — hỏi bằng Linh Nguyên, đau từ trong, không vết. Đau cho đến khi nói. Hoặc không thả.
+*Dẫn.* Cô không phán xét. Thề ước của Jorin không vô tội — ông đã giết, đã chọn sai nhiều lần. Cô biết điều đó. Cô biết những vết máu trên tay ông không phải chỉ từ kẻ thù. Nhưng cô không phán xét. Cô dẫn nó về đích. Cô không cần biết ông đúng hay sai — cô chỉ cần hoàn thành lời thề, để ông được yên, để mảnh vỡ đó ngừng rung lên trong cô.
 
-Sera nhìn tu viện. Nhìn Thẩm Vấn Giả. Nhìn Cova — máu trên áo, mắt đỏ, tay run. Cova đã chạy đêm để tìm Sera. Cova chạy vì Cova biết: Sera đánh được. Sera có Thệ Thiết. Sera vừa breakthrough. Sera là hy vọng — hy vọng nhỏ, hy vọng mỏng, nhưng hy vọng duy nhất Cova có.
+*Lực.* Cô đẩy. Không phải sức mạnh — là ý chí, là sự hoàn thành. *"Nợ đã trả. Ngươi đã che cho ta. Ta kéo ngươi ra. Cân bằng."* Cô nói những từ đó không phải bằng miệng — cô nói bằng toàn bộ sự tập trung, bằng toàn bộ ý chí đã được rèn luyện qua mười năm sống chung với Thệ Vang. Cô không ép, không tranh giành. Cô chỉ đặt lời thề của Jorin lên bàn cân, và đặt hành động của mình lên phía bên kia. Cân bằng. Đó là tất cả những gì cô cần.
 
-Lira nhìn Sera. Lira không nói — nhưng cái nhìn nói: *đây là quyết định tình cảm. Cô biết điều đó.* Lira biết Sera sẽ đi. Lira biết từ lúc Cova xuất hiện — Sera sẽ đi vì Sera không để người cô biết chết nếu cô có thể ngăn. Đó không phải logic. Đó là cảm xúc. Cảm xúc mà Lira không chia sẻ — Lira không biết Vestra, Lira không biết Fen, Lira không nợ tu viện. Nhưng Lira biết Sera, và biết Sera nghĩa là biết: Sera sẽ đi, và nếu Sera đi một mình, Sera có thể chết, và Lira đã chọn đi cùng Sera (không hứa, nhưng đi), nên Lira cũng đi.
+*Dùng.* Kiếm rung nhẹ trên đùi. Một mảnh thề ước — mảnh của Jorin — tách ra, tan thành hơi mỏng, bay vào không khí. Không đau. Không nặng. Nhẹ. Cô cảm nhận được khoảng trống nơi mảnh đó từng ngự trị — một khoảng trống sạch sẽ, không còn tiếng rung, không còn sức nặng. Lần đầu tiên trong mười năm, cô cảm nhận được sự nhẹ nhõm thực sự, không phải sự tê liệt quen thuộc.
 
-Sera quan sát từ bóng cây. Cô đếm vị trí từng Thẩm Vấn Giả — không phải đếm số, đếm chỗ. Bốn người chính cửa, hai người cửa sau (không khóa, nhưng hai người đủ khóa bằng kiếm), hai người mỗi bên tường, hai người roving — tuần tra vòng trong. Mười hai người, mười hai vị trí, không chỗ hở đủ cho người trong tu viện trốn mà không bị thấy. Bao vây chuyên nghiệp. Bao vây không vội — vội là sai, vội để hở, hở để trốn. Chỉ huy Thẩm Vấn Giả này không vội. Không vội, nguy hiểm hơn vội, vì không vội nghĩa là chuẩn bị, và chuẩn bị nghĩa là backup, backup nghĩa là reinforcement có thể đến trong giờ, và reinforcement + bao vây, không lối thoát.
+Sera mở mắt. Kiếm trên tay cô — nhẹ hơn. Không nhiều, nhưng đủ để nhận ra. Bốn mươi bảy mảnh còn bốn mươi sáu. Lần đầu tiên kể từ đêm Đoàn tan, Thệ Vang không ồn. Nó yên. Không phải im bặt — là lắng nghe. Bốn mươi sáu mảnh còn lại đang lắng nghe cô, chờ cô dẫn. Cô có thể cảm nhận chúng như một dàn hợp xướng đang chờ nhạc trưởng giơ tay — không phải để hát, mà để được giải phóng.
 
-Cô nghe mạch Linh Nguyên dưới chân — Linh Phong mới cho cô khả năng: đọc đất trong phạm vi rộng hơn. Đất dưới tu viện nhớ: run, run từ domain Thẩm Vấn Giả ép, run từ người trong tu viện sợ. Sợ đặc — đặc như khói, đặc như sương, đặc theo cách mà đất nhớ sợ: sợ thấm vào đất, đất giữ, đất không quên sợ. Sáu người thường trong tu viện — cô cảm nhận sợ của họ qua đất, sợ không có lời, sợ là áp lực, sợ đẩy xuống, sợ như Thệ Vang cảnh báo nhưng ngược: Thệ Vang cảnh báo từ kiếm, sợ này từ người sống. Sống sợ. Đất nhớ sợ. Cô nghe sợ.
+Cô nhìn xuống kiếm. "Cảm ơn," cô thì thầm — với Aldric, người đã dạy qua cái chết, người vẫn dẫn đường. Aldric không bao giờ nói nhiều khi còn sống. Ông dạy bằng cách làm, bằng cách đứng trước mặt cô và chỉ cho cô thấy. Cái chết của ông cũng là một bài học — bài học cuối cùng, bài học về việc hoàn thành lời thề ngay cả khi không còn sống để chứng kiến kết quả.
 
-Sera đếm. Mười hai Thẩm Vấn Giả. Chỉ huy. Fen trong tu viện — Fen Linh Chiến, Tier 4, nhưng Fen không đánh. Fen trốn. Vestra — không đánh, không trốn, Vestra ở, Vestra luôn ở, vì tu viện là nhà Vestra, và người không rời nhà. Sáu người thường — người thường, không Linh Nguyên, không chiến đấu, chỉ sợ. Và Thẩm Vấn Giả bắt người thường để thương lượng — bắt người thường là đòn dưới, đòn mà người chiến đấu khó không đáp.
+Lira vẫn đứng ngoài cửa, không quay vào. "Xong?"
 
-Bắt người thường. Sera nghe — nghe từ xa, nghe tiếng chỉ huy lớn đủ để âm vọng qua tường đá: *"Người trong tu viện có mười phút. Mười phút sau, chúng tôi bắt người thường thẩm vấn thứ nhất. Mười lăm phút — người thứ hai. Hai mươi phút — người thứ ba. Mỗi năm phút thêm một người, cho đến khi giao người Bạc Ty Linh Đoàn, hoặc cho đến khi không còn người thường."*
+"Xong một." Sera đứng dậy, kiếm trong tay. Cô tính toán: một mảnh mất khoảng một giờ khi đã hiểu cơ chế. Bốn mươi sáu mảnh — ba ngày, nếu không bị gián đoạn. Ba ngày. Mordren là Linh Vương, di chuyển nhanh hơn cô. Hắn biết đường đến Huyền Môn Cốt — không phải đang tìm. Cuộc đua thực sự là ai đến trước. Cô không biết hắn đang ở đâu, đang làm gì, đang chờ điều gì — nhưng cô biết hắn sẽ đến. Hắn luôn đến. Hắn là loại người không bao giờ bỏ lỡ một cuộc đua.
 
-Đòn dưới. Đòn mà Sera không thể không đáp.
+Cô bước ra khỏi hang, nhìn về hướng cổng đá đen cách đó một dặm. "Ba ngày. Đủ." Cô nói với Lira, nhưng cũng là nói với chính mình. Ba ngày — cô có thể làm được. Cô đã làm được một mảnh. Cô có thể làm thêm bốn mươi sáu mảnh nữa. Mỗi mảnh một giờ, mỗi giờ một lời thề được hoàn thành, mỗi lời thề một mảnh vỡ được đặt xuống.
 
-Cô đứng dậy. Kiếm trên tay. Lira đứng bên — dao trên tay. Cova nhìn cả hai, rồi nhìn tu viện, rồi không nói gì — vì nói bây giờ là tốn thời gian, và thời gian người trong tu viện không có.
+Nhưng có một điều cô giữ lại, không nói với Lira. Khi mảnh Jorin tan, cô nhận ra một mảnh không thuộc về ai trong Đoàn. Nó lặng lẽ, khác biệt — không phải giọng người chết. Nó là của chính cô, được gieo vào kiếm từ đêm Đoàn tan. Mảnh thứ bốn mươi sáu. Cô chưa xử lý nó. Chưa đến lúc. Cô không biết nó chứa điều gì — một lời thề cô tự đặt ra trong khoảnh khắc tuyệt vọng nhất, một lời hứa cô đã quên mất mình từng nói. Nhưng cô biết nó sẽ phải được xử lý. Sớm hay muộn. Và cô sợ điều đó — sợ phải đối mặt với lời thề của chính mình, sợ phải hoàn thành điều mà cô đã hứa trong đêm mà mọi thứ sụp đổ.
 
-Sera bước ra khỏi bóng cây.
+Cô chọn thề mới: hoàn thành thề cũ. Không phải vì Đoàn — vì cô. Vì cô chọn. Vì cô không muốn sống mãi với bốn mươi bảy giọng nói trong đầu. Vì cô muốn nghe thấy tiếng của chính mình, rõ ràng và không bị che lấp.
+
+Kiếm không nặng.

@@ -2,54 +2,34 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 49
 story: "/works/aethermoor/trong-the"
-total: 60
-title: "Chương 49: Tin Từ Bắc"
+total: 66
+title: "Chương 49: Ba Ngày"
 ---
 
-Hai ngày sau rời Caelmyr. Hai ngày đi về phía Nam — xa trạm gác, xa trụ sở, xa nơi Thẩm Vấn Giả sẽ kiểm tra khi phát hiện Kael mất. Hai ngày Kael phục hồi — phục hồi chậm, phục hồi kiểu người phục hồi khi hai năm hầm giam ăn thịt cơ thể, nhưng phục hồi. Kael đi bộ xa hơn ngày đầu: năm mươi bước, rồi một trăm, rồi không đếm. Kael ăn nhiều hơn: ba phần thay một, uống nhiều hơn, ngủ nhiều hơn. Cơ thể chữa. Chữa chậm nhưng chữa.
+Hang đất cách Huyền Môn Cốt một dặm. Đất cạn, đá đen, không có gì sống ngoài Sera và thanh kiếm trên tay. Bốn mươi sáu mảnh còn lại. Cô ngồi xuống, đặt kiếm ngang gối, nhắm mắt.
 
-Calla đi cùng — đi không hỏi, đi không chậm, đi kiểu người đi khi đi là lựa chọn duy nhất không chết. Calla biết Sera sẽ quay lại Caelmyr. Calla biết vì Calla nghe Thệ Thiết đáp, nghe như Sera nghe, nghe kiểu người nghe khi biết điều mình biết có trọng. Calla không hỏi Sera sẽ làm gì — Calla biết: Sera sẽ tìm Mordren Chấp Sự. Tìm là đối mặt. Đối mặt là đánh hoặc đàm. Đàm cần thông tin. Calla là thông tin. Thông tin sống.
+Im lặng. Nghe một. Hiểu. Dẫn. Lực. Dùng.
 
-Đêm thứ hai. Trại — trại sâu rừng, trại mà lửa nhỏ đủ sưởi không đủ thấy. Bốn người. Sera ngồi canh, Lira ngủ cách ba bước, Kael ngủ cách Lira hai bước, Calla ngồi đối diện Sera — ngồi kiểu người ngồi khi ngủ không còn thói quen sau hai năm hầm.
+Sera chọn mảnh Mordren Chấp Sự trước — dù biết mảnh này thuộc về người đang sống, đang bị giam, và việc nghe nó có thể làm lộ vị trí của cô. Cô cần hiểu thề ước của ông trước khi giải cứu. Thông tin từ mảnh này quyết định kế hoạch xâm nhập Trụ sở Bắc Caelmyr. Cô đã dành ba ngày qua để vẽ lại sơ đồ hành lang từ trí nhớ của Jorin, người từng bị giam ở đó trước khi chết dưới tay lính canh. Nhưng sơ đồ chỉ là xương. Thề ước của Mordren Chấp Sự là thịt — thứ quyết định ông sẽ nói gì, im gì, và liệu ông có thể dẫn họ qua cổng sau mà không chạm vào báo động. Sera không tin vào may mắn. Cô tin vào việc biết trước một bước. Mảnh này là bước đó.
 
-"Phụ tá Mordren Thứ Hai," Calla nói. Giọng thấp — thấp đủ Sera nghe, không đủ Lira thức. "Ba người. Linh Chủ cả ba. Tier 7."
+Kiếm rung. Không phải tiếng ồn — là một giọng. Giọng Mordren Chấp Sự, trẻ hơn, vang từ ba mươi năm trước. Giọng vang lên từ một buổi tối mùa đông, khi ông còn là một sĩ quan trẻ của Đoàn, đứng trước một cánh cổng đá đen mà ông không được phép hỏi tên. Sera cảm nhận được sự run rẩy trong giọng nói đó — không phải sợ hãi, mà là sự cẩn trọng của người biết mình đang đặt cược cả sự nghiệp vào một lời thề.
 
-Sera nghe. Nghe và đếm. Ba Linh Chủ. Ba Tier 7. Mordren Thứ Hai — Linh Hùng hoặc hơn. Tổng: bốn người mạnh. Bốn người mạnh là đội đủ diệt Đoàn nhỏ, đội đủ bao vây thị trấn, đội đủ giết Sera và Lira trong trận trực tiếp. Trực tiếp là thua. Gián tiếp là có thể. Có thể là cần kế hoạch.
+"Ta thề. Ta sẽ không nói về Huyền Môn Cốt. Không nói với ai. Không viết. Không để lại dấu vết."
 
-"Tên?"
+Sera mở mắt. Không phải nợ mạng như Jorin. Đây là nợ im lặng. Mordren Chấp Sự đã thề giữ kín điều gì đó về cánh cổng đá đen — cánh cổng mà Sera vừa khảo sát sáng nay. Ông biết về Huyền Môn Cốt từ trước khi bị bắt. Ông biết từ trước khi Đoàn tan. Điều đó có nghĩa là ông không chỉ là một tù nhân tình cờ bị bắt giữ — ông là người giữ một bí mật mà Mordren Thứ Hai đã săn lùng suốt hai thập kỷ. Sera tự hỏi: ông đã giữ được bao lâu dưới sự tra tấn của Thệ Thiết? Bao nhiêu đêm ông đã chịu đựng trước khi họ nhận ra rằng lời thề của ông mạnh hơn bất kỳ cơn đau nào họ có thể tạo ra? Kiếm nhẹ đi. Một bậc. Bốn mươi lăm.
 
-"Phụ tá thứ nhất: Veren. Nam. Bốn mươi. Linh Chủ thủy — dùng Thệ Thiếtđóng băng Linh Nguyên trong người đối phương. Chậm nhưng chắc."
+Nhưng Sera nhận ra sự thật: kiếm không nhẹ vì thề ước biến mất. Nó nhẹ vì cô chọn mang. Thề ước không bị giải phóng — nó được chuyển hóa. Từ gánh nặng thành lựa chọn. Cô chọn nghe. Cô chọn hiểu. Cô chọn hoàn thành. Cô đã từng nghĩ rằng việc giải phóng thề ước là một hành động phá hủy — xóa bỏ một món nợ, xóa bỏ một gánh nặng. Nhưng bây giờ cô hiểu rằng nó giống như việc nhặt một hòn đá từ lòng sông và đặt nó vào túi mình. Hòn đá vẫn còn đó. Nó chỉ đổi chủ. Và Sera, không giống như những người thề ước trước đây, không có ý định để hòn đá đó rơi xuống đáy.
 
-"Thứ hai?"
+"Im lặng," Sera nói với không khí. "Ông thề im lặng về cổng. Cổng không phải để mở."
 
-"Phụ tá thứ hai: Asha. Nữ. Ba mươi lăm. Linh Chủ hỏa — bùng phát, diện hẹp, sức hủy lớn. Nhanh nhưng hao."
+Câu nói rơi vào hang đất, không ai nghe. Nhưng Sera biết: giải phóng thề ước này sẽ giải phóng Mordren Chấp Sự khỏi lời thề — ông sẽ có thể nói. Và Mordren Thứ Hai biết điều đó. Đó là lý do ông ta giữ Mordren Chấp Sự sống, giam trong hầm đôi, khóa Thệ Thiết. Ông ta không giết Mordren Chấp Sự vì ông ta cần thông tin — ông ta giữ ông sống vì ông ta sợ điều gì sẽ xảy ra nếu lời thề bị giải phóng mà không có ai kiểm soát. Một người đàn ông có thể nói về Huyền Môn Cốt là một mối đe dọa. Một người đàn ông bị giam cầm, bị bịt miệng bởi chính lời thề của mình, là một công cụ. Mordren Thứ Hai đã biến lời thề thành nhà tù thứ hai — và Sera vừa mở khóa nó từ xa.
 
-"Thứ ba?"
+Sera đếm lại. Bốn mươi lăm. Ba ngày cho tất cả. Mordren Thứ Hai còn sáu ngày. Cửa sổ vẫn mở — nhưng hẹp hơn cô nghĩ. Cô đã tính toán sai về tốc độ của mình. Mỗi mảnh không chỉ là một câu chuyện — nó là một quyết định, một sự lựa chọn về việc ai sẽ mang gánh nặng tiếp theo. Và mỗi lần cô nghe, cô không chỉ nhận thông tin — cô nhận trách nhiệm. Ba ngày có thể là quá ít nếu cô không chọn đúng mảnh. Nhưng cô không có lựa chọn nào khác. Cô đã đi quá xa để quay lại.
 
-"Phụ tá thứ ba: Grel. Nam. Năm mươi. Linh Chủ thổ — đổi địa hình nhỏ, tường đất, hố, rào. Phòng thủ."
+Cô đứng dậy, kiếm trên tay, nhẹ hơn một bậc. Cô bước ra khỏi hang, nhìn về phía cổng đá đen hút sáng ở chân trời. Một ý nghĩ lạnh chạy dọc sống lưng: nếu Mordren Chấp Sự biết về cổng, và Mordren Thứ Hai biết ông biết — thì cuộc đua không chỉ là ai đến trước. Cuộc đua là ai hiểu cổng trước. Sera đã nhìn cổng từ xa suốt hai ngày qua, ghi nhận cách ánh sáng bị hút vào bề mặt đá, cách không có bóng đổ từ nó, cách ngay cả gió cũng dường như tránh xa. Cô đã nghĩ rằng đó là một cánh cổng bị bỏ hoang. Bây giờ cô biết rằng nó không bao giờ bị bỏ hoang — nó chỉ đang chờ người hiểu nó.
 
-Ba phụ tá. Ba thuộc tính. Thủy, hỏa, thổ. Veren chậm chắc — đóng băng Linh Nguyên. Asha nhanh hao — bùng phát diện hẹp. Grel phòng thủ — đổi địa hình. Sera: Linh Phong, thuộc tính chưa rõ — thuộc tính Sera là Thệ Vang, Thệ Vang không phải thuộc tính, Thệ Vang là kết nối. Lira: Tier 4, Linh Chiến, dao nhanh, chiến thuật tốt. Hai người bốn phụ tá. Kael: không chiến đấu. Calla: không chiến đấu.
+Sera quay vào hang. Cô cần nghe mảnh tiếp theo. Nhưng trước khi nhắm mắt, cô dừng lại — một tiếng động nhỏ từ phía lùm cây ngoài hang. Không phải thú. Quá đều, quá có chủ đích. Sera ghi nhận: ai đó đang quan sát. Cô không truy tìm. Cô để dấu vết đó sống — vì nếu kẻ quan sát muốn hại cô, hắn đã tấn công. Kẻ quan sát đang chờ. Sera cũng chờ. Cô đã học được từ những năm tháng trong Đoàn rằng sự kiên nhẫn là vũ khí mạnh nhất — và rằng những kẻ quan sát thường là những người sợ hành động nhất. Nếu hắn muốn tiếp cận, hắn sẽ phải tự lộ diện. Và khi hắn làm vậy, Sera sẽ sẵn sàng.
 
-Lực lượng: hai chiến đấu, hai không. Đối phương: bốn Linh Chủ. Chênh: lớn. Lớn nhưng không bất khả — bất khả là chênh không thể bù. Bù là chiến thuật, địa hình, bất ngờ. Bất ngờ là Sera biết đối phương, đối phương không biết Sera biết. Biết trước là lợi thế. Lợi thế nhỏ nhưng lợi thế.
+Cô nhắm mắt. Im lặng. Nghe một. Hiểu. Dẫn. Lực. Dùng.
 
-"Trong trụ sở, ai canh Mordren Chấp Sự?"
-
-"Veren. Luôn Veren. Veren canh vì Veren đóng băng — đóng băng nghĩa là đóng băng Mordren, giữ ông yếu, giữ ông không breakout. Veren canh trực tiếp. Asha và Grel luân phiên tuần tra trụ sở."
-
-Veren canh Mordren Chấp Sự. Veren luôn đó. Đó là biến số ít hơn. Ít biến số là kế hoạch chắc hơn.
-
-Sera tính. Trụ sở: ba tầng, hầm ngoài, hầm trong, khóa Thệ Thiết, Veren canh Mordren Chấp Sự, Asha và Grel tuần tra. Mordren Thứ Hai không ở trụ sở — Mordren Thứ Hai đang đến Bắc, đang tìm Sera. Sera không ở Bắc. Sera ở Nam. Khoảng cách là thời gian. Thời gian là cửa sổ. Cửa sổ: Mordren Thứ Hai không ở trụ sở là trụ sở chỉ ba phụ tá. Ba phụ tá là khó nhưng không bất khả.
-
-Nhưng — cửa sổ đóng. Mordren Thứ Hai đang đến Bắc. Bắc là nơi Sera vừa rời. Nếu Sera quay lại Caelmyr, Mordren sẽ biết. Biết là đến. Đến là cửa sổ đóng. Đóng là đối mặt Mordren Thứ Hai + ba phụ tá. Bốn Linh Chủ + một Linh Hùng hoặc hơn là chết.
-
-Vậy: Sera cần hành động trước khi Mordren đến. Trước là nhanh. Nhanh là rủi ro. Rủi ro là có thể sai. Sai là chết. Nhưng chậm là chắc chết. Nhanh là có thể chết. Có thể là lựa chọn. Lựa chọn Sera: nhanh.
-
-"Ba ngày," Sera nói. Calla nhìn. "Ba ngày nữa tôi vào trụ sở. Cô vẽ kiến trúc. Từng phòng. Từng cửa. Từng bước."
-
-Calla gật. Calla hai năm trong trụ sở — một năm hầm trong, một năm hầm ngoài. Calla nhớ. Calla nhớ vì Calla sống là nhớ. Nhớ là sống.
-
-Sera quay nhìn Lira — Lira ngủ, ngủ nhẹ, tay trên bao dao. Sera nghe Thệ Vang rỉ từ Lira: lo. Lo nhẹ, lo đều, lo kiểu người lo khi biết điều sắp đến khó hơn điều đã qua. Lira biết: trụ sở lớn hơn trạm gác. Trạm gác là hai lính canh. Trụ sở là ba phụ tá Linh Chủ. Lira biết chênh. Lira biết khó. Nhưng Lira không nói *đi không.* Lira không nói vì Lira đã chọn đi cùng khi Lira nói *vì nó đúng* và *đúng* không thay đổi vì khó.
-
-Kael thức — thức từ tiếng nói. Kael nằm, mắt mở, nghe. Kael hai năm hầm — hai năm đủ để biết nghe là sống. Kael nghe: trụ sở, phụ tá, Linh Chủ. Kael không hỏi. Kael biết: hỏi không giúp. Biết giúp. Biết là sống. Kael biết: chị anh đang đi vào chỗ khó. Kael không cản — cản không phải quyền Kael, quyền Kael là đi theo và không chậm.
-
-Thệ Vang đêm: khác. Khác vì có thêm âm — âm từ Calla, âm từ thề ước Mordren Chấp Sự, âm từ người sống mà Thệ Thiết đáp. Bốn mươi tám mảnh chết + một mảnh sống cộng hưởng là bốn mươi chín? Không. Không bốn mươi chín — vì mảnh Calla không nằm trong kiếm. Mảnh Calla nằm ngoài, cộng hưởng, nhưng không nhập. Chưa nhập. Nhập là khi nào? Khi Calla chết? Hoặc khi thề ước hoàn thành? Hoặc khi Thệ Thiết chấp nhận? Sera chưa biết. Chưa biết là ghi nhận. Ghi nhận là đếm sau.
+Mảnh tiếp theo.

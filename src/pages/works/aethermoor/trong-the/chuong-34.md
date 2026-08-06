@@ -2,56 +2,52 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 34
 story: "/works/aethermoor/trong-the"
-total: 60
-title: "Chương 34: Tu Viện Cuối Rừng"
+total: 66
+title: "Chương 34: chapter-34"
 ---
 
-Sera không ngủ ngay. Cô ngồi trên giường tu viện — giường hẹp, đệm mỏng, chăn len thô — và xử lý.
+Chương 34: Nhà
 
-Nghỉ là lúc đầu làm việc mà cơ thể không làm. Cơ thể cô nằm. Đầu cô chạy. Aldric từng nói: *Nghỉ không phải nằm. Nghỉ là để phần mềm chạy khi phần cứng dừng.* Ông nói về rèn — đợi thép nguội trước khi tôi lại — nhưng cũng đúng cho người. Phần mềm: phân tích, kết nối, xếp chỗ. Phần cứng: cơ bắp, xương, máu. Phần cứng dừng. Phần mềm chạy.
+Sera nằm trên giường đá trong phòng tu viện, mùi trầm hương cũ và vôi ẩm bốc lên từ tường. Cô đếm trần nhà — mười hai tấm ván, mỗi tấm một vết nứt chạy cùng hướng, như thể bàn tay khổng lồ nào đó đã kéo xiên gỗ khi thế giới còn ướt. Ánh trăng lọt qua khe cửa sổ hẹp, cắt ngang phòng thành dải bạc nhạt, rơi lên bức tường đối diện và làm lộ những mảng vôi bong tróc — màu kem ngả vàng, thành形状 giống bản đồ của những đất nước không còn tồn tại. Kiếm ở dưới giường nhưng cô cảm nhận được qua ván gỗ: nặng hơn tại Havel's Cross. Đá nơi đây giữ ký ức khác — dày hơn, cũ hơn, chậm hơn trong việc buông bỏ. Địa lý xác nhận bằng trọng lượng, không phải lý thuyết — đất tu viện giữ thệ ước cổ hơn, và Thệ Vang biết. Cơ thể cô biết. Không cần suy luận, chỉ cần nằm im và để trọng lực kể chuyện.
 
-Bốn mươi bảy mảnh thề ước. Cô sắp xếp lại — không phải xếp vật lý (không thể, chúng ở trong kiếm, không thể lấy ra), mà xếp trong đầu. Aldric dạy cô: mỗi mảnh có ba thuộc tính — nguồn (ai), loại (lời/cảm/cảnh), trạng thái (chưa hoàn thành/hoàn thành). Cô phân loại lại từ đầu:
+Tiếng bước chân ngoài hành lang — Lira. Nhẹ nhưng không giấu, không hoàn toàn. Cô ấy nghe Sera trở mình, rồi im. Không đến gần, không gõ cửa. Chỉ đứng sau cánh cửa, tay trên chuôi kiếm, lưng dựa vào tường. Sera biết vì Thệ Vang cho nghe: hơi thở đều, không vội, không nóng. Lira canh — theo cách riêng, không phải đồng đội, không phải bạn, không phải mệnh lệnh từ ai. Là người đặt mình giữa nguy hiểm và người khác mà không cần ai biết, không cần cảm ơn, không cần ghi nhận. Sera lắng nghe hơi thở đều đó một lúc lâu, cảm nhận nó như một dạng thời tiết — ổn định, đáng tin, xa cách. Rồi cô rời mắt khỏi cánh cửa trong tâm.
 
-Nguồn: Jorin — rõ, nghe ba lần. Người không tên — bếp trại, ấm. 45 mảnh khác — chưa phân loại. Loại: lời (Jorin), cảm (sợ, bình yên), cảnh (lửa trại). Trạng thái: 1 hoàn thành (bình yên lửa trại), 46 chưa.
+Sera đứng dậy, cầm kiếm, bước ra sân sau.
 
-Một hoàn thành. Bốn mươi sáu chưa. Tỷ lệ: 1/47. Tệ. Nhưng 0/47 hai tuần trước. Tiến bộ.
+Đất lạnh truyền lên qua bàn chân trần, cắt thẳng qua da và vào xương. Đêm Pale Frontier không giống đêm Caelmyr — lạnh từ bên dưới, từ đất giữ thệ ước hàng trăm năm, từ những thế hệ người đã đứng đây và cầu nguyện và chết mà không ai nhớ tên. Sân sau tu viện hình chữ nhật, lát đá gồ ghề, cỏ dại mọc giữa các khe nứt như vết thương cũ đã lành nhưng để sẹo. Bụi rosemary mọc sát bức tường phía nam, mùi hắc ngọt gặp không khí lạnh thì đậm hơn, gần như cay. Cô quỳ xuống ở giữa sân, lòng bàn tay úp lên cỏ ướt, ngón tay mở rộng, và gọi.
 
-Cô nghĩ về Kael. Người hỏi sai câu hỏi rồi mất tích. Kael điều tra Giáo Hội — trực tiếp, không giấu. Đó là sai: Giáo Hội có mắt, mắt nhìn người hỏi, người hỏi là mục tiêu. Sera không hỏi trực tiếp — cô quan sát, thu thập, kết nối. Khác Kael. Nhưng Kael có thể đã biết thứ cô chưa biết. Nếu Kael còn sống — bị giam thay vì bị giết — thì Kael là nguồn tin giá trị nhất cô chưa chạm. Nếu Kael chết — thì câu hỏi của Kael mất, nhưng câu trả lời không mất, vì câu trả lời tồn tại độc lập với người hỏi. Cô cần tìm câu trả lời Kael tìm, không cần tìm Kael.
+Ký ức đến qua da — không phải mắt. Da tay cô căng, lỗ chân lông mở, từng sợi lông tơ trên cẳng tay dựng đứng như ăng-ten nhận tín hiệu. Kênh kích hoạt lần hai xác nhận: lối vào lặp lại được. Không phải ngẫu nhiên, không phải một lần rồi mất. Aldric dạy cô một nửa — nửa lắng nghe. Nửa còn lại đất dạy: bàn chân biết lòng đất trước khi tai nghe thấy. Ông học từ đất, không từ Đoàn. Sự dạy ấy vượt qua cái chết, nằm yên trong xương đến khi ai đó cần dùng lại. Giờ nó sống trong Sera, ấm lên từ lòng bàn tay và chạy dọc theo mạch máu.
 
-Thệ Vang trong đêm: nhẹ. Không phải im — nhẹ. Như tiếng thở xa. Sera không cố nghe. Cô nằm, để Thệ Vang tự chảy. Aldric nói: Thệ Vang như suối — chảy khi có dốc, ngưng khi phẳng. Cô nằm phẳng. Suối chậm. Nhưng vẫn chảy — và trong dòng chảy chậm đó, cô nghe: thở dài. Ai đó thở dài — không phải buồn, không phải mệt, là thở kiểu người thở khi chuyển từ một việc sang việc khác. Chuyển. Thở dài của hoàn thành bước một, bắt đầu bước hai. Đủ để cô biết: trong bốn mươi bảy mảnh, có mảnh đang chuyển. Từ nặng sang nhẹ hơn. Từ chưa hoàn thành sang gần hoàn thành. Chuyển chậm — nhưng chuyển.
+Cô thấy Kael — bàn gỗ sẫm, đèn dầu bật lửa nhỏ, giấy tờ phủ kín mặt bàn, chồng cao đến mức có cái đang rơi xuống đất nhưng Kael không để ý. Bốn cái tên mực đen, chữ nghiêng đều, viết bằng tay phải cứng cáp. Một bị gạch — mạnh đến mức xé rách giấy, vết mực loang ra như máu đổ trên lụa. Kael thì thầm, môi gần như không chạm nhau: "Một cái tên nữa là xong." Tay trái hắn nắm chặt cạnh bàn, khớp xương trắng bệch.
 
-Sáng. Cô đến sân tu viện. Lò sưởi ngoài trời — tro còn ấm. Phụ nữ áo nâu — Sera hỏi tên, bà nói *Vestra* — đang nấu nước. Lá rừng Essam, khác Vorthane: lá Essam chát hơn, hậu đắng hơn, nhưng ấm hơn vì ấm áp ở Essam đáng giá hơn vị.
+Ký ức chuyển cảnh như trang sách bị lật — đột ngột, không mượt mà. Hành lang đá, lạnh hơn, ẩm hơn. Cánh cửa đen không phản chiếu, bề mặt phẳng như nước đứng yên. Không tay nắm, không bản lề, không dấu hiệu nào cho thấy nó mở được. Kael đứng trước cánh cửa, một tay chạm lên bề mặt, rồi rụt lại — như bị điện giật nhẹ, như mặt nước nóng hơn dự kiến. Hắn hỏi, giọng trầm, hướng vào khoảng không trước mặt: "Cánh cửa không ai nhớ — tại sao nó ở đây?"
 
-Fen và Cova ở sân. Tập. Fen múa kiếm — nhanh, ngắn, từng đòn dứt khoát. Kiếm rừng: không chém rộng, chém hẹp — đủ cắt cổ, đủ chém vai, không đủ chém ngang vì ngang chậm. Cova múa dao — hai con, mỗi tay một, xoay như người xoay bánh xe. Dao chiến đấu: gần, nhanh, hai tay hai hướng, đối thủ không biết dao nào chạm trước. Họ tập cùng nhau — không phải đấu, là tập nhịp: Fen chém, Cova lăn, Cova dao, Fen đỡ. Nhịp quen — quen từ khi họ cầm vũ khí lần đầu, quen từ khi hai mươi ba năm Bạc Ty Linh Đoàn rèn họ, quen từ khi Đoàn tan và họ chỉ còn nhau.
+Và từ trong đất — không phải từ ký ức, không thuộc về Kael, đến từ nơi khác hoàn toàn — giọng nói. Không phải Jorin, không phải bất kỳ ai cô từng nghe. Đến qua da, qua xương, qua thịt, rung lên trong lồng ngực cô như tiếng chuông chôn dưới lòng đất: "Phải về nhà."
 
-Sera quan sát. Cô không bình luận — bình luận là ý kiến, ý kiến không cần khi chỉ cần dữ liệu. Dữ liệu: Fen cấp Linh Chiến (Tier 4) — nhanh, chính xác, nhưng lực mỏng. Đòn chém không đủ sâu để giết Linh Kỵ trở lên trong một hit. Cova cấp Linh Thuật (Tier 3) — dao nhanh, nhưng chân đứng hẹp, dễ mất thăng bằng nếu bị đẩy. Hai người cùng đánh bù: Fen chém xa, Cova bổ gần. Nhưng nếu đối thủ là Linh Hùng trở lên — họ chết. Họ biết. Đó là lý do họ trốn chứ không chiến.
+Ba từ. Chỉ ba từ nhưng mang trọng lượng của cả một ngôn ngữ. Sera cảm thấy chúng nằm lại trong cô, nặng, nóng, không tan.
 
-Cova thấy Sera nhìn. Dừng dao. Hơi thở nhanh — tậpIntensity cao, mồ hôi trán. "Cô đang phân tích chúng tôi."
+Mảnh thứ hai vừa hoàn thành trong im lặng. Kiếm nhẹ hơn — bốn mươi sáu, bốn mươi lăm. Trọng lượng giảm không đáng kể, nhưng Thệ Vang đo bằng cách khác — bằng độ sắc của cảm nhận, bằng khoảng cách giữa cô và lưỡi kiếm ngắn lại từng chút.
 
-"Ghi nhận," Sera nói. "Không phán xét."
+Sera mở mắt. Tay nắm chặt đến móng in dấu vào lòng bàn tay, năm vệt lõm đỏ, sâu enough để khi cô mở tay ra thì thấy máu rỉ ở một trong số đó. Cô ngồi trong sương, nghe đất thở — chậm, đều, như nhịp tim của thứ gì đó khổng lồ nằm ngủ dưới bề mặt. Một mình. Không ai canh — lần đầu cô nhận sự vắng mặt đó là khoảng trống có ý thức, không phải hoàn cảnh. Không phải ai đó quên nhiệm vụ mà là cô cảm thấy ai đó đáng lẽ phải ở đây. Cô ghi nhận nó, ghi vào sổ bên cạnh bốn mươi lăm mảnh — không phải để quên, mà để biết rằng cô đã thấy nó.
 
-"Khác gì?"
+Phía sau, Fen bước ra từ bóng tối. Hắn đến gần mà không phát ra tiếng trên đá — thói quen của người sống ngoài đường đủ lâu để biết cách di chuyển mà mặt đất không phản bội. Nhìn kiếm — lưỡi đã tắt, ánh sáng mờ mịn còn sót trên bề mặt như tàn đèn — rồi nhìn Sera. Im lặng kéo dài, kéo dài đủ lâu để trở thành một phần của đêm thay vì khoảng trống cần lấp đầy. Rồi ngồi xuống cách cô ba bước, hai tay khoanh trên đầu gối, vai hơi cúi.
 
-"Phán xét có good và bad. Ghi nhận chỉ có đúng và sai."
+"Kael chỉ điều tra những Đoàn có vấn đề nội bộ," Sera nói, giọng thấp, đều. "Ghi điểm yếu. Tài liệu xuất hiện trong tịch thu Giáo Hội."
 
-Cova nghĩ. Gật — đồng ý cách nói, không phải đồng ý nội dung. Cô ta biết Sera thấy điểm yếu của họ. Ai chiến đấu cũng thấy. Nhưng Sera nói *ghi nhận* — không dùng, không lợi dụng, chỉ biết. Đủ lịch sự. Đủ lạnh.
+"Cô biết." Fen không quay đầu. Giọng hắn bằng phẳng, nhưng ngón tay cái trên đầu gối di chuyển — lần đầu tiên Sera thấy hắn cử động thừa.
 
-Fen không nói gì. Anh ta cất kiếm. Vào trong. Cova đi theo — luôn theo, như nửa sau luôn theo nửa trước. Sera nghĩ về sinh đôi: Lira nói Bạc Ty Linh Đoàn tan, họ chỉ còn nhau. Chỉ còn nhau nghĩa là nếu mất một, mất cả hai. Không phải vì yếu — vì họ là hệ thống hai phần, và hệ thống hai phần sập khi mất bất kỳ phần nào. Sera hiểu: cô không thể mời một. Mời một là tách. Tách là sập. Cô không tách người đã chỉ còn nhau.
+"Giờ tôi biết."
 
-Tu viện yên. Vestra nấu. Lửa ngoài trời ấm. Sera ngồi cạnh lửa và để phần mềm chạy. Fen và Cova trong phòng — nói gì đó, nhỏ, không rõ. Lira ở phòng mình — kiểm tra, lau, mài, việc Lira làm khi không chiến đấu. Một ngày yên. Sera cần một ngày yên — không phải nghỉ, là để phần mềm xếp chỗ xong.
+Hắn gật chậm, như đang tự cân nhắc mỗi độ của chuyển động. "Kael không phải kẻ phản bội. Hắn tin mình đang giúp. Không biết ai nhận tài liệu — chỉ một liên lạc ẩn danh qua hộp ở Caelmyr, hộp sắt gắn trong hốc tường sau hiệu bánh. Tôi đã im." Nhìn tay mình — vết sẹo trên mu bàn tay trái, cũ, trắng, mờ vào da. "Quá lâu."
 
-Buổi chiều, Fen ra sân. Ngồi đối diện Sera — bên lò, khoảng cách một sải tay. Anh ta không nhìn cô. Nhìn lửa.
+Sera ghi nhận. Hai ngày trước, Fen kể, một người lạ đến tu viện hỏi về "các Đoàn cũ" — không phải Thẩm Vấn Giả, nhưng câu hỏi là của Thẩm Vấn Giả, cấu trúc giống, nhịp giống, chỉ thiếu uniform. Mordren đến gần hơn cô tính. Khoảng cách giữa cô và hắn đang co lại như dây cung đang được kéo.
 
-"Bạc Ty Linh Đoàn," anh ta nói. "Không phải Đoàn đầu tiên bị thế này." Không phải câu mở — là câu nối. Nối với điều Sera đã biết. Xác nhận.
+Trời sáng dần — không phải rạng rỡ mà là sương mù thay màu từ đen sang xám, từ xám sang trắng đục. Mặt trời còn bị giữ sau đựnig núi nhưng ánh sáng đã len qua, đủ để thấy sân tu viện rõ ràng hơn: từng viên đá, từng vết nứt, bụi rosemary chuyển từ bóng tối thành bụi xanh đậm.
 
-"Tôi biết. Sáu Đoàn. Mười năm."
+Sera ở bếp, sổ mở trên bàn gỗ đã mòn cạnh. Viết bằng giọng đếm — dòng ngắn, chính xác, không cảm xúc: "Mảnh 46: Kael. Điều tra chọn lọc. Liên lạc ẩn danh. Giáo Hội có tài liệu. Kênh da — lặp lại được. Trigger: cảm giác bị nhìn. Người lạ hỏi Đoàn cũ. Bốn mươi lăm."
 
-"Biết rồi." Fen xoay que củi trong lửa. "Cô muốn biết cái tôi biết mà cô chưa biết. Được. Nhưng không phải tất cả. Một số thứ tôi giữ — không vì giấu cô, vì kể lại là sống lại, và tôi đã sống lại đủ."
+Tay dừng bút. Da cẳng tay — vết pattern mờ, chạy dọc mạch máu, mạng nhện ánh sáng nhạt như ai vừa vẽ bằng nước pha huỳnh quang lên bề mặt da cô. Bình minh chiếu lên, cô thấy rõ: kênh da không phải tai nạn. Là cơ chế, và nó để lại dấu trên cơ thể. Tạm thời — nhưng nó sẽ quay lại. Cô biết nó sẽ quay lại vì mỗi lần dùng, vết sâu hơn một chút, rõ hơn một chút, gần như muốn in thành hình cố định.
 
-Sera gật. Cô hiểu. Kể là mở — mở vết thương, mở ký ức, mở thứ đã đóng. Aldric cũng chọn từng mảnh kể — không phải vì giấu, vì mỗi mảnh kể là mảnh sống lại, và sống lại tốn năng lượng mà người già không có thừa. Fen trẻ hơn Aldric, nhưng vết thương không phân biệt tuổi.
+Fen và Cova ở cửa bếp, nhìn cô viết. Hắn đứng một bên, cô kia — không cố ý tạo thành hai cánh, nhưng tự nhiên đã vậy. Hắn nhìn Sera — lần đầu không phải cùng cảnh ngộ, không phải đồng hành tạm thời. Là người biết hơn, và cả hai đều hiểu khoảng cách đó sẽ không缩小 lại. Cova thì nhìn sổ, mắt di chuyển theo dòng chữ, miệng mấp máy nhưng không nói gì.
 
-"Được," cô nói. "Anh chọn kể gì. Tôi chọn hỏi gì. Nếu không trả lời được, gật một lần. Tôi sẽ hiểu."
-
-Fen gật. Thỏa thuận. Đơn giản. Sạch.
-
-***
+Sera gấp sổ. Đứng dậy. Kiếm nhẹ trên tay — nhẹ hơn hôm qua, mỗi ngày mỗi nhẹ hơn, và cô tự hỏi khi nào nó sẽ nhẹ đến mức cô quên nó đang ở đó. "Mordren đến. Kael mất tích. Giáo Hội có pattern. Mai — ở lại hoặc đi. Quyết định phải có." Cô nói không nhìn ai, nhưng cả hai đều nghe, và cả hai đều biết câu hỏi đó không chỉ dành cho cô.

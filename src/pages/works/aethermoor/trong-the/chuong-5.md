@@ -2,8 +2,8 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 5
 story: "/works/aethermoor/trong-the"
-total: 60
-title: "Chương 5: Những Gì Không Được Phép Chết"
+total: 66
+title: "Chương 5: chapter-05"
 ---
 
 Sáng. Ông già không có ở nhà.

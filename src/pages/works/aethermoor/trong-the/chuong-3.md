@@ -2,8 +2,8 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 3
 story: "/works/aethermoor/trong-the"
-total: 60
-title: "Chương 3: Người Duy Nhất Chạy"
+total: 66
+title: "Chương 3: chapter-03"
 ---
 
 Sera không chạy. Cô chưa bao giờ chạy khỏi thứ gì — không phải vì kiêu ngạo mà vì chạy là hành vi của người không có lựa chọn, và cô luôn tìm ra lựa chọn tốt hơn.

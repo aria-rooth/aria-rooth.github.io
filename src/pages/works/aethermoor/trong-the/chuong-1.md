@@ -2,8 +2,8 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 1
 story: "/works/aethermoor/trong-the"
-total: 60
-title: "Chương 1: Đêm Không Có Ngọn Lửa"
+total: 66
+title: "Chương 1: chapter-01"
 ---
 
 Hầm tối không có mùi ẩm mốc. Đó là điều đầu tiên Sera nhận ra khi bị nhốt vào đây, ba đêm trước. Người ta xây hầm này bằng đá tốt, khô ráo, thông khí qua những khe hẹp trên trần — đủ để không chết ngạt, không đủ để thấy bầu trời. Trọng Nham Hỏa Đạo không phạt bằng cách giết. Họ phạt bằng cách nhắc nhở rằng ngươi vẫn đang thở nhờ sự cho phép của họ.

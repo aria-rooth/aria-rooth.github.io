@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 20
 story: "/works/aethermoor/trong-the"
-total: 60
+total: 66
 title: "Chương 20: Cuối Arc 1 — Tên Trên Tờ Giấy"
 ---
 

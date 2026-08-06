@@ -2,8 +2,8 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 47
 story: "/works/aethermoor/trong-the"
-total: 60
-title: "Chương 47: Trạm Gác"
+total: 66
+title: "Chương 47: chapter-47"
 ---
 
 Nửa đêm. Canh ngoài quay lưng — đi vòng, vòng hẹp, vòng từ cửa tường Tây đến góc Bắc rồi quay lại. Mỗi vòng: sáu mươi giây. Sáu mươi giây đủ. Đủ để Lira đến tường, leo, qua, đáp. Lira leo nhanh — nhanh hơn đêm Draven, nhanh vì Lira biết tường này, tường Lira leo hai năm trước khi bị giam, tường Lira nhớ như nhớ sẹo. Mười lăm giây. Lira trên tường. Qua. Mất dạng trong bóng.

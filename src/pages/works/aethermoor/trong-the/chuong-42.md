@@ -2,60 +2,54 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 42
 story: "/works/aethermoor/trong-the"
-total: 60
-title: "Chương 42: Draven"
+total: 66
+title: "Chương 42: Dự Án Thệ Hội Tụ"
 ---
 
-Draven: thị trấn nhỏ nằm ở chỗ mà bản đồ quên — không phải vì thị trấn không đáng nhớ, vì thị trấn được thiết kế để không nhớ. Đường đến Draven hẹp, rẽ ba lần, hai lần rẽ vào ngõ cụt. Ai đến Draven phải biết Draven ở đâu — hoặc phải có người dẫn. Sera và Lira không có người dẫn. Sera có bản đồ Aldric — bản đồ nhỏ, vẽ tay, chi tiết đúng hai mươi năm trước. Draven không đổi nhiều trong hai mươi năm: thị trấn quên thì thị trấn không xây, không xây thì không đổi, không đổi thì bản đồ cũ vẫn đúng.
+Hang đất cách Huyền Môn Cốt một dặm. Sera ngồi ở cửa hang, kiếm đặt ngang đùi, mắt nhìn về phía cổng — nơi cô đã khảo sát từ chiều. Đá đen ba người cao, không phản chiếu, hút sáng như hút nước. Đất quanh cổng cạn trắng, không một dấu chân thú. Cô đã ngồi như vậy từ lúc mặt trời bắt đầu nghiêng, qua khi bóng đổ dài thành những vệt đen loang lổ trên nền đất khô. Gió thổi qua thung lũng, mang theo mùi đá nung và bụi mịn — thứ bụi không bám vào da, không dính vào áo, chỉ lơ lửng trong không khí như phù sa của một dòng sông đã chết. Sera hít một hơi, cảm nhận vị kim loại nhàn nhạt nơi cuống lưỡi — vị của Aether bị hút cạn, vị của thứ đất đã không còn sự sống.
 
-Họ đến chiều hôm thứ tư. Bốn ngày đi — đi nhanh, đi đường rừng, tránh đường lớn. Mỗi đêm Thệ Vang chảy nhẹ — nhẹ như hồi phục, nhẹ như bốn mươi bảy mảnh đang chuẩn bị. Chuẩn bị cho gì? Sera không hỏi. Thệ Vang không trả lời hỏi — Thệ Vang trả lời khi Thệ Vang chọn.
+Lira đứng sau lưng, dao cắm đất, không nói. Cô đã theo Sera đến đây — bốn lần không rời đi, lần này không chỉ ở lại mà tiến tới. Bốn lần trước, Lira dừng ở cửa hang, đứng nhìn Sera đi về phía cổng rồi quay lại, không hỏi, không bình luận. Lần này cô bước qua ngưỡng cửa, cắm dao xuống đất cạnh chân, và đứng đó như một cột mốc. Không phải người canh gác — người canh gác đứng sau lưng chủ nhân. Lira đứng ngang vai, hơi chếch về sau nửa bước, tư thế của người sẵn sàng rút dao trong tích tắc nhưng không vội vã. Ánh mắt cô quét qua mặt đất, qua những tảng đá vụn, qua đường chân trời phía sau cổng — nơi không có gì ngoài màu xám nhạt của hoàng hôn đang tắt dần.
 
-Draven: bốn trăm người, ngói đỏ, đường đá mòn, mùi than và mùi cá khô. Thị trấn bình thường theo mọi nghĩa — trừ một thứ: tòa nhà lớn ở trung tâm. Tòa nhà ba tầng, đá trắng, cửa sắt, cửa kính màu — không phải nhà thương mại, nhà ở, hay nhà kho. Tòa nhà Giáo Hội. Phong Quang Thánh Giáo. Chi nhánh Draven.
+"Đi," Sera nói. Một từ. Đủ.
 
-Sera đếm nhà khi đi qua rìa thị trấn — thói quen cũ, thói quen từ Đoàn: đếm nhà là đếm người, là đếm tài nguyên, là đếm chỗ ẩn, là đếm lối thoát. Bốn trăm người là tám mươi nhà. Tám mươi nhà là tám mươi mái, mái ngói đỏ, ngói đỏ nghĩa là hố gạch gần, hố gần nghĩa là đất sét, đất sét nghĩa là đào được, đào được nghĩa là lối thoát dưới nếu cần. Lối thoát: phòng bị.
+Họ đi bộ dọc theo lòng đất khô. Sera đếm bước — bốn trăm mười hai bước từ cửa hang đến chân cổng. Cô đếm không phải vì cần — cô đã đo khoảng cách này từ chiều, bằng mắt, bằng cách phóng một hòn đá nhỏ và ước lượng theo độ cong của quỹ đạo. Nhưng đếm bước là thói quen cũ, thói quen từ những ngày còn trong Đoàn, khi mỗi bước chân đều phải có chủ đích và mỗi con số đều là một mốc định vị. Bốn trăm mười hai — con số đó in vào trí nhớ như một dấu ấn. Giữa đường, cô dừng lại. Dưới chân: vó ngựa. Mới — mép lõm chưa bào mòn, bụi quanh vó chưa lắng. Một con ngựa, một người cưỡi, đi qua đây trong vòng vài giờ. Cô ngồi xổm xuống, đưa ngón tay trỏ lướt qua mép lõm — đất vẫn còn hơi ẩm dưới lớp bụi khô, dấu vết của móng sắt nung qua lớp đá ong. Người cưỡi không phi nước đại — bước chân đều, không trượt, không lệch hướng. Một người biết đường, biết chính xác mình đang đi đâu.
 
-Tòa nhà lớn không tương xứng với thị trấn — như kiếm thép trên bàn nông dân: quá tốt cho nơi này, quá đắt cho người đây, quá nhiều cho thứ mà thị trấn bốn trăm người cần. Không tương xứng — tòa nhà không ở đây vì thị trấn. Tòa nhà ở đây vì thứ khác. Thứ khác nằm trong tòa nhà — thứ đủ quan trọng để xây ba tầng, cửa sắt, kính màu, nhưng không đủ quan trọng để đặt ở Caelmyr nơi mọi người thấy. Để ở nơi quên là giấu. Giấu nhưng không chôn — chôn là không ai tìm được. Giấu ở Draven, ai biết thì tìm được, ai không biết thì không.
+Mordren đã qua đây. Không còn là tin qua thư — là hiện diện vật lý. Hắn ở phía trước, hoặc rất gần. Sera đứng dậy, phủi bụi trên đầu gối. Cô không cảm thấy tức giận — cảm giác đó đã cạn từ lâu, thay vào đó là một thứ gì đó lạnh hơn, sắc hơn: sự xác nhận. Mọi manh mối, mọi mảnh thư, mọi lời đồn đại suốt bốn tháng qua đều dẫn về một điểm — và điểm đó đang ở ngay trước mặt, in hằn trên nền đất cạn.
 
-Kiến trúc nói. Sera đọc kiến trúc như đọc báo cáo: tường dày, chứa thứ nổ hoặc thứ cần cách âm. Kính màu tầng hai là phòng làm việc, phòng làm việc nhìn ra đường, người trong phòng quan sát ai ra vào. Cửa sắt, không phải chống trộm, chống hỏa — hỏa thiêu giấy, giấy chứa tin, tin cần bảo vệ. Tòa nhà bảo vệ tin. Tin là thứ Giáo Hội giấu ở Draven.
+Sera không nói. Cô đếm lại bước từ vó ngựa đến cổng — ba trăm chín mươi bảy. Rồi tiếp tục đi.
 
-Sera và Lira không vào thị trấn ngay. Họ dừng ở rìa rừng — quan sát từ xa, cách hai trăm bước, nơi cây che và đất cao đủ để nhìn xuống.
+Cổng hiện ra trong tầm mắt. Gần hơn, nó lớn hơn cô tưởng — đá đen không phản chiếu, không bóng, không vết trầy. Bề mặt hút sáng — ánh chiều tà chạm vào là biến mất, như bị nuốt. Sera đo: ba người cao, hai người rộng, dày không đo được. Đất quanh cổng cạn — không cỏ, không rêu, không côn trùng. Đất chết vì Aether bị hút. Cô đứng trước cổng, cách khoảng ba bước chân, và cảm nhận sự khác biệt — không khí quanh cổng đặc hơn, nặng hơn, như bước vào một vùng nước sâu. Lông trên cánh tay cô dựng lên, không phải vì lạnh — vì thứ gì đó đang kéo, đang hút, đang chờ.
 
-Sera đếm. Tòa nhà ba tầng: tầng một cửa sắt — khóa, không người đứng. Tầng hai cửa kính — sáng, có người di chuyển bên trong. Tầng ba — không thấy, rèm che, nhưng có khói từ ống khói. Người trong: ít nhất hai (tầng hai di chuyển), nhiều nhất sáu (tòa nhà ba tầng đủ cho sáu). Canh gác: không. Thẩm Vấn Giả tuần tra: không. Bốn ngày trước khi Sera đến, cô đã cảm nhận: không có Linh Nguyên mạnh trong tòa nhà. Không Linh Phong, không Linh Chủ. Chỉ huy tầm thường. Canh gác tầm thường. Tòa nhà quan trọng nhưng người canh không — vì Draven quên, và quên là canh tốt nhất.
+Trên mặt đá: khắc. Không phải chữ Thánh Giáo — không phải bất kỳ chữ nào cô từng thấy trong sách vở Đoàn. Nét khắc sâu, đều, nhưng không phải thứ người viết — thứ gì đó in vào đá, như dấu răng để lại trên kim loại mềm. Sera bước tới, nghiêng đầu, đọc từng đường nét. Các ký tự xếp thành hàng ngang, mỗi hàng cách nhau đúng bằng bề rộng của một ngón tay cái — không lệch, không chênh, như được đo bằng thước. Nhưng không phải thước của thợ khắc — thước của thứ gì đó không cần đo vì nó vốn là một phần của đá.
 
-"Ban đêm," Lira nói. Không phải đề xuất — xác nhận. Lira xâm nhập ban đêm vì ban đêm ẩn, ẩn thì ít nguy hiểm, ít nguy hiểm thì nhiều cơ hội. Sera gật.
+Sera đưa tay trái chạm vào nét khắc.
 
-Họ đợi trong rừng, chờ cho đến tối, cho đến khi đèn trong tòa nhà chỉ còn tầng hai, cho đến khi thị trấn Draven chìm vào giấc ngủ — thị trấn nhỏ ngủ sớm, ngủ sâu, vì chẳng có gì đáng thức đêm ngoài tòa nhà Giáo Hội.
+Di vật thần cổ không phải một mảnh — nó là một phần của cổng. Khoảnh khắc đầu ngón tay chạm đá, Thệ Vang im lặng hoàn toàn. Lần đầu tiên kể từ đêm diệt môn, không một tiếng thì thầm trong đầu cô. Không Jorin, không Aldric, không bốn mươi sáu mảnh đang chờ. Im lặng tuyệt đối — như thể cổng không chỉ hút Aether, nó hút cả tiếng thề. Sera đứng yên trong sự im lặng đó, cảm nhận nó như một người vừa rời khỏi một căn phòng ồn ào kéo dài nhiều tháng — không gian trống rỗng đến mức đau tai. Cô nhận ra mình đã quen với tiếng thì thầm đến mức nào, quen với sự hiện diện của bốn mươi sáu mảnh vỡ trong đầu như quen với nhịp tim của chính mình. Giờ chúng biến mất, và nhịp tim cô đập lạc lõng trong lồng ngực trống.
 
-Nửa đêm.
+Trong sự im lặng đó, Sera nghe được.
 
-Lira đi trước. Không phải vì Sera nhường — vì Lira giỏi hơn việc này. Lira — mười năm làm Tự Do Kiếm Sĩ: xâm nhập, lấy, đi. Sera chiến đấu. Lira trinh sát. Đúng người đúng việc. Sera theo sau, bước cạnh Lira nhưng trễ nửa bước — đủ để Lira dẫn đường mà Sera không cản trở.
+Không phải bằng tai — bằng xương, bằng lòng bàn tay áp vào đá. Đá nói. Đá kể. Đá ghi tên một người — khắc sâu nhất, nét to nhất, ở vị trí trung tâm:
 
-Lira đến tường tòa nhà — tường sau, nơi bóng sâu nhất. Đá ẩm, rêu trơn dưới đầu ngón tay. Cô ta leo — không phải leo nhanh, leo đúng: tay chỗ nẻm, chân chỗ nẻm, nẻm mòn nghĩa là người leo trước, người leo trước nhiều nghĩa là lối leo thường, lối leo thường, không bẫy. Tầng hai. Cửa sổ — khóa trong, nhưng khóa mỏng, khóa kiểu khóa phòng không phải khóa tù. Lira rút kim — hai kim, kim mỏng, kim cong, kim nghề. Mười giây. Cửa sổ mở. Không tiếng.
+*Cael.*
 
-Cả hai lướt vào trong.
+Sera đọc được. Cái tên Mordren — không phải tên hắn viết, là tên hắn để lại trên cổng này, từ rất lâu trước khi hắn thành Linh Vương. Vì sao hắn muốn mở cổng này, không phải cổng khác — câu trả lời nằm trong đá, trong cái tên khắc sâu hơn mọi thứ. Cô lướt ngón tay theo từng nét chữ, cảm nhận độ sâu của chúng — sâu hơn các ký tự xung quanh gấp ba lần, như thể người khắc đã ấn xuống bằng toàn bộ trọng lượng cơ thể, bằng toàn bộ ý chí. Cái tên không phải để đọc — cái tên để lại dấu ấn, để khẳng định: *ta đã ở đây, ta đã chạm vào thứ này, ta đã để lại một phần của mình.*
 
-Bên trong: hành lang hẹp, đèn dầu thấp — không phải sáng soi, sáng vừa đủ đi. Cửa phòng đóng. Lira mở — từng cửa, nhanh, nhẹ, kiểm tra: phòng trống, phòng ngủ (người ngủ sâu, lưng quay, không thức), phòng kho (giấy, mực, ấn). Phòng kho. Đó là mục tiêu của họ đêm nay.
+Cô đọc tiếp — cố giải mã ngôn ngữ. Nét khắc lặp lại theo quy luật, nhưng không phải quy luật chữ viết cô biết. Phá đóng nghĩa là phải hiểu thứ tiếng này. Hiểu đòi hỏi chạm lâu hơn. Sera nhận ra các ký tự không phải là chữ — chúng là hình ảnh, là biểu tượng, mỗi cái mang một ý nghĩa không nằm trong âm thanh mà nằm trong hình dạng. Một vòng tròn có ba điểm gãy — không phải chữ "mở" hay "cửa", mà là khái niệm về sự xuyên thấu, về việc đi qua một ranh giới. Một đường thẳng đứng bị cắt ngang bởi hai đường chéo — không phải chữ "cấm" hay "chặn", mà là sự giao thoa giữa hai thế lực. Cô cố ghép chúng lại, tìm ra trật tự, nhưng mỗi lần sắp xếp lại có một cách đọc khác — như thể ngôn ngữ này không cố định, nó thay đổi theo người đọc, theo ý định của người đọc.
 
-Sera vào kho. Giấy — nhiều. Kệ gỗ bốn hàng, mỗi hàng ba mươi cuộn, mỗi cuộn ghi năm. Tinh: năm sáu, năm bảy — trước khi Đoàn cô tan. Tinh hành chính: thu chi, nhân sự, vật tư. Bình thường. Tầm thường. Giấy tầm thường trong tòa nhà không tầm thường — nghĩa là giấy quan trọng không ở đây, hoặc giấy quan trọng ở đây nhưng không nhãn.
+Sera ấn mạnh hơn. Đá hút — không phải Aether, là sức. Cảm giác như có ai rút tủy từ cánh tay cô. Tay trái tê — từ đầu ngón tay lan lên cổ tay, lên khuỷu. Tê không phải kiểu mỏi — tê kiểu mất, kiểu phần đó không còn thuộc về cô nữa. Cô cảm nhận được ranh giới — nơi da thịt kết thúc và nơi thứ gì đó khác bắt đầu, một vùng không có cảm giác, không có đau, không có sự sống. Như thể cổng đang học cách hấp thụ cô, từng phần một, bắt đầu từ những ngón tay.
 
-Lira tìm nhanh hơn — Lira tìm kiểu người tìm khi biết thứ cần không nằm nơi thấy. Cô ta kiểm tra kệ, rồi kiểm tra tường, rồi kiểm tra sàn. Sàn — gạch trúc, đều, nhưng một hàng gạch mòn khác: mòn nhẹ, mòn kiểu người bước nhiều lần ở cùng chỗ. Bước nhiều là nơi bị mở nhiều. Mở nhiều là nơi quan trọng.
+Cô chao đảo. Đầu gối khuỵu — một bên, rồi cả hai.
 
-Lira ấn gạch. Gạch lùi — lùi nhẹ, lùi nửa ngón, rồi dừng. Khe. Khe dưới gạch: hộp gỗ mỏng, không khóa. Lira mở.
+Lira đứng giữa Sera và cổng. Không nói gì. Chỉ đứng đó — một thân người chắn giữa cô và thứ đá đen đang hút. Không rút dao, không kéo Sera lùi. Chỉ đứng. Nhưng cách cô đứng — hai chân bám đất, trọng tâm hạ thấp, vai hơi khom về phía trước — là tư thế của người sẵn sàng lao tới trong tích tắc. Cô không chặn cổng — cô chặn giữa Sera và cổng, như một tấm khiên bằng xương thịt, không cần lệnh, không cần yêu cầu.
 
-Trong hộp: một tệp giấy. Da bọc, dây buộc, ấn sáp đỏ — ấn Phong Quang Thánh Giáo. Tệp bị khóa riêng: khóa chữ, bảy chữ, khóa phức tạp hơn khóa cửa. Lira nhìn khóa — nhìn hai giây. Rồi rút dao, lưỡi mỏng, lưỡi kim loại cứng hơn khóa, và đút vào khe giữa khóa và nắp. Không phá khóa — đẩy chốt. Chốt lùi. Khóa mở.
+Sera ghi nhận. Không nói.
 
-Tệp mở. Lira đưa cho Sera — không đọc, không xem, trao. Trao vì Sera là người cần đọc. Sera là người biết Đoàn. Sera là người mang Thệ Thiết. Sera là người hiểu.
+Cô rút tay khỏi đá. Tay trái tê tới khuỷu — không cử động được, không cảm giác được. Cô đếm lại bước từ cổng về hang — bốn trăm mười hai, nhưng lần này chỉ đếm được đến ba trăm chín mươi thì dừng, vì tay trái không còn để đếm theo nhịp. Cô nhìn xuống bàn tay mình — nó vẫn ở đó, vẫn gắn với cổ tay, nhưng màu da đã nhợt đi, như máu đã rút khỏi vùng đó. Cô thử cử động các ngón tay — không có phản hồi, không có tín hiệu, như gọi vào một căn phòng trống.
 
-Sera mở tệp. Trang đầu. Tiêu đề viết tay, mực đen, chữ đều:
+"Ba ngày," Sera nói, giọng khô khốc. "Tôi cần ba ngày để giải mã thứ tiếng này. Mordren đã qua đây."
 
-*DỰ ÁN THỆ HỘI TỤ — GIAI ĐOẠN 3*
+Lira không hỏi. Cô nhìn tay trái Sera — nhìn một giây — rồi quay lại phía cổng. "Tôi canh."
 
-Thệ Hội Tụ — hội tụ của các thề ước đã mất.
+Sera gật. Cô ngồi xuống đất cạn, kiếm đặt ngang đùi, mắt dán vào nét khắc trên đá. Thệ Vang vẫn im lặng — nhưng giờ cô biết: im lặng không phải là mất. Im lặng là cách cổng nói. Cô nhìn vào những ký tự, bắt đầu từ cái tên ở trung tâm — *Cael* — và để ánh mắt lướt theo từng đường nét, từng độ sâu, từng khoảng cách giữa các nét khắc. Cô không cần tay để đọc — cô cần mắt, cần trí nhớ, cần sự kiên nhẫn của một người đã quen chờ đợi. Ba ngày. Cô có ba ngày, và cô sẽ dùng từng giờ, từng phút, từng hơi thở để học cách nghe thứ tiếng nói của đá.
 
-Sera đọc tiếp, nhanh — theo cách của người đọc khi thời gian có hạn: mắt lướt, não bắt từ khóa. Từ khóa là những từ nặng — tên người, địa điểm, con số. Mordren. Pale Frontier. Thệ Hạch.
-
-"Tạm dừng," Lira nói. Giọng thấp — nhưng đủ nghe. "Bên ngoài. Tiếng."
-
-Sera dừng. Nghe. Từ Thệ Vang — không cảnh báo. Từ tai: bước chân. Bước chân xa — không phải trong tòa nhà, ngoài tòa nhà, đường đá, bước đều, bước tuần tra. Tuần tra đêm — người tuần tra đi đường vòng, không vào tòa nhà. Hắn đi qua. Hắn không dừng. Bước xa dần.
-
-Sera đọc tiếp.
+Và cô sẽ học cách nghe.

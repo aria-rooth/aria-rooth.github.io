@@ -2,8 +2,8 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 2
 story: "/works/aethermoor/trong-the"
-total: 60
-title: "Chương 2: Tro Và Thề Ước"
+total: 66
+title: "Chương 2: chapter-02"
 ---
 
 Bình minh ở Caelmyr đến chậm vào tháng Mười, ánh sáng xám trước khi vàng, và trong khoảng thời gian đó màu sắc của mọi thứ đều không trung thực. Máu trông nâu thay vì đỏ. Da người trông xanh thay vì nhợt. Sera làm việc trong ánh sáng xám đó và không bận tâm đến màu sắc.

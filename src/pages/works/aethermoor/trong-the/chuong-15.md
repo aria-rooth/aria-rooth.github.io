@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 15
 story: "/works/aethermoor/trong-the"
-total: 60
+total: 66
 title: "Chương 15: Trang Cuối Cùng Của Chấp Sự"
 ---
 

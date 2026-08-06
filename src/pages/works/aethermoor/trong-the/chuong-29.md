@@ -2,56 +2,58 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 29
 story: "/works/aethermoor/trong-the"
-total: 60
-title: "Chương 29: Mạng Lưới Của Giáo Hội"
+total: 66
+title: "Chương 29: chapter-29"
 ---
 
-Họ trở lại thị trấn — không phải Greymark, là thị trấn khác, nhỏ hơn, tên Venn's Hollow, nằm sâu hơn trong rừng nhưng vẫn trên đường thương mại. Lira chọn nơi này vì lý do: cô ta cần thông tin, và thông tin ở nơi người qua lại — dù ít. Greymark có quá nhiều mắt — Thẩm Vấn Giả, thám tử, ai đó bên thứ ba. Venn's Hollow ít người hơn, ít mắt hơn, và Lira đánh giá: đủ an toàn để dừng hai ngày.
+Đường mòn dừng ở một khe núi. Bên kia khe, Bạch Linh Mạc Đoàn nằm gọn trong lòng thung — ba mươi bảy mái nhà theo Sera đếm được từ sườn dốc, nhưng chỉ mười hai mái còn khói. Số còn lại im lặng, mái lợp rêu phủ kín, cửa chớp đóng chặt như nhà bỏ hoang sau mùa thu hoạch.
 
-Venn's Hollow: hai mươi ngôi nhà, một quán rượu, một lò rèn nhỏ, một chợ tuần hoạt động đúng một buổi sáng thứ Sáu rồi đóng. Nguồn thu chính: lâm sản — gỗ, nấm, nhựa cây. Người ở đây gõ cây lấy nhựa như người khác vắt bò lấy sữa — việc đều, thu nhập đều, cuộc sống đều. Đều đến mức buồn — nhưng buồn theo cách mà người buồn khi sống đủ lâu để biết không có gì thay đổi, và không thay đổi là ổn.
+Lira đứng cạnh cô, không nói. Cô ta nhìn Đoàn bằng ánh mắt của người đếm — không phải người về nhà, là người kiểm kê thiệt hại. Một lúc lâu, Lira mới nói: "Bảy năm trước, nơi này có hai trăm người. Bốn mươi Hiệp Sĩ thường trực. Giờ còn mười hai mái khói."
 
-Lira vào quán. Sera đi lò rèn — không phải để rèn, để nghe. Lò rèn ở thị trấn nhỏ là nơi người nói chuyện — không phải vì rèn ồn, mà vì người chờ rèn ồn. Thợ rèn vá dao, người nông dân chờ, và chờ thì nói. Nói về thời tiết, về thu hoạch, về giá gỗ, và — nếu hỏi đúng — về thứ họ không biết mình biết.
+Sera không hỏi Lira làm sao biết con số cũ. Ba quy tắc — không hỏi lý do. Cô chỉ ghi nhận: Lira biết nhiều hơn cô ta nói. Cô ta không đến đây để xem một Đoàn co rút. Cô ta đến để xem thứ gì đó cụ thể hơn.
 
-Lò rèn Venn's Hollow do một phụ nữ trung niên tên Helda vận hành — hiếm, vì thợ rèn thường là nam, nhưng Vorthane không theo luật thường. Helda to, tay chắc, da sạm khói — bà rèn dao rừng, dao nhà, và đôi khi kiếm cho thợ săn. Kiếm của bà không phải Thệ Thiết, nhưng sắc và cân — đủ cho người cần kiếm mà không cần kiếm để sống.
+Họ xuống dốc. Đường vào Đoàn không có cổng — chỉ hai trụ đá, một trụ đã đổ, dây thường xuân phủ kín phần còn đứng. Không ai chặn họ. Không ai hỏi. Một người đàn ông già ngồi trên bậc đá trước nhà gác, tay cầm một miếng gỗ đang đẽo — ông nhìn họ đi qua, gật đầu như gật với gió, rồi cúi xuống đẽo tiếp. Không phải vì ông không quan tâm. Vì ông đã quen nhìn người lạ đến rồi đi, và không còn đủ sức để hỏi họ là ai.
 
-Sera ngồi chờ trong khi Helda rèn. Dao trên đe, búa trên dao, lửa trên than — nhịp điệu quen mà cô nghe ở lò rèn Aldric. Khác ở chỗ búa Helda nhẹ hơn, vì dao nhẹ hơn kiếm, và than Helda nóng hơn, vì nấm Vorthane cháy nóng hơn than thường. Nhưng nhịp thì đồng: búa, đe, thép, lửa. Aldric sẽ thích lò này — ông sẽ nói Helda nén thép quá nhanh, nhưng nhịp đúng.
+Sera đi qua sân chính. Đất sân nứt nẻ, cỏ dại mọc thành từng vệt dài theo đường người đi — nhưng đường người đi ngày càng ít, cỏ dại ngày càng nhiều. Cô đếm: ba người trẻ đang quét lá, một phụ nữ giặt vải bên giếng, hai người đàn ông sửa mái nhà kho. Tất cả đều làm việc chậm — không phải lười, là kiểu chậm của người không còn lý do để nhanh.
 
-Một người nông dân đến lấy dao. Helda đưa, người nông dân trả tiền. Rồi nói — không phải với Helda, với không ai cụ thể, chỉ nói vì miệng cần việc sau khi tay xong việc:
+Lira đi thẳng về phía tòa nhà lớn nhất — nhà thề, theo cách bố trí giống mọi Đoàn Sera từng biết. Nhưng Lira không vào. Cô ta dừng ở bậc cửa, nhìn vào bên trong, rồi quay sang Sera: "Cô vào đi. Tôi đợi ngoài này."
 
-"Anh Harvel nói giá gỗ giảm lần nữa. Lần thứ ba năm nay. Anh Harvel nói người mua ở Caelmyr không mua nữa — họ mua từ nguồn khác. Nguồn Phong Quang Thánh Giáo. Rẻ hơn. Anh Harvel tức."
+Sera nhìn Lira. Lira nhìn lại — không né, không giải thích. Khoảnh khắc căng thẳng kéo dài đủ để Sera nhận ra: Lira không muốn vào. Không phải vì sợ. Vì có thứ trong đó cô ta không muốn Sera thấy cô ta nhìn.
 
-Helda không trả lời — bà rèn. Nhưng Sera nghe: Phong Quang Thánh Giáo. Lại, lại ở nơi cô không tìm. Giáo Hội không chỉ bóp Đoàn — họ bóp cả thương nhân, cả lâm sản, cả thứ không liên quan đến Đoàn hay thề ước hay di tích. Họ bóp kinh tế. Mua rẻ, bán rẻ, lấy thị phần, ép đối thủ rời đi. Đơn giản và thực dụng. Không cần giết — chỉ cần rẻ hơn.
+Sera bước vào.
 
-Sera hỏi — nhẹ, như hỏi vô tình: "Phong Quang Thánh Giáo bán gỗ từ khi nào?"
+Nhà thề trống. Không — không trống, là đã được dọn. Bệ đá giữa phòng vẫn còn, nhưng Thệ Hạch trên bệ không còn nguyên vẹn. Nó vỡ — vỡ theo cách Sera đã thấy một lần, ở Phòng Thề Trọng Nham Hỏa Đạo. Những mảnh vỡ nằm rải rác trên bệ, không ai thu dọn, không ai chạm vào. Bụi phủ dày — bụi của nhiều tháng, không phải nhiều ngày.
 
-Người nông dân nhìn cô. Không nghi — vì câu hỏi đơn giản, như hỏi thời tiết. "Khoảng hai năm. Họ có đoàn xe từ Pale Frontier chở gỗ xuống. Gỗ Pale Frontier đặc — cứng, bền, mạch Linh Nguyên dày. Ai cũng muốn. Giáo Hội bán rẻ hơn thị trường. Không hiểu tại sao — hoặc hiểu nhưng không nói." Ông ta cười — cười mỏng, biết-hơn-nói. "Người Vorthane không hỏi tại sao giá rẻ. Chỉ mua."
+Sera bước đến bệ. Cô không cần nghĩ — tay cô đã đưa ra trước khi đầu cô quyết định. Đầu ngón tay chạm vào mảnh Thệ Hạch vỡ lớn nhất.
 
-Sera ghi nhận. Gỗ Pale Frontier. Mạch Linh Nguyên dày. Giáo Hội lấy tài nguyên từ Pale Frontier — vùng mà danh sách sáu Đoàn đều liên quan đến. Họ không chỉ thâu tóm Thệ Hạch. Họ thâu tóm cả tài nguyên, cả thị trường, cả người.
+Thệ Vang không ồn ào như cô tưởng. Nó đến như một hơi thở — một hình ảnh ngắn, không lời: một căn phòng, hai người đứng đối diện. Một người mặc áo Đoàn — Hiệp Sĩ Bạch Linh Mạc, dáng đứng thẳng, tay đặt trên bệ Thệ Hạch. Người kia không mặc áo Đoàn — áo xám, không phải áo Thẩm Vấn Giả, không phải áo lính. Người áo xám đưa một vật gì đó — không thấy rõ, chỉ thấy bàn tay đưa ra, lòng bàn tay mở. Hiệp Sĩ Bạch Linh Mạc nhìn vật đó rất lâu. Rồi gật đầu.
 
-Chiều, Lira quay lại với thêm thông tin — từ quán rượu, từ người chợ, từ cách Lira thu thập: hỏi ít, nghe nhiều, ghi nhớ tất cả. Cô ta kể:
+Hình ảnh tan. Sera rút tay về. Đầu ngón tay lạnh — lạnh kiểu không phải từ đá, là từ bên trong, từ thứ đã chết từ lâu và vừa được chạm vào.
 
-"Chủ quán Venn's Hollow — người tên Poll — ông ta nhận tiền từ Phong Quang Thánh Giáo. Không nhiều, đủ để ông ta báo khi có người lạ đến. Khách lạ — đặc biệt người mang kiếm — ông ta gửi thư về chi nhánh Giáo Hội gần nhất. Mất ba ngày thư đến. Nhưng thư đến."
+Cô đứng yên, nhìn mảnh vỡ. Một cuộc trao đổi. Không phải tấn công — là trao đổi. Người áo xám đưa vật gì đó, Hiệp Sĩ nhận, gật đầu. Và sau đó — Đoàn bắt đầu co rút. Không phải Giáo Hội tấn công. Là ai đó đến, đưa thứ gì đó, và Đoàn chấp nhận.
 
-"Ông ta biết mình làm gì?"
+Sera quay ra. Lira vẫn đứng ở bậc cửa, lưng dựa vào khung — nhưng tư thế đã đổi. Không phải đứng chờ. Là đứng canh. Mắt Lira không nhìn vào phòng — mắt Lira nhìn ra sân, quét từng người một, như thể đang kiểm tra ai đó có đang nhìn không.
 
-"Biết. Nhưng không quan tâm. Ông ta gọi đó là 'báo cáo an ninh.' Giáo Hội gọi đó là 'mắt thị trấn.' Cùng việc, khác tên. Ông ta không ghét ai — ông ta chỉ cần tiền. Con gái ông ốm. Thuốc đắt. Giáo Hội trả đúng giá thuốc."
+"Thệ Hạch vỡ từ bao giờ?" Sera hỏi.
 
-Không phải ác. Không phải thiện. Chỉ là người — người cần tiền, người có thứ để đổi, và tổ chức sẵn sàng trả. Phong Quang Thánh Giáo không bắt ép Poll. Họ mua ông. Mua rẻ — giá thuốc cho con gái ốm. Nhưng rẻ hay đắt không quan trọng. Quan trọng là: giờ Poll là mắt. Mắt không biết mình nhìn cho ai — mắt chỉ biết mình nhìn vì được trả.
+Lira không trả lời ngay. Cô ta nhìn Sera một lúc — cái nhìn dài, kiểu cái nhìn của người đang cân nhắc nói bao nhiêu. Rồi Lira nói: "Hai năm trước. Cùng năm Giáo Hội bắt đầu bán gỗ Pale Frontier rẻ hơn thị trường."
 
-Lira kể thêm: không chỉ Poll. Người giao thư ở Venn's Hollow nhận thêm tiền từ Giáo Hội để gửi thư nhanh hơn khi thư có dấu đỏ — dấu Giáo Hội. Người bán ngựa báo Giáo Hội khi ai đó mua ngựa nhiều hơn hai con, vì nhiều ngựa là di chuyển xa, có thể là mục tiêu. Thương nhân gỗ hỏi danh sách khách hàng khi Giáo Hội cần, khách hàng nào mua từ ai, mua gì, mua bao nhiêu.
+Sera ghi nhận. Hai năm. Cùng năm. Không phải trùng hợp — nhưng cô chưa đủ dữ kiện để nối chúng lại.
 
-Mạng lưới. Không chính thức. Không quân sự. Không giết người. Chỉ nhìn — nhìn và báo. Thường dân làm việc thường dân: trả tiền, làm việc, không hỏi. Họ không biết mình là mắt của tổ chức đang diệt Đoàn — họ chỉ biết mình được trả cho việc dễ, và việc dễ không hại ai. Không hại ai mà họ thấy. Họ không thấy Đoàn bị diệt. Họ không thấy Thệ Hạch bị thu giữ. Họ chỉ thấy: thư gửi nhanh hơn, thuốc mua rẻ hơn, gỗ bán được giá. Đủ.
+"Người áo xám," Sera nói. "Ai?"
 
-Sera ngồi trong phòng trọ Venn's Hollow và nghĩ. Thệ Thiết nặng trên lưng. Bốn mảnh giấy nặng trong áo. Và giờ: thêm một thứ nặng trong đầu — mạng lưới.
+Lira đông cứng. Chỉ một chớp mắt — nhưng Sera thấy. Cô ta biết. Lira biết người áo xám là ai, và cô ta không muốn nói.
 
-Đánh Mordren thì đánh một người. Nhưng Giáo Hội không phải một người — là hệ thống. Mordren ra lệnh, Thẩm Vấn Giả thi hành, thường dân nhìn, trung gian chuyển, chim thư bay, và tiền chảy từ trên xuống dưới, từ trung tâm ra biên giới, từ tay người giàu đến túi người nghèo. Một hệ thống cơ chế — một cỗ máy lớn.
+"Tôi không biết," Lira nói. Giọng đều. Quá đều.
 
-Đập máy thì đập nơi nào? Đập Mordren — người vận hành. Nhưng người vận hành thay được. Mordren chết, người khác đứng vào. Đập mắt — thường dân Poll, người giao thư, người bán ngựa. Nhưng mắt cũng thay được. Và mắt không có tội — mắt chỉ nhìn.
+Sera không hỏi thêm. Cô đã có câu trả lời — không phải câu trả lời Lira nói, là câu trả lời Lira giấu. Khoảnh khắc căng thẳng giữa hai người kéo dài — không lời, chỉ hai người đứng đối diện, một người vừa chạm vào thứ người kia không muốn chạm, một người vừa giấu thứ người kia vừa thấy.
 
-Sera nhận ra: để chống Giáo Hội, cô không thể chỉ đánh vào Mordren. Cô phải hiểu toàn bộ hệ thống — hiểu cách nó hoạt động, hiểu cách nó tự bảo vệ, hiểu cách nó thay thế phần hỏng. Đập một mắt — mắt khác mọc. Đập một tay — tay khác đưa. Hệ thống sống vì nó được thiết kế để sống. Đoàn cô không sống — Đoàn tan khi Thệ Hạch vỡ, vì Thệ Hạch là trung tâm. Giáo Hội không có trung tâm. Hoặc trung tâm của họ không phải con người — là ý tưởng, là tiền, là niềm tin. Ý tưởng không giết được. Tiền không giết được. Niềm tin không giết được.
+Lira quay đi trước. "Đi thôi. Không còn gì ở đây."
 
-Cô cần cách khác. Chưa biết cách nào. Nhưng cô biết: cắt đầu rắn thì rắn chết. Cắt đầu mạng nhện thì mạng nhện vẫn dính. Giáo Hội là mạng nhện. Và cô cần tìm cách đốt mạng — không phải cắt chỉ.
+Sera đi theo. Nhưng trước khi rời sân, cô nhìn lại tòa nhà thề một lần nữa. Mười hai mái khói. Một Thệ Hạch vỡ không ai thu dọn. Một cuộc trao đổi mà người áo xám thắng — vì sau cuộc trao đổi đó, Đoàn bắt đầu chết.
 
-Lira không hỏi cô nghĩ gì. Lira làm việc Lira làm: lau kiếm, kiểm tra bao da, đếm tiền. Nhưng khi cô ta thấy Sera ngồi yên quá lâu, cô ta đưa một tách nước nóng, đặt xuống bàn rồi đi, không nói lời nào. Lira đã học: khi Sera im, Sera nghĩ. Và khi Sera nghĩ, nước nóng đủ. Không cần lời. Nước nóng là thứ Lira cho — không phải vì bạn, không phải vì tình, vì cùng đi thì cùng sống, cùng sống thì cùng uống nước.
+Cô không biết người áo xám là ai. Nhưng cô biết một điều: hắn không phải Giáo Hội. Thẩm Vấn Giả để lại dấu — áo choàng, lệnh, giấy tờ. Người này không để lại gì ngoài một cái gật đầu và một Đoàn đang hấp hối. Giống hệt kẻ đã đốt lò rèn Aldric. Giống hệt kẻ đã thuê thám tử theo dõi họ.
 
-***
+Bên thứ ba. Không phải Giáo Hội. Có tiền, có lý do, kiên nhẫn — và giờ Sera biết: hắn không chỉ theo dõi. Hắn hành động. Hắn đã hành động ở đây, hai năm trước, trước khi cô biết hắn tồn tại.
+
+Họ đi ngược lên dốc. Gió Bắc thổi qua thung lũng, cuốn theo mùi khói từ mười hai mái nhà — mùi khói của một Đoàn đang chờ chết. Sera không quay lại nhìn. Cô đã đếm đủ.

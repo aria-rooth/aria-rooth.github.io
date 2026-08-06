@@ -2,62 +2,98 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 30
 story: "/works/aethermoor/trong-the"
-total: 60
-title: "Chương 30: Tin Xấu Từ Caelmyr"
+total: 66
+title: "Chương 30: chapter-30"
 ---
 
-Người mang tin là Renn — thương nhân lâm sản, quen Lira từ ba năm trước, người bán gỗ cho cả Greymark lẫn Venn's Hollow. Ông ta đến Venn's Hollow vào chiều thứ hai, xe ngựa đầy gỗ, mặt dài — dài theo cách mà mặt người dài khi mang tin xấu và không biết cách nói.
+Mười hai mái nhà. Sera đếm từ mép rừng, nơi bạch dương thưa dần, thân trắng như xương trần giữa sương sớm. Mười hai mái lợp rêu, ba ống khói, một giếng. Không khói. Không người. Bốn mươi người sống ở đây — Lira đã nói vậy — và giờ chỉ còn những mái nhà trống. Mái nhà không võng, tường không nứt, hàng rào giếng vẫn thẳng. Gạch lát sân vẫn phẳng, không mọc cỏ giữa khe. Bỏ lại có chủ đích — không phải thiên tai hay nghèo đói. Một cộng đồng rời đi vì lý do họ chọn, hoặc vì bị buộc chọn.
 
-Renn tìm Lira ở quán. Lira đang uống — chậm, như mọi khi. Renn ngồi đối diện. Không hỏi mời. Không nói chào. Chỉ nói:
+Kiếm nặng hơn khi đến vùng thệ ước cũ. Từng bước, trọng lượng tăng, như đất đang đè lên thép. Cảm giác quen thuộc — lần trước ở Trọng Nham, nó cũng nặng thế, nhưng kiểu nặng khác. Lần đó là áp lực đột ngột, như cả thế giới dồn vào lưỡi kiếm cùng lúc. Còn bây giờ — chậm, chậm rãi, từng đốt ngón tay một.
 
-"Aldric chết rồi."
+Lira bên cạnh. Bước chân cô ta đều, nhưng Sera nghe được sự thay đổi — nhịp nhanh hơn bình thường, gót chân đập đất mạnh hơn. Sợ. Không phải sợ cô, mà sợ thứ họ đang tiến đến. "Bốn mươi người. Giờ còn mười hai nhà."
 
-Ba từ. Renn nói ba từ như người đặt ba viên đá trên mộ — mỗi từ nặng, mỗi từ rơi đúng chỗ, không cần thêm. Aldric. Chết. Rồi.
+Sera gật. Quan sát: vườn thảo dược mọc dại, cỏ cao quá đầu gối, ngọn đã chuyển vàng ở đỉnh. Thệ liên trên cột gỗ đã đứt — sợi dây bện sáu sợ, từng thắt nút thệ, giờ sải xuống đất như sợi dây chết. Đầu dây còn nguyên, không ai tháo, nó tự đứt vì thời gian không có người thay. Huấn luyện trường phía sau — cọc gỗ thẳng nhưng rêu phủ đầy, đất quanh cọc bị xói thành rãnh nhỏ, nhiều mùa mưa không ai đầm. Không phải phá hủy. Không có vết cháy, không có móng ngựa xới nát, không có máu khô trên cỏ. Bị bỏ lại sau khi mất đi thứ giữ họ ở lại.
 
-Lira nhìn ông ta, không nháy mắt. Nhưng Sera — ngồi hai bàn cách, quay lại khi nghe tên — Sera đông cứng vì sợ. Đông cứng theo cách mà thép đông cứng khi phôi thép chạm nước: tức thì, toàn bộ, từ ngoài vào trong. Mặt cô cứng lại, tay cô bất động, và trong khoảnh khắc đó, không có gì chuyển động bên trong cô cả: không suy nghĩ, không cảm nhận, không thở. Chỉ là: *Aldric. Chết. Rồi.*
+Có thể là bẫy. Nhưng cô cần dữ liệu. Cô quan sát thêm một nhịp —-counting heartbeat, hai, ba, bốn — xác nhận không có chuyển động trong sân, không có tiếng gỗ cọ, không có bóng di chuyển sau cửa sổ. Rồi bước vào.
 
-Renn kể: lò rèn bị đốt. Ba ngày trước, vào đêm. Không ai thấy ai làm. Lửa bắt từ bên trong — như thể ai đó đã vào, đã làm việc, đã châm lửa, và đã ra đi trước khi ai hay. Không nhân chứng. Không dấu vết chiến đấu. Không Thẩm Vấn Giả — Thẩm Vấn Giả để lại dấu: giáp, đồng phục, lệnh. Đây không để lại gì. Lửa sạch. Lò rèn và mọi thứ bên trong — cả Aldric — thành tro. Ai đó đã dọn dẹp. Dọn dẹp kỹ — kỹ hơn Thẩm Vấn Giả, kỹ hơn quân đội, kỹ hơn bất kỳ ai Lira biết.
+Sân trong hình bán nguyệt, lát đá ong. Sera đi giữa, mũi giày chạm vệt trượt trên đá — dấu bánh xe kéo, cũ, đã mờ. Có thứ được chở đi khi họ rời. Không phải mang tay không. Chuẩn bị trước.
 
-Lira hỏi: "Ai?"
+Nhà đầu tiên trống. Hai cái chén gỗ trên bàn, khô nứt. Một chiếc ghế dựa nghiêng, chân ngắn hơn một đoạn — ai đó đã gấp chân ghế cho vừa bàn. Chi tiết nhỏ. Cuộc sống nhỏ. Giờ không còn ai sửa ghế cho vừa bàn ở đây nữa.
 
-Renn lắc đầu. "Không biết. Người trong thị trấn nói lửa tự cháy — bếp than hắt. Nhưng bếp than Aldric không bao giờ để hắt. Ông già đó cẩn thận hơn người cẩn thận." Ông ta ngừng. Nhìn Lira. Nhìn Sera — Renn nhận ra cô đang nghe. "Nói thật: không ai thấy gì. Nhưng lửa quá sạch cho bếp than. Và Aldric... ông già đó không chết trong lửa bếp. Ông già đó chết vì ai đó muốn ông chết."
+Nhà thứ hai cũng trống, nhưng ở đây có áo khoác treo trên đinh. Sera dừng lại. Áo vải thô, nhuộm chàm nhạt, tay áo đã sờn. Để lại. Không ai mặc áo khoác vào rừng mà bỏ nó trên đinh. Có nghĩa là trời ấm khi họ đi, hoặc họ sẽ trở lại lấy, hoặc họ đi không kịp.
 
-Lira quay về phía Sera. Đợi. Lira đợi cách Lira đợi: không giục, không hỏi, chỉ ở, chỉ nhìn, chỉ để khoảng trống cho Sera lấp hoặc không lấp.
+Nhà cuối dãy có người.
 
-Sera ngồi. Tách nước nóng trước mặt — Lira đưa từ lúc nào cô không nhớ. Nước nguội, hơi không bốc. Cô nhìn tách nước, nhìn bàn gỗ, nhìn vách phòng trọ. Không nhìn Lira. Không nhìn Renn. Không nhìn ai — vì nhìn ai nghĩa là phải đối diện, và đối diện lúc này là đối diện với tin, và tin đó là: Aldric chết. Aldric — người nấu canh khoai tây bốn năm, người dạy cô lắng nghe Thệ Vang, người duy nhất trong Đoàn biết nghề thật của ông, người đưa cô bản đồ, tiền, và tên Lira — Aldric chết. Lò rèn cháy. Tro trắng. Sạch sẽ.
+Một người đàn ông ngồi trong căn nhà cuối dãy, dựa lưng vào thành giường. Tay khô, mắt sâu, tóc bạc nhưng chưa trắng — xám tro, như tro rơm sau mưa. Da trên mu bàn tay mỏng, nổi gân xanh, nhưng ngón tay không run. Tay người đã quen lao động, giờ không còn gì để lao. "Linh Mạc Đoàn? Không còn. Chỉ còn tôi."
 
-Cô nghĩ về cách ông chết. Không phải chiến đấu — Aldric không chiến đấu, ông rèn, ông nấu, ông dạy. Không phải Thẩm Vấn Giả — Thẩm Vấn Giả để lại dấu, và ai đó đã không để dấu. Ai đó khác. Ai đó sạch. Ai đó đủ giỏi để vào lò rèn, giết Aldric, châm lửa, ra đi, và không ai thấy.
+Nhân chứng duy nhất. Sera đếm: một.
 
-Suy luận: ai biết Aldric ở đó? Sera. Tên Thẩm Vấn Giả chạy trốn đêm trận ở lò rèn. Và thám tử tư — người theo dõi cô, người báo vị trí cho khách hàng giấu tên. Khách hàng đó không phải Giáo Hội — Giáo Hội dùng Thẩm Vấn Giả, không dùng thám tử. Nhưng ai đó khác. Ai đó biết Aldric, biết lò rèn, biết cô đến đó, và muốn Aldric chết. Tại sao? Vì Aldric biết cách đọc Thệ Thiết. Aldric là thợ rèn Thệ Thiết duy nhất cô biết — và có thể là duy nhất còn sống. Cho đến ba ngày trước.
+Người đàn ông nhìn họ — nhìn từ Sera sang Lira, rồi quay lại Sera. Mắt ông cân nhắc. Không sợ. Cũng không tin tưởng. Chỉ đang quyết định nói bao nhiêu.
 
-Sera đặt hai tay trên bàn. Ngón tay đan nhẹ — không phải nắm, là đan, như người đan dây để giữ thứ gì đó không rơi. Cô ngồi yên. Rất yên. Quá yên cho người vừa nghe tin người thầy chết. Lira quan sát và biết: yên của Sera không phải bình thản. Yên của Sera là băng — mặt nước đóng băng, dưới băng có nước chảy, nhưng băng giữ nước không tràn. Lira đã thấy yên này trước: đêm đầu họ gặp, khi Sera nói về Đoàn. Cùng yên. Cùng băng. Cùng nước dưới.
+"Các người đến tìm gì?"
 
-Bao lâu? Không ai hỏi. Sera không biết. Có thể một phút. Có thể năm. Thời gian trong băng chậm — hoặc không chảy, hoặc chảy mà cô không thấy. Khi cô đứng dậy, cơ thể cô cứng — cứng vì ngồi yên quá lâu, hoặc cứng vì thứ trong cô đang đông lại, đóng thành khối, thành nút, thành thứ cô sẽ phải gỡ sau nhưng không phải bây giờ.
+"Dấu vết," cô nói. "Giáo Hội đã ở đây?"
 
-Cô kiểm tra kiếm. Thệ Thiết vẫn ở đó, nặng hơn — hoặc cô tưởng nặng hơn, vì Aldric chết và cô không có người để mang kiếm đến sửa, không có người để hỏi, không có người nấu canh khoai tây khi cô mệt. Cô kiểm tra áo: nhật ký Mordren, danh sách sáu Đoàn, lệnh Giáo Hội, bản vẽ dấu khắc từ Torvin. Bốn mảnh giấy. Aldric không còn — nhưng giấy còn. Thông tin còn. Cô còn.
+Mắt ông tối. Sụp mí dưới, rồi nâng lên — cử động nhỏ, nhưng Sera đọc được. Ông đã biết họ sẽ hỏi câu này. Ông đã chờ. "Mười ngày trước. Một người. Áo choàng xám, sẫm hơn tro nhưng nhẹ hơn than. Không kéo chân — đi bằng mũi giày, bước ngắn. Đến, hỏi ba câu: Đoàn có bao nhiêu người? Thệ Hạch ở đâu? Ai là Trưởng Đoàn? Tôi nói bốn mươi. Nói Thệ Hạch trong trụ đá trung tâm. Nói Trưởng Đoàn tên là Harek, đã đi hai tháng trước. Người đó lấy Thệ Hạch. Không nói gì — chỉ nhìn trụ đá một lúc, rồi đi."
 
-"Chúng ta cần đẩy nhanh," cô nói. Giọng bình — quá bình, như mặt nước đóng băng, nhìn thấy băng, không thấy dòng chảy bên dưới. "Ai đó đang dọn dẹp — dọn dẹp người biết. Aldric biết. Aldric chết. Tôi biết. Tiếp theo là tôi. Hoặc Lira. Hoặc ai đó trong mạng lưới. Mỗi ngày chậm là mỗi ngày ai đó khác chết."
+"Ba câu," Sera nói. "Không hỏi tại sao Trưởng Đoàn đi?"
 
-Lira gật. Không nói *cô ổn không*. Không nói *tôi tiếc*. Lira nói bằng hành động: đứng dậy, kiểm tra bao da, đếm tiền, gật. Hành động là cách Lira chia buồn — vì lời chia buồn mỏng, nhưng hành động thì dày, và Lira không cho thứ mỏng.
+"Không."
 
-Renn rời đi. Ông ta mang gỗ, mang tin, và mang mặt dài — nhưng khi ông ta đi, mặt ông ta không còn dài. Ông ta đã chuyển tin, và chuyển tin xả nặng, và giờ ông ta nhẹ hơn để tiếp tục chở gỗ. Sera không trách ông ta. Ai cũng nhẹ sau khi đặt gánh xuống. Gánh giờ trên cô.
+Sera ghi nhận. Giáo Hội khảo sát trước khi để chết. Mẫu hình có kế hoạch — thu thập dữ liệu, xác nhận vị trí Thệ Hạch, đánh giá quy mô đoàn, rồi hành động. Không vội. Không bạo lực. Như một người thu hoạch đến xem mùa trước khi gặt.
 
-Đêm đó, Thệ Vang mạnh bất thường. Không phải giọng. Không phải cảm xúc. Là áp lực — như thể bốn mươi bảy mảnh thề ước cùng lúc phản ứng. Áp lực từ kiếm tràn ra, chảy dọc cánh tay, vào ngực, ép lồng ngực cô như bàn tay vô hình ấn từ trong. Cô ngồi trên giường, kiếm trên đùi, và chịu. Không đẩy — vì đẩy là chống lại Thệ Vang, và chống Thệ Vang là chống lại thề ước, và thề ước không chống được — chỉ hoàn thành được.
+"Harek đi đâu?" Lira hỏi.
 
-Bốn mươi bảy mảnh. Phản ứng với cái chết của Aldric. Dù Aldric không phải thành viên chính thức của Đoàn — ông là bếp trưởng, là thợ rèn giấu tên, là người nấu canh và rèn kiếm và dạy lắng nghe — nhưng ông thuộc Đoàn theo cách mà đất thuộc rễ: không danh nghĩa, nhưng thực tế. Ông ở trong Đoàn hai mươi năm. Ông rèn kiếm cho họ. Ông giữ bí mật cho họ. Ông sống cho họ và chết vì họ. Thệ Vang biết — không phải vì Thệ Hạch ghi tên ông, mà vì bốn mươi bảy người đã chết biết ông, quen ông, ăn canh ông nấu, và mảnh thề ước của họ phản ứng khi người đã nấu canh cho họ cũng chết.
+Người đàn ông lắc đầu. "Không nói. Một sáng thức dậy, ổng đã đi. Để lại dao và áo giáp. Không带走 gì ngoài kiếm riêng."
 
-Áp lực giảm dần, chậm, như thủy triều rút — không rút hết, nhưng rút đủ để cô thở. Cô thở sâu. Đau nhức — lồng ngực đau nhức như sau đòn đánh, dù không ai đánh cô. Thệ Vang đánh. Thệ Vang đánh bằng cách báo: *người của chúng ta chết. Người nấu cho chúng ta. Người rèn cho chúng ta. Người giữ bí mật cho chúng ta. Chết.* Và khi Thệ Vang báo, cô chịu. Vì cô là người cuối. Người cuối chịu tin cuối. Không ai khác để báo. Không ai khác để mang.
+Sera nhìn người đàn ông thêm một lúc. "Tên ông?"
 
-Lira thức. Cô ta không ngủ — hoặc ngủ rồi thức, Sera không biết. Nhưng cô ta nghe: tiếng Sera thở nặng, tiếng gỗ giường kêu nhẹ, tiếng kiếm chạm sàn. Lira không đến. Không hỏi. Cô ta chỉ mở cửa sổ — để gió vào, để không khí mới lấp chỗ không khí đặc mà Thệ Vang để lại. Gió Vorthane đêm: lạnh, ẩm, mùi rễ và mùn và thứ xanh dịu mà cô không có tên. Gió chạm da cô, lạnh, nhưng lạnh tốt hơn ngột. Lạnh mà sạch sẽ. Lạnh giữ người tỉnh.
+"Jonas."
 
-Sera nhìn ra cửa sổ. Rừng Vorthane đêm — tối, nhưng không tĩnh. Mạch Linh Nguyên xanh nhạt chảy dưới đất, hắt sáng mờ lên mặt rừng, như mạch máu dưới da. Rừng đang sống, cô cũng sống, nhưng Aldric thì không. Lira sống. Mạng lưới mắt của Giáo Hội sống. Mordren sống. Cả hệ thống đều sống.
+"Jonas. Tại sao ông ở lại?"
 
-Cô nhắm mắt. Thệ Vang dịu lại — không yên, nhưng dịu. Như tiếng ồn sau bão: vẫn có, nhưng xa hơn, nhỏ hơn. Cô ngủ — không phải ngủ yên, là ngủ mỏng, loại ngủ mà người mang kiếm ngủ: đủ nghỉ, đủ tỉnh. Trong giấc ngủ mỏng đó, cô mơ — hoặc không mơ, hoặc Thệ Vang đưa cô vào nơi không phải mơ: lò rèn Aldric. Lửa cháy trên bếp, canh sôi trên nồi. Ông đứng cạnh lò, tạp dề buộc ngang eo, và lưng ông quay về cô. Cô muốn gọi — *Aldric* — nhưng giọng cô không ra. Ông quay lại. Nhìn cô. Mắt ông không buồn — mắt ông mệt, mệt theo cách mà người mệt khi mệt quá lâu để còn buồn. Ông nói — hoặc Thệ Vang mượn giọng ông nói — một câu:
+Im lặng dài. Jonas quay đầu nhìn cửa sổ — cửa sổ phía nam, có ánh nắng yếu chiếu qua vải che đã mờ. "Già rồi. Đoàn đi vì Thệ Hạch yếu — nó không còn giữ được, cảm giác như đất dưới chân đang tan. Trẻ đi được. Tôi ở lại vì không còn chỗ nào đi được nữa."
 
-*"Đừng dừng lại vì tôi dừng."*
+Sera hiểu. Không phải lòng trung thành. Không phải can đảm. Chỉ là thực tế của cơ thể già và hành trình dài.
 
-Rồi ông quay lại, nấu tiếp. Lửa cháy trên bếp, canh sôi trên nồi. Và Sera tỉnh — hoặc đã tỉnh từ lâu, chỉ là mở mắt mới là tỉnh theo nghĩa người khác thấy.
+"Cảm ơn Jonas."
 
-Sáng. Cô đứng dậy. Kiếm gắn lưng. Giấy trong áo. Bốn mảnh. Tên Lira bên cạnh. Họ đẩy nhanh — vì ai đó đang dọn dẹp, và dọn dẹp không chờ, và cô không phải tiếp theo. Không phải vì sợ. Vì cô chưa xong. Bốn mươi bảy mảnh thề ước chưa hoàn thành. Aldric chết — nhưng thề ước Aldric giữ, thề ước ông dạy cô lắng nghe, vẫn ở trong kiếm, vẫn nặng, vẫn chờ. Cô chưa xong. Và người chưa xong không chết — họ tiếp tục.
+Ông gật, không nói gì thêm.
 
-***
+Ở cánh cửa sổ cuối dãy — dấu niêm phong đỏ trên khung gỗ. Con dấu Giáo Hội, hình tam giác ngược với mắt ở giữa, in nổi trên sáp đã cứng lại thành đá. Đúng chuẩn. Không phải giả. Sera cúi xuống, chụm hai ngón tay chạm mép dấu — sáp mịn, không nứt, mới. Mười ngày, sáp vẫn giữ form tốt, không có dấu hiệu thời tiết bào mòn. Có thể được niêm phong trong điều kiện khô, hoặc được gia công bằng kỹ thuật đặc biệt.
+
+Tro thuốc nhuộm dưới bệ cửa — màu đen nhạt, không phải tro bếp. Sera quỳ xuống, chạm ngón tay vào. Mịn, mỏng, không có sạn. Tro nhuộm lụa hoặc vải mịn — không phải thứ dùng cho y phục thô của người dân tộc. Vết giày có rãnh dưới bậc thềm — ba rãnh song song, sâu, cách nhau đều. Thẩm Vấn Giả. Giày chuẩn Giáo Hội, đế gỗ sồi, rãnh khắc tay. Không phải Mordren trực tiếp — hắn phái người đến. Hắn không đi giày rãnh — hắn đi giày mềm, vì hắn muốn im lặng hơn bất kỳ ai.
+
+Lira quỳ xuống cạnh vết giày. Cô ta đo bằng mắt, ước tính kích thước — Sera thấy cô ta làm điều này, và biết rằng Lira đang học. Bàn tay cô ta nắm chặt đầu gối, đốt ngón trắng bệch. Im lặng. Nhưng Sera nhận ra: Lira đang nhìn mẫu hình này lần thứ hai trong đời — một Đoàn bị bỏ lại có trật tự, Thệ Hạch bị lấy, và Giáo Hội đứng sau. Lần đầu là khi cô ta còn nhỏ, chưa hiểu. Lần này, cô ta hiểu.
+
+"Thệ Hạch của họ," Lira nói nhỏ, "giống Trọng Nham?"
+
+"Không biết. Trọng Nham không còn Thệ Hạch để so sánh. Nhưng mẫu hình — Giáo Hội đến, lấy, để lại dấu — giống."
+
+Sera đứng dậy, phủi bụi khỏi đầu gối. Cô đi quanh trụ đá trung tâm — một cột đá cao ngang vai, bề mặt phủ rêu xanh, có vết lõm hình tròn nơi Thệ Hạch từng nằm. Vết lõm sạch — ai đó đã lấy đi cẩn thận, không cạy, không bẻ. Biết cách tháo. Hoặc được chỉ dẫn.
+
+Cô đặt tay lên kiếm. Thệ Vang rung. Nhưng không phải rung bạo lực như đêm Trọng Nham tan — lần đó là nổ tung, dữ dội, tất cả cùng lúc, như dây đàn bị cắt giữa nốt cao. Lần này là rút cạn. Kiệt sức. Như đất đang mất dần thứ giữ nó sống, không đau, chỉ mệt. Hai kiểu resonance. Một của cái chết bất ngờ. Một của cái chết từ từ. Cả hai đều là mất, nhưng một ồn ào và một im lặng.
+
+Cô áp dụng kỹ thuật Aldric: im lặng. Nghe một. Không đẩy đi. Để resonance đi qua như nước qua sàng. Dẫn. Lực. Dùng. Kiếm đáp lại — nhẹ hơn. Lần đầu nó không chống lại cô. Không đẩy tay cô ra, không quay lưỡi đi hướng khác. Chỉ rung nhẹ, đều, như nhịp thở chậm. Aldric nói: kiếm không phải tay ai. Kiếm là một thực thể riêng. Respect nó, nó sẽ cooperate. Respect không có nghĩa là sợ. Có nghĩa là nghe.
+
+Trời tối dần. Bóng từ rừng kéo dài qua sân. Sera đứng giữa sân, nhìn bóng chạm hàng rào giếng rồi leo lên.
+
+Lira ở trong nhà — nhà Jonas, vì ông ấyOffered chỗ ở. Sera ở ngoài, tựa tường. Lưng chạm đá lạnh. Không ai canh. Cô không ra lệnh canh, không ai đề nghị. Trong một Đoàn đã tan,ierarchy mất ý nghĩa.
+
+Bàn tay trên chuôi kiếm — bàn tay của một người, không phải công cụ. Cô nhìn nó dưới ánh trăng, khi mây tan và bầu trời mở ra. Sẹo dây Thệ Trói trên cổ tay — vòng tròn nhỏ, da nhô lên, trắng hơn vùng xung quanh. Da sần. Móng ngắn, có vết đen dưới móng út — bụi chiến trường, đã rửa không hết. Đây là tay cô. Đã cầm kiếm, đã cầm bút, đã cầm tay người khác trong đêm tối. Tay cô, không phải tay công cụ, không phải tay thần thánh, không phải tay bị nguyền rủa. Chỉ là tay.
+
+Đêm yên. Nhưng yên của người một mình, không phải yên của an toàn. Tiếng dế. Tiếng gió qua bạch dương — lá rung tạo ra âm thanh như giấy bị xé chậm. Mùi đất ẩm. Sera hít vào, giữ trong ngực, rồi thở ra. Ở đây, đêm không có ai hét, không có ai khóc, không có ai chết. Chỉ có cô và trống rỗng.
+
+Sáng. Ánh sáng đến từ đông, yếu, nhưng đủ để Sera thấyJonas đã dậy và đang nấu nước — bếp lạnh nhưng ông ấy nhóm lửa bằng củi khô mang từ rừng. Ông ấy vẫn sống như có người cần ông sống. Thói quen của người đã quen phục vụ.
+
+Sera mở sổ — cuốn sổ da nhỏ, bìa đã cong, trang trong đầy chữ viết tay nhỏ, dày đặc. Cô viết: Mười hai nhà bỏ trống. Một nhân witness — Jonas, già, ở lại vì không còn chỗ đi. Thệ Hạch bị lấy — cẩn thận, không phá. Thẩm Vấn Giả — mười ngày trước, một người, áo choàng xám, hỏi ba câu chuẩn. Niêm phong cửa sổ — sáp đỏ Giáo Hội, mới. Tro thuốc nhuộm — đen nhạt, không phải tro bếp, nhuộm lụa. Vết giày rãnh — giày chuẩn Giáo Hội, đế sồi. Thệ Vang hai kiểu: bạo lực và rút cạn. Kỹ thuật Aldric hoạt động — lần đầu không bị chống lại.
+
+Cô dừng bút. Nhìn những dòng chữ. Rồi viết thêm, chậm hơn, từng chữ rõ ràng:
+
+Câu hỏi: Giáo Hội dùng Thệ Hạch làm gì? Tại sao khảo sát trước khi để chết? Bao nhiêu Đoàn trải qua cùng mẫu? Trọng Nham — bạo lực. Linh Mạc — rút cạn. Có phải phương pháp thay đổi theo tình trạng Thệ Hạch? Hay theo vị trí?
+
+Hướng tiếp: theo dấu Thệ Vấn Giả — hướng đi của người đó từ đây. Tìm thêm nhân chứng — còn bao nhiêu người ở rìa rừng này? So sánh với Trọng Nham — điểm giống, điểm khác.
+
+Gấp sổ. Gáy sách kêu nhẹ — da cũ, bản lề đã mềm. Cất vào túi, bên trong lớp vải lót, dưới包备用的钱币. Kiếm vẫn nặng — nhưng lần đầu, cô biết nó đang nói gì. Không phải lời. Không phải yêu cầu. Chỉ là sự hiện diện — một thực thể đang mệt, đang mất thứ gì đó, nhưng vẫn ở đây. Vẫn trên lưng cô. Vẫn nặng.
+
+Và nặng là đúng. Một thanh kiếm không nặng nghĩa là nó đã rời đi.

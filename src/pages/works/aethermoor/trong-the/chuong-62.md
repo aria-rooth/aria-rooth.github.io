@@ -2,80 +2,62 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 62
 story: "/works/aethermoor/trong-the"
-total: 65
-title: "Chương 62: Bước Ra"
+total: 66
+title: "Chương 62: Thoát Thành"
 ---
 
-Tầng hai. Hành lang dài hơn. Dài, nhiều phòng. Nhiều phòng, nhiều lính canh. Nhiều lính canh, nguy hiểm. Nguy hiểm, phải tính. Tính xem đường nào.
+Hang đất cách Huyền Môn Cốt một dặm. Tối. Đất sét lạnh dưới lưng, ẩm thấm qua lớp vải mỏng nơi bả vai, nơi xương sống, nơi gót chân co lại vì cái lạnh không buông tha. Sera đặt kiếm ngang đùi, lòng bàn tay úp lên chuôi. Bốn mươi tám mảnh thệ ước đang gào trong đầu — giọng người chết, giọng người sống, giọng chưa từng nghe. Có giọng rên rỉ, có giọng nguyền rủa, có giọng van xin, có giọng chỉ lặp đi lặp lại một câu không trọn vẹn. Cô nhắm mắt.
 
-Fenris chỉ. Chỉ trái. "Không phải cửa chính. Chính nhiều lính canh. Nhiều thì chết. Chết — không. Phải cửa sau. Sau là bếp. Bếp ít người đêm. Ít — cơ hội."
+*Im lặng.*
 
-Sera đi trái. Fenris theo. Chậm. Chậm vì già. Già cần đỡ. Đỡ — Sera không. Không vì cô cần tay. Tay cầm kiếm. Kiếm để sống. Sống cần tay cầm. Cầm thì không đỡ. Không đỡ — Fenris tự đi. Tự đi chậm nhưng vẫn đi.
+Aldric từng nói: "Nghe một, không nghe tất cả. Một thôi. Chọn một giọng và để nó nói."
 
-Tiếng chân. Phía trước. Bốn người. Bốn — nhiều hơn Sera đánh. Đánh một thì đủ. Đánh hai thì được. Đánh bốn thì khó. Khó, phải tránh. Tránh, ngã rẽ. Ngã rẽ — Fenris biết.
+Sera thở. Hơi thở thứ nhất — giọng gào to hơn, như thể chúng biết cô đang cố chọn, như thể chúng tranh nhau được nghe. Hơi thở thứ hai — cô không chống lại. Cô để tiếng gào ấy chảy qua người như nước qua kẽ tay, không giữ lại, không đẩy đi. Hơi thở thứ ba — cô chọn.
 
-"Phải."
+Một giọng. Bên trái. Quen.
 
-Sera rẽ phải. Hành lang hẹp. Hẹp, tối. Tối, che. Che, đợi. Đợi bốn người qua. Qua, tiếp tục.
+"Jorin."
 
-Bốn người đi. Giọng nói. Nói bình thường. Bình thường tức không biết. Không biết Sera ở đây. Ở đây, giấu. Giấu, chờ. Chờ qua.
+Giọng ông không gào. Ông nói nhỏ, như người đã đợi lâu, như người biết chắc cô sẽ đến. "Bên trái. Ngươi luôn quên bên trái."
 
-Qua. Sera đi tiếp. Đi, Fenris thở. Thở vì mệt. Mệt vì già. Già cần nghỉ. Nghỉ — không. Không, thời gian. Thời gian không đủ.
+Sera nhớ. Trận tập cuối cùng, Jorin bị đánh gục vì cô không che được sườn trái. Ông ngã xuống bùn đất, máu từ trán chảy xuống cằm, nhưng ông không trách. Ông chỉ nói: "Nợ ta một mạng. Trả khi nào ngươi nhớ."
 
-Bếp. Cửa gỗ. Gỗ không khóa. Không khóa vì bếp. Bếp để ăn. Ăn, lính canh không đến. Không đến vì đêm. Đêm, bếp trống. Trống, qua.
+*Hiểu.* Mảnh này là nợ. Nợ mạng. Trả nợ — hoàn thành.
 
-Qua bếp. Bếp lớn. Nồi đồng còn nước canh đọng. Bếp lò tắt nhưng còn hơi ấm. Mùi thức ăn thừa. Mùi bánh mì khô. Mùi mỡ rán cũ. Thừa từ đêm qua. Đêm qua, lính canh ăn. Ăn để sống. Sống — Sera cũng. Cũng đói. Đói rát. Đói nhưng bỏ qua. Bỏ qua, để sau. Sau, ăn. Ăn để sống.
+"Ta nhớ," Sera nói. Không phải với ai — với kiếm. Với ông. "Bên trái. Ta nhớ."
 
-Cửa sau bếp. Cửa sắt. Sắt lạnh. Lạnh vào lòng bàn tay. Sắt nặng. Nặng, đẩy. Đẩy có tiếng. Tiếng ồn. Ồn, lính canh nghe. Lính canh gần.
+Kiếm rung. Không phải gào — rung như dây đàn vừa gảy, một rung động ngắn, sạch, không vướng bận. Một mảnh tách ra. Sera cảm thấy nó rời khỏi đống hỗn loạn, đứng riêng, im lặng. Không còn gào, không còn giãy giụa. Nó đứng đó như một người vừa được trả lời xong một câu hỏi đã giữ từ lâu.
 
-"Đẩy nhanh," Fenris nói. "Nhanh thì ồn ngắn. Ngắn, lính canh không kịp."
+*Dẫn.* Aldric dạy: "Hiểu rồi thì dẫn. Dẫn nó về chỗ cũ. Về nơi nó thuộc về."
 
-Sera đẩy. Đẩy, sắt càu. Càu ồn. Ồn hai giây. Hai giây — mở. Mở — bên ngoài. Ngoài — gió. Gió Bắc. Gió lạnh đột ngột. Lạnh, tỉnh. Tỉnh, chạy. Chạy — tự do.
+Sera không biết nơi đó. Cô chưa từng thấy nơi nào gọi là "chỗ cũ" của một thệ ước. Cô chỉ biết một điều: Jorin không vô tội. Ông từng giết — giết người không phải trong trận. Ông từng nói với cô, giọng khàn, trong một đêm lửa trại, khi những người khác đã ngủ: "Thề ước của ta không sạch. Ngươi đừng học ta."
 
-Chạy. Sera chạy. Fenris không. Không, vì già. Già, phổi yếu. Già, đi nhanh nhất có thể. Nhanh nhất vẫn chậm. Chậm, Sera chờ. Chờ — không. Không vì lính canh nghe ồn. Ồn, tiếp viện. Tiếp viện, thời gian. Thời gian — năm mươi giây trước khi họ đến bếp. Năm mươi, chạy xa. Xa, thoát.
+"Thề ước của người không vô tội," Sera nói. "Thật. Đúng."
 
-Sera đỡ Fenris. Đỡ — cánh tay cô quanh vai ông. Vai ông gầy. Xương dưới áo. Đỡ, chạy chậm hơn. Chậm hơn nhưng vẫn nhanh hơn đi. Đi không đủ. Không đủ, chạy. Chạy, Fenris thở dốc. Dốc, tim. Tim đập hỗn. Tim sáu mươi. Sáu mươi — già. Già, chịu. Chịu, chạy tiếp.
+Cô không phán xét. Cô không tha thứ. Cô chỉ ghi nhận — như ghi nhận một dữ kiện, như ghi nhận hướng gió, như ghi nhận độ sâu của vết thương trước khi băng bó. Rồi cô chọn: hoàn thành nó. Không phải vì Đoàn. Vì cô chọn.
 
-Ngoài trụ sở. Tường bao. Tường cao. Cao ba người. Ba người — leo. Leo, Fenris không. Không, vì già. Già, cần cửa. Cửa đâu?
+Kiếm nhẹ.
 
-"Cửa hông. Bốn mươi bước. Phía trước."
+Sera mở mắt. Cô không khóc. Cô nhìn thanh kiếm trên đùi — nhìn kỹ, như nhìn một người vừa thay đổi, như nhìn một khuôn mặt vừa bớt đi một nếp nhăn. Nặng hơn trước khi thoát ngục. Nhưng nhẹ hơn lúc vừa cầm lên. Nhẹ hơn một mảnh.
 
-Sera đi. Đi nhanh. Nhanh, đỡ Fenris. Đỡ cả hai. Hai, chậm hơn một. Một nhanh hơn. Nhanh hơn — phải. Phải chậm nhưng cùng. Cùng, không bỏ. Không bỏ vì thề mới. Thề mới: Sera không bỏ người.
+"Bốn mươi bảy," cô đếm. "Còn bốn mươi bảy."
 
-Cửa hông. Cửa gỗ. Gỗ hẹp. Hẹp, một người. Một người qua. Qua luân phiên. Luân phiên — Sera trước. Trước, kiểm tra. Kiểm tra: không lính canh. Không lính canh, an toàn. An toàn — Fenris qua.
+Không. Cô đếm lại. Bốn mươi sáu.
 
-Qua. Ngoài. Ngoài — đường hẻm. Hẻm tối. Tối, che. Che, không thấy. Không thấy, chạy.
+Lần đầu tiên từ đêm diệt môn, con số giảm.
 
-Chạy. Chạy ra khỏi hẻm. Ra đường lớn. Lớn có đèn. Đèn, lộ. Lộ — không. Không, đường khác. Khác — Fenris chỉ.
+Thệ Vang không gào nữa. Bốn mươi sáu mảnh còn lại không im — chúng lắng nghe. Chờ đợi. Như hàng người xếp hàng, mỗi người một câu chuyện, chờ đến lượt. Có mảnh sốt ruột, có mảnh kiên nhẫn, có mảnh đã chờ quá lâu đến mức không còn biết mình đang chờ gì. Nhưng không mảnh nào gào. Chúng đã thấy mảnh đầu tiên được nghe. Chúng biết cách vận hành.
 
-"Trái. Phố thương. Thương ban đêm vắng. Vắng, đi."
+Sera đặt tay lên chuôi. Kiếm không chống lại. Cô thở ra — hơi thở dài nhất từ ba ngày nay, hơi thở mang theo một phần gánh nặng vừa được trút bỏ.
 
-Sera đi trái. Phố thương. Cửa đóng. Đóng vì đêm. Đêm vắng. Vắng, im. Im, chỉ tiếng chân hai người. Vắng, hai người chạy. Chạy, không ai thấy. Thấy, bỏ qua. Bỏ qua vì thường dân. Thường dân không liên quan. Không liên quan, không lính canh. Không lính canh, an toàn.
+"Ba ngày," cô nói với chính mình. "Bốn mươi sáu mảnh. Ba ngày."
 
-Nửa giờ. Nửa giờ, ra khỏi khu trụ sở. Ra, xa. Xa, an toàn hơn. Hơn, thở. Thở, Fenris dừng. Dừng vì mệt. Mệt, ngồi. Ngồi dựa tường. Tường đá lạnh. Dựa, thở. Thở khò khè.
+Cô tính nhẩm. Nếu mỗi mảnh cần một lần chọn, một lần hiểu, một lần dẫn — ba ngày có thể đủ. Có thể không. Có những mảnh sẽ dễ hơn Jorin. Có những mảnh sẽ khó hơn nhiều. Có những mảnh mang theo bí mật mà người chết đã giấu đến hơi thở cuối cùng. Có những mảnh có thể không muốn được hoàn thành.
 
-"Tạm dừng," Fenris nói. "Năm phút. Năm — đủ. Đủ, đi tiếp."
+Bên ngoài hang, gió Bắc thổi qua đất cạn. Xa xa, trên con đường mòn, bụi phủ dấu vó ngựa cũ — không phải của cô. Ai đó đã đi qua đây. Gần đây. Dấu vó không sâu, không vội — một người đi chậm, hoặc một người biết mình không cần vội.
 
-Sera không ngồi. Đứng. Đứng canh. Canh, nhìn xung quanh. Xung quanh tối. Tối, yên. Yên, an toàn. An toàn — năm phút.
+Sera nhìn dấu vó. Rồi nhìn kiếm. Rồi nhìn lại dấu vó.
 
-Thệ Vang: rõ hơn khi cầm kiếm. Bốn mươi tám mảnh. Mảnh Aldric mới. Aldric — bếp trưởng. Bếp trưởng, thợ rèn. Thợ rèn, dạy. Dạy, còn. Còn trong kiếm. Trong kiếm — giọng Aldric. Giọng ông vang nhưng mờ — như tiếng từ dưới nước. Aldric nói gì? Không rõ. Không rõ vì quá nhiều. Nhiều, cần lọc. Lọc cần thời gian. Thời gian chưa có.
+"Mordren hoặc ta," cô nói. "Ai đến trước — quyết định."
 
-"Kiếm nặng hơn," Sera nói. Nói với Fenris. Fenris hiểu. Hiểu vì ông cũng thấy. Thấy qua cách Sera đứng. Đứng, vai lệch. Lệch vì nặng một bên. Một bên — kiếm.
-
-"Aldric," Fenris nói. "Ông chết. Chết, thề ước dồn. Dồn thêm. Thêm nên nặng. Nặng, cô chịu. Chịu, Linh Chủ gần."
-
-Linh Chủ. Tier 7. Sera đếm. Đếm khoảng cách. Linh Phong — Tier 6. Linh Chủ — Tier 7. Khoảng cách: một. Một — gần? Không. Không gần. Gần là cảm nhận. Cảm nhận ý chí đất đai. Đất đai — Linh Phong. Linh Phong — Sera đã đạt từ Arc 2. Lâu. Lâu mà chưa breakthrough. Chưa, cần. Cần điều gì?
-
-"Linh Chủ áp đặt ý chí," Fenris nói. "Ý chí lên không gian. Không gian hẹp. Hẹp, cô kiểm soát. Kiểm soát, cô quyết. Quyết: không gì vào. Không gì vào tức cấm. Cấm sinh lực. Lực ép. Ép — Linh Chủ."
-
-Sera nghe. Nghe và đếm. Đếm điều kiện. Điều kiện: tuyệt vọng. Tuyệt vọng tức không lối. Không lối, đè. Đè, ý chí bùng. Bùng — breakthrough. Breakthrough không chọn lúc. Lúc chọn khi đủ. Đủ: tuyệt vọng hoặc sáng tễ. Sáng tễ là hiểu. Hiểu — cô chưa. Tuyệt vọng — gần.
-
-Năm phút. Fenris đứng. Đứng, đi. Đi, tiếp. Tiếp, ra khỏi thành.
-
-Cửa thành. Cửa Tây. Tây — quen. Quen, Sera đi trước. Trước, không xe. Không xe nên không kiểm tra. Kiểm tra có lính canh. Lính canh một. Một ngủ. Ngủ, qua.
-
-Qua cửa Tây. Ngoài thành. Ngoài — gió. Gió Bắc. Bắc — khô. Khô, hút. Hút, mệt. Mệt, bỏ qua. Bỏ qua, tiếp tục.
-
-Sera và Fenris. Hai người. Hai — ít. Ít, nhanh. Nhanh, thoát. Thoát, xa Caelmyr. Xa, an toàn. An toàn đêm nay.
-
-Đêm nay, Sera thoát. Thoát, cầm kiếm. Cầm kiếm — bốn mươi tám mảnh. Bốn mươi tám, nặng. Nặng, cô mang. Mang, đi. Đi — tiếp tục.
+Cô nhắm mắt. Chọn giọng tiếp theo.

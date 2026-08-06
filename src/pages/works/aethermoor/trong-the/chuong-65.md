@@ -2,82 +2,24 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 65
 story: "/works/aethermoor/trong-the"
-total: 65
-title: "Chương 65: Lĩnh Vực"
+total: 66
+title: "Chương 65: Từng Mảnh"
 ---
 
-Sera chạy. Chạy trong Pale Frontier. Chạy, đầu đau. Đau vì Thệ Vang ồn. Ồn bốn mươi bảy mảnh. Bốn mươi bảy — tất cả. Tất cả cùng lúc. Lúc, không lọc được. Không lọc vì breakthrough quá mới. Mới, ý chí chưa ổn. Chưa ổn, lực tràn. Tràn, đau.
+Sera chạy trong Pale Frontier. Đầu nhức như có ai đóng đinh vào thái dương — Thệ Vang bốn mươi bảy mảnh cùng lúc, không lọc được. Đột phá quá mới, ý chí chưa ổn, lực tràn ra ngoài như nước vỡ đê. Linh Chủ — nhưng Linh Chủ mới, lãnh vực hỗn loạn vì bốn mươi bảy giọng nói trong đó, mỗi giọng một câu, không ai nghe ai. Có giọng gào, có giọng thì thào, có giọng khóc, có giọng đếm — đếm không dừng, một, hai, ba, bốn, như một người lính đếm ngày còn lại trước khi chết. Cô không biết giọng đó là ai, không biết họ đếm gì, nhưng con số cứ chạy trong đầu cô như mũi kim khâu da.
 
-Linh Chủ. Tier 7. Sera là Linh Chủ. Nhưng Linh Chủ mới. Mới, chưa kiểm soát. Kiểm soát bằng ý chí. Ý chí áp đặt lên không gian. Không gian, lãnh vực. Lãnh vực — Sera. Nhưng lãnh vực Sera hỗn loạn. Hỗn loạn vì Thệ Vang. Thệ Vang bốn mươi bảy. Bốn mươi bảy trong lãnh vực. Trong, ồn. Ồn, đau.
+Cô chạy thêm nửa dặm rồi dừng. Quỳ xuống, chống tay lên đất xám. Tám ngày không ngủ — cơ thể yêu cầu dừng, ý chí từ chối. Cô đếm nhịp thở, ép tim đập chậm lại. Không có ai canh giấc cho cô. Fenris ở lại phía sau, ho máu, phổi hỏng. Cô không nhìn lại — nhìn lại không đưa ông đến đây được. Ông đã nói gì trước khi cô rời đi? Không phải lời từ biệt. Ông chỉ nhìn cô, mắt đỏ ngầu, rồi gật đầu. Một cái gật. Đủ. Ông biết cô sẽ không quay lại, và ông không yêu cầu cô làm vậy. Cô mang theo cái gật đó trong xương ức, nặng hơn cả thanh kiếm bên hông.
 
-Chạy. Chạy đến Huyền Môn Cốt. Môn Cốt xa không xa. Xa hai giờ. Hai giờ, Sera chạy. Chạy, mệt. Mệt vì không ngủ tám ngày. Tám, nhiều. Nhiều, cơ thể yếu. Yếu, ý chí mạnh. Mạnh — Linh Chủ. Chủ, ý chí bù thể xác. Bù, không lâu. Không lâu, cần dừng. Dừng, chết. Chết — không.
+Phía trước, Huyền Môn Cốt hiện ra từ xa. Cổng lớn, ba người cao, đá đen không phản chiếu ánh sáng — hút sáng, hút Aether. Xung quanh đất không cỏ, cạn, khô như xương. Sera đứng cách cổng hai trăm sải, không tiến gần hơn. Cô không biết cổng này là gì, mở bằng cách nào, bên trong có gì. Chỉ biết một điều: nó hút Aether, và cô đang đứng trên vùng đất đã cạn kiệt. Cô có thể cảm nhận được sự hút đó — không phải bằng da, mà bằng lãnh vực của mình. Mỗi bước cô tiến gần, lãnh vực của cô bị kéo về phía cổng như nước bị rút xuống cống. Bốn mươi bảy mảnh Thệ Vang trong cô — chúng cũng cảm nhận được. Một số run lên, một số im bặt, một số thì thầm nhanh hơn, như thể chúng biết điều gì đó mà cô không biết.
 
-Huyền Môn Cốt. Sera thấy. Thấy từ xa. Xa một dặm. Dặm, cổng. Cổng lớn. Lớn ba người cao. Ba, đá đen. Đen không phản chiếu. Không phản chiếu vì hút sáng. Hút Aether. Aether chết. Chết xung quanh. Xung quanh, đất không cỏ. Không cỏ vì cạn. Cạn, Aether hút hết.
+Mordren sẽ đến. Hắn là Linh Vương, hơn cô hai bậc — cô không thắng nổi. Nhưng cô không cần thắng. Cô chỉ cần phá cổng trước khi hắn đến. Phá bằng gì? Thệ Thiết — kim loại thấm thề ước, năng lượng của bốn mươi bảy người chết. Nếu cô dẫn được tất cả cùng lúc, có thể đủ. Nhưng dẫn tất cả cùng lúc — ồn, đau, mất kiểm soát, điên, chết. Cô đã thử một lần, ngay sau khi đột phá, và hậu quả là ba giờ nôn ra máu, mắt mờ, không nhớ mình đã làm gì trong khoảng thời gian đó. Khi tỉnh lại, cô nằm sấp trên đất, kiếm cắm sâu xuống đất đến cán, và xung quanh cô là một vòng tròn đất cháy đen. Cô không biết mình đã làm điều đó bằng cách nào. Cô không muốn biết.
 
-Cổng. Huyền Môn Cốt. Môn Cốt đóng. Đóng, khóa. Khóa bằng di vật. Di vật thần cổ. Thần cổ kích hoạt. Kích hoạt, mở. Mở — Cái Chết Sâu. Cái Chết Sâu, lãnh vực. Lãnh vực Thần Chiến. Thần Chiến — thần chết. Chết — Titan.
+Cô ngồi xuống, kiếm ngang đùi. Nhắm mắt. Aldric dạy: im lặng, nghe một, hiểu, dẫn, lực, dùng. Một mỗi lần. Không phải tất cả. Cô nhớ bàn tay ông đặt lên vai cô trong ký ức — không phải lời nói, mà là cách ông đứng sau lưng cô, im lặng, chờ cô tự tìm ra. "Đừng nghe tất cả," ông từng nói. "Nghe một. Một người. Một thề. Đủ." Ông không giải thích thêm. Ông chưa bao giờ giải thích thêm. Ông chỉ đứng đó, và cô phải tự hiểu — hoặc không hiểu, và chết. Cô đã hiểu, nhưng chỉ sau khi ông chết. Có lẽ đó là cách ông dạy: đưa cô đến bờ vực, rồi để cô tự nhảy hoặc tự học bay.
 
-Mordren muốn mở. Mở để đánh thức. Thức Thần Đế. Thần Đế, quyền. Quyền — Mordren. Mordren không ở đây. Chưa. Chưa, Sera có thời gian. Thời gian ít. Ít, phá. Phá đóng vĩnh viễn. Vĩnh viễn — cách nào?
+Sera hít vào. Chọn một giọng trong bốn mươi bảy. Jorin — thầy dạy cô đọc địa hình. Giọng ông không nói lời nào, chỉ có một cảm giác: "Bên trái." Cô hiểu — không phải bằng tai, mà bằng xương. Jorin nợ mạng một người lính, chưa trả được thì chết. Trả nợ tức hoàn thành. Sera không phán xét — ông không vô tội, nhưng thề là thề. Cô dẫn năng lượng đó ra khỏi kiếm, qua tay, vào đất. Nhẹ. Kiếm nhẹ đi một phần — bốn mươi sáu còn lại. Cô cảm nhận được sự khác biệt ngay lập tức — không phải ở trọng lượng thực, mà ở áp lực trong đầu. Một giọng im. Một khoảng lặng nhỏ giữa bốn mươi bảy giọng nói. Cô giữ khoảng lặng đó trong vài giây, như giữ một hơi thở, trước khi nó bị lấp đầy bởi những giọng còn lại.
 
-Sera không biết. Không biết, đến gần. Gần, cảm nhận. Cảm nhận cổng. Cổng lạnh. Lạnh vì Aether hút. Hút sinh lực. Lực yếu. Yếu, Linh Chủ yếu. Yếu ở đây. Ở đây, Aether cạn. Cạn, lãnh vực không ổn. Không ổn, Thệ Vang ồn hơn.
+Cô mở mắt. Lãnh vực quanh cô — lần đầu tiên — không ồn. Bốn mươi sáu mảnh lắng nghe, chờ đợi. Cô đứng dậy, kiếm trong tay. Bên ngoài hang đất, gió Bắc thổi qua Pale Frontier. Mordren chưa đến — nhưng mỗi mảnh cô hoàn thành là một bước gần hơn đến cánh cổng, và mỗi ngày trôi qua là một bước gần hơn đến hắn. Cô có thể cảm nhận hắn ở đâu đó phía sau, di chuyển qua vùng đất chết, không vội, không chậm — hắn biết cô không thể đi xa hơn, và hắn có thời gian. Hắn luôn có thời gian. Đó là thứ cô không có.
 
-Ồn. Bốn mươi bảy mảnh. Tất cả. Sera đứng trước cổng. Đứng, đau. Đau đầu. Đầu, Thệ Vang. Thệ Vang bốn mươi bảy giọng. Giọng, lời. Lời, nghe. Nghe tất cả. Tất cả rõ. Rõ lần đầu tiên.
+Sera đếm. Từng mảnh. Từng thề. Từng ngày. Ba ngày — cô cần ba ngày. Cô không có ba ngày. Nhưng cô có bốn mươi sáu mảnh, và cô sẽ hoàn thành từng mảnh một, cho đến khi kiếm đủ nhẹ để phá cổng — hoặc cho đến khi Mordren đến. Cô không biết cái nào đến trước. Cô không nghĩ về điều đó. Nghĩ về điều đó là dừng lại, và dừng lại là chết.
 
-Mảnh một: Jorin. "Bên trái. Bao lấy bên trái. Rồi hoàn thành cho tôi. Tôi nợ hắn một mạng. Trả. Trả xong, tôi yên."
-
-Mảnh hai: không tên. "Quay về. Về nhà. Nhà còn. Còn, chờ. Chờ, tôi không đến. Không đến vì nợ. Nợ con tôi. Con, trả. Trả, hoàn thành."
-
-Mảnh ba: Aldric. "Lắng nghe. Nghe, hiểu. Hiểu, truyền. Truyền, xong. Xong, nhẹ. Nhẹ, tự do. Tự do, cô chọn. Chọn, đúng."
-
-Từng mảnh. Từng lời. Sera nghe. Nghe tất cả. Tất cả rõ chưa từng thấy. Rõ vì lãnh vực. Lãnh vực, ý chí. Ý chí — Sera. Sera, Linh Chủ. Chủ, áp đặt. Áp đặt lên Thệ Vang. Thệ Vang ồn. Ồn, cô buộc.
-
-Buộc bằng ý chí. Ý chí, lãnh vực. Lãnh vực nhỏ quanh cô. Nhỏ — năm bước. Năm bước, cô kiểm soát. Kiểm soát Thệ Vang. Thệ Vang yên dần. Dần, từng mảnh. Từng mảnh lắng. Lắng, nghe. Nghe, hiểu.
-
-Nhưng không kiểm soát hết. Hết, chưa. Chưa, lãnh vực chưa đủ lớn. Lớn cần thời gian. Thời gian không có. Không có, Mordren đến. Đến sớm. Sớm, phải phá cổng trước.
-
-Cổng. Sera đặt tay lên đá. Đá lạnh. Lạnh hút. Hút Aether trong cô. Cô yếu đi. Yếu, nhưng cảm nhận. Cảm nhận bên trong cổng. Bên trong — Aether cũ. Cũ, thần. Thần ngủ. Ngủ không chết. Không chết, tỉnh. Tỉnh, điên. Điên, hủy.
-
-Sera rút tay. Rút, lạnh theo. Theo, Aether hút. Hút nhiều. Nhiều, đau. Đau — không. Không, cần phá. Phá thế nào? Thệ Thiết? Thệ Thiết là kim loại. Kim loại chém đá? Đá thần cổ. Cổ, kiên. Kiên, Thệ Thiết không xuyên.
-
-Nhưng Thệ Thiết là thề ước. Thề ước, năng lượng. Năng lượng có thể phá. Phá cần đủ. Đủ — bốn mươi bảy mảnh. Bốn mươi bảy có. Có, dùng. Dùng thế nào? Thế nào — Sera chưa biết.
-
-Chưa biết, nghe. Nghe Thệ Vang. Thệ Vang bốn mươi bảy. Bốn mươi bảy, mỗi mảnh một năng lượng. Năng lượng chưa dùng hết. Chưa, vì chỉ nghe. Nghe chưa dẫn. Dẫn, dùng. Dùng, chiến đấu. Chiến đấu, Thệ Vang dẫn. Nhưng dẫn chỉ từng mảnh nhỏ. Nhỏ, không đủ phá cổng.
-
-Cần tất cả. Tất cả cùng lúc. Lúc, ồn. Ồn, đau. Đau, không kiểm soát. Không kiểm soát, điên. Điên, chết. Chết, không phá. Không phá, Mordren đến. Đến, mở. Mở, thần thức. Thức, hủy. Hủy — tất cả.
-
-Vòng. Vòng không lối. Lối cần kiểm soát Thệ Vang. Kiểm soát cần thời gian. Thời gian không có. Không có, cần cách khác. Khác — gì?
-
-Sera ngồi. Ngồi trước cổng. Kiếm ngang đùi. Nhắm mắt. Nhắm, yên. Yên, lắng. Lắng Thệ Vang. Thệ Vang bốn mươi bảy. Bốn mươi bảy, từng mảnh. Từng mảnh, nghe. Nghe, hiểu. Hiểu mỗi thề. Mỗi thề một năng lượng. Năng lượng có thể dẫn. Dẫn nếu kiểm soát. Kiểm soát, lãnh vực. Lãnh vực, ý chí. Ý chí — Sera. Sera, Linh Chủ. Chủ, áp đặt.
-
-Áp đặt lên Thệ Vang. Không — lên bản thân. Bản thân yên. Yên, Thệ Vang theo. Theo, không ồn. Không ồn, lắng từng mảnh. Từng mảnh, dẫn. Dẫn không tất cả. Một mỗi lần. Lần, Aldric dạy. Dạy im lặng. Im lặng, nghe một. Một, hiểu. Hiểu, dẫn. Dẫn, lực. Lực, dùng. Dùng, phá.
-
-Một mỗi lần. Nhưng cần tất cả. Tất cả, từng một. Từng một, chậm. Chậm, thời gian. Thời gian — không.
-
-Sera mở mắt. Mở, nhìn cổng. Cổng đứng. Đứng chờ. Chờ ai? Mordren. Hoặc Sera. Ai đến trước quyết định. Quyết định mở hoặc đóng. Đóng, Sera muốn. Muốn, cần cách. Cách chưa có. Chưa, tìm. Tìm, tiếp tục.
-
-Tiếp tục. Sera đứng. Đứng, đầu đau. Đau vì Thệ Vang ồn. Ồn vì chưa kiểm soát. Chưa, cần thực hành. Thực hành cần yên. Yên không ở đây. Ở đây, Pale Frontier, Aether cạn, không yên.
-
-Rời. Rời tìm nơi yên. Yên, thực hành. Thực hành, kiểm soát. Kiểm soát tất cả. Tất cả, phá cổng. Cổng đóng vĩnh viễn.
-
-Sera đi. Đi không xa cổng. Xa một dặm. Dặm, hang. Hang đất. Đất Aether cạn nhưng yên hơn. Yên hơn, đủ. Đủ, ngồi. Ngồi, nhắm mắt. Nhắm, nghe. Nghe bốn mươi bảy. Bốn mươi bảy, lọc. Lọc từng một. Một, hiểu. Hiểu, dẫn. Dẫn, lực. Lực, sử dụng. Dùng, kiểm soát thêm. Thêm, tiến. Tiến, tất cả. Tất cả, phá.
-
-Bắt đầu. Mảnh một. Jorin. "Bên trái." Sera nghe. Nghe, hiểu. Hiểu Jorin nợ mạng. Trả nợ tức hoàn thành. Hoàn thành, nhẹ. Nhẹ, mảnh biến. Biến — bốn mươi sáu. Bốn mươi sáu, tiếp. Tiếp — mảnh hai.
-
-Lần này Sera kiểm soát. Kiểm soát, lãnh vực. Lãnh vực nhỏ. Nhỏ quanh cô. Quanh, yên. Yên, nghe. Nghe từng mảnh. Từng mảnh, hoàn thành. Hoàn thành, nhẹ hơn. Nhẹ hơn, đi nhanh hơn. Nhanh hơn, Mordren chưa đến.
-
-Chưa đến, thời gian. Thời gian Sera cần. Cần mỗi mảnh. Mỗi mảnh mỗi thề. Mỗi thề mỗi người. Người đã chết. Chết, thề còn. Còn, Sera hoàn thành. Hoàn thành thề ước. Thề ước của người không vô tội. Không vô tội, thề vẫn thật. Thật, hoàn thành đúng. Đúng, Sera chọn. Chọn thề mới. Thề mới: hoàn thành thề cũ. Cũ, không phải vì Đoàn. Vì Sera.
-
-Vì Sera, vì cô chọn. Chọn thề mới. Thề mới, hoàn thành. Hoàn thành, tự do. Tự do, nhẹ. Nhẹ, kiếm không nặng. Không nặng, cô đặt xuống. Đặt xuống — cuối. Cuối chưa. Chưa, bốn mươi sáu còn.
-
-Sera ngồi trong hang. Hang tối. Tối, yên. Yên, Thệ Vang. Thệ Vang từng mảnh. Từng mảnh, nghe. Nghe, hiểu. Hiểu, dẫn. Dẫn, lực. Lực, lãnh vực. Lãnh vực — Sera. Sera, Linh Chủ. Chủ, kiểm soát.
-
-Kiểm soát. Lần đầu tiên lãnh vực ổn. Ổn, không ồn. Không ồn, Thệ Vang yên. Yên, bốn mươi sáu mảnh. Bốn mươi sáu lắng nghe. Lắng từng người. Từng người, từng thề. Từng thề, Sera hoàn thành.
-
-Bên ngoài: tiếng gió Bắc. Bắc, Pale Frontier. Frontier chờ. Chờ Mordren. Mordren đến. Đến, đối mặt. Đối mặt, Linh Chủ đối Linh Vương. Vương hơn hai. Hai, nhiều. Nhiều, Sera không thắng một. Nhưng Sera không cần thắng. Thắng tức phá cổng. Phá trước. Trước Mordren.
-
-Thời gian. Đếm. Đếm từng mảnh. Đếm từng thề. Đếm từng ngày. Ngày Sera cần. Cần ba ngày. Ba ngày hoàn thành thêm mảnh. Thêm, nhẹ hơn. Nhẹ, lãnh vực mạnh hơn. Mạnh hơn, cơ hội.
-
-Cơ hội. Sera đếm. Đếm tiếp.
-
----
-
-*→ [Chương 66–70](2b-ch66-70.md)*
+Cô ngồi xuống lần nữa. Nhắm mắt. Chọn giọng tiếp theo.

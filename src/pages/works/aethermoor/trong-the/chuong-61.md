@@ -2,8 +2,8 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 61
 story: "/works/aethermoor/trong-the"
-total: 65
-title: "Chương 61: Đêm Thứ Hai"
+total: 66
+title: "Chương 61: chapter-61"
 ---
 
 ← [Chương 56–60](2b-ch56-60.md)

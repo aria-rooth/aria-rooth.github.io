@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 12
 story: "/works/aethermoor/trong-the"
-total: 60
+total: 66
 title: "Chương 12: Bài Học Lắng Nghe"
 ---
 

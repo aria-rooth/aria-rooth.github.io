@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 11
 story: "/works/aethermoor/trong-the"
-total: 60
+total: 66
 title: "Chương 11: Cái Giá Của Việc Bỏ Xuống"
 ---
 

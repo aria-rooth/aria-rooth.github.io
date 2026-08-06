@@ -2,8 +2,8 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 6
 story: "/works/aethermoor/trong-the"
-total: 60
-title: "Chương 6: Giọng Nói Từ Thép"
+total: 66
+title: "Chương 6: chapter-06"
 ---
 
 Rừng hoang phía tây biến thành đất đá trống — kiểu địa hình mà người địa phương gọi là "bãi xương," vì không gì lớn mọc được ngoài cỏ gai và rêu đá. Sera dừng ở mép rừng, nơi cây cối nhường chỗ cho đá, và rút kiếm.

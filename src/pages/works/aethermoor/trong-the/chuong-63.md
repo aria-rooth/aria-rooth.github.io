@@ -2,78 +2,50 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 63
 story: "/works/aethermoor/trong-the"
-total: 65
-title: "Chương 63: Bốn Mươi Tăm"
+total: 66
+title: "Chương 63: Lắng Nghe"
 ---
 
-Ngoài Caelmyr. Rừng thưa. Thưa, che ít. Ít nên lộ. Lộ, đi ban đêm, ẩn ban ngày. Ngày nguy hiểm. Nguy hiểm vì Thẩm Vấn Giả đuổi. Đuổi không ngừng. Không ngừng, Sera không ngừng.
+Hang đất cách Huyền Môn Cốt một dặm. Sera ngồi xếp bằng trên nền đất khô, thanh kiếm đặt ngang đùi. Bốn mươi bảy mảnh Thệ Vang dồn ép trong đầu như bốn mươi bảy người nói chuyện trong phòng nhỏ, tiếng chồng lên nhau thành bức tường âm thanh. Cô đã khảo sát cổng, đã thấy đá đen hút sáng, đã rời đi tìm nơi yên tĩnh. Giờ là lúc học cách nghe.
 
-Fenris mệt. Mệt vì già. Già, lưng còng. Già, cần nghỉ. Nghỉ, nằm trên cỏ khô. Cỏ khô cào vào má. Nghỉ hai giờ. Hai giờ — đủ. Đủ, đi tiếp.
+Cô nhắm mắt. Nhớ lời Aldric — không phải giọng rõ, mà là âm thanh mờ như từ dưới nước, nhưng cô đã nghe đủ để thuộc: "Im lặng. Nghe một. Hiểu. Dẫn. Lực. Dùng."
 
-Sera ngồi. Ngồi đếm. Đếm Thệ Vang. Bốn mươi tám mảnh. Bốn mươi tám, nghe. Nghe tất cả. Tất cả cùng lúc. Cùng lúc — ồn. Ồn như tiếng của bốn mươi tám người đang nói cùng lúc trong phòng nhỏ. Ồn, đau đầu. Đầu đau nhưng đếm. Đếm từng mảnh.
+Sera buộc im bằng tay siết chuôi kiếm, ấn bằng ý chí. Bốn mươi bảy giọng gào, cô không nghe tất cả — chỉ nghe một. Mảnh Jorin. Giọng quen như mùi rỉ sắt từ lần đầu hắn ra lệnh: "Bên trái, bao lấy bên trái."
 
-Mảnh một: Jorin. "Bên trái. Bao lấy bên trái." Giọng quen. Quen như mùi rỉ sắt. Quen từ Arc 1. Arc 1 — đầu. Đầu, lần đầu nghe.
+Cô giữ lấy giọng đó, tách khỏi bốn mươi sáu giọng còn lại. Jorin — thầy dạy cô đọc địa hình, người đã kéo cô khỏi vũng lầy năm cô mười hai tuổi. Cô nghe tiếp, sâu hơn. Không phải mệnh lệnh — là câu chuyện. Jorin nợ một mạng. Một người lính trẻ, một trận phục kích, hắn chọn cứu mình thay vì cứu đồng đội. Món nợ đó chưa trả. Hắn sống với nó, dạy người khác cách sống, nhưng nợ vẫn còn.
 
-Mảnh hai: người không tên. Hứa quay về. Về gia đình. Gia đình — không. Không, vì nhiệm vụ chưa xong.
+Sera hiểu. Không phán xét — ghi nhận. Thề ước của người không vô tội. Thật. Đúng.
 
-Mảnh ba: Aldric. Mảnh mới. Nặng nhất. Nặng như nỗi nhớ ông ngày đầu tiên. Aldric — bếp trưởng. Bếp trưởng, thợ rèn. Thợ rèn, dạy. Dạy lắng nghe. Lắng nghe, bài học. Bài học chưa xong. Chưa xong — Aldric nói gì? "Thệ Thiết không phân biệt." Phân biệt đúng sai. Thép không biết đúng sai. Biết hoàn thành. Hoàn thành, nhẹ. Nhẹ — tự do.
+Cô dẫn giọng Jorin về phía món nợ, dùng lực đẩy nó về điểm cuối. "Trả." — một từ, không hơn. Mảnh vỡ tan như sương trước bình minh. Bốn mươi sáu giọng còn lại — không gào nữa, chúng lắng nghe.
 
-Sera đếm tiếp. Mảnh bốn. Năm. Sáu. Mỗi mảnh một giọng. Mỗi giọng một thề. Mỗi thề một gánh. Gánh nặng. Nặng — bốn mươi tám. Bốn mươi tám như cây. Cây sắp gãy. Gãy — không. Không, vì Sera giữ. Giữ bằng hai tay. Giữ vì còn sống. Sống, mang. Mang, đi. Đi, không gãy.
+Sera mở mắt. Lãnh vực quanh cô yên lặng lần đầu tiên. Không ồn, không ép, không đau. Cô đặt kiếm lên bàn tay mở — nhẹ hơn. Không nhiều, nhưng đo được. Bốn mươi bảy thành bốn mươi sáu. Kiếm không nặng. Đặt xuống — cuối. Chưa. Bốn mươi sáu còn.
 
-Nhưng Thệ Vang giờ khác. Khác vì quá mạnh. Mạnh, cô không lọc. Lọc cần yên. Yên không có. Không có, vì chạy trốn. Chạy trốn, Thệ Vang ồn. Ồn, chậm. Chậm, không chiến đấu. Không chiến đấu, không sống.
+Cô nhớ lại giọng Aldric — giờ rõ hơn một chút, không còn chìm dưới nước. "Thép không biết phân biệt đúng sai. Thép chỉ biết hoàn thành. Xong, nhẹ." Ông đã dạy đúng. Kỹ thuật có thật.
 
-Fenris quan sát. Quan sát Sera. Sera nhắm mắt. Mặt cô nhăn. Đau. Nhắm, nghe. Nghe Thệ Vang. Thệ Vang — bốn mươi tám. Bốn mươi tám — quá nhiều.
+Sera đếm thời gian. Ba ngày cho bốn mươi sáu mảnh — nếu mỗi mảnh nhanh như Jorin. Nhưng Jorin là người cô biết rõ nhất. Những mảnh khác sẽ chậm hơn. Mordren có thể đến bất cứ lúc nào — Linh Vương, hơn cô hai bậc, cô không thắng nổi. Chỉ có thể phá cổng trước. Ai đến trước quyết định.
 
-"Cô cần kiểm soát," Fenris nói. "Không kiểm soát, điên. Điên, chết. Chết, không hoàn thành."
+Cô nhìn về phía Huyền Môn Cốt qua khe đá. Cổng lớn ba người cao, đá đen không phản chiếu, hút sáng, hút Aether. Đất xung quanh cạn. Bên trong — Thần Đế ngủ, tỉnh là điên, là hủy diệt. Mordren muốn mở. Cô phải đóng vĩnh viễn.
 
-Sera mở mắt. "Kiểm soát thế nào?"
+Sera nhắm mắt, chọn giọng tiếp theo. Bốn mươi sáu mảnh lắng nghe, chờ cô. Cô không biết hoàn thành tất cả sẽ làm gì với kiếm — và với chính cô. Một cảm giác mơ hồ: có thứ gì đó sẽ kết thúc. Không rõ là gì. Cô ghi nhận và tiếp tục.
 
-"Như Aldric dạy. Dạy lọc. Lọc từng một. Một mỗi lần. Lần chậm. Chậm, hiểu. Hiểu, kiểm soát. Kiểm soát tất cả. Nhưng tất cả không cùng lúc. Cùng lúc — chết."
+Jorin nói "bên trái" — bên trái của cái gì? Cô chưa biết. Nhưng khi đến Huyền Môn Cốt, cô sẽ biết.
 
-Một mỗi lần. Sera nghe. Nghe, đúng. Đúng, Aldric cũng dạy. Dạy im lặng. Im lặng, nghe một. Một, rõ. Rõ, hiểu. Hiểu, hoàn thành.
+---
 
-Sera nhắm mắt. Nhắm, im. Im, đầu ồn. Ồn — bốn mươi tám. Bốn mươi tám dồn. Dồn, không im. Không im, cô buộc. Buộc, nghiến răng. Nghiến, ngừng. Ngừng, không nghe tất cả. Nghe một.
+Cô chọn mảnh thứ hai — một người phụ nữ tên Veyra, giọng khàn như cát lẫn vào gió. Veyra là lính canh ở pháo đài phía đông, người đã dạy cô cách đứng gác trong đêm dài không ngủ. Giọng bà không ra lệnh, không kể chuyện — chỉ lặp đi lặp lại một câu hỏi: "Ai canh chừng kẻ canh chừng?" Sera từng nghĩ đó là câu hỏi triết lý, một trò chơi của người già. Nhưng khi nghe sâu hơn, cô thấy sự thật: Veyra đã ngủ gật trong một đêm canh gác, và kẻ địch đã lẻn qua. Không ai chết, nhưng bà không bao giờ tha thứ cho chính mình. Bà đã canh chừng suốt ba mươi năm sau đó, không ngủ trọn một đêm nào, như thể tự trừng phạt mình bằng chính sự tỉnh táo.
 
-Một. Mảnh Aldric. Aldric gần nhất. Gần vì mới. Mới nên mạnh nhất. Mạnh, ồn nhất. Ồn, cô buộc im. Buộc bằng tay. Tay siết chuôi kiếm. Tay giữ kiếm. Giữ, ấn. Ấn bằng ý chí. Ý chí — im.
+Sera giữ giọng đó, không phán xét, chỉ ghi nhận. Bà đã canh chừng — nhưng không ai canh chừng bà. Đó là món nợ không ai đòi, nhưng bà tự đòi mình. Sera dẫn giọng Veyra về phía câu hỏi, dùng lực đẩy nó về điểm cuối. "Đã có người canh." — một câu, không hơn. Mảnh vỡ tan, không phải như sương — như một hơi thở dài được thả ra sau ba mươi năm giữ. Bốn mươi lăm giọng còn lại — chúng không chỉ lắng nghe, chúng bắt đầu phân loại nhau, như thể chờ đợi đến lượt.
 
-Im. Lâu. Rồi — Aldric dịu. Dịu, một giọng. Giọng rõ. Rõ như ông đang ngồi cạnh cô bên bếp lò. Rõ — Aldric nói. Nói gì? "Thế nào, cô Voss? Lần này cô nghe được không?"
+Sera mở mắt, nhìn bàn tay mình. Kiếm nhẹ thêm một chút — không nhiều, nhưng cô bắt đầu nhận ra quy luật. Mỗi mảnh vỡ không chỉ là một lời thề chưa trả, mà là một cách sống đã chọn. Jorin chọn sống với nợ. Veyra chọn sống với trừng phạt. Cô không cần hiểu tất cả — chỉ cần dẫn chúng về điểm cuối.
 
-Giọng bếp trưởng. Bếp trưởng bốn năm nấu. Nấu tối. Tối, ngồi góc. Góc, dọn. Dọn sau mọi người. Sau, cô ăn nhanh. Nhanh, không nói. Không nói, chỉ ăn. Ăn, Aldric nhìn. Nhìn mà không nói. Nhưng nhìn. Nhìn như người cha nhìn con lạc loài.
+Cô đứng dậy, duỗi chân. Đất khô dưới bàn chân, gió từ phía Huyền Môn Cốt thổi tới mang theo mùi đá nứt và kim loại cũ. Cô đi vòng quanh hang đất, kiểm tra xung quanh — không dấu chân lạ, không dấu hiệu của Mordren. Chưa ai đến. Cô có thời gian, nhưng không nhiều.
 
-Sera nghe. Lần đầu nghe Aldric rõ. Rõ — không phải nhiệm vụ. Không phải thề. Aldric là bếp trưởng. Bếp trưởng, thợ rèn. Thợ rèn, dạy. Dạy — thề ước. Thề ước Aldric là dạy cô. Dạy cô lắng nghe. Lắng nghe — thề của ông. Thề truyền. Truyền xong. Xong, Aldric nhẹ. Nhẹ, mảnh biến. Biến như sương trước bình minh.
+Cô ngồi xuống lần nữa, chọn mảnh thứ ba — một người đàn ông tên Kael, giọng trẻ, gần như là một đứa trẻ. Kael là học trò của cô, người cô đã dạy cách cầm kiếm khi hắn mười lăm tuổi. Hắn chết trẻ, trong một trận chiến mà cô không có mặt. Giọng hắn không nói gì — chỉ là một hình ảnh: một bàn tay đưa ra, không ai nắm lấy. Sera hiểu. Hắn đã chết một mình, và điều duy nhất hắn muốn là một bàn tay. Không phải cứu mạng — chỉ là một bàn tay.
 
-Không. Chưa biến. Chưa hoàn thành. Hoàn thành khi Sera lắng nghe được. Được, Aldric yên. Yên, nhẹ một. Một — còn bốn mươi bảy.
+Cô dẫn giọng Kael về phía hình ảnh đó, dùng lực đẩy nó về điểm cuối. "Có người nắm." — cô nói, và trong khoảnh khắc, cô cảm thấy bàn tay mình siết chặt chuôi kiếm như thể đang nắm lấy bàn tay hắn. Mảnh vỡ tan — không phải sương, không phải hơi thở — mà là một tiếng thở dài nhẹ nhõm của một đứa trẻ cuối cùng cũng được ngủ. Bốn mươi bốn giọng còn lại — chúng im lặng hơn, như thể đang học cách chờ đợi.
 
-Bốn mươi bảy vẫn nặng. Nhưng nhẹ hơn. Hơn một. Một — đủ để đi. Đi, tiếp.
+Sera mở mắt, nhận ra mình đang khóc. Không phải vì buồn — vì nhẹ. Cô lau mặt, nhìn kiếm. Nó không còn là một vật nặng trên đùi — nó bắt đầu trở thành một phần của cô, như thể mỗi mảnh vỡ tan đi là một lớp vỏ bong ra, để lộ ra thứ gì đó bên dưới. Cô chưa biết thứ đó là gì. Nhưng cô không sợ.
 
-"Xong một," Sera nói.
+Cô nhìn về phía Huyền Môn Cốt lần nữa. Cổng đá đen vẫn đứng đó, hút sáng, hút Aether, hút mọi thứ. Nhưng giờ cô nhìn nó với một cảm giác khác — không phải sợ hãi, không phải khẩn trương — mà là một sự hiểu biết lặng lẽ. Cô sẽ đến đó. Cô sẽ đóng cổng. Và trước khi làm điều đó, cô sẽ trả hết bốn mươi bốn món nợ còn lại — không phải vì chúng cần được trả, mà vì cô cần học cách lắng nghe.
 
-Fenris gật. "Một mỗi lần. Lần cần thời gian. Thời gian lâu. Lâu không cần tất cả. Cần đủ để đi. Đi để sống. Sống, tiếp tục."
-
-Tiếp tục. Sera đứng. Đứng, đi. Đi, Fenris theo. Theo, hai người. Hai — ít nhưng đủ. Đủ, tiếp tục.
-
-Hướng: Pale Frontier. Pale Frontier — Huyền Môn Cốt. Huyền Môn Cốt — Dự Án. Dự Án, phá. Phá để thần không đánh thức. Không đánh thức, an toàn. An toàn — tất cả.
-
-Fenris ngồi. Ngồi nghỉ. Nghỉ, không ngủ. Ngủ, Thệ Vang ồn. Ồn, không ngủ được. Nhưng Fenris mệt. Mệt, mắt nhấp nhô. Nhấp nhô gần ngủ. Gần, Sera nói.
-
-"Nghỉ. Tôi canh."
-
-Fenris gật. Gật, nằm. Nằm, ngủ. Ngủ, hơi thở đều. Đều, yên. Yên, Fenris tin Sera. Tin vì cùng thoát. Thoát, cùng đi. Đi, cùng sống. Sống, Sera canh.
-
-Canh. Sera ngồi. Ngồi đếm. Đếm sao. Sao nhiều. Nhiều vì đêm Pale Frontier. Frontier không mây. Không mây, sao rõ. Rõ hàng ngàn. Ngàn, Sera không đếm hết. Không hết, đếm vài. Vài — đủ. Đủ để biết đêm dài bao lâu.
-
-Thệ Vang trong đêm: yên hơn ban ngày. Yên vì không đuổi. Không đuổi, không cảnh báo. Không cảnh báo, an toàn tạm. Tạm đêm nay. Mai, tiếp tục.
-
-Mảnh Aldric. Mảnh mới hoàn thành. Hoàn thành, nhẹ nhất. Nhất — còn bốn mươi bảy. Bốn mươi bảy vẫn nặng. Nhưng nhẹ hơn trước. Trước: bốn mươi tám. Bốn mươi bảy — một ít. Ít, đủ để đi. Đi, tiếp.
-
-Tất cả. Từ nặng. Nặng hơn bốn mươi tám. Bốn mươi tám là người chết. Tất cả là người sống. Sống — Lira. Lira đâu? Không biết. Không biết, lo. Lo, tính. Tính xấu nhất. Xấu nhất: Lira bị bắt. Bắt, cần cứu. Cứu — sau. Sau — Pale Frontier.
-
-Sera nhìn Fenris ngủ. Già. Mệt. Ho máu. Máu từ phổi hỏng. Hỏng, không còn lâu. Không lâu, Sera cần nhanh. Nhanh, Fenris không theo kịp. Không kịp — bỏ? Bỏ, thề mới cấm. Cấm, Sera không bỏ người. Nhưng không bỏ thì chậm. Chậm, chết cả hai. Cả hai — không. Không, phải lựa chọn. Lựa chọn, Fenris biết. Biết, sẽ nói. Nói khi đến lúc.
-
-Sera canh. Canh đến sáng. Sáng, Fenris dậy. Dậy, đi. Đi, tiếp.
-
-Sera đi. Đi về phía Bắc. Bắc — Pale Frontier. Pale Frontier xa. Xa, nhiều ngày. Nhiều ngày, nhiều Thệ Vang. Nhiều Thệ Vang, đau. Đau, chịu. Chịu, đi. Đi, sống.
-
-Fenris theo. Theo, chậm. Chậm, mỗi ngày chậm hơn. Hơn, ho nhiều hơn. Máu nhiều hơn. Mệt nhiều hơn. Nhưng đi. Đi, Fenris không bỏ. Không bỏ, Sera cũng không. Không, cùng đi. Cùng đi, chậm. Chậm, xa. Xa — Pale Frontier.
-
-Trên đường: dấu chân. Dấu chân cũ. Cũ, Thẩm Vấn Giả. Giả tuần tra. Tuần tra trước. Trước khi Sera đến. Đến, chúng có thể còn. Còn, cẩn thận. Thận, đi ngoài đường. Ngoài đường, chậm hơn. Chậm hơn, an toàn. An toàn, sống.
+Cô nhắm mắt, chọn mảnh thứ tư. Bốn mươi bốn giọng lắng nghe, chờ cô. Và lần đầu tiên, Sera không cảm thấy bị ép — cô cảm thấy được chờ đợi.

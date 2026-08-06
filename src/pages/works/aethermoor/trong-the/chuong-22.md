@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 22
 story: "/works/aethermoor/trong-the"
-total: 60
+total: 66
 title: "Chương 22: Quy Tắc Của Lira"
 ---
 

@@ -2,72 +2,44 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 64
 story: "/works/aethermoor/trong-the"
-total: 65
-title: "Chương 64: Tuyệt Vọng"
+total: 66
+title: "Chương 64: chapter-64"
 ---
 
-Sáu ngày sau khi thoát. Sáu ngày đi. Đi không ngừng. Không ngừng vì Thẩm Vấn Giả gần. Gần, cảm nhận. Cảm nhận bằng Thệ Vang. Thệ Vang cảnh báo. Cảnh báo, chạy. Chạy, Fenris không. Không, vì già. Già, chậm. Chậm, bắt. Bắt — chưa. Chưa.
+Sáu ngày sau khi thoát, Sera đi không ngừng. Thẩm Vấn Giả gần — cô cảm nhận được họ qua Thệ Vang, một áp lực mơ hồ phía sau lưng tăng dần mỗi ngày. Fenris không chạy được. Già, chậm, bị đuổi kịp — chưa, nhưng gần hơn mỗi ngày.
 
-Nhưng gần. Gần hơn mỗi ngày. Mỗi ngày một đuổi. Đuổi không phải đuổi bắt. Đuổi kiên nhẫn. Kiên nhẫn — Mordren. Mordren không vội. Không vội vì biết Sera đi đâu. Đi đâu — Pale Frontier. Pale Frontier, Mordren cũng đến. Đến trước. Trước, chờ. Chờ, bẫy. Bẫy — chết.
+Fenris hiểu ra khi nhìn dấu chân trên đường. "Nó không đuổi mình đâu," ông nói, giọng khàn vì ho. "Nó đi trước rồi. Chọn sẵn chỗ chờ." Sera biết. Không đổi hướng — Pale Frontier là Huyền Môn Cốt, phải phá trước Mordren. Thời gian không còn.
 
-Fenris biết. Biết, nói. "Hắn đuổi không phải bắt. Đuổi để đợi. Đợi cô đến Pale Frontier. Frontier, hắn chọn sân. Chọn sân tức lợi thế. Lợi thế, hắn thắng."
+Ngày thứ bảy, Fenris ho ra máu. Máu chảy từ miệng xuống cằm, nhỏ giọt onto đất xám. Ông ngồi xuống vệ đường, lau máu bằng tay áo, nhìn vết đỏ trên vải. Phổi hỏng. Tuổi sáu mươi không chịu được nữa. Đi chậm hơn. Bị đuổi kịp — chết.
 
-Sera biết. Biết, không đổi hướng. Không đổi vì sao? Vì Pale Frontier là Huyền Môn Cốt. Môn Cốt phải phá. Phá trước Mordren. Trước, thời gian. Thời gian — không còn.
+"Fenris," Sera dừng lại, "ông không đi tiếp được nữa."
 
-Bảy ngày. Fenris ho. Ho ra máu. Máu từ phổi. Phổi hỏng vì tuổi. Tuổi sáu mươi. Sáu mươi, không chịu được nữa. Nữa, đi chậm hơn. Chậm hơn, bị đuổi kịp. Kịp, chết. Chết — Fenris.
+Fenris ngồi im một lúc, nhìn ra cánh đồng cỏ thưa. Gió thổi nhẹ, cỏ nghiêng về một hướng. Ông nói, giọng bình thản của người đã nghĩ kỹ: "Tôi biết. Già rồi. Nhưng cháu phải đi. Đừng chờ tôi — chờ thì chết cả hai."
 
-"Fenris." Sera dừng. "Cô không thể đi tiếp."
+Sera im. Không bỏ — thề mới cấm bỏ người. Nhưng Fenris nói đúng. Cô đi một mình, nhanh, kịp, phá, sống. Fenris nhìn cô: "Cháu đi đi. Tôi nằm đây nghỉ. Chúng nó có bắt cũng chẳng moi được gì — tôi biết có mỗi cách nấu cơm với rèn dao."
 
-Fenris gật. "Tôi biết. Biết vì tuổi. Tuổi, không. Nhưng cô đi. Đi, không chờ. Chờ, chết cả hai. Cả hai — không. Không, cô đi một."
+Sera nhìn Fenris. Già, mệt, ho máu ướt tay đỏ. Không còn lâu. Cô gật, không nói. Đi một mình — quen rồi, từ Arc 1.
 
-Sera im. Im, nghĩ. Nghĩ: không bỏ. Không bỏ vì thề mới. Thề mới, Sera không bỏ người. Nhưng Fenris nói đúng. Đúng, cô đi một. Một, nhanh. Nhanh, kịp. Kịp, phá. Phá, sống.
+Đi không ngoái. Fenris không muốn nhìn, nhìn thì đau, đau thì chậm. Một mình, Thệ Vang ồn hơn — bốn mươi bảy mảnh không còn Aldric, hoàn thành nhẹ nhất nhưng vẫn nặng.
 
-"Đi," Fenris nói. "Đi, tôi nghỉ. Nghỉ, chờ. Chờ, không chết. Chết nếu họ bắt. Bắt, tôi nói. Nói những gì tôi biết. Biết không nhiều. Không nhiều, an toàn. An toàn, cô đi."
+Đi nửa ngày. Rồi cả ngày. Đêm không ngủ vì Thệ Vang ồn hơn khi một mình, không yên, không lọc, đau. Ngày thứ tám đến biên giới Pale Frontier — đất đổi màu, cỏ thưa dần, mặt đất xám như tro. Di tích Thần Chiến — vết thương tám trăm năm không lành. Aether cạn, cây cối chết, chỉ còn đất và gió.
 
-Sera nhìn Fenris. Fenris già. Già, mệt. Mệt, ho máu. Máu ướt tay. Ướt, đỏ. Đỏ nhiều. Nhiều — không còn lâu.
+Pale Frontier lạnh — không phải lạnh tự nhiên, là lạnh vì Aether chết hút sinh lực. Linh Phong yếu hơn, Thệ Vang ồn hơn, đau. Đi tiếp. Hai giờ, ba giờ, bốn giờ. Mệt vì không ngủ bảy ngày, không ăn, chân run. Đi, ngã, đứng, đi tiếp.
 
-"Cô đi." Fenris nói lần nữa. Giọng bình. Bình, người già. Người già không sợ chết. Không sợ vì sống đủ. Đủ ba mươi năm. Ba mươi năm phục vụ. Phục vụ sai. Sai, biết. Biết, sửa. Sửa bằng cách giúp Sera. Giúp — đủ. Đủ, Fenris yên.
+Tiếng chân phía sau. Nhiều — Thẩm Vấn Giả đuổi kịp. Không tránh. Đối mặt — một mình, yếu vì mệt, không chiến đấu, chết. Sera quay, rút kiếm. Thệ Thiết nặng, bốn mươi bảy mảnh ồn, đau, không tập trung. Mười hai người. Dẫn đầu: Linh Chủ, hơn Sera một bậc. Nhiều — Sera Linh Phong yếu hơn, không thắng. Chạy không, bị bao bốn phía, không lối.
 
-Sera gật. Gật, không nói. Nói không cần. Không cần, hành động. Hành động, đi. Đi một mình. Một mình — quen. Quen từ Arc 1.
+Tuyệt vọng. Fenris nói tuyệt vọng sinh đột phá — Linh Chủ, áp đặt ý chí lên không gian hẹp, kiểm soát. Nhưng chưa đủ. Tuyệt vọng thật sự — không lối. Đây.
 
-Sera đi. Đi không ngoái. Không ngoái vì Fenris không muốn. Không muốn nhìn, vì nhìn thì đau. Đau, chậm. Chậm — không.
+Sera đứng, kiếm trước mặt. Mười hai người bao. Linh Chủ bước tới: "Giao kiếm ra. Thống Lĩnh muốn cô sống."
 
-Một mình. Thệ Vang: ồn. Bốn mươi bảy mảnh. Bốn mươi bảy, không còn Aldric. Aldric hoàn thành. Hoàn thành, nhẹ nhất. Nhất, vẫn nặng. Nặng bốn mươi bảy người. Người không biết hết. Không hết vì chưa nghe. Chưa nghe, chưa hoàn thành.
+Sera không giao. Đánh — một mình, chết. Không hoàn thành. Bốn mươi bảy mảnh, bốn mươi bảy người chết mang thề phải hoàn thành. Không chết ở đây.
 
-Đi. Đi nửa ngày. Đi cả ngày. Đêm, không ngủ. Không ngủ vì Thệ Vang ồn hơn. Ồn hơn khi một mình. Một mình, không yên. Không yên, không lọc. Không lọc, đau.
+Thệ Vang — bốn mươi bảy giọng cùng lúc. Lần đầu tiên tất cả rõ. Không ồn — yên lạ, vì không bao giờ yên. Tất cả cùng nói một lời — không phải lời, là cảm giác: sống, không bỏ, chiến đấu.
 
-Ngày thứ tám. Sera đến biên giới Pale Frontier. Biên giới, đất đổi. Đổi: cỏ thưa. Thưa, đất xám. Xám, chết. Chết vì đất không sống. Không sống vì Aether cạn. Cạn, di tích thần. Thần Chiến. Chiến, vết thương. Vết thương không lành. Không lành tám trăm năm. Tám trăm năm — lâu. Lâu mà vẫn đau.
+Ý chí từ sâu hơn Thệ Vang, sâu hơn bốn mươi bảy — Sera. Thề mới không trong kiếm, trong cô. Ý chí áp đặt lên không gian hẹp quanh Sera năm bước — lãnh vực nhỏ, không gì vào được, cấm, sinh lực ép. Linh Chủ. Sera là Linh Chủ — đột phá trong tuyệt vọng. Điều kiện đủ.
 
-Pale Frontier. Sera bước vào. Vào, lạnh. Lạnh không tự nhiên. Không tự nhiên vì Aether chết. Chết, hút. Hút sinh lực. Lực yếu. Yếu, Linh Phong yếu hơn. Yếu hơn, Thệ Vang ồn hơn. Ồn hơn, đau. Đau, đi tiếp.
+Không gian quanh Sera đặc, nặng. Lực ép — mười hai người lùi vì sợ. Ý chí cô mạnh hơn. Linh Chủ mới, chưa ổn, lực chảy ồn, đau đầu — vẫn đánh. Sera tiến, kiếm chém. Thệ Vang dẫn bốn mươi bảy mảnh cùng hướng — tên gần nhất chém trúng, ngã. Mười một còn.
 
-Đi tiếp. Hai giờ. Ba giờ. Bốn giờ. Mệt. Mệt vì không ngủ bảy ngày. Bảy ngày đi. Đi, chạy. Chạy, không ăn. Không ăn, yếu. Yếu, chân run. Run, đi. Đi, ngã. Ngã, đứng. Đứng, đi tiếp.
+Mười một lùi. Linh Chủ đối diện — ngã, chết. Sera không tiếc — bốn mươi bảy đòi công bằng. Hai tên ngã, ba bốn — đủ. Lùi vì sợ Sera mạnh hơn. Linh Chủ mới, ý chí ép không tiến. Sera tiến, thoát bẫy.
 
-Tiếng chân. Nhiều. Phía sau. Phía sau — Thẩm Vấn Giả. Đuổi kịp. Kịp, không tránh. Không tránh, đối mặt. Đối mặt một mình. Một mình, yếu. Yếu vì mệt. Mệt, không chiến đấu. Không chiến đấu, chết.
-
-Sera quay. Quay, rút kiếm. Kiếm — Thệ Thiết. Thệ Thiết nặng. Nặng bốn mươi bảy. Bốn mươi bảy ồn. Ồn, đau. Đau, không tập trung. Không tập trung, đánh không tốt. Không tốt, chết.
-
-Mười hai người. Dẫn đầu: Linh Chủ. Linh Chủ — Tier 7. Tier 7, hơn Sera một. Một, nhiều. Nhiều vì Sera Linh Phong. Phong yếu hơn. Yếu hơn, không thắng. Không thắng, chạy. Chạy — không. Không, vì bị bao.
-
-Bao. Bốn phía. Bốn phía, không lối. Không lối tức tuyệt vọng. Tuyệt vọng — Fenris nói. Fenris nói tuyệt vọng sinh breakthrough. Breakthrough — Linh Chủ. Linh Chủ áp đặt ý chí. Ý chí lên không gian. Không gian hẹp. Hẹp, kiểm soát.
-
-Nhưng chưa. Chưa đủ. Đủ cần tuyệt vọng thật sự. Thật sự tức không lối. Không lối — đây. Đây, tuyệt vọng.
-
-Sera đứng. Kiếm trước mặt. Mười hai người bao. Linh Chủ bước tới. "Giao kiếm. Thống Lĩnh muốn cô sống."
-
-Sera không giao. Không giao, đánh. Đánh một mình, chết. Chết, không hoàn thành. Không hoàn thành, bốn mươi bảy mảnh. Bốn mươi bảy người chết. Người chết mang thề. Thề phải hoàn thành. Hoàn thành, không chết ở đây.
-
-Thệ Vang. Bốn mươi bảy giọng. Cùng lúc. Lần đầu tiên tất cả rõ. Rõ, không ồn. Không ồn — yên. Yên, lạ. Lạ vì không bao giờ yên. Yên vì tất cả cùng nói một lời. Một lời không phải lời. Là cảm giác. Cảm giác sống. Sống, không bỏ. Không bỏ, chiến đấu. Chiến đấu, sống.
-
-Ý chí. Từ sâu. Sâu hơn Thệ Vang. Sâu hơn bốn mươi bảy. Sâu — Sera. Sera, thề mới. Thề mới không trong kiếm. Trong cô. Cô, ý chí. Ý chí áp đặt. Áp đặt lên không gian. Không gian hẹp. Hẹp quanh Sera. Quanh — năm bước. Năm bước, lãnh vực nhỏ. Nhỏ, ý chí cô. Cô quyết. Quyết: không gì vào. Không gì vào tức cấm. Cấm sinh lực. Lực ép. Ép — Linh Chủ.
-
-Linh Chủ. Sera là Linh Chủ. Tier 7. Breakthrough. Trong tuyệt vọng. Tuyệt vọng là điều kiện. Điều kiện đủ. Đủ — bây giờ.
-
-Không gian quanh Sera đặc. Đặc, nặng. Nặng sinh lực. Lực ép. Ép mười hai người lùi. Lùi vì sợ. Sợ vì ý chí cô mạnh hơn. Hơn — Linh Chủ mới. Mới, chưa ổn. Không ổn, lực chảy. Chảy ồn. Ồn, đầu đau. Đau, vẫn đánh.
-
-Sera tiến. Tiến, kiếm chém. Chém, Thệ Vang dẫn. Dẫn bốn mươi bảy mảnh cùng hướng. Hướng tên gần nhất. Gần, chém. Chém trúng. Trúng, ngã. Ngã một. Một — mười một còn.
-
-Mười một lùi. Lùi vì Linh Chủ đối diện ngã. Ngã, chết. Chết, Sera không tiếc. Không tiếc vì bốn mươi bảy. Bốn mươi bảy đòi. Đòi công bằng. Công bằng, đánh. Đánh, sống.
-
-Hai tên ngã. Ba. Bốn. Bốn — đủ. Đủ, còn lùi. Lùi vì sợ. Sợ, Sera mạnh hơn. Hơn — Linh Chủ mới. Mới, ý chí. Ý chí ép. Ép, họ không tiến. Không tiến, Sera tiến. Tiến, thoát bẫy. Thoát, sống.
-
-Sống. Nhưng đầu đau. Đau vì breakthrough. Breakthrough chưa ổn. Không ổn, lực tràn. Tràn, không kiểm soát. Không kiểm soát, Thệ Vang ồn lại. Ồn bốn mươi bảy. Bốn mươi bảy cùng lúc. Lúc, đau. Đau, chạy. Chạy không dừng. Không dừng, đến Huyền Môn Cốt.
+Sống. Nhưng đầu đau — đột phá chưa ổn, lực tràn, không kiểm soát. Thệ Vang ồn lại, bốn mươi bảy cùng lúc, đau. Chạy — không dừng — đến Huyền Môn Cốt.

@@ -2,106 +2,86 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 55
 story: "/works/aethermoor/trong-the"
-total: 60
-title: "Chương 55: Tiếng Chân"
+total: 66
+title: "Chương 55: Bắt"
 ---
 
-Hai giờ nữa. Hai giờ là ruộng hết. Ruộng hết là đất khô. Đất khô là cỏ thưa. Cỏ thưa là không che. Không che là lộ. Lộ là đi nhanh. Đi nhanh là mệt. Mệt là không dừng. Không dừng là đi tiếp.
+**Chương 55: Mảnh Đầu Tiên**
 
-Mordren mệt. Mệt hơn. Chân trái run. Run là Kael siết chặt. Siết là đỡ. Đỡ là bước. Bước là không ngã. Không ngã là tốt.
+Hang đất cách Huyền Môn Cốt một dặm. Tối. Đất khô, cỏ thưa, không gió. Sera ngồi, kiếm đặt ngang đùi. Bốn mươi bảy mảnh. Đếm lại. Bốn mươi bảy.
 
-Sera cảm nhận. Cảm nhận không phải đất. Cảm nhận Thệ Vang. Thệ Vang: bừng. Bừng nhẹ. Nhẹ không là không có. Có nhưng nhỏ. Nhỏ là phía sau. Phía sau là Caelmyr. Caelmyr xa. Xa nhưng bừng. Bừng là cộng hưởng. Cộng hưởng là Thệ Thiết đáp. Đáp với thề ước lớn. Thề ước lớn là gần. Gần không là ở đây. Ở đây là phía sau. Phía sau là đuổi.
+Mordren Chấp Sự ngồi đối diện, lưng dựa vách. Ông không nói. Ông nhìn. Nhìn kiểu người đã học cách im lặng sau hai năm tù. Hai năm trong hắc lao, nơi mỗi tiếng thở đều bị vách đá nuốt trọn, nơi lời nói trở thành thứ xa xỉ mà ông đã bỏ lại cùng với thanh kiếm của mình. Ông nhìn Sera bằng đôi mắt không chớp, như thể cô là một bản đồ mà ông đang cố đọc lại sau nhiều năm lãng quên.
 
-Sera dừng. Năm người dừng. Dừng không là nghỉ. Dừng là cảnh giác. Cảnh giác là nguy hiểm.
+Sera nhắm mắt. Aldric dạy: *im lặng, nghe một, hiểu, dẫn, lực, dùng.* Sáu bước. Cô chưa từng làm được bước nào. Aldric — người thầy già với bàn tay run rẩy và đôi mắt sáng quắc — đã nói với cô trước khi ông ra đi: "Sáu bước không phải để học. Sáu bước là để sống. Ngươi sẽ hiểu khi ngươi không còn lựa chọn nào khác." Cô đã cười nhạt lúc đó. Bây giờ cô không cười nữa.
 
-"Đuổi," Sera nói. Một từ. Đủ.
+Thệ Vang ồn. Bốn mươi bảy giọng nói cùng lúc, không từ, chỉ áp lực — như bốn mươi bảy bàn tay đè lên ngực. Không phải tiếng thì thầm, không phải tiếng gào. Đó là thứ áp lực nặng hơn cả tiếng ồn, thứ đè lên xương cốt và ép vào từng thớ thịt. Cô từng chống lại. Chống là mệt. Mệt là thua. Cô đã học được điều đó qua những đêm không ngủ, qua những lần nôn ra máu vì cố đẩy lùi thứ không thể đẩy lùi.
 
-Lira không hỏi. Không hỏi là tin. Tin là đi. Đi nhanh. Năm người đi nhanh. Nhanh nhất có thể. Có thể là chậm vì Mordren. Mordren nghe. Nghe là hiểu. Hiểu là cố đi nhanh. Cố là nhanh hơn.
+*Im lặng.* Cô không chống. Cô ngồi yên. Áp lực không giảm, nhưng cô không đẩy lại. Cô để nó đè. Cô để nó nặng. Cô để nó tồn tại mà không phản ứng. Giống như đứng giữa mưa mà không cố tránh — nước sẽ thấm, nhưng không thể nhấn chìm nếu ngươi không chống lại dòng chảy.
 
-Nhưng không đủ. Không đủ vì Mordren. Mordren hai năm ngồi. Ngồi là cơ teo. Teo là không chạy. Không chạy là đi. Đi là chậm. Chậm là đuổi gần. Gần là nguy hiểm.
+*Nghe một.* Không nghe tất cả. Nghe một. Cô chọn giọng quen nhất — Jorin. Người dạy cô đọc địa hình. Người nợ cô một mạng. Jorin — gã lính trinh sát với bộ ria lòa xòa và nụ cười lệch, người từng kéo cô ra khỏi một cái bẫy mà cô không nhìn thấy, người từng ngồi hàng giờ bên đống lửa để giải thích cách đọc dấu vết trên đất. Ông không phải người tốt. Ông từng giết người không vì lý do chính đáng. Nhưng ông là người đầu tiên dạy cô cách nhìn.
 
-Sera nhìn. Nhìn xung quanh. Xung quanh là đồng. Đồng không là rừng. Rừng xa. Xa là không đến kịp. Không đến kịp là phải chọn. Chọn khác.
+Giọng Jorin: *"Bên trái."*
 
-Phía trước: rừng cây lớn hơn. Cây lớn là che tốt. Che tốt là nấp. Nấp là đợi. Đợi đuổi đến. Đến là đối mặt.
+Một từ. Cô nhớ. Năm xưa, trận đầu tiên cô đi cùng đội. Jorin chỉ huy. Cô đi bên trái, sai vị trí. Một mũi tên — Jorin đỡ bằng vai. Ông nợ cô một mạng vì cô đã cứu ông khỏi cái chết đó? Không. Ông nợ cô vì ông đã chọn đỡ. Ông nói: *"Mạng này là của cô. Khi nào cần, trả."* Cô đã không hiểu lúc đó. Cô tưởng ông nói về mũi tên. Nhưng ông không nói về mũi tên. Ông nói về sự lựa chọn. Ông đã chọn đứng giữa cô và cái chết, không phải vì cô xứng đáng, mà vì ông quyết định làm vậy.
 
-"Vào rừng," Sera nói. "Nấp. Tôi đối mặt."
+Ông chết trước khi trả. Chết trong một trận phục kích mà cô không có mặt. Chết với món nợ chưa trả, với lời hứa chưa giữ. Cô đã nghĩ đó là sự bất công. Bây giờ cô hiểu — đó không phải bất công. Đó là điều chưa xong.
 
-"Tôi ở lại," Lira nói.
+*Hiểu.* Thề ước của Jorin không phải "trả nợ." Là "hoàn thành điều chưa xong." Ông chưa dạy cô xong cách đọc địa hình. Ông chưa thấy cô đứng vững. Đó là điều chưa xong. Ông đã dạy cô cách nhìn, nhưng chưa dạy cô cách đứng. Ông đã dạy cô cách đọc dấu vết, nhưng chưa dạy cô cách đọc chính mình. Và ông đã chết trước khi có thể làm điều đó.
 
-"Không. Dẫn Mordren đi. Đi sâu. Tôi giữ chân. Giữ chân là các cô đi xa. Xa là thoát. Thoát là tìm người. Người là giúp."
+*Dẫn.* Sera không phán xét. Jorin không vô tội — ông từng giết, từng ra lệnh, từng chọn sai. Ông từng để người chết vì mệnh lệnh của mình. Ông từng chọn bên sai trong những cuộc tranh chấp nhỏ. Nhưng cô không hoàn thành vì ông xứng đáng. Cô hoàn thành vì cô chọn. Cô chọn để hoàn thành điều ông để lại, không phải vì ông là người tốt, mà vì cô là người quyết định làm điều đó. Sự lựa chọn nằm ở cô, không nằm ở ông.
 
-Lira không tranh. Không tranh vì Sera đúng. Đúng là Mordren quan trọng hơn. Quan trọng hơn là phải sống. Phải sống là Sera giữ chân. Giữ chân là có thể chết. Có thể chết là chấp nhận.
+*Lực.* Cô đặt tay lên kiếm. Thệ Vang không chống. Lần đầu tiên, nó nghe. Cô cảm nhận được sự khác biệt — không phải ở âm thanh, mà ở trọng lượng. Kiếm vẫn nặng, nhưng không còn đè lên tâm trí cô như trước. Nó đang chờ. Đang lắng nghe. Đang để cô dẫn dắt.
 
-"Tôi ở lại," Kael nói.
+*Dùng.* Cô nói, không thành tiếng: *"Jorin. Ta đã học xong. Ta đứng vững. Nợ đã trả."*
 
-Sera nhìn Kael. Nhìn đánh giá. Kael hai mươi tuổi. Gầy. Chân yếu. Không Linh Nguyên. Không Linh Nguyên là không chiến đấu. Không chiến đấu là ở lại là chết. Chết là không giúp.
+Kiếm rung. Một nhịp. Rồi — nhẹ. Không phải nhẹ về trọng lượng vật lý, mà nhẹ về áp lực tinh thần. Một mảnh đã buông. Một giọng nói đã im. Một thề ước đã hoàn thành.
 
-"Không. Đi với Calla. Đi là đóng góp. Đóng góp là bảo vệ Mordren. Bảo vệ là cần."
+Sera mở mắt. Kiếm trên tay. Nhẹ hơn. Không nhiều, nhưng cô đo được. Bốn mươi bảy. Đếm lại. Bốn mươi sáu.
 
-Kael không tranh. Không tranh vì đúng. Đúng là không chiến đấu là không ở lại.
+Cô rút sổ. Ghi: *Jorin — hoàn thành.* Trước đây cô chỉ ghi số. Lần này cô ghi tên. Cô nhìn dòng chữ mới viết, cảm nhận sự khác biệt giữa một con số và một cái tên. Một con số chỉ là một mảnh vỡ. Một cái tên là một con người, một câu chuyện, một lựa chọn.
 
-Calla dẫn. Kael đỡ Mordren. Lira theo sau ba bước. Ba bước là cuối. Cuối là nhìn lại. Nhìn lại Sera. Sera đứng một mình. Một mình là quen. Quen là Arc 1. Arc 1 là không đồng minh. Không đồng minh là tự do. Tự do là chọn cách chết — hoặc sống.
+Lãnh vực — im. Không ồn. Bốn mươi sáu mảnh lắng nghe, không đè. Lần đầu tiên, cô đứng trong lãnh vực của mình mà không bị nuốt. Cô có thể cảm nhận từng mảnh như những ngọn lửa nhỏ — một số cháy sáng, một số âm ỉ, một số đang tắt. Nhưng không mảnh nào đè lên cô nữa. Chúng đang chờ. Đang quan sát. Đang đánh giá.
 
-Sera rút kiếm. Thệ Thiết nặng. Nặng bốn mươi tám. Nặng mảnh mới. Nặng cộng hưởng Calla. Nặng là sẵn sàng. Sẵn sàng là đánh.
+Mordren Chấp Sự vẫn nhìn. Ông không nói. Nhưng mắt ông — lần đầu ông thấy ai đó làm được điều ông không làm được. Ông gật. Một cái. Đủ. Cái gật của một người từng thử và thất bại, nhìn thấy người khác làm được điều mình không thể. Không ghen tị. Không ngưỡng mộ. Chỉ là sự công nhận.
 
-Chờ. Chờ không lâu. Tiếng chân. Nhiều chân. Nhiều là đông. Đông là không tốt. Không tốt nhưng đã chọn.
+"Ba ngày," Sera nói. "Bốn mươi sáu mảnh. Ba ngày."
 
-Mười người. Không đồng phục. Mười người mặc đen. Đen là đêm. Đen là Thẩm Vấn Giả không đồng phục. Không đồng phục là không chính thức. Không chính thức là giết không báo cáo. Giết không báo cáo là chết không ai biết.
+"Ít," Mordren nói. Giọng khàn, như giấy nhàu. "Mordren đến trước."
 
-Dẫn đầu: cao. Không cao bằng Veren. Nhưng nhiều hơn. Nhiều hơn là đủ.
+Sera không trả lời. Cô đứng dậy, kiếm bên hông. Nhẹ hơn — cô đi nhanh hơn. Một dặm đến Huyền Môn Cốt. Cô cần thời gian. Thời gian là thứ cô không có. Ba ngày cho bốn mươi sáu mảnh — mỗi mảnh là một con người, một câu chuyện, một thề ước chưa hoàn thành. Ba ngày là không đủ. Nhưng cô không có lựa chọn nào khác.
 
-Sera đứng. Đứng giữa đường. Không nấp. Không nấp là thấy. Thấy là dừng. Dừng là hỏi. Hỏi là thời gian. Thời gian là Lira đi xa. Xa là thoát.
+Cô bước ra cửa hang. Đất dưới chân — rung. Nhẹ. Không phải gió. Không phải thú. Sera nhìn xuống. Bụi bay. Bụi không tự bay. Cô đã học cách đọc địa hình từ Jorin — và cô biết rằng đất rung theo một nhịp đều đặn, nhịp của bước chân có chủ đích, không phải bước chân của thú hoang.
 
-"Cô là Sera Voss," tên dẫn đầu nói. Không hỏi. Khẳng định.
+Cô ngẩng lên trời. Xa xa, một vệt sáng. Có thể là chim. Có thể không. Vệt sáng di chuyển theo đường thẳng, không phải đường bay của chim. Nó đang tiến về phía Huyền Môn Cốt. Hoặc đang tiến về phía cô.
 
-Sera không trả lời. Trả lời không là không cần. Biết tên không là biết đủ. Biết đủ là không thêm.
+Cô quay vào hang. Bốn mươi sáu mảnh. Ba ngày. Và một vệt sáng trên trời. Cô không có thời gian để lo về vệt sáng. Cô có thời gian để lo về bốn mươi sáu mảnh đang chờ cô.
 
-"Thống Lĩnh muốn cô sống. Sống là không giết. Nhưng sống không là nguyên vẹn. Bỏ kiếm."
+Cô ngồi xuống. Nhắm mắt. *Im lặng, nghe một.*
 
-Sera không bỏ. Không bỏ vì bỏ là họ lấy. Họ lấy là Thệ Thiết mất. Thệ Thiết mất là bốn mươi tám mảnh mất. Mất là không hoàn thành. Không hoàn thành là thất bại. Thất bại là không chấp nhận.
+Mảnh thứ hai. Mảnh của người Đoàn không vô tội. Nó kháng cự — ngay khi cô chạm, áp lực đẩy lại. Không như Jorin. Mảnh này không muốn được nghe. Nó không muốn được giải phóng. Nó muốn giữ lấy sự tức giận, sự oán hận, sự đau đớn của mình.
 
-Sera vung kiếm. Thệ Vang bùng. Bùng không hết. Bùng một phần. Một phần là đủ đòn đầu. Đòn đầu là chém. Chém tên gần nhất. Gần nhất là không phòng. Không phòng là trúng. Trúng là ngã. Ngã là chín. Chín còn.
+Sera không ép. Cô ghi nhận: *Mảnh 46 — kháng cự.* Rồi cô thử mảnh khác. Cũng kháng. Mảnh thứ ba. Kháng. Mảnh thứ tư. Kháng. Mỗi mảnh đều kháng cự theo cách riêng của nó — một số đẩy mạnh, một số im lặng, một số cố gắng kéo cô vào ký ức của chúng.
 
-Chín đối một. Chín là nhiều. Nhiều không là bất khả. Bất khả nếu chạy. Không chạy là có thể. Có thể nếu giữ chân đủ lâu. Đủ lâu là Lira xa. Xa là an toàn.
+Chỉ Jorin dễ. Vì Jorin gần với lựa chọn của cô. Những mảnh khác — những người không vô tội — chúng sẽ không buông dễ dàng. Chúng không muốn được tha thứ. Chúng không muốn được hoàn thành. Chúng muốn giữ lấy sự tồn tại của mình trong cơn đau.
 
-Sera đánh. Đánh không phòng thủ. Phòng thủ là chậm. Chậm là bao vây. Bao vây là chết. Không phòng thủ là tấn công. Tấn công là họ phòng. Họ phòng là không bao vây. Không bao vây là thời gian.
+Ba ngày. Bốn mươi sáu mảnh. Mỗi mảnh kháng cự.
 
-Một tên ngã. Hai. Ba. Sera trúng. Trúng vai. Vai không là chết. Chết không là đau. Đau là chậm một chút. Một chút là đủ cho tên thứ tư đâm. Đâm sau lưng. Sau lưng là không thấy. Không thấy là trúng.
+Sera mở mắt. Kiếm nhẹ hơn, nhưng chưa đủ. Cô nhìn Mordren. Ông vẫn nhìn cô. Ánh mắt ông không đổi, nhưng cô có thể cảm nhận được sự chú ý của ông — ông đang quan sát cách cô xử lý, cách cô tiếp cận, cách cô thất bại.
 
-Đâm. Kiếm đâm. Đâm vào lưng Sera. Không sâu. Không sâu là áo giáp. Áo giáp cản. Cản là không chết. Không chết là quay. Quay là chém. Chém tên thứ tư. Tên thứ tư ngã.
+"Ông từng thử," Sera nói. Không hỏi. Khẳng định.
 
-Sáu còn. Sáu đối một. Một bị thương. Thương là chậm. Chậm là thua. Thua là không giữ chân đủ. Không đủ là Lira chưa xa. Chưa xa là cần thêm thời gian. Thời gian là đánh tiếp.
+"Từng," Mordren nói. "Hai năm tù để học rằng thệ ước chỉ tự giải phóng."
 
-Nhưng — tiếng. Tiếng từ sau. Tiếng chân. Nhiều chân. Nhiều hơn mười. Nhiều hơn là tiếp viện. Tiếp viện là không thể giữ. Không thể là không giữ. Không giữ là bỏ. Bỏ là chạy. Chạy là vào rừng.
+"Ông không can thiệp."
 
-Sera chạy. Chạy kiểu Aldric dạy: nhanh, không tiếng. Vào rừng. Rừng là che. Che là chạy tiếp. Chạy tiếp là đi sâu. Đi sâu là tìm Lira. Tìm Lira là tìm Mordren.
+"Không."
 
-Nhưng chân sau lưng đau. Đau là chậm. Chậm là họ đuổi. Đuổi gần. Gần là nghe tiếng. Tiếng họ là gần hơn. Gần hơn là không thoát.
+Sera gật. Cô hiểu. Ông không dạy cô vì dạy là can thiệp. Cô phải tự làm. Giống như cô phải tự chọn. Ông đã thử và thất bại — và ông biết rằng nếu ông can thiệp, cô sẽ không bao giờ học được cách tự đứng vững. Ông đang để cô tự vấp ngã, tự đứng dậy, tự tìm đường.
 
-Sera dừng. Dừng không là đầu hàng. Dừng là quay. Quay là đánh tiếp. Đánh tiếp là không chạy. Không chạy là bị bao vây. Bao vây là chết hoặc bắt.
+Cô nhắm mắt. *Im lặng, nghe một.* Mảnh 46 kháng. Cô không ép. Cô nghe. Nghe không phải để hoàn thành — nghe để hiểu tại sao nó kháng. Cô lắng nghe tiếng thì thầm của mảnh vỡ, cố tìm ra nguồn gốc của sự kháng cự. Có thể là sợ hãi. Có thể là tức giận. Có thể là điều gì đó khác — điều mà cô chưa từng nghĩ đến.
 
-Họ đến. Mười lăm. Mười lăm đối một. Một bị thương. Thương + mười lăm là không thể. Không thể là bỏ kiếm. Bỏ kiếm không là đầu hàng. Bỏ kiếm là không chết. Không chết là còn cơ hội.
+Bên ngoài, đất rung lần nữa. Nhẹ hơn. Xa hơn. Nhưng đang đến gần. Nhịp đều đặn, có chủ đích. Không phải thú. Không phải gió. Một kẻ đang tiến về phía hang.
 
-Sera không bỏ kiếm. Không bỏ vì bỏ là họ lấy. Họ lấy là Thệ Thiết mất. Thệ Thiết mất là bốn mươi tám mảnh mất. Mất là không hoàn thành. Không hoàn thành là thất bại. Thất bại là không chấp nhận.
+Sera không mở mắt. Cô có ba ngày. Và một kẻ thù đang đến. Cô có ba ngày để giải phóng bốn mươi sáu mảnh — và một kẻ thù đang đến gần hơn mỗi giờ. Cô không có thời gian để lo về kẻ thù. Cô có thời gian để lo về những mảnh vỡ đang kháng cự.
 
-Sera đánh tiếp. Đánh không thắng. Không thắng nhưng đánh. Đánh là kiếm vung. Vung là chém. Chém là một tên ngã. Một tên ngã là mười bốn còn. Mười bốn là vẫn nhiều. Nhiều là thua.
-
-Một tên đến gần. Gần là đâm. Đâm ngực. Ngực là nghiêm trọng. Nghiêm trọng không là chết ngay. Chết ngay không là đau. Đau là kiếm rơi. Kiếm rơi không là không còn. Không còn kiếm là không đánh. Không đánh là bắt.
-
-Sera ngã. Ngã kiểu người ngã khi không còn lực. Kiếm rơi. Rơi cách tay ba bước. Ba bước là xa. Xa khi bị giữ. Giữ là bốn năm người. Bốn năm người là không cử động. Không cử động là bắt.
-
-Tên dẫn đầu đến. Nhìn. Nhìn kiểu người nhìn khi thấy con mồi. "Thống Lĩnh muốn cô sống. Sống là không giết. Nhưng sống không là nguyên vẹn. Nguyên vẹn không là bỏ kiếm."
-
-Sera không nhúc nhích. Không nhúc nhích vì không còn lực. Không còn lực là nhìn. Nhìn kiếm. Kiếm cách ba bước. Ba bước là không đến. Không đến là mất. Mất tạm. Tạm là lấy lại. Lấy lại là sau. Sau là chưa chết. Chưa chết là còn.
-
-Họ trói. Trói tay. Trói chân. Trói kiểu người trói khi không muốn mồi chạy. Sera không chạy. Không chạy vì không còn lực. Không còn lực là để họ trói. Để họ trói là còn sống. Còn sống là tính sau.
-
-Họ khiêng. Khiêng kiểu người khiêng hàng. Không kiểu người khiêng bệnh. Hàng là không người. Không người là dễ. Dễ là không đau. Không đau vẫn đau. Đau là lưng. Lưng là đâm. Đâm là chảy. Chảy là ướt. Ướt là lạnh.
-
-Sera nhắm mắt. Không ngủ. Nhắm là đếm. Đếm bước. Đếm thời gian. Đếm người khiêng. Hai người khiêng. Hai là ít. Ít là nhẹ. Nhẹ là Sera gầy. Gầy là hai năm không đủ. Không đủ là vẫn sống. Vẫn sống là tính sau.
-
-Đi. Đi không biết hướng. Hướng là quay lại? Quay lại Caelmyr? Có thể. Có thể là không xa. Không xa là trụ sở. Trụ sở là ngục. Ngục là giam. Giam là đợi. Đợi là gặp Mordren Thống Lĩnh. Gặp là đối mặt. Đối mặt là chưa. Chưa là tính sau.
-
-Mắt nhắm. Thệ Vang không. Không vì kiếm xa. Kiếm xa là không nghe. Không nghe là yên. Yên lạ. Lạ là không quen. Không quen là lo. Lo không phải cảm xúc. Lo là tính. Tính xấu nhất. Xấu nhất là chết. Chết là không hoàn thành. Không hoàn thành là thất bại. Thất bại là không chấp nhận. Không chấp nhận là sống. Sống là tiếp tục.
-
-Đếm tiếp.
+Cô nghe tiếp.

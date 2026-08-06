@@ -2,8 +2,8 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 54
 story: "/works/aethermoor/trong-the"
-total: 60
-title: "Chương 54: Năm Bước"
+total: 66
+title: "Chương 54: chapter-54"
 ---
 
 Một giờ đi. Một giờ là xa. Xa không là an toàn. An toàn không có. Chỉ có xa.
@@ -80,4 +80,18 @@ Nửa giờ hết. Sera đứng. Năm người đứng. Mordren đứng — đ�
 
 "Đi," Sera nói. "Hướng Bắc. Nghỉ tiếp khi trời sáng."
 
-Năm người đi. Mordren giữa Kael và Calla. Sera trước. Lira sau. Năm bước. Năm bước là khoảng cách an toàn.
+Năm người đi. Mordren giữa Kael và Calla. Sera trước. Lira sau. Năm bước. Năm bước là khoảng cách an toàn. An toàn không có. Chỉ có năm bước.
+
+Sera quay đầu một lần. Không phải để nhìn. Để đếm. Đếm bóng. Bóng của Lira không có. Không có là Lira đi sau, sau cùng, nên không thấy. Không thấy là đúng.
+
+Đúng là Lira đang ở đâu. Ở đâu là cô ta dừng. Dừng là ngửi. Ngửi đất. Đất có vết chân. Vết chân không phải của họ. Không phải là của ai khác. Của ai khác là mới.
+
+Mới là nặng. Nặng là giày nặng. Giày nặng là người đi gần đây. Gần đây là chưa lâu. Chưa lâu là kẻ đó vừa đi. Vừa đi là hướng Bắc.
+
+Hướng Bắc là họ.
+
+Sera không nói. Nói không cần. Không cần là Lira thấy. Thấy là Lira đuổi kịp. Đuổi kịp là cô ta gật. Gật là không nói. Không nói là cả hai biết. Biết là có kẻ khác hướng Bắc. Hướng Bắc là Huyền Môn Cốt. Huyền Môn Cốt là mục tiêu.
+
+Mordren không biết. Không biết là tốt. Tốt là không hỏi. Không hỏi là đi. Đi là tiếp tục.
+
+Tiếp tục là năm bước. Năm bước là khoảng cách an toàn. An toàn không có. Chỉ có năm bước — và kẻ nào đó đi trước họ, hướng về cánh cổng chưa ai mở.

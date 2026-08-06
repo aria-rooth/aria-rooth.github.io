@@ -2,8 +2,8 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 39
 story: "/works/aethermoor/trong-the"
-total: 60
-title: "Chương 39: Giữa Không Phải Của Mình"
+total: 66
+title: "Chương 39: chapter-39"
 ---
 
 Chỉ huy Thẩm Vấn Giả nhìn thấy cô trước khi cô đến cửa tu viện. Đúng — vì Sera không giấu. Cô đi thẳng — từ rừng ra đồng, từ bóng ra sáng, từ ẩn ra hiện. Kiếm Thệ Thiết trên tay, sáng xanh mờ, mạch đập. Áo mài, giáp nhẹ, mắt thẳng. Cô đi như người đi khi không cần che giấu: đi để người thấy, đi để người biết, đi để người tính lại.

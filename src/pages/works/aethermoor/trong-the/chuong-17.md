@@ -2,7 +2,7 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 17
 story: "/works/aethermoor/trong-the"
-total: 60
+total: 66
 title: "Chương 17: Dấu Vết"
 ---
 

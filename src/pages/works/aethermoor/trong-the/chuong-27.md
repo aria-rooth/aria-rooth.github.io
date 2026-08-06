@@ -2,76 +2,80 @@
 layout: ../../../../layouts/ChapterLayout.astro
 chapter: 27
 story: "/works/aethermoor/trong-the"
-total: 60
-title: "Chương 27: Người Theo Dõi"
+total: 66
+title: "Chương 27: chapter-27"
 ---
 
-Sera nhận ra vào buổi sáng ngày thứ ba rời Greymark. Không phải vì cô thấy ai — vì cô cảm thấy. Khác Thệ Vang. Thệ Vang đến từ trong kiếm, từ trong cô, từ nơi bốn mươi bảy mảnh thề ước nằm. Cảm giác này đến từ ngoài — từ sau, từ bên cạnh, từ khoảng cách mà cô không thể chỉ tay nhưng biết có ai đó đứng.
+Sera nhìn thấy pháo đài trước khi nghe thấy nó. Đó là điều sai đầu tiên.
 
-Lira cũng nhận ra. Cô ta không nói — chỉ đổi bước, dài hơn, nhanh hơn một chút. Không đủ để người theo dõi biết mình bị phát hiện, đủ để thử: nếu người theo dõi cũng đổi bước, thì theo dõi có chủ đích. Nếu không — thì trùng hợp.
+Pháo đài Bạch Sa nằm trên một gò đất cao giữa rừng Vorthane phía Bắc — tường đá xám, tháp canh hai bên cổng, cờ trắng treo trên đỉnh. Từ xa, nó trông như một pháo đài còn hoạt động. Nhưng càng đến gần, sự im lặng càng lộ rõ. Không có tiếng luyện tập. Không có tiếng thép chạm thép. Không có tiếng người gọi nhau qua sân. Một pháo đài xây cho hai trăm người, và thứ duy nhất phát ra từ nó là tiếng gió thổi qua những lá cờ treo lơ lửng.
 
-Người theo dõi đổi bước, chậm hơn rồi nhanh lại. Khoảng cách giữ nguyên. Chủ đích.
+Lira dừng lại ở mép rừng, cách cổng chính khoảng năm mươi bước. Cô ta đứng im, mắt đếm. Sera đứng bên cạnh, cũng đếm — nhưng đếm thứ khác.
 
-Họ đi tiếp nửa ngày. Rừng Vorthane dày lên — cây lớn hơn, rễ nổi nhiều hơn, ánh sáng yếu hơn. Sera ghi nhận: người theo dõi di chuyển khác Thẩm Vấn Giả. Thẩm Vấn Giả di chuyển theo đội — tiếng chân nhiều, giáp cọ nhẹ, kỷ luật khoảng cách. Người này di chuyển một mình, nhẹ chân, né rễ thay vì đạp qua, dùng gốc cây che thay vì đường mòn. Kỹ năng rừng — nhưng không phải kỹ năng Hiệp Sĩ. Kỹ năng thợ săn. Hoặc thám tử.
+Cờ. Bảy lá cờ trắng trên tường. Mỗi lá cờ là một trung đội trong biên chế cũ của Bạch Sa. Bảy trung đội, mỗi trung đội hai mươi lăm người — một trăm bảy mươi lăm quân theo sổ sách. Nhưng người thật đang đi lại trong sân: Sera đếm được mười bảy. Mười bảy người trong một pháo đài xây cho hai trăm.
 
-Chiều, họ dừng ở khe suối — nước nông, đá trơn, rễ treo. Sera uống nước. Lira rửa mặt. Bình thường — nhưng cả hai đã thỏa thuận mà không nói: người theo dõi cần xử lý, và xử lý ở nơi có nước luôn dễ hơn vì nước che tiếng chân, che tiếng nói, và người theo dõi thường tập trung vào mục tiêu hơn môi trường.
+Cô ghi nhận con số. Rồi ghi nhận thứ hai: sân tập phía Đông đã mọc cỏ. Không phải cỏ dại mới mọc — là cỏ đã mọc thành bụi, cao đến đầu gối, phủ kín nửa sân. Nửa còn lại có dấu chân, nhưng ít. Rất ít. Một sân tập mà nửa diện tích bỏ hoang nghĩa là số người luyện tập đã giảm xuống dưới mức cần thiết để dẫm cỏ.
 
-Sera đi vòng. Không phải đường vòng lớn — chỉ đủ để cô khuất sau gốc sồi lớn, rồi quay lại phía sau con suối. Lira tiếp tục đi — mồi. Lira không thích làm mồi, nhưng cô ta làm vì đó là lựa chọn đúng: người theo dõi theo Sera hay theo Lira? Nếu theo Sera — cô sẽ chặn từ sau. Nếu theo Lira — Lira có đủ khả năng tự bảo vệ đến khi Sera đến.
+"Ít hơn tôi nghĩ," Lira nói. Giọng cô ta không có cảm xúc — nhưng Sera để ý thấy tay Lira đặt trên cán kiếm, không phải để rút, mà để giữ. Giữ cho tay khỏi làm gì khác.
 
-Người theo dõi theo Lira. Sera ghi nhận: người đó quan tâm đến cặp, nhưng ưu tiên người mang kiếm Thệ Thiết ít hơn người đi trước. Hoặc: người đó được lệnh theo dõi chuyển động, không phải người. Thứ hai có thể hơn — khách hàng muốn biết họ đi đâu, không phải họ là ai.
+"Bao nhiêu?" Sera hỏi.
 
-Sera đợi. Nằm sau gốc sồi, kiếm trên tay, thở nông. Aldric dạy cô cách đợi: không phải đợi tĩnh — đợi như đất đợi mưa. Không hoạt động nhưng không ngủ. Sẵn sàng nhưng không căng. Mắt mở nhưng không nhìn chằm chằm — để viền ngoài thị giác làm việc, vì viền ngoài bắt chuyển động tốt hơn tâm nhìn.
+"Biên chế cũ là bảy trung đội. Bây giờ —" Lira dừng. Đếm lại. Bắt đầu lại từ đầu. Sera không thúc. Cô biết kiểu đếm này: đếm đi đếm lại vì con số không chịu thay đổi, và người đếm hy vọng lần sau sẽ khác. "Ba trung đội. Có thể chưa đủ ba. Khoảng một phần ba."
 
-Mười lăm phút. Người theo dõi di chuyển dọc suối, giữ khoảng cách mười bước với Lira. Di chuyển giỏi — nhưng không giỏi đủ. Hắn không kiểm tra phía sau. Lỗi phổ biến: người theo dõi tập trung vào mục tiêu và quên rằng mình cũng là mục tiêu. Sera chờ hắn đi qua vị trí cô, rồi bước ra.
+Một phần ba sức mạnh ghi trong sổ. Bạch Sa — một Đoàn từng đứng vững ở vùng biên này — giờ chỉ còn một phần ba.
 
-Không chém, không rút kiếm — chỉ bước ra, để hắn thấy cô, để hắn biết mình bị bẫy. Khoảnh khắc nhận ra: mắt hắn mở rộng, chân hắn khựng, tay hắn chạm vào thắt lưng — vũ khí hoặc tín hiệu — rồi dừng lại vì cô đã ở khoảng cách mà bất kỳ hành động nào đều chậm hơn đòn chém của cô.
+Cổng mở trước khi họ kịp quyết định có gõ hay không. Một người đàn ông bước ra — cao, gầy, tóc hoa râm, mặc áo choàng trắng cũ đã ngả màu. Ông ta không mang vũ khí. Ông ta đứng ở cổng, nhìn Lira một lúc lâu, rồi nói:
 
-Hắn đứng yên. Nam, khoảng bốn mươi, thấp, gầy, tóc nâu búi sau. Mặc áo da lộn — không phải giáp, là áo dân thường vùng rừng, đủ chắc để giữ ấm, đủ mỏng để không cản di chuyển. Không đồng phục. Không dấu Giáo Hội. Thợ săn hoặc thám tử — Sera đoán thám tử, vì thợ săn mang cung hoặc bẫy, còn người này mang dao ngắn ở thắt lưng và giấy trong túi. Dao để tự vệ. Giấy để ghi. Ghi chép viên.
+"Lira. Ta nghe nói ngươi còn sống."
 
-"Đứng yên," Sera nói, không lớn, chỉ đủ nghe.
+"Chỉ huy Varen." Lira gật đầu. Không cúi. "Ta đến xem Đoàn."
 
-Hắn đứng yên. Tay rời thắt lưng — chậm, để cô thấy. Đặt hai tay ra trước, bàn tay mở. Không phải đầu hàng — là người biết cách sống khi bị bẫy: không chống, không chạy, chỉ chờ, vì chống và chạy đều chết nhanh hơn chờ.
+"Xem." Varen lặp lại từ đó như thể đang cân nó. Rồi ông ta bước sang một bên, để lộ lối vào. "Vào đi. Xem cho thỏa."
 
-"Ai thuê anh?" cô hỏi.
+Họ bước qua cổng. Sera cảm nhận được sự thay đổi ngay khi đặt chân vào sân trong — không phải từ mắt, mà từ kiếm. Thệ Vang trong kiếm rung lên một nhịp — không phải sợ hãi, không phải giận dữ. Là một thứ hụt hẫng, rỗng, chờ đợi. Như thể bốn mươi bảy mảnh thề ước trong kiếm cùng lúc nhận ra nơi này từng chứa đầy thề ước — và giờ không còn.
 
-"Không biết."
+Sera siết tay trên cán kiếm. Cảm giác đó không phải của cô. Cô biết điều đó. Nhưng nó vẫn ở đó, đè lên ngực cô như một bàn tay đặt nhẹ — không bóp, chỉ đặt.
 
-"Thử lại."
+Lira đi trước, băng qua sân. Sera theo sau, mắt quét. Doanh trại phía Tây — cửa mở, nhưng tối. Doanh trại phía Đông — cửa đóng, và trên bậu cửa có một lớp bụi dày. Không ai mở cửa phía Đông trong nhiều tuần. Nhà kho — cửa hé, bên trong tối om, không có tiếng người. Nhà bếp — có khói, nhưng ít. Một bếp lửa cho mười bảy người, không phải cho một trăm bảy mươi lăm.
 
-Hắn nhìn cô. Đánh giá: cô sẽ giết hắn không? Sera để hắn đánh giá. Không cười, không đe, chỉ đứng — kiếm trên tay, lưỡi chưa rút khỏi vỏ, nhưng tay đã trên cán. Đủ rõ.
+Họ đến khu doanh trại chính. Lira đẩy cửa. Bên trong — dãy giường tầng, hai mươi lăm giường mỗi dãy, ba dãy. Sera đếm giường có người: mười bảy. Nhưng điều khiến cô dừng lại không phải con số.
 
-"Trung gian," hắn nói. Giọng bình tĩnh — quá bình tĩnh cho người vừa bị bẫy. Người bình tĩnh theo cách mà bình tĩnh là nghề: thám tử, gián điệp, người thu thập thông tin. Họ không hoảng vì hoảng làm họ chết. "Tôi nhận việc qua trung gian. Không gặp khách hàng. Chỉ nhận tiền và nhiệm vụ."
+Trên mỗi giường trống — mười tám giường trống — có một ngọn nến. Không phải nến thắp. Là nến chưa đốt, đặt thẳng đứng trên gối, một ngọn mỗi giường. Mười tám ngọn nến trắng trên mười tám cái gối trống.
 
-"Nhiệm vụ?"
+Sera nhìn Lira. Lira nhìn những ngọn nến. Mặt cô ta không đổi — nhưng tay cô ta, đang đặt trên cán kiếm, siết chặt hơn. Rồi thả ra. Rồi siết lại.
 
-"Theo dõi hai phụ nữ di chuyển từ Harren's Cross về phía Bắc Vorthane. Báo cáo vị trí mỗi hai ngày qua con chim thư." Hắn chỉ lên — Sera thấy con chim nhỏ, nâu, đậu trên cành cây cách đó mười bước. Chim thư. Giống chim bồ câu nhưng nhỏ hơn, nhanh hơn, nuôi để bay về một nơi cố định. Ai đó đang nhận thư từ con chim đó — và biết vị trí cô.
+"Đây là gì?" Sera hỏi. Không phải hỏi Lira — hỏi chung, hỏi không khí.
 
-"Trung gian ở đâu?"
+"Là cách chúng tôi nhớ," Varen nói từ phía sau. Ông ta đứng ở cửa, không bước vào. "Mỗi người rời đi — không phải chết, chỉ là không còn ở đây — chúng tôi đặt một ngọn nến. Để khi họ quay lại, họ thấy chỗ của mình vẫn được giữ."
 
-"Greymark. Quán rượu phía đông. Hỏi bàn cuối, người mặc áo đỏ. Ông ta không biết khách hàng — ông ta chỉ chuyển tiền và tin."
+"Nếu họ không quay lại?"
 
-Sera gật. Thông tin hữu ích — nhưng không đủ. Cô tin hắn: hắn nói như người nói sự thật vì sự thật cứu hắn, không vì trung thực. Thám tử sống bằng thông tin, và bán thông tin tốt hơn bán tin giả — tin giả bán một lần, tin tốt bán nhiều lần.
+Varen không trả lời ngay. Ông ta nhìn những ngọn nến — mười tám ngọn — rồi nói, giọng đều: "Thì nến vẫn ở đó."
 
-"Cô sẽ giết tôi?" hắn hỏi. Vẫn bình tĩnh. Hỏi như hỏi thời tiết — không phải vì không sợ chết, vì chết là rủi.ro nghề và hắn đã tính.
+Sera ghi nhận cách ông ta nói. Không phải "họ sẽ quay lại." Không phải "họ đã chết." Chỉ là "nến vẫn ở đó." Một câu trả lời không trả lời gì cả. Một câu trả lời của người đang giữ điều gì đó không muốn nói.
 
-"Không," Sera nói. "Nhưng anh sẽ dừng theo dõi."
+Họ rời doanh trại. Lira đi về phía sân tập phía Đông — nơi cỏ mọc cao. Cô ta đứng ở mép sân, nhìn bãi cỏ, không bước vào. Sera đứng sau, cách vài bước, không nói.
 
-"Tôi dừng, tôi không được trả tiền. Khách hàng sẽ thuê người khác."
+"Bảy năm trước," Lira nói, giọng thấp, "nơi này có hai trăm người luyện tập mỗi sáng. Ta nhớ tiếng thép. Nghe từ ngoài cổng còn thấy rung chân."
 
-"Người khác sẽ không giỏi bằng anh. Ồn hơn thì tôi phát hiện nhanh hơn. Hoặc tôi giết. Anh chọn."
+Sera không đáp. Cô đứng cạnh Lira, nhìn bãi cỏ, và để sự im lặng làm việc của nó.
 
-Hắn im. Rồi gật — vì cô đúng. Người thay thế sẽ ồn, và ồn là chết. Hắn lấy con chim từ cành — nhẹ nhàng, chim quen tay — rồi thả. Chim bay lên, vòng một vòng, rồi bay về hướng Greymark. Hắn không gửi thư cuối. Chim bay không thư nghĩa là: hết tin. Khách hàng sẽ biết thám tử dừng — và sẽ phải bắt đầu lại từ đầu.
+Buổi tối. Bữa ăn trong nhà bếp — mười bảy người ngồi quanh ba bàn dài, phần lớn là người lớn tuổi, một vài người trẻ nhưng đều mang vẻ mặt của người đã thấy quá nhiều. Súp loãng, bánh mì cũ, một ít thịt khô. Không ai nói chuyện nhiều. Họ ăn, họ nhìn Lira — một số nhận ra cô ta, một số không — rồi họ tiếp tục ăn.
 
-Hắn đi, không nhanh không chậm. Đi như người rời nơi không còn tiền — bình tĩnh, vì bình tĩnh giữ người sống trong nghề này. Sera không theo. Cô đứng cạnh suối và nhìn hắn khuất sau rễ.
+Sera ngồi ở góc, quan sát. Cô đếm lại lần nữa — mười bảy. Vẫn mười bảy. Không ai đến muộn. Không ai vắng mặt trong bữa ăn. Mười bảy là toàn bộ.
 
-Lira đến. Cô ta nghe hết — cách Lira nghe: không lộ diện, nhưng đủ gần để can nếu cần. Cô ta không hỏi tại sao Sera thả hắn. Cô ta chỉ nói:
+Sau bữa ăn, Varen đứng dậy. Ông ta nhìn quanh phòng — nhìn từng người một, như thể đếm lại, như thể kiểm tra — rồi nói: "Mai, ta sẽ dẫn ngươi đi xem kho vũ khí. Ngươi muốn biết Đoàn còn gì — thì xem kho."
 
-"Ai đó không phải Giáo Hội đang theo dõi mình."
+Lira gật. Varen quay đi. Nhưng trước khi ông ta khuất sau cửa, Sera để ý: ông ta không nhìn Lira khi nói. Ông ta nhìn những ngọn nến trên bàn — những ngọn nến thắp cho bữa ăn — nhưng mắt ông ta không ở đó. Mắt ông ta ở đâu đó xa hơn. Nơi mà mười tám ngọn nến trên gối trống không thể chạm tới.
 
-Sera gật. Giáo Hội dùng Thẩm Vấn Giả — đồng phục, kỷ luật, người nhiều. Người theo dõi cô là dân thường được thuê — thám tử, trung gian, chim thư. Khác hệ thống. Giáo Hội có mắt khắp nơi, nhưng mắt Giáo Hội là mắt quân sự: nhìn thẳng, báo lên trên, hành động theo lệnh. Mắt này là mắt thương mại: mua bán, chuyển tiếp, không trách nhiệm. Ai đó ngoài Giáo Hội muốn biết cô ở đâu. Ai đó có tiền, có lý do.
+Đêm. Sera nằm trên giường trong một góc doanh trại — giường có người, không có nến. Kiếm đặt cạnh tay, vỏ kiếm chạm sàn. Cô không ngủ. Cô lắng nghe.
 
-Sera ghi chú trong đầu: thêm một biến số. Cô đã có Giáo Hội. Giờ có thêm bên thứ ba — chưa rõ là ai, chưa rõ muốn gì. Chỉ biết: họ không tấn công. Họ theo dõi. Theo dõi nghĩa là cô còn giá trị sống — chết thì không ai theo. Giá trị gì, chưa biết. Nhưng giá trị đó đủ để trả tiền thám tử, đủ để cẩn thận không lộ diện, đủ để kiên nhẫn.
+Thệ Vang trong kiếm không im. Nó rung lên từng nhịp chậm — không phải nhịp của cô, không phải nhịp của bốn mươi bảy mảnh thề ước cô mang. Là nhịp từ bên ngoài, từ chính pháo đài này. Từ những bức tường đã từng chứa đầy thề ước và giờ chỉ còn là đá. Từ những ngọn nến chưa đốt trên những cái gối trống.
 
-Họ tiếp tục đi. Sera đổi đường — không phải đường đến đích, là đường khó theo. Nhiều rẽ, nhiều rễ, nhiều suối che tiếng chân. Người theo dõi mới — nếu có — sẽ mất dấu trong rừng Vorthane. Hoặc sẽ mất thời gian. Thời gian là thứ Sera không đủ — nhưng cũng là thứ cô cần mua thêm.
+Cảm giác đó — hụt hẫng, rỗng, chờ đợi — không phải của cô. Cô biết điều đó. Nhưng nó vẫn ở đó, suốt đêm, như một bàn tay đặt nhẹ trên ngực cô, không bóp, không buông.
 
-***
+Sera nằm im. Cô không cố đọc ký ức đất — đất ở đây sai, cô cảm nhận được, nhưng không phải lúc này. Cô chỉ nằm, lắng nghe nhịp rung của kiếm, và ghi nhận một điều:
+
+Bạch Sa không phải đang co lại vì chiến tranh. Không phải vì đói. Không phải vì bệnh dịch. Mười bảy người còn lại không phải là tàn quân của một trận đánh — họ là những người ở lại sau khi mọi người khác đã đi. Và chỉ huy Varen biết họ đi đâu. Ông ta không nói. Nhưng ông ta biết.
+
+Sera nhắm mắt. Kiếm vẫn rung. Ngoài kia, gió thổi qua những lá cờ trắng trên tường pháo đài — bảy lá cờ cho một Đoàn chỉ còn một phần ba.
