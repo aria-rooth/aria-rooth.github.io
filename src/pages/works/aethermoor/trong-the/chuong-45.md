@@ -18,7 +18,7 @@ Sau một hồi im lặng, cô mở miệng nói.
 
 Giọng cô đều đặn và khô khan, rơi xuống thay vì nhấc lên — đúng cái kiểu nói của người đã quyết định trước khi thậm chí mở miệng. Cô nhìn thẳng vào Lira và nói rõ từng tiếng: "Chúng ta sẽ cứu em trai cô ra khỏi Giáo Hội."
 
-Lira từ từ quay đầu lại, chậm đến mức như thể câu nói kia là thứ cô ta không dám tin vào tai mình, nặng nề hơn cả lời thú tội vừa rồi. Cô ta mở miệng với giọng nhỏ đến khàn và vỡ vụn ở cuối câu: "Tại sao anh không giết tôi đi?"
+Lira từ từ quay đầu lại, chậm đến mức như thể câu nói kia là thứ cô ta không dám tin vào tai mình, nặng nề hơn cả lời thú tội vừa rồi. Cô ta mở miệng với giọng nhỏ đến khàn và vỡ vụn ở cuối câu: "Tại sao chị không giết tôi đi?"
 
 Sera không trả lời ngay lập tức. Cô đứng dậy dù đầu hơi choáng vì cả ngày không ăn, nhưng đôi chân vẫn vững, rồi cầm kiếm tra vào vỏ bằng động tác đều đặn cô làm mỗi sáng: lưỡi vào trước, cán theo sau, dây đeo chỉnh lại một nhịp. Cô nhìn Lira thẳng vào mắt, không qua bóng tối, thấy rõ cả vết sẹo ngang ngực trái lộ ra dưới lớp vải rách — dấu vết của một đòn chém cũ nhắm thẳng vào tim. "Nếu tôi là cô," cô nói, "thì tôi cũng sẽ bán chính mình mà thôi."
 
