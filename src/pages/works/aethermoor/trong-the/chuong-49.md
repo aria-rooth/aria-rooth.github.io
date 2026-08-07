@@ -8,7 +8,7 @@ title: "Chương 49: Đốt Kho"
 
 Đêm xuống như một tấm vải đen phủ lên Caelmyr, và Sera cùng Lira rời căn phòng trọ khi những ô cửa sổ cuối cùng trong thành tắt đèn, chỉ còn ánh trăng mờ ảo vương lên những bức tường trắng vôi. Họ đi về phía Đông, nơi kho vũ khí của đoàn tùy tùng Mordren nằm tách biệt sau một dãy nhà kho bỏ hoang, và mỗi bước chân trên nền đá lạnh mang theo tiếng vọng của quyết định họ vừa tuyên chiều hôm đó.
 
-Sera mở Thệ Vang trước khi đến nơi — không phải để chiến đấu, mà để nghe. Bốn mươi lăm mảnh thệ ước trong lồng ngực cô rung lên như những chiếc ăng-ten nhỏ, mỗi mảnh một tần số, và giọng của Jorin dẫn đường qua bóng tối, chỉ cho cô vị trí của từng người lính canh trước khi họ kịp thở một nhịp. Cô cảm nhận được sáu điểm nhiệt độ khác biệt phía trước — sáu thân hình, sáu nhịp tim, sáu thanh kiếm còn nằm trong vỏ vì chưa ai báo động.
+Sera mở Thệ Vang trước khi đến nơi — không phải để chiến đấu, mà để nghe. Bốn mươi lăm mảnh thệ ước trong lồng ngực cô rung lên như những chiếc ăng-ten nhỏ, mỗi mảnh một tần số, và trong số đó bốn mươi bảy mảnh đã khớp trở thành những con mắt cho cô, quét qua bóng tối để tìm kiếm từng nhịp tim địch. Giọng của Jorin dẫn đường qua bóng đêm, chỉ cho cô vị trí của từng người lính canh trước khi họ kịp thở một nhịp. Cô cảm nhận được sáu điểm nhiệt độ khác biệt phía trước — sáu thân hình, sáu nhịp tim, sáu thanh kiếm còn nằm trong vỏ vì chưa ai báo động.
 
 "Ba tên bên trái, hai tên ở cửa kho, và một tên tuần tra phía sau," cô thì thầm, giọng đều và khô, không vượt quá tiếng gió qua kẽ đá.
 

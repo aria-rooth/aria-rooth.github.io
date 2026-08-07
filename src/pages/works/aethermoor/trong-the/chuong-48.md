@@ -18,7 +18,7 @@ Sera cảm nhận được hắn trước khi nhìn thấy — như áp lực c�
 
 "Sera biết," cô đáp, mắt vẫn dán vào bóng hình Mordren đang băng qua con phố, không một cử chỉ vội vàng, không một ánh mắt hướng lên căn phòng của họ dù cô biết hắn đã cảm thấy sự hiện diện của cô từ xa.
 
-Hắn đi ngang qua, bước chân đều như nhịp tim của chính tòa thành, và Sera đo khoảng cách — không chỉ bằng thước đo không gian, mà bằng cấp bậc, bằng sức mạnh, bằng số năm hắn đã cầm quyền trên mảnh đất này. Cô yếu hơn hắn một tầng, và cái tầng đó rộng như cả một thung lũng cô không thể vượt qua chỉ bằng ý chí. Nhưng cô không đến đây để đấu với hắn. Cô đến để kéo một đứa trẻ ra khỏi hầm sâu, và mỗi bước chân của Mordren trên con phố kia chỉ nhắc cô nhớ rằng thời gian đang chảy ngược lại với hy vọng của em trai Lira.
+Hắn đi ngang qua, bước chân đều như nhịp tim của chính tòa thành, và Sera đo khoảng cách — không chỉ bằng thước đo không gian, mà bằng cấp bậc, bằng sức mạnh, bằng số năm hắn đã cầm quyền trên mảnh đất này. Cô yếu hơn hắn một tầng, và cái tầng đó rộng như cả một thung lũng cô không thể vượt qua chỉ bằng ý chí. Ý chí của hắn áp lên cô như thể đứng dưới một tảng đá sắp rơi — nặng, tĩnh lặng, và chỉ chờ thời điểm để nghiền nát. Nhưng cô không đến đây để đấu với hắn. Cô đến để kéo một đứa trẻ ra khỏi hầm sâu, và mỗi bước chân của Mordren trên con phố kia chỉ nhắc cô nhớ rằng thời gian đang chảy ngược lại với hy vọng của em trai Lira.
 
 Khi bóng hắn khuất sau tường trụ sở, Sera rời khỏi cửa sổ, quay sang Lira, và giọng cô rơi xuống theo cái nhịp quyết định cô đã quen: "Ngày mai — đốt kho."
 

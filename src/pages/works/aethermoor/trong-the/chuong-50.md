@@ -22,7 +22,7 @@ Sera ghi chú lên cuộn sổ, mực đen chảy dọc trang giấy cũ: đưa 
 
 Cô đóng cuộn sổ lại, quay sang Kael, và ánh mắt cô không mang chút do dự nào: "Anh về đi. Đừng dính vào việc này nữa."
 
-Kael đứng dậy, gật đầu một cái khó nhọc, và rời khỏi căn phòng để lại mùi mồ hôi và dầu sắt sau lưng. Khi cửa đóng lại, Sera nhìn sang Lira, rồi nhìn xuống thanh kiếm dựa tường, và cô biết quyết định lộ diện này sẽ kéo cô thẳng vào ngục tối của Giáo Hội — nơi cô sẽ gặp một người mà cả Đoàn từng sợ hãi. Nhưng trước khi đến đó, còn một đứa trẻ cần được kéo ra khỏi hầm, và cô không có đường lui.
+Kael đứng dậy, gật đầu một cái khó nhọc, và rời khỏi căn phòng để lại mùi mồ hôi và dầu sắt sau lưng. Khi cửa đóng lại, Sera nhìn sang Lira, rồi nhìn xuống thanh kiếm dựa tường, và cô biết quyết định lộ diện này sẽ kéo cô thẳng vào ngục tối của Giáo Hội — nơi cô sẽ gặp một kẻ mà cả Đoàn từng sợ hãi, một người mang cái tên Fenris, và cuộc đối mặt đó sẽ diễn ra sớm hơn cô tưởng, khi cô bước chân vào Chương 55 của chính cuộc đời mình. Nhưng trước khi đến đó, còn một đứa trẻ cần được kéo ra khỏi hầm, và cô không có đường lui.
 
 ---
 

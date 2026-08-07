@@ -30,6 +30,8 @@ Khi Sera quay đi rời khỏi gian hàng, Kael gọi cô lại bằng một gi�
 
 Sera dừng bước, không quay lại. Cô hiểu điều hắn nói — không phải về nhiệt độ, mà về sự hiện diện. Cô đã mất cái lạnh của người sống sót đơn độc, thay vào đó là cái nặng của người mang theo một quyết định không thể rút lại. Cô bước vào bóng tối của con phố đá, để lại Kael với cái bình dầu và những thanh kiếm gãy, và cô biết thông tin hắn vừa cho có thể là mạng sống của em trai Lira — hoặc cái bẫy mà Mordren đã giăng sẵn từ trước khi cô bước chân vào thành.
 
+Kael đứng trong gian hàng trống vắng sau khi cô đi khuất, nhìn xuống đôi tay chai sần của mình, và hắn biết rằng dù hắn đã xây lại một cuộc đời ở đây, dù hắn có vợ có con có cửa hàng, thì món nợ với Đoàn vẫn còn đó — một thề ước xưa cũ rằng hắn sẽ bảo vệ những người còn lại, và giờ đây hắn trả món nợ đó bằng thông tin này, dù hắn cũng hiểu rõ rằng chính thông tin này có thể đẩy hắn vào họng súng của Giáo Hội. Hắn đã kéo chính mình và gia đình trở lại vào vòng nguy hiểm mà hắn từng chạy trốn, và cái giá của sự cứu rỗi ấy hắn sẽ trả sau này, ở một nơi xa hơn Caelmyr rất nhiều — nơi những con đường dẫn về Pale Frontier mở ra trước chân trời tím.
+
 ---
 
 *→ [Chương 48: Vào Thành](2b-ch46-50.md)*
