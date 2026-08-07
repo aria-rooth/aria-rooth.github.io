@@ -3,49 +3,27 @@ layout: ../../../../layouts/ChapterLayout.astro
 chapter: 50
 story: "/works/aethermoor/trong-the"
 total: 66
-title: "Chương 50: Bản Vẽ"
+title: "Chương 50: Mordren Phản Ứng"
 ---
 
-Lửa tàn. Sera ngồi xuống bên đống tro, cách Huyền Môn Cốt một dặm về phía đông. Hang đất tối, đất khô, không có gì ngoài cô và thanh kiếm.
+Sáng hôm sau, cả Caelmyr thức dậy dưới hàng rào an ninh siết chặt hơn — những đội Tuần Tra Giáo Hội tuần tra từng con phố theo cặp, những chốt chặn dựng lên ở mỗi ngã tư, và không một gian hàng nào mở cửa trước khi bị khám xét ít nhất một lần. Sera ngồi trong căn phòng trọ hẹp, nhìn xuống con phố đá qua khe cửa sổ, và cô thấy Mordren đã thay đổi lịch trình: hắn không còn bước ra giáo đường lúc trưa, không còn đi bộ qua những con đường công khai. Hắn biến mất vào bên trong trụ sở, như một con thú đã rút vào hang sâu sau khi ngửi thấy mùi lửa.
 
-Cô đặt kiếm lên đùi. Nhắm mắt.
+Nhưng hắn không rút lui. Cô cảm nhận được điều đó qua Thệ Vang — bốn mươi lăm mảnh vẫn rung lên theo tần số của một ý chí đang chuẩn bị, không phải đang bỏ chạy.
 
-Aldric dạy: im lặng, nghe một, hiểu, dẫn, lực, dùng. Sáu bước. Cô chưa từng làm đủ sáu bước — trước đây Thệ Vang tự chảy, cô chỉ đứng nhìn. Lần này cô chủ động.
+Kael mang tin đến lúc chiều tà, lén lút qua cửa sau nhà trọ với chiếc mũ trùm sâu và bước chân của kẻ không muốn bị ai nhớ mặt. Hắn thở dốc, mồ hôi chảy dọc thái dương, và khi hắn ngồi xuống đối diện Sera, giọng hắn thì thầm vỡ vụn: "Hắn ra lệnh tìm cô không phải để giết, mà để bắt sống. Hắn muốn biết cô biết gì — về Dự án, về Đoàn, về những gì cô mang trong kiếm."
 
-Im lặng. Cô nghe tim mình. Rồi nghe qua tim — vào trong.
+Sera không mở miệng ngay. Cô nhìn sang Lira, người đang quấn lại vết thương ở cánh tay, rồi nhìn lại Kael, và cô hiểu rằng trò chơi đã đổi luật. Mordren không săn cô để giết — hắn săn cô để hút cạn thông tin, và một người bị bắt sống còn nguy hiểm hơn người chết gấp vạn lần.
 
-Thệ Vang không ồn như mọi khi. Nó chờ. Bốn mươi bảy mảnh, mỗi mảnh một giọng, nhưng lần này chúng không nói cùng lúc. Chúng xếp hàng. Mảnh đầu tiên — gần nhất — là Jorin.
+Cô đứng dậy, đi đến bàn gỗ, và lấy cuộn sổ nhỏ ra. Ngọn nến trên bàn lay động, bóng cô kéo dài trên vách tường như một cái cây đơn độc giữa đồng trống. "Không trốn nữa," cô nói, giọng rơi xuống theo nhịp quyết định cuối cùng. "Tôi sẽ để hắn tìm thấy tôi — nhưng theo cách của tôi."
 
-Nghe một. Giọng Jorin không phải lời. Là hình ảnh: cánh trái. Hàng ngũ vỡ. Một mũi tên — không, ba mũi tên — cắm vào vai, vào sườn. Jorin đứng. Jorin không lùi. Người bên cạnh hắn — trẻ hơn, sợ hãi hơn — chạy về phía sau. Jorin giơ khiên, che. Mũi tên thứ tư. Ngực.
+Lira ngẩng lên, đôi mắt cô ta hẹp lại, nhưng không hỏi. Cô ta đã học được rằng khi Sera nói một câu như vậy, mọi lời can ngăn đều vô nghĩa.
 
-Hiểu. Jorin không vô tội. Hắn đã giết — Sera thấy bàn tay hắn đỏ trong ký ức khác, những trận chiến không sạch, những mạng người không phải lính. Hắn nợ. Nhưng mảnh này không phải nợ máu. Mảnh này là nợ mạng: hắn nợ người lính trẻ kia một mạng — và hắn đã trả bằng mạng mình. "Bên trái" không phải chỉ đường. Là nơi hắn chết để người khác sống.
+Sera ghi chú lên cuộn sổ, mực đen chảy dọc trang giấy cũ: đưa tin giả qua chủ quán trọ — nói cô đang ở phía Bắc, nói cô sẽ tấn công kho tiếp tế ở rìa thành, nói bất cứ điều gì khiến Mordren phái người đi hướng đó. Và khi đoàn truy bắt của hắn rời khỏi thành về phía Bắc, cô sẽ ở phía Nam — bước thẳng vào trụ sở Giáo Hội từ cửa sau, nơi không ai canh vì ai cũng nhìn về hướng ngược lại.
 
-Dẫn. Sera không phán xét. Cô thấy sự thật — hắn giết, hắn nợ, hắn trả. Không tha thứ, không lên án. Chỉ hoàn thành. Cô dẫn mảnh thề ước của hắn về đúng chỗ: nợ đã trả, thề đã trọn.
+Cô đóng cuộn sổ lại, quay sang Kael, và ánh mắt cô không mang chút do dự nào: "Anh về đi. Đừng dính vào việc này nữa."
 
-Lực. Kiếm rung. Không phải nặng — là nhẹ. Một phần trọng lượng rời khỏi vai cô, rời khỏi lưỡi kiếm, tan vào không khí như khói lửa tàn.
-
-Dùng. Cô mở mắt.
-
-Kiếm trên đùi. Nhẹ hơn. Cô biết — không cần cân, không cần đếm — cô biết. Bốn mươi bảy. Bốn mươi sáu.
-
-Lãnh vực quanh cô — Thệ Vang — không ồn. Lần đầu tiên kể từ đêm diệt môn, nó yên. Không phải im lặng của cái chết. Là im lặng của thứ vừa được trả xong.
-
-Sera nhìn xuống đất. Ngón tay cô viết một cái tên lên lớp bụi: Jorin. Không phải để tưởng nhớ. Để ghi nhận — một mảnh đã xong, một người đã trả.
-
-Cô đếm lại. Bốn mươi sáu. Ba ngày. Mỗi mảnh một giờ — không đủ. Cô cần nhanh hơn. Mordren có thể đến bất cứ lúc nào; cô không thắng nổi hắn, chỉ có thể phá cổng trước. Mà cổng thì cần lãnh vực ổn định. Lãnh vực thì cần bốn mươi sáu mảnh.
-
-Cô nhắm mắt lần nữa. Nghe mảnh tiếp theo.
-
-Giọng khác. Không phải Jorin. Một người phụ nữ — giọng trầm, đều, kiểu người đã ra lệnh nhiều năm. Thề ước khác. Không phải nợ mạng. Thứ gì đó dài hơn, phức tạp hơn — một lời hứa bị bỏ dở giữa chừng, một cái tên chưa được nói trọn.
-
-Sera ghi nhận. Mảnh thứ hai: người phụ nữ. Chưa giải quyết — nhưng giờ cô biết cách. Im lặng, nghe một, hiểu, dẫn, lực, dùng.
-
-Cô đứng dậy. Kiếm bên hông, nhẹ hơn một bậc. Bốn mươi sáu mảnh còn lại đứng đó — nhưng lần đầu tiên, chúng không đè lên cô. Chúng chờ.
-
-Sera bước ra khỏi hang. Đất khô, trời tối, Huyền Môn Cốt đứng lặng phía sau — một khối đen hút sáng, hút Aether, chờ người đến mở. Cô không nhìn lại. Cô đếm bước. Một. Hai. Ba.
-
-Bốn mươi sáu. Ba ngày. Bắt đầu.
+Kael đứng dậy, gật đầu một cái khó nhọc, và rời khỏi căn phòng để lại mùi mồ hôi và dầu sắt sau lưng. Khi cửa đóng lại, Sera nhìn sang Lira, rồi nhìn xuống thanh kiếm dựa tường, và cô biết quyết định lộ diện này sẽ kéo cô thẳng vào ngục tối của Giáo Hội — nơi cô sẽ gặp một người mà cả Đoàn từng sợ hãi. Nhưng trước khi đến đó, còn một đứa trẻ cần được kéo ra khỏi hầm, và cô không có đường lui.
 
 ---
 
-*→ [Chương 51–55](2b-ch51-55.md)*
+*→ [Chương 51: Nhà Kho Bỏ Hoang](2b-ch46-50.md)*

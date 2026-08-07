@@ -3,33 +3,29 @@ layout: ../../../../layouts/ChapterLayout.astro
 chapter: 49
 story: "/works/aethermoor/trong-the"
 total: 66
-title: "Chương 49: Ba Ngày"
+title: "Chương 49: Đốt Kho"
 ---
 
-Hang đất cách Huyền Môn Cốt một dặm. Đất cạn, đá đen, không có gì sống ngoài Sera và thanh kiếm trên tay. Bốn mươi sáu mảnh còn lại. Cô ngồi xuống, đặt kiếm ngang gối, nhắm mắt.
+Đêm xuống như một tấm vải đen phủ lên Caelmyr, và Sera cùng Lira rời căn phòng trọ khi những ô cửa sổ cuối cùng trong thành tắt đèn, chỉ còn ánh trăng mờ ảo vương lên những bức tường trắng vôi. Họ đi về phía Đông, nơi kho vũ khí của đoàn tùy tùng Mordren nằm tách biệt sau một dãy nhà kho bỏ hoang, và mỗi bước chân trên nền đá lạnh mang theo tiếng vọng của quyết định họ vừa tuyên chiều hôm đó.
 
-Im lặng. Nghe một. Hiểu. Dẫn. Lực. Dùng.
+Sera mở Thệ Vang trước khi đến nơi — không phải để chiến đấu, mà để nghe. Bốn mươi lăm mảnh thệ ước trong lồng ngực cô rung lên như những chiếc ăng-ten nhỏ, mỗi mảnh một tần số, và giọng của Jorin dẫn đường qua bóng tối, chỉ cho cô vị trí của từng người lính canh trước khi họ kịp thở một nhịp. Cô cảm nhận được sáu điểm nhiệt độ khác biệt phía trước — sáu thân hình, sáu nhịp tim, sáu thanh kiếm còn nằm trong vỏ vì chưa ai báo động.
 
-Sera chọn mảnh Mordren Chấp Sự trước — dù biết mảnh này thuộc về người đang sống, đang bị giam, và việc nghe nó có thể làm lộ vị trí của cô. Cô cần hiểu thề ước của ông trước khi giải cứu. Thông tin từ mảnh này quyết định kế hoạch xâm nhập Trụ sở Bắc Caelmyr. Cô đã dành ba ngày qua để vẽ lại sơ đồ hành lang từ trí nhớ của Jorin, người từng bị giam ở đó trước khi chết dưới tay lính canh. Nhưng sơ đồ chỉ là xương. Thề ước của Mordren Chấp Sự là thịt — thứ quyết định ông sẽ nói gì, im gì, và liệu ông có thể dẫn họ qua cổng sau mà không chạm vào báo động. Sera không tin vào may mắn. Cô tin vào việc biết trước một bước. Mảnh này là bước đó.
+"Ba tên bên trái, hai tên ở cửa kho, và một tên tuần tra phía sau," cô thì thầm, giọng đều và khô, không vượt quá tiếng gió qua kẽ đá.
 
-Kiếm rung. Không phải tiếng ồn — là một giọng. Giọng Mordren Chấp Sự, trẻ hơn, vang từ ba mươi năm trước. Giọng vang lên từ một buổi tối mùa đông, khi ông còn là một sĩ quan trẻ của Đoàn, đứng trước một cánh cổng đá đen mà ông không được phép hỏi tên. Sera cảm nhận được sự run rẩy trong giọng nói đó — không phải sợ hãi, mà là sự cẩn trọng của người biết mình đang đặt cược cả sự nghiệp vào một lời thề.
+Lira gật đầu, rút dao ngắn, và hai người tách ra theo hai hướng như thể họ đã luyện tập động tác này hàng trăm lần thay vì chỉ mới đi cùng nhau từ sau quán trọ. Sera lướt vào bóng tối với thanh kiếm đã rút, lưỡi thép phản chiếu ánh trăng thành một vệt xanh mờ, và cô tấn công tên canh gần nhất trước — một nhát chém chéo qua cổ, nhanh đến mức hắn ngã xuống trước khi hiểu chuyện gì xảy ra.
 
-"Ta thề. Ta sẽ không nói về Huyền Môn Cốt. Không nói với ai. Không viết. Không để lại dấu vết."
+Bốn phút là tất cả thời gian họ cần để hạ gục sáu lính canh và dọn đường vào kho.
 
-Sera mở mắt. Không phải nợ mạng như Jorin. Đây là nợ im lặng. Mordren Chấp Sự đã thề giữ kín điều gì đó về cánh cổng đá đen — cánh cổng mà Sera vừa khảo sát sáng nay. Ông biết về Huyền Môn Cốt từ trước khi bị bắt. Ông biết từ trước khi Đoàn tan. Điều đó có nghĩa là ông không chỉ là một tù nhân tình cờ bị bắt giữ — ông là người giữ một bí mật mà Mordren Thứ Hai đã săn lùng suốt hai thập kỷ. Sera tự hỏi: ông đã giữ được bao lâu dưới sự tra tấn của Thệ Thiết? Bao nhiêu đêm ông đã chịu đựng trước khi họ nhận ra rằng lời thề của ông mạnh hơn bất kỳ cơn đau nào họ có thể tạo ra? Kiếm nhẹ đi. Một bậc. Bốn mươi lăm.
+Lira xử lý hai tên ở cửa kho bằng những nhát dao gọn gàng vào khe giáp, máu chúng vương lên mặt đất đá ẩm, và Sera quét qua ba tên còn lại như một cơn gió lạnh mang theo lưỡi kiếm thay vì lá. Khi tiếng thét cuối cùng tắt lịm, cô quay về phía kho, đặt ngọn đuốc nhỏ vào đống rơm khô dưới chân tường gỗ, và lửa bùng lên với tiếng rít của nhựa thông bắt lửa.
 
-Nhưng Sera nhận ra sự thật: kiếm không nhẹ vì thề ước biến mất. Nó nhẹ vì cô chọn mang. Thề ước không bị giải phóng — nó được chuyển hóa. Từ gánh nặng thành lựa chọn. Cô chọn nghe. Cô chọn hiểu. Cô chọn hoàn thành. Cô đã từng nghĩ rằng việc giải phóng thề ước là một hành động phá hủy — xóa bỏ một món nợ, xóa bỏ một gánh nặng. Nhưng bây giờ cô hiểu rằng nó giống như việc nhặt một hòn đá từ lòng sông và đặt nó vào túi mình. Hòn đá vẫn còn đó. Nó chỉ đổi chủ. Và Sera, không giống như những người thề ước trước đây, không có ý định để hòn đá đó rơi xuống đáy.
+Một tiếng rên vang lên bên cạnh cô — Lira ôm cánh tay trái, nơi một nhát chém lướt qua để lại vệt máu dài trên lớp vải áo. Vết thương không sâu, nhưng đủ để cô ta nghiến răng, quấn vội một dải băng từ túi áo, và gật đầu báo hiệu vẫn đi được.
 
-"Im lặng," Sera nói với không khí. "Ông thề im lặng về cổng. Cổng không phải để mở."
+Họ chạy vào bóng tối đúng lúc ngọn lửa nuốt trọn kho vũ khí, và từ xa — từ một cửa sổ sáng đèn trên tầng cao của trụ sở Giáo Hội — Mordren quay đầu nhìn về phía đám cháy. Hắn không vội vàng, cũng chẳng hô hào, mà chỉ đứng đó với bóng hình in lên tấm rèm, và Sera biết hắn đã thấy. Hắn đã biết từ trước khi lửa bùng lên.
 
-Câu nói rơi vào hang đất, không ai nghe. Nhưng Sera biết: giải phóng thề ước này sẽ giải phóng Mordren Chấp Sự khỏi lời thề — ông sẽ có thể nói. Và Mordren Thứ Hai biết điều đó. Đó là lý do ông ta giữ Mordren Chấp Sự sống, giam trong hầm đôi, khóa Thệ Thiết. Ông ta không giết Mordren Chấp Sự vì ông ta cần thông tin — ông ta giữ ông sống vì ông ta sợ điều gì sẽ xảy ra nếu lời thề bị giải phóng mà không có ai kiểm soát. Một người đàn ông có thể nói về Huyền Môn Cốt là một mối đe dọa. Một người đàn ông bị giam cầm, bị bịt miệng bởi chính lời thề của mình, là một công cụ. Mordren Thứ Hai đã biến lời thề thành nhà tù thứ hai — và Sera vừa mở khóa nó từ xa.
+"Hắn thấy chúng ta," Lira nói khi họ nghỉ thở dưới chân một bức tường đá, tay cô ta siết chặt vết thương đã quấn băng. "Hắn để chúng ta làm."
 
-Sera đếm lại. Bốn mươi lăm. Ba ngày cho tất cả. Mordren Thứ Hai còn sáu ngày. Cửa sổ vẫn mở — nhưng hẹp hơn cô nghĩ. Cô đã tính toán sai về tốc độ của mình. Mỗi mảnh không chỉ là một câu chuyện — nó là một quyết định, một sự lựa chọn về việc ai sẽ mang gánh nặng tiếp theo. Và mỗi lần cô nghe, cô không chỉ nhận thông tin — cô nhận trách nhiệm. Ba ngày có thể là quá ít nếu cô không chọn đúng mảnh. Nhưng cô không có lựa chọn nào khác. Cô đã đi quá xa để quay lại.
+Sera nhìn lên cửa sổ sáng đèn đó, cảm nhận được áp lực của sự hiện diện Mordren từ xa, và cô hiểu rằng đám cháy này không phải là đòn đánh bất ngờ. Nó là một tín hiệu — và Mordren đã nhận được, rồi ghi nhớ, rồi chuẩn bị cho lần gặp mặt mà cô không thể tránh khỏi.
 
-Cô đứng dậy, kiếm trên tay, nhẹ hơn một bậc. Cô bước ra khỏi hang, nhìn về phía cổng đá đen hút sáng ở chân trời. Một ý nghĩ lạnh chạy dọc sống lưng: nếu Mordren Chấp Sự biết về cổng, và Mordren Thứ Hai biết ông biết — thì cuộc đua không chỉ là ai đến trước. Cuộc đua là ai hiểu cổng trước. Sera đã nhìn cổng từ xa suốt hai ngày qua, ghi nhận cách ánh sáng bị hút vào bề mặt đá, cách không có bóng đổ từ nó, cách ngay cả gió cũng dường như tránh xa. Cô đã nghĩ rằng đó là một cánh cổng bị bỏ hoang. Bây giờ cô biết rằng nó không bao giờ bị bỏ hoang — nó chỉ đang chờ người hiểu nó.
+---
 
-Sera quay vào hang. Cô cần nghe mảnh tiếp theo. Nhưng trước khi nhắm mắt, cô dừng lại — một tiếng động nhỏ từ phía lùm cây ngoài hang. Không phải thú. Quá đều, quá có chủ đích. Sera ghi nhận: ai đó đang quan sát. Cô không truy tìm. Cô để dấu vết đó sống — vì nếu kẻ quan sát muốn hại cô, hắn đã tấn công. Kẻ quan sát đang chờ. Sera cũng chờ. Cô đã học được từ những năm tháng trong Đoàn rằng sự kiên nhẫn là vũ khí mạnh nhất — và rằng những kẻ quan sát thường là những người sợ hành động nhất. Nếu hắn muốn tiếp cận, hắn sẽ phải tự lộ diện. Và khi hắn làm vậy, Sera sẽ sẵn sàng.
-
-Cô nhắm mắt. Im lặng. Nghe một. Hiểu. Dẫn. Lực. Dùng.
-
-Mảnh tiếp theo.
+*→ [Chương 50: Mordren Phản Ứng](2b-ch46-50.md)*
