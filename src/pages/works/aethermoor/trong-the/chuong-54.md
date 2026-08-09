@@ -56,7 +56,7 @@ Mordren cúi đầu, giọng trầm xuống thành một thứ gì đó gần nh
 
 Mordren im lặng rất lâu, cái im lặng của người đã nghi ngờ điều tương tự từ lâu nhưng chưa bao giờ dám nói thành lời. Rồi ông ngẩng lên, đôi mắt trống rỗng nhưng kiên quyết.
 
-"Đúng. Tôi biết rõ, nhưng không tin. Không tin thì bị bắt. Bị bắt thì bị giam. Bị giam thì không nói được. Im lặng kéo dài, anh tôi tưởng tôi vẫn đồng ý, nên chưa giết ngay. Đợi, đợi cho đến khi cô đến."
+"Đúng. Tôi biết rõ, nhưng không tin. Nếu hắn không tin, sẽ bắt. Bắt rồi thì giam, mà đã giam thì không còn cơ hội nói điều gì với hắn nữa. Im lặng kéo dài, anh tôi tưởng tôi vẫn đồng ý, nên chưa giết ngay. Đợi, đợi cho đến khi cô đến."
 
 "Tôi không phải để cứu ông," Sera nói, "tôi đến để phá Dự Án."
 
