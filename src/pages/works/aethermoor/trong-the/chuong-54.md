@@ -40,7 +40,7 @@ Sera nghe và đếm từng từ, nhận ra Pale Frontier không chỉ xa mà c�
 
 Mordren nhìn kiếm, nhìn rất lâu, ánh mắt ông trĩu nặng như đang nhìn thấy cái chết của cả một Đoàn người, rồi lắc đầu.
 
-"Không. Thệ Hạch vỡ không còn nguyên vẹn, Giáo Hội cần một Thệ Hạch nguyên vẹn để mở cổng."
+"Không. Thệ Hạch vỡ là không nguyên, không nguyên thì không mở cổng được. Giáo Hội cần Thệ Hạch nguyên."
 
 "Hai của ai?"
 
@@ -52,11 +52,11 @@ Sera hiểu rằng an toàn ở đây không có nghĩa là không bị đe dọ
 
 Mordren cúi đầu, giọng trầm xuống thành một thứ gì đó gần như thì thầm. "Vì tin. Tin là Thần Đế trở lại sẽ mang trật tự, chấm dứt tám trăm năm hỗn loạn. Tám thế kỷ quá dài, thế giới đã vỡ nát cần được gắn lại."
 
-"Thần Đế gây Thần Chiến," Sera nói, giọng sắc hơn cô tưởng. "Hắn gây ra Thần Chiến, và Thần Chiến là hủy diệt, không phải trật tự."
+"Thần Đế gây Thần Chiến," Sera nói, giọng sắc hơn cô tưởng. "Gây là hủy diệt. Hủy diệt không phải trật tự."
 
 Mordren im lặng rất lâu, cái im lặng của người đã nghi ngờ điều tương tự từ lâu nhưng chưa bao giờ dám nói thành lời. Rồi ông ngẩng lên, đôi mắt trống rỗng nhưng kiên quyết.
 
-"Đúng. Tôi biết rõ, nhưng không tin, và không tin nghĩa là hắn sẽ bắt cô, giam cô lại, không cho cô cơ hội nói thêm lời nào. Im lặng kéo dài, anh tôi tưởng tôi vẫn đồng ý, nên chưa giết ngay. Hắn đợi cho đến khi cô đến."
+"Đúng. Tôi biết rõ, nhưng không tin. Không tin thì bị bắt. Bắt rồi thì giam, mà đã giam thì không nói được. Im lặng kéo dài, anh tôi tưởng tôi vẫn đồng ý, nên chưa giết ngay. Đợi, đợi cho đến khi cô đến."
 
 "Tôi không phải để cứu ông," Sera nói, "tôi đến để phá Dự Án."
 
