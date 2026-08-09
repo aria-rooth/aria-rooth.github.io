@@ -56,7 +56,7 @@ Hành lang mười hai bước, rẽ trái, tám bước. Lính canh xa, không 
 
 Sera dừng lại trước phòng Fenris, gõ nhẹ hai lần. Cửa không khóa, vì Fenris không nguy hiểm. Không nguy hiểm nên không cần khóa, Mordren coi thường, coi thường là lỗ hổng.
 
-Cửa mở và Fenris đứng đó, kiểu người già, chậm, chống tay vào tường để giữ mình, sẵn sàng thì cùng đi.
+Cửa mở và Fenris đứng đó, chậm rãi, chống tay vào tường để giữ người, dáng vẻ của một ông già đã sống quá lâu, sẵn sàng thì cùng đi.
 
 "Nhanh," Sera nói, chỉ một từ gọn ghẽ.
 
