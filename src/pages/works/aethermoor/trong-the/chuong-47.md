@@ -42,7 +42,7 @@ Sera bước vào gian hàng, lần đầu tiên cô đứng gần hắn, cô nh
 
 "Vợ con anh thế nào?" Sera hỏi.
 
-Kael nhìn về phía cửa sau, nơi ánh đèn vàng từ phòng ngủ vợ hắn tỏa ra qua khe cửa hẹp, và hắn nói, giọng mềm hơn, nhưng vẫn mang theo vị sắt máu của lời thề cũ: "Tôi sẽ nói với vợ rằng tôi cần đi ba ngày vì công việc buôn bán. Cô ấy sẽ không hỏi thêm vì cô ấy đã quen với việc tôi biến mất vài ngày mỗi tháng để giao hàng ở vùng ngoại ô. Ba ngày, không hơn."
+Kael nhìn về phía cửa sau, nơi ánh đèn vàng từ phòng ngủ vợ hắn tỏa ra qua khe cửa hẹp, và hắn nói, giọng mềm mại hơn, nhưng vẫn mang theo vị sắt máu của lời thề cũ: "Tôi sẽ nói với vợ rằng tôi cần đi ba ngày vì công việc buôn bán. Cô ấy sẽ không hỏi thêm vì cô ấy đã quen với việc tôi biến mất vài ngày mỗi tháng để giao hàng ở vùng ngoại ô. Ba ngày, không hơn."
 
 Sera gật đầu, cô không cảm ơn hắn vì cô biết cảm ơn sẽ khiến hắn cảm thấy thoải mái hơn, và hắn không đáng được thoải mái lúc này. Hắn đang đưa gia đình mình vào vòng nguy hiểm mà hắn từng chạy trốn, và cái giá của sự cứu rỗi ấy hắn sẽ trả sau này.
 

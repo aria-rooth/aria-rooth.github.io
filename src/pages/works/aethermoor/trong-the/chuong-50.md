@@ -32,7 +32,7 @@ Và khi đoàn truy bắt của hắn rời khỏi thành về phía Bắc, khi 
 
 Cô đóng cuộn sổ lại, quay sang Kael, và ánh mắt cô không mang chút do dự nào. Sự kiên định trong đôi mắt đó khiến Kael phải lùi lại nửa bước, vì nó không giống ánh mắt của một cô gái, mà giống ánh mắt của người đã đặt cược cả mạng sống vào một nước đi duy nhất.
 
-"Anh về đi." Sera nói, giọng mềm nhưng không cho phép cãi lại. "Đừng dính vào việc này nữa. Nếu Mordren bắt được anh, hắn sẽ dùng anh để tìm tôi, và lúc đó mọi thứ sụp đổ hết."
+"Anh về đi." Sera nói, giọng mềm mại nhưng không cho phép cãi lại. "Đừng dính vào việc này nữa. Nếu Mordren bắt được anh, hắn sẽ dùng anh để tìm tôi, và lúc đó mọi thứ sụp đổ hết."
 
 Kael đứng dậy, gật đầu một cái khó nhọc, và rời khỏi căn phòng. Hắn để lại mùi mồ hôi và dầu sắt sau lưng, bước chân hắn dần xa trên hành lang gỗ, rồi im bặt khi cánh cửa sau khép lại. Tiếng then cài vang lên gọn gàng, và căn phòng trở nên tĩnh lặng đến nghẹt thở.
 
