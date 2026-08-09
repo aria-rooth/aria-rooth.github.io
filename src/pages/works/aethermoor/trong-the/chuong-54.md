@@ -56,11 +56,11 @@ Mordren cúi đầu, giọng trầm xuống thành một thứ gì đó gần nh
 
 Mordren im lặng rất lâu, cái im lặng của người đã nghi ngờ điều tương tự từ lâu nhưng chưa bao giờ dám nói thành lời. Rồi ông ngẩng lên, đôi mắt trống rỗng nhưng kiên quyết.
 
-"Đúng. Tôi biết rõ, nhưng không tin. Không tin thì bị bắt. Bắt rồi thì giam, mà đã giam thì không nói được. Im lặng kéo dài, anh tôi tưởng tôi vẫn đồng ý, nên chưa giết ngay. Đợi, đợi cho đến khi cô đến."
+"Đúng. Tôi biết rõ, nhưng không tin, và tin hay không thì hắn cũng sẽ giam cô lại. Im lặng kéo dài, anh tôi tưởng tôi vẫn đồng ý, nên chưa giết ngay. Đợi, đợi cho đến khi cô đến."
 
 "Tôi không phải để cứu ông," Sera nói, "tôi đến để phá Dự Án."
 
-"Biết." Mordren gật đầu, một cái gật đầu của người đã chấp nhận vận mệnh mà không cần giải thích thêm. "Nhưng cô đến thì tôi sống. Tôi sống thì nói được. Nói được thì cô biết nhiều hơn. Biết nhiều hơn thì đúng hơn. Đúng hơn thì tôi giúp được. Giúp bằng cách đi cùng, tự đi chậm, nhưng không dừng."
+"Biết." Mordren gật đầu, một cái gật đầu của người đã chấp nhận vận mệnh mà không cần giải thích thêm. "Nhưng cô đến thì tôi sống, còn sống thì còn nói được điều gì đó có giá trị với cô."
 
 Sera gật đầu, chấp nhận logic thực dụng của ông: một đồng minh biết rõ giới hạn bản thân còn hơn một kẻ kiêu ngạo đòi được cõng. Cô quay sang thấy Lira ngồi mười bước phía xa, mắt không rời cuộc đối thoại, mỗi lời nói đều là thông tin, và thông tin chính là thứ Lira thu thập bằng cách nghe mà không hỏi. Kael ngồi cạnh Mordren, im lặng lắng nghe, học hỏi lý do tại sao cả nhóm đang đi về hướng chết, và thấy đủ để không cần đặt thêm câu hỏi nào. Calla thì ngửa mặt nhìn lên tán cây cao, đôi mắt theo dõi những tán lá đan xen trên đầu, sự che chở từ những thân gỗ vững chắc nhắc cô về thứ gì đó xa xưa, không phải Caelmyr hay bất kỳ nơi nào cụ thể, chỉ là an toàn khi được cây cối bao quanh.
 
