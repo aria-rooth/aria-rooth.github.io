@@ -3,105 +3,43 @@ layout: ../../../../layouts/ChapterLayout.astro
 chapter: 53
 story: "/works/aethermoor/trong-the"
 total: 66
-title: "Chương 53: Cửa Phía Tây"
+title: "Chương 53: Một Mình Trong Caelmyr"
 ---
 
-Hang đất cách Huyền Môn Cốt một dặm, đất khô nứt nẻ tuyệt không một bóng cỏ. Cổng hút Aether khiến đất quanh nó chết dần, chết dần, chẳng còn gì sống sót. Sera ngồi xuống, đặt kiếm ngang đùi, rồi nhắm mắt. Aldric từng dạy cô sáu bước: im lặng, nghe một, hiểu, dẫn, lực, dùng. Cô chưa từng làm trọn lần nào, nhưng lần này cô chọn làm.
+Caelmyr về đêm vắng lặng đến mức tiếng bước chân của một người cũng vọng ra xa. Con đường phía nam chỉ còn một ngọn đèn dầu leo lét ở giao lộ, ánh sáng vàng nhạt soi rõ vài thước đất rồi tắt hẳn trong bóng tối dày đặc. Sera đi một mình trên con đường đá, không Lira bên cạnh, không Kael phía sau, không bất kỳ ai. Bóng đêm bao phủ hoàn toàn, và cô trở thành nguồn chuyển động duy nhất trong không gian tĩnh mịch.
 
-Thệ Vang dậy, bốn mươi bảy mảnh mỗi mảnh một giọng, chưa phải lời mà là áp lực. Cô không nghe tất cả, chỉ nghe một, Jorin, ông nói "Bên trái", hai từ ông từng dạy cô đọc địa hình: "luôn nhìn bên trái trước, kẻ phục kích thích bên trái." Giờ ông nói lại, đâu phải chỉ dẫn mà là nợ, Jorin nợ mạng vì một người lính trẻ, con trai người chủ quán, đã chết dưới tay ông trong một cuộc đột kích sai lầm. Ông chẳng bao giờ kể, mang nỗi xấu hổ xuống mồ, nhưng giờ nó nằm trong kiếm.
+Từ khi Lira quay về phía Bắc, cô đã đi được ba ngày. Ba ngày không nói với ai một lời, không cần giải thích mình đi đâu hay tại sao. Sự im lặng ban đầu có phần khó chịu, nhưng dần dần cô thấy nó hợp lý. Mỗi người có con đường riêng, và con đường của cô giờ đây là một mình bước tiếp.
 
-Sera chẳng phán xét, chẳng dừng lại để hỏi ông có xứng đáng hay không. Cô lắng nghe, hiểu, rồi dẫn, và nói với Thệ Vang rằng ông nợ thì ông trả, cô sẽ hoàn thành thay ông.
+Nhà kho bỏ hoang nằm ở rìa phía nam thành Caelmyr, cách trung tâm phố cổ nửa dặm. Cô đã đến đây một lần trước đó, nhưng lần này cô trở lại với một mục đích khác. Mái ngói đã sập gần hết, chỉ còn vài thanh gỗ ngang chống đỡ một phần còn nguyên. Tường đất nứt thành từng mảng lớn, cỏ dại mọc um tùm trong những vết nứt sâu. Bên trong tối om, mùi ẩm mốc bốc lên nồng nặc, trộn lẫn với mùi gỗ mục và mùi đấtẩm đã bốc hơi từ lâu. Sera đẩy cánh cửa gỗ, bản lề kêu lên ken két, bụi rơi xuống thành từng cụm nhỏ.
 
-Kiếm rung, không bùng nổ mà rung như dây đàn vừa gảy. Mảnh Jorin tách ra, nhẹ nhàng rời khỏi tổng. Bốn mươi bảy còn bốn mươi sáu. Lãnh vực quanh cô, vốn ồn ào chao đảo sẵn sàng nổ, lặng xuống. Không ồn, Thệ Vang yên lần đầu kể từ khi cô nhận kiếm.
+Cô bước vào, đặt Thệ Vang lên phiến đá phẳng ở góc phòng, rồi quay lại sắp xếp lại không gian. Cô dọn sạch một vùng đủ rộng để luyện kiếm, đá vụn và đất được gạt sang hai bên, sàn trở nên phẳng hơn trước. Không thoải mái, nhưng đủ dùng. Một chỗ trú tạm, một nơi luyện tập, và chẳng cần gì hơn.
 
-Sera mở mắt, nhấc kiếm lên từ đùi. Nhẹ hơn, không nhiều nhưng cô đo được. Cô biết quy tắc: kiếm nhẹ khi thệ ước được giải phóng, và giờ cô đã chứng kiến.
+Đêm nào cũng thế, từ khi trở lại Caelmyr. Sera dành hầu hết thời gian ban đêm trong nhà kho, luyện kiếm, luyện thân, luyện hơi thở. Không có đối thủ, không có người chỉ dạy, chỉ có cô và thanh kiếm trong tay. Cô vung kiếm lên, hạ xuống, rồi lặp lại hàng trăm lần. Mỗi nhát rõ ràng, mỗi đường kiếm dài và vững. Mồ hôi ướt đẫm lưng áo, nhưng cô không dừng, không nghỉ, không cho phép bản thân lười biếng. Sự cô độc không phải thứ cô chọn, nhưng nó là thứ cô cần để tiến bộ.
 
-"Xong," cô nói, chẳng thêm gì.
+Aldric từng hỏi cô một câu mà cô nhớ mãi đến tận bây giờ. Câu hỏi đó vọng lại mỗi khi cô dừng nghỉ, mỗi khi cô ngồi xuống dựa vào tường, mệt mỏi nhưng không ngủ được. "Cô đang làm điều này vì ai?" Lão ngồi ở bàn gỗ trong quán trọ nhỏ, tay nâng ly rượu, mắt nhìn cô như thể đang đọc một trang sách chưa ai viết. Sera ngày đó không trả lời được, vì cô cũng chẳng biết.
 
-Lira nhìn vào từ ngoài cửa hang. "Xong cái gì?"
+Vì Đoàn ư? Đoàn đã chết từ lâu rồi. Vì Lira ư? Lira đã tự chọn quay về, không cần cô cứu. Vì chính mình ư? Cô không đủ ích kỷ để thừa nhận điều đó thành lời.
 
-"Mảnh đầu tiên. Jorin."
+Giờ, sau nhiều đêm một mình trong nhà kho tối tăm, cô có câu trả lời. Không phải vì một ai cả. Vì những gì còn lại, tất cả những gì chưa kết thúc. Những người còn sống, những lời còn chưa nói, những việc còn chưa hoàn thành. Không phải vì quá khứ đã mất, mà vì tương lai chưa thành hình. Điều đó nghe có vẻ mơ hồ, nhưng nó là thật, nó đủ mạnh để kéo cô dậy mỗi sáng và đẩy cô đi tiếp mỗi đêm. Và lần đầu tiên trong nhiều năm, cô thấy mình có lý do rõ ràng để cầm kiếm.
 
-Lira lặng thinh vì cô biết giá của việc hỏi. Sera đứng dậy, lặng thinh, không nhắc đến cảm xúc nhưng tay cô, vốn luôn siết chuôi kiếm, giờ buông lỏng. Một chi tiết nhỏ mà Lira thấy nhưng chẳng hề nói. Mordren ho nhẹ, ngoài hang thiếu bức tường phản nên tiếng ho tan vào đất khô.
+Sera nhấc Thệ Vang lên, trọng lượng quen thuộc ép xuống lòng bàn tay. Kiếm nhẹ hơn so với ngày đầu tiên cô nhận nó, nhưng so với bốn mươi ba mảnh thệ ước còn lại trong lưỡi, nó vẫn nặng. Mỗi mảnh mang một giọng nói riêng, một lời hứa riêng, một khoản nợ riêng. Trước đây, khi cô cố lắng nghe tất cả cùng lúc, cô bị tràn ngập. Bốn mươi ba giọng nói cùng lúc, áp lực đè lên, cô gần như bật khóc vì không thể chịu nổi.
 
-"Bao nhiêu còn lại?"
+Nhưng đêm nay, cô thử một cách khác.
 
-"Bốn mươi sáu. Ba ngày. Nếu mỗi mảnh như Jorin."
+Cô chọn một mảnh duy nhất trong bốn mươi ba: mảnh Jorin. Cô tập trung toàn bộ ý thức vào mảnh đó, để bốn mươi hai mảnh còn lại im lặng hoàn toàn. Đây là kỹ thuật mới mà cô tự nghĩ ra sau nhiều đêm luyện tập, không phải ai dạy, không phải sách vở ghi, chỉ là kết quả của sự kiên trì và cô đơn.
 
-"Chúng không giống."
+Jorin trỗi dậy, giọng nói của ông vang lên trong tâm trí cô. Không phải lời nói bằng ngôn từ mà là một chuỗi hình ảnh, ký ức, âm thanh chồng chất lên nhau. Cô thấy bàn tay chai sạn của Jorin khi ông dạy cô cầm kiếm, thấy khuôn mặt ông khi còn sống, thấy những gì ông đã trải qua suốt cuộc đời dài đầy sóng gió. Tất cả dồn đến cùng lúc, rõ ràng và sống động hơn bao giờ hết.
 
-"Biết."
+Rồi cô thấy rõ giới hạn đang ở trước mắt. Ba mươi giây, không hơn không kém. Ba mươi giây trước khi bốn mươi hai mảnh còn lại đồng loạt trỗi dậy, áp lực đè lên, nhấn chìm cô vào biển âm thanh hỗn loạn. Ba mươi giây là tất cả những gì cô có khi chỉ lắng nghe một mảnh duy nhất trong thanh kiếm.
 
-Mordren gật, lặng thinh không thêm lời. Ông đã sống hai mươi năm trong hối hận nên biết giá của từng mảnh nợ.
+Đủ cho một đòn quyết định. Chỉ cần ba mươi giây, cô có thể lao vào, ra một nhát, rồi rút lui trước khi bị nhấn chìm.
 
-Sera ngồi lại, thay vì để nghỉ thì để nghe. Một mảnh khác, sau khi Jorin rời đi, bắt đầu nói to hơn, như thể việc trả nợ đầu tiên đánh thức những mảnh còn lại. Cô ghi nhận mà không vội, vì mỗi mảnh có giá riêng.
+Sera mở mắt, thở dài, kiếm hạ xuống đùi. Cô thất bại lần đầu, vì chưa quen với việc giới hạn bản thân ở một mảnh. Nhưng cô biết mình đã chạm được vào ranh giới, và lần sau sẽ làm tốt hơn. Đêm mai, cô sẽ thử lại.
 
-Calla bước tới, chỉ vào bản vẽ trên đất. "Cổng cao ba người, đá đen không phản chiếu, khóa bằng di vật thần cổ. Bộ Kích Hoạt nằm ở đó, phá nó trước khi Mordren kịp kích hoạt."
+Đêm thứ hai, cô làm lại từ đầu. Cũng mảnh Jorin, cũng tập trung, cũng ba mươi giây. Lần này cô không bị tràn, cô dừng đúng lúc, rút lui trước khi áp lực đè lên. Rồi cô luyện thêm vài đường kiếm dựa trên những gì Jorin truyền đạt, mỗi nhát mang theo một chút ký ức, một chút kỹ thuật của người đã khuất. Kiếm nhẹ hơn một chút, sắc hơn một chút, và cô biết rằng mỗi mảnh được giải phóng sẽ giúp cô tiến thêm một bước.
 
-"Bao xa?"
+Đêm thứ ba, Sera ngồi trong bóng tối của nhà kho, kiếm đặt trên đùi, mắt nhìn lên trần nhà sập một nửa. Trăng đã lên cao, ánh sáng bạc xuyên qua những mảng mái vỡ, phủ lên mặt đất thành những hình thù không đều. Cô nghĩ đến Mordren, nghĩ đến việc ông đang ở đâu, đang làm gì, có còn sống hay không. Ông đã nói sẽ đến, nhưng ông đang ở xa, và thời gian thì không chờ đợi ai cả.
 
-"Một dặm. Đi bộ nửa giờ."
+Cô nghĩ đến điều đó rất lâu, đếm từng hơi thở, từng nhịp tim, rồi cô đứng dậy. Kiếm cầm chắc trong tay, ánh trăng phản chiếu trên lưỡi thép sáng lên một vệt bạc mỏng. Cô không đợi được nữa, thời gian không chờ đợi ai cả. Cô sẽ tìm hắn, tự mình tìm ra hắn.
 
-Sera nhìn bản vẽ, đường nét chính xác vì Calla nhớ kiến trúc như người khác nhớ mặt người thân. "Tối nay, phá Bộ Kích Hoạt rồi quay lại hoàn thành mảnh thứ hai."
-
-"Ba ngày," Mordren nhắc. "Mordren, em tôi, đã đi được nửa đường. Có thể ít hơn."
-
-Sera lặng thinh, đếm trong đầu: nửa đường, ít thời gian hơn cô nghĩ, nhưng giờ cô có công cụ thay vì mối đe dọa. Lãnh vực đã yên, kiếm cũng nhẹ. Cô chọn con đường này chẳng phải vì Đoàn, cũng chẳng phải vì Jorin xứng đáng, mà vì cô chọn.
-
-Cô đứng dậy, nhìn về phía cổng, bóng đen hút sáng giữa đất chết.
-
-"Đi."
-
-Cô bước ra khỏi hang trước, đất khô kêu dưới giày từng bước một tiếng nứt nhẹ, như vỏ bánh mì nướng quá lửa. Cô chẳng ngoái lại, biết Lira đi sau bên phải, tay phải đặt trên cán dao găm theo thói quen cũ từ những ngày làm lính trinh sát, không bao giờ đi giữa đường mà luôn sát mép để có chỗ né. Kael đi sau cùng, một tay đỡ Mordren tay kia cầm bình nước. Calla đi trước, mắt dán xuống đất, đang đọc dấu vết, không nằm ở dấu chân, mà là vết của dòng chảy Aether bị cổng hút lệch đi, những đường cong vô hình in trên đất khô như mạch máu của một cơ thể đang chết.
-
-Nửa giờ đi bộ trong im lặng, chẳng ai lên tiếng. Tiếng duy nhất là tiếng giày trên đất và tiếng thở thất thường của Mordren, có lúc ngắt quãng như ông đang cố giữ cơn ho lại trong cổ họng. Sera chẳng ngoái lại, biết ông chẳng muốn ai nhìn thấy ông yếu. Ông đã sống hai mươi năm trong hối hận, ông có quyền giữ lấy sự im lặng của mình.
-
-Cổng hiện ra sau một gò đất thấp, đâu phải công trình vì vắng bóng tường, vắng trụ, vắng mái. Nó đứng đó như một vết nứt trên không trung, một khe đen cao ba người với mép gồ ghề như vết rách trên vải. Xung quanh nó đất không chỉ khô mà trắng bệch, như bị tẩy trắng vì màu sắc đã bị hút ra khỏi từng hạt cát. Thiếu một bóng cây, thiếu một viên đá nhô lên. Mặt đất phẳng lặng đến mức đáng sợ, một vùng đất đã bị bào mòn bởi thứ gì đó hút mãi, nuốt mãi không ngừng nghỉ.
-
-Calla quỳ xuống cách cổng khoảng ba mươi bước mà không đến gần hơn. Cô vẽ nhanh trên đất, đâu phải bản đồ mà là một chuỗi ký hiệu. Sera đứng sau cô, im lặng quan sát.
-
-"Bộ Kích Hoạt," Calla nói giọng thấp. "Chưa phải vật thể mà là một điểm trên mặt đất, nơi dòng Aether bị bẻ cong nhiều nhất. Nếu phá nó, cổng sẽ không thể mở từ phía này."
-
-"Nó trông như thế nào?"
-
-"Không trông như gì cả. Nó chỉ đơn giản là một điểm. Tôi có thể tìm thấy nó bằng cách đọc dòng chảy, nhưng tôi cần thời gian."
-
-"Bao lâu?"
-
-Calla nhìn lên, mắt cô hơi nheo lại vì đang tính toán chưa phải vấn đề thời gian mà là độ chính xác. "Mười phút. Nếu tôi không bị gián đoạn."
-
-Sera gật, quay sang Lira. "Canh chừng."
-
-Lira lặng thinh, lùi ra xa chọn một vị trí trên gò đất thấp, nơi có thể nhìn thấy cả cổng lẫn con đường họ vừa đi. Cô ngồi xuống đâu phải để nghỉ mà là để thấp xuống, khó bị nhìn thấy, khó bị nhắm tới, tay phải đặt trên dao găm chưa rút ra, chỉ yên lặng đặt.
-
-Sera ngồi xuống cách Calla vài bước. Cô không nhìn cổng mà nhìn Calla, nhìn cách cô ấy di chuyển bàn tay trên đất, cách cô ấy đọc những đường cong vô hình, cách cô ấy dừng lại lắc đầu rồi vẽ lại. Calla không bao giờ vội, cô ấy từng nói: "Kiến trúc chẳng tha thứ cho sự vội vàng. Nó chỉ tha thứ cho sự chính xác."
-
-Mordren ngồi dựa vào một tảng đá, tảng đá duy nhất trong vùng đất trắng, như thể nó đã ở đó trước khi cổng xuất hiện và chưa chịu khuất phục. Kael ngồi cạnh ông, mở bình nước đưa cho ông. Mordren uống một ngụm nhỏ, lặng thinh, Kael cũng im lặng.
-
-Sera nhắm mắt, chẳng phải để nghe Thệ Vang mà cô để nó yên, để nó nghỉ sau khi Jorin rời đi. Cô nhắm mắt để cảm nhận mặt đất dưới chân mình, đất trắng thiếu sự sống nhưng có một rung động rất nhẹ rất sâu, như một mạch đập yếu ớt dưới lớp vỏ khô. Cô chẳng biết đó là gì, chỉ ghi nhận.
-
-"Tìm thấy rồi." Calla đứng dậy, chỉ vào một điểm trên mặt đất cách cổng khoảng mười bước, hơi lệch về bên trái. Chẳng có gì khác biệt, màu sắc hợuniform, không vết nứt, không dấu hiệu. Chỉ là một điểm trên đất trắng. "Ở đó," Calla nói chắc nịch. "Dưới đó khoảng một sải tay. Một viên đá, đâu phải đá tự nhiên. Được đặt, không phải hình thành."
-
-Sera đứng dậy bước tới. Mỗi bước đi mặt đất dưới chân cô càng trở nên im lặng, đó là im lặng của sự chờ đợi chứ đâu phải sự yên bình. Cô dừng lại ở điểm Calla chỉ, quỳ xuống, đặt tay lên đất. Đất lạnh, đâu phải lạnh đêm khuya mà là lạnh của sự vắng mặt. Cô đào, bỏ kiếm mà dùng đôi tay, đất khô vỡ ra dễ dàng như cát như tro, cho đến khi ngón tay cô chạm vào thứ gì đó cứng.
-
-Viên đá, nhỏ, chỉ bằng nắm tay, màu đen không phản chiếu, bề mặt nhẵn như thủy tinh nhưng chẳng lạnh. Nó ấm, chưa phải ấm cơ thể mà là ấm của thứ gì đó đang chuyển động, đang chuyển động bên trong. Sera nhìn viên đá mà chưa chạm vào nó.
-
-"Đây là Bộ Kích Hoạt?"
-
-"Đúng," Calla nói từ phía sau. "Phá nó, cổng sẽ không thể mở từ phía này."
-
-Sera lặng thinh một lúc, nhìn viên đá cảm nhận hơi ấm tỏa ra đều đặn như nhịp thở, một nhịp thở chưa phải của con người mà là của thứ gì đó đang chờ. Cô rút kiếm, Thệ Vang ra khỏi bao chưa hề rung, chưa kêu, chỉ im lặng. Nhưng cô cảm nhận được sự thay đổi, kiếm nhẹ hơn nhưng cũng sắc hơn, như thể việc giải phóng Jorin đã mài sắc lưỡi kiếm theo cách mà đá mài không bì được.
-
-Cô giơ kiếm lên, chỉ khẽ nâng mà đặt đặt lưỡi kiếm lên viên đá đen, nhẹ nhàng như đặt một câu hỏi. Viên đá chưa vỡ ngay, nó chống lại bằng một lực vô hình đẩy ngược lưỡi kiếm, không mạnh nhưng cũng đủ để cô cảm nhận được. Sera chẳng đẩy mạnh hơn, cô giữ nguyên áp lực rồi chờ.
-
-Rồi viên đá nứt, không đến từ lưỡi kiếm mà từ bên trong. Một vết nứt nhỏ chạy dọc bề mặt, rồi một vết nữa, rồi một vết nữa, viên đá vỡ thành từng mảnh nhỏ chẳng phát ra tiếng động, chỉ là sự sụp đổ im lặng như cát chảy qua kẽ tay.
-
-Sera đứng dậy nhìn về phía cổng. Khe đen vẫn đứng đó nhưng đã hết hút, dòng chảy vô hình vô hình kéo Aether về phía nó. Nó chỉ là một vết nứt trên không trung, tối, im lặng, vô hại.
-
-"Xong," cô nói, chẳng thêm gì.
-
-Cô quay lại nhìn Mordren, ông đang nhìn cô chứ đâu phải nhìn cổng hay nhìn viên đá vỡ.
-
-"Bây giờ," Sera nói, "quay lại. Mảnh thứ hai."
-
-Cô chẳng chờ câu trả lời mà bắt đầu đi về phía hang. Đất trắng kêu dưới giày, nhưng lần này tiếng kêu khác đi, không còn là tiếng của sự chết mà là tiếng của sự im lặng đã được giải phóng. Lira đi sau cô lặng thinh, nhưng cô thấy tay Sera, vốn buông lỏng bên hông, giờ nắm lấy chuôi kiếm. Không siết, chỉ nắm như một lời hứa với chính mình.
+Sera bước ra khỏi nhà kho, đường phố Caelmyr về đêm vẫn im lặng như mọi khi, nhưng bước chân cô giờ khác đi. Không còn là bước chân của người đang tìm chỗ trú an toàn. Đó là bước chân của người đang đi về phía trước, về phía mục tiêu mà cô đã chọn, về phía trận chiến mà cô sẽ tự tìm đến thay vì chờ đợi nó đến.
