@@ -52,7 +52,7 @@ Sera hiểu rằng an toàn ở đây không có nghĩa là không bị đe dọ
 
 Mordren cúi đầu, giọng trầm xuống thành một thứ gì đó gần như thì thầm. "Vì tin. Tin là Thần Đế trở lại sẽ mang trật tự, chấm dứt tám trăm năm hỗn loạn. Tám thế kỷ quá dài, thế giới đã vỡ nát cần được gắn lại."
 
-"Thần Đế gây Thần Chiến," Sera nói, giọng sắc hơn cô tưởng. "Gây là hủy diệt. Hủy diệt không phải trật tự."
+"Thần Đế gây Thần Chiến," Sera nói, giọng sắc hơn cô tưởng. "Chiến tranh là hủy diệt, không phải đem lại trật tự."
 
 Mordren im lặng rất lâu, cái im lặng của người đã nghi ngờ điều tương tự từ lâu nhưng chưa bao giờ dám nói thành lời. Rồi ông ngẩng lên, đôi mắt trống rỗng nhưng kiên quyết.
 
