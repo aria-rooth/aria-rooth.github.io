@@ -62,7 +62,7 @@ Cửa mở và Fenris đứng đó, chậm rãi, chống tay vào tường để
 
 Fenris gật đầu mà không hỏi, vì hỏi mất thời gian, và thời gian không đủ.
 
-Hai người đi, Sera trước Fenris sau. Fenris chậm vì chân yếu, vì sáu mươi tuổi, sáu mươi thì không chạy được. Không chạy được thì đi nhanh nhất có thể, nhưng nhanh nhất vẫn chậm hơn Sera muốn. Muốn không quan trọng, quan trọng là cùng đi. Cùng đi vì Fenris biết đường, biết đường thì không lạc, không lạc thì sống.
+Hai người đi, Sera trước Fenris sau. Fenris chậm vì chân yếu, vì sáu mươi tuổi, cơ thể đã mỏi mệt, không còn chạy nhanh được nữa, chỉ còn cách đi nhanh hết sức, nhưng nhanh nhất vẫn chậm hơn Sera muốn. Muốn không quan trọng, quan trọng là cùng đi. Cùng đi vì Fenris biết đường, biết đường thì không lạc, không lạc thì sống.
 
 Phía trước có tiếng chân — hai người, Thẩm Vấn Giả tuần tra ban đêm. Hai người thì Sera đánh được, đánh nhanh trước khi kêu, tiếp viện sẽ đến, sẽ chết.
 
