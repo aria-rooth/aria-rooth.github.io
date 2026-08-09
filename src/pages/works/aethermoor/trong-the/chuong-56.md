@@ -6,84 +6,42 @@ total: 66
 title: "Chương 56: Đếm"
 ---
 
-**Mảnh Đầu Tiên**
+Hầm ngục sâu dưới lòng đất, nơi ánh sáng không bao giờ chạm đến, và Sera ngồi trong bóng tối đặc quánh, lưng tựa vào tường đá gồ ghề, ẩm ướt, rêu mọc thành lớp dày trên bề mặt. Mùi máu cũ bốc lên từ nền đất sét, lẫn với mùi nước tù đọng và phân hủy của những thứ không ai buồn dọn dẹp, tạo thành thứ hương vị khiến dạ dày cô quặn lại mỗi khi thở sâu. Bốn bức tường bao quanh cô không rộng lắm, chỉ vừa đủ cho một người nằm ngửa mà không chạm đầu vào tường, và trần hang chúc xuống phía trước, ép không gian thành hình cái lọng đá chật hẹp.
 
-Hang đất tối. Sera ngồi giữa, kiếm đặt trước mặt — cách tay ba bước, nơi Giáo Hội ném xuống khi chúng khiêng cô qua bãi đá. Cô không nhặt lên. Chưa.
+Dây Thệ Trói vẫn quấn quanh cổ tay cô, hai vòng dây thép mỏng đan xen nhau, bề mặt có khắc những ký tự nhỏ li ti mà cô không đọc được, phát ra thứ ánh sáng đỏ nhạt mỗi khi cô hít vào sâu. Dây không nặng, không đau, không gây khó chịu gì khi cô chỉ ngồi yên, nhưng khi cô cố gọi Aether, ngay cả một tia nhỏ nhất, dây liền siết lại như có sinh mệnh riêng, thít vào da thịt, đè lên mạch máu và gân, khiến bàn tay cô tê buốt đến mức cô tưởng xương ngón tay sắp vỡ ra.
 
-Bốn mươi bảy mảnh Thệ Vang gào trong đầu. Mảnh Jorin — "Bên trái" — nợ mạng. Ông nợ ai đó một mạng, và cái nợ ấy chưa trả. Kiếm nặng vì nó.
+Lần đầu tiên, cô thử chỉ một lần.
 
-Sera nhắm mắt. Aldric dạy: *im lặng, nghe một, hiểu, dẫn, lực, dùng.* Sáu bước. Cô thuộc lòng từng chữ — nhưng chưa từng tin. Đoàn dạy cô ra lệnh cho thề ước, không nghe chúng. Aldric dạy ngược lại: nghe trước, hiểu sau, rồi mới dẫn.
+Không phải vì cô không biết hậu quả. Aldric đã cảnh báo cô từ rất lâu, khi cô còn là đứa trẻ mới bước vào tu luyện, rằng có những thứ trên đời được tạo ra để trừng phạt kẻ dám dùng sức mạnh. Nhưng cô cần biết điều đó, cô cần biết rõ ràng. Cô cần biết dây Thệ Trói thực sự mạnh đến mức nào, và cô cần biết cô có thể chịu được đến đâu.
 
-Cô muốn ép. Ép là nhanh — ba ngày, bốn mươi sáu mảnh, không đủ thời gian để nghe từng tiếng. Bàn tay cô khép lại, sẵn sàng nghiền nát mảnh Jorin bằng lực Linh Chủ.
+Aether trào lên từ đan điền, một tia nhỏ như sợi tóc, men theo kinh mạch hướng về bàn tay phải, và ngay khi nó chạm đến cổ tay, dây thép siết mạnh. Thứ đau không phải đơn thuần, mà là cái gì đó sâu hơn, một lực ép xuyên qua da, xuyên qua thịt, xuyên xuống tận xương, rồi bám vào đó mà giật. Mắt cô trợn trắng, miệng bật ra một tiếng rên ngắn bị nghẹn lại ở cổ họng, và hai chân cô đạp mạnh xuống đất đá, tạo ra hai vết xước nông trên bề mặt ẩm ướt.
 
-Rồi cô nhớ cách Aldric ngồi bên bếp lửa, không nói, chỉ lắng nghe tiếng củi tách. Ông chưa từng ép ai. Ông đợi.
+Đau đến mức cô ngất đi.
 
-Sera mở tay. Đặt lên đùi. Im lặng.
+Không phải ngất hẳn, mà là khoảng trạng thái trung gian giữa tỉnh và mê, nơi ý thức cô trôi nổi trong bóng tối dày đặc, không có phương hướng, không có điểm tựa, chỉ còn nỗi đau lan tỏa từ cổ tay lên cánh tay, rồi lên vai, rồi xuống ngực, rồi lan ra toàn thân như nước độc thấm vào từng tế bào. Cô ở trong trạng thái ấy bao lâu, cô không biết, có thể vài giây, có thể vài phút, và khi cô tỉnh lại, nước mắt đã chảy ướt cằm, và máu rỉ ra từ vết dây thép cắt vào da, nhỏ từng giọt xuống nền đất sét, thấm vào lớp cát mịn và biến mất.
 
-Thệ Vang gào. Bốn mươi bảy giọng, bốn mươi bảy câu chuyện chưa xong. Cô không chọn giọng to nhất. Cô nghe — thật sự nghe — và một giọng lặng hơn những giọng khác kéo cô lại.
+Sera không thử lần thứ hai.
 
-Jorin. "Bên trái."
+Kiếm của cô bị tịch thu rồi. Cô không nhớ chính xác khoảnh khắc đó diễn ra như thế nào, chỉ nhớ đôi tay áo trắng của Giáo Hội túm lấy vai cô khiêng qua bãi đá, và khi cô kịp nhận ra, kiếm đã không còn ở bên cạnh. Không ai nói với cô lý do, không ai giải thích, và cô cũng không hỏi. Họ chỉ lấy đi, như người ta lấy đi vũ khí của tù nhân trước khi nhốt vào hầm, và cô quá mệt để phản kháng.
 
-Không phải chỉ đường. Là tên một người. Jorin nợ mạng một người tên Bên Trái — một đứa trẻ ông không cứu được trong trận chiến năm xưa. Ông sống vì đứa trẻ chết. Nợ ấy chưa trả.
+Đó là lần đầu tiên kể từ đêm Đoàn tan, đêm mà cả thế giới cô biết sụp đổ, đêm mà người duy nhất cô tin tưởng biến mất, mà cô không có kiếm bên cạnh. Không còn Thệ Vang bên cạnh cô nữa. Không bốn mươi bảy mảnh, không bốn mươi ba mảnh, không bất kỳ mảnh nào. Không có tiếng leng keng nhẹ nhàng của kiếm khi cô bước, không có trọng lượng quen thuộc trên lưng, không có sức nặng của bốn mươi bảy mạng người đang chờ được giải thoát.
 
-Sera hiểu. Không phán xét — ông từng giết người không vì lý do chính đáng, thề ước của người không vô tội. Thật. Đúng. Nhưng nợ là nợ.
+Không có gì ngoài im lặng hoàn toàn.
 
-Cô dẫn mảnh Jorin ra khỏi dòng Thệ Vang. Nhẹ nhàng, như dẫn một người mù qua đường. Mảnh ấy không chống lại — nó đã đợi người nghe từ lâu.
+Không phải im lặng của sự tĩnh mịch, mà là im lặng của sự thiếu vắng, một khoảng trống lớn đến mức cô có thể cảm nhận được nó đè lên vai, đè lên ngực, đè lên cả những suy nghĩ đang cố tìm đường trong đầu. Từ khi cô chạm vào thanh kiếm đầu tiên, từ khi những mảnh Thệ Vang đầu tiên bắt đầu nói với cô, cô đã sống trong một thế giới luôn có tiếng ồn, luôn có giọng nói, luôn có yêu cầu, luôn có nợ nần và hứa hẹn và nỗi đau của người khác vọng lại từ quá khứ. Bây giờ tất cả đã biến mất, và thứ còn lại chỉ là tiếng nước nhỏ giọt từ trần hang xuống nền đất, chậm rãi, đều đặn, như trái tim của chính hầm ngục đang đập.
 
-"Tôi chọn hoàn thành."
+Sera ngồi yên trong im lặng ấy, và cô nhận ra rằng cô sợ nó. Sợ sự trống rỗng, sợ khoảng không không có ai bên cạnh, sợ phải đối diện với chính mình mà không có ai khác để lắng nghe, không có ai khác để cứu, không có ai khác để bận tâm. Khi có kiếm, cô có mục đích, có lý do để tồn tại. Khi không có kiếm, cô chỉ là một cô gái ngồi trong hầm ngục, bị trói hai tay, không biết ngày mai sẽ ra sao.
 
-Không phải vì Đoàn. Không phải vì Jorin xứng đáng. Vì cô chọn. Lần đầu tiên, cô không phục vụ — cô quyết định.
+Rồi cô nghe thấy điều gì đó ở bức tường bên.
 
-Mảnh Jorin tan. Kiếm rung một nhịp — rồi nhẹ đi. Một đơn vị. Đo được. Thật.
+Tiếng thì thầm rất nhỏ, nhỏ đến mức ban đầu cô tưởng là tiếng nước chảy trong khe đá, nhưng rồi cô nhận ra nó có nhịp, có ngữ điệu, có khoảng ngắt giữa các từ, và đó là giọng nói. Giọng nói của một người đàn ông, già, khàn, đều đều, như thể người nói đã lặp lại cùng một câu chuyện hàng trăm lần đến mức giọng trở nên mòn nhẵn, không còn cảm xúc, chỉ còn sự đều đặn vô tận của thói quen.
 
-Thệ Vang im lặng. Không gào — lắng nghe. Bốn mươi sáu mảnh đang nghe, đang chờ. Lãnh vực quanh cô — vốn ồn ào từ khi đột phá — đứng yên lần đầu tiên.
+Giọng nói phát ra từ ngục bên cạnh, phía bên trái bức tường đá mà cô đang tựa vào, và Sera nghiêng người về phía đó, hai tay bị trói quặt ra sau, cố gắng lắng nghe những gì người kia đang nói. Tiếng thì thầm quá nhỏ, cô chỉ bắt được một vài âm tiết rời rạc, không rõ nghĩa, nhưng nhịp điệu ấy khiến cô nghĩ đến một người đang đếm. Đếm thứ gì đó rất chậm rãi. Đếm rất chậm, rất đều, như thể mỗi con số đều quan trọng như nhau, và việc đếm không phải để đến được con số cuối cùng, mà để giữ cho bản thân không bị nuốt chửng bởi sự im lặng.
 
-Sera mở mắt. Nhìn kiếm — vẫn cách ba bước. Nhẹ hơn, nhưng chưa về tay. Cô không nhặt. Chưa.
+Sera lắng nghe một lúc lâu, không cử động, không thở mạnh, để mặc cho giọng nói già nua ấy lấp đầy khoảng trống mà sự im lặng đã tạo ra, và trong khoảnh khắc đó, cô cảm thấy có gì đó khác lạ trong ngực, một điều gì đó cô đã lâu không có, thứ gì đó không phải hy vọng, không phải sợ hãi, mà là sự tò mò, sự tò mò nguyên sơ của một kẻ mới sinh ra thế giới đang bắt đầu nhận ra rằng thế giới lớn hơn cô tưởng rất nhiều.
 
-Vai trái nhói — vết sẹo từ lưới của Giáo Hội. Nhắc cô: nhanh hơn. Ba ngày. Bốn mươi sáu mảnh. Mordren có thể đến bất cứ lúc nào.
+Tiếng thì thầm tiếp tục, đều đặn, không ngừng nghỉ, và Sera bắt đầu đếm cùng người kia. Cô không biết người đó đếm gì, cô cũng không cần biết, cô chỉ đếm theo nhịp, một, hai, ba, bốn, và mỗi con số trôi qua, cô nhận ra rằng cô không còn một mình. Không phải vì người kia đang nói chuyện với cô, không phải vì người kia biết cô đang lắng nghe, mà chỉ vì ở bức tường bên kia, có một người khác cũng đang ngồi trong bóng tối, cũng đang sống sót, cũng đang tìm cách để không mất đi lý trí.
 
-Ngoài hang, xa lắm, một tiếng động — không phải thú. Gần hơn hôm qua một chút.
+Tiếng đếm tiếp tục đều đặn, ba mươi bốn, ba mươi lăm, ba mươi sáu.
 
-Sera nhắm mắt. Nghe mảnh thứ hai.
-
----
-
-Mảnh thứ hai không gào. Nó thì thầm — một giọng đàn bà, khàn, như người đã khóc nhiều năm qua. Tên cô ta là Veyra. Cô ta không nợ ai. Cô ta bị nợ.
-
-Một người lính của Đoàn — tên Kael — đã hứa đưa cô ta ra khỏi vùng chiến sự. Hắn đưa cô ta đến cổng thành, rồi quay lưng, để cô ta lại giữa đám lính của Giáo Hội đang lùng sục. Cô ta chết đêm đó, không phải vì kiếm — vì đói và lạnh, vì hắn nói "đi tiếp đi, ta sẽ theo sau" và không bao giờ theo sau.
-
-Sera cảm nhận cơn giận dâng lên — không phải của mình, mà của mảnh Veyra. Cơn giận ấy cũ kỹ, đã nguội, nhưng chưa tắt. Nó không muốn trả thù. Nó muốn một điều đơn giản hơn: muốn ai đó biết rằng cô ta đã chờ. Đã tin. Đã chết trong khi vẫn nhìn về phía cổng thành, nơi Kael hứa sẽ quay lại.
-
-Sera không thể trả mạng cho Veyra. Kael đã chết từ lâu — mảnh Thệ Vang của hắn đã được hoàn thành bởi một người khác, theo cách khác. Nhưng cô có thể làm một việc: nghe. Thật sự nghe. Không vội vàng, không tính toán, không tìm cách kết thúc nhanh.
-
-Cô ngồi đó, trong bóng tối của hang, và để giọng Veyra kể hết. Không phải bằng lời — bằng cảm giác. Cái lạnh của đêm cuối cùng. Mùi đất ẩm. Tiếng bước chân xa dần — tiếng bước chân của Kael, rời đi, không quay lại. Nỗi sợ không phải của cái chết, mà của sự im lặng — im lặng sau khi hứa hẹn.
-
-Khi câu chuyện kết thúc, Sera không nói gì. Cô chỉ đặt tay lên mảnh Veyra — không phải để dẫn, không phải để ép — mà để xác nhận: cô đã nghe. Cô biết. Cô không quên.
-
-Mảnh Veyra tan — không phải vì được hoàn thành, mà vì được thừa nhận. Kiếm rung thêm một nhịp nữa. Nhẹ thêm một đơn vị nữa. Hai đơn vị. Đo được. Thật.
-
-Bốn mươi lăm mảnh còn lại. Chúng không còn gào — chúng đang chờ, nhưng không phải chờ bị ép. Chúng chờ được nghe.
-
-Sera mở mắt. Hang vẫn tối. Kiếm vẫn cách ba bước. Nhưng khoảng cách ấy không còn là rào cản — nó là một lời nhắc: cô chưa sẵn sàng nhặt nó lên. Chưa. Nhưng cô đang tiến gần hơn, không phải bằng cách ép buộc, mà bằng cách lắng nghe.
-
-Vai trái nhói lần nữa — sâu hơn. Vết sẹo từ lưới của Giáo Hội không chỉ là ký ức; nó là một lời cảnh báo sống. Mordren biết cô ở đâu. Hắn có thể đã bắt đầu di chuyển. Ba ngày — có thể ít hơn. Cô không có thời gian để nghe từng mảnh một cách chậm rãi. Nhưng cô cũng không thể ép — vừa ép, vừa nghe, là tự mâu thuẫn.
-
-Cô nhớ lại lời Aldric: *"Nghe không phải là chậm. Nghe là cách duy nhất để không phải nghe lại."* Ông nói điều đó khi cô còn nhỏ, khi cô hỏi tại sao ông dành cả buổi tối để ngồi yên bên bếp lửa thay vì hành động. Ông không giải thích thêm. Ông chỉ ngồi đó, và để cô tự tìm câu trả lời.
-
-Bây giờ cô đã hiểu. Ép buộc là nhanh ở phút đầu, nhưng chậm ở phút cuối — vì những mảnh bị ép sẽ chống lại, sẽ kéo dài, sẽ không bao giờ thực sự hoàn thành. Nghe thì ngược lại: chậm ở phút đầu, nhưng nhanh ở phút cuối — vì khi một mảnh được nghe thật sự, nó tan ngay lập tức, không cần thêm gì.
-
-Sera nhắm mắt lần nữa. Mảnh thứ ba đang chờ — một giọng đàn ông, trầm, đều đều, như tiếng búa gõ vào đe. Tên ông ta là Harn. Ông ta là thợ rèn. Ông ta nợ một lời hứa — không phải với người, mà với chính mình: ông ta hứa sẽ rèn một thanh kiếm từ mảnh thép của người cha đã mất, nhưng chưa bao giờ làm, vì sợ rằng thanh kiếm ấy sẽ không tốt như ông ta tưởng tượng.
-
-Sera không vội. Cô ngồi yên, để giọng Harn kể về người cha — một thợ rèn khác, chết trong một vụ sập lò, để lại một mảnh thép chưa được rèn. Harn giữ mảnh thép ấy suốt ba mươi năm, không dám chạm vào, vì mỗi lần nhìn thấy nó, ông ta lại nhớ rằng mình không giỏi bằng cha.
-
-Cô không an ủi. Không khuyên. Cô chỉ nghe — và khi câu chuyện kết thúc, cô hiểu rằng mảnh Harn không cần được hoàn thành bằng cách rèn kiếm. Nó cần được hoàn thành bằng cách chấp nhận rằng thanh kiếm ấy không cần phải tốt. Nó chỉ cần được rèn.
-
-"Tôi chọn hoàn thành," Sera nói — không phải cho Harn, mà cho chính mình, vì cô cũng đang giữ một mảnh thép chưa được rèn: chính là cuộc đời mình, bị bỏ dở giữa chừng vì sợ không đủ tốt.
-
-Mảnh Harn tan. Kiếm rung nhịp thứ ba. Ba đơn vị. Đo được. Thật.
-
-Bốn mươi bốn mảnh còn lại. Chúng không còn là một dòng gào thét — chúng là một dòng thì thầm, đang chờ, đang lắng nghe, đang học cách tin rằng người nghe này sẽ không bỏ rơi chúng.
-
-Ngoài hang, tiếng động lại vang lên — gần hơn. Không phải thú. Có nhịp bước. Có tiếng kim loại chạm vào đá.
-
-Sera không mở mắt. Cô tiếp tục nghe mảnh thứ tư.
+Giọng nói vẫn đều, vẫn khàn, vẫn già, và Sera nhắm mắt lại, để mặc cho những con số ấy trôi qua như nước chảy qua khe đá, và cô nghĩ rằng có lẽ đây là lý do cô bị nhốt vào đây. Không phải để trừng phạt, không phải để giam giữ, mà để nghe. Để nghe một giọng nói mà không ai khác lắng nghe, để biết rằng ở tận cùng bóng tối, sự sống vẫn tồn tại, và nó không cần ánh sáng để duy trì, nó chỉ cần một giọng nói đều đều, đếm đi đếm lại, từ sáng đến tối, từ tối đến sáng.

@@ -3,95 +3,69 @@ layout: ../../../../layouts/ChapterLayout.astro
 chapter: 54
 story: "/works/aethermoor/trong-the"
 total: 66
-title: "Chương 54: chapter-54"
+title: "Chương 54: Pale Frontier"
 ---
 
-Một giờ đi. Một giờ là xa. Xa không là an toàn. An toàn không có. Chỉ có xa.
+Một giờ đi bộ đã trôi qua kể từ khi cả nhóm rời nơi ẩn náu. Một giờ trong rừng Thệ Vang đủ để rời xa nơi ẩn náu, nhưng chưa đủ để an toàn, xa không có nghĩa là thoát, chỉ có nghĩa là còn khoảng cách giữa họ và bất kỳ ai đuổi theo. Mordren bước chậm hơn giờ đầu, đôi chân trượt trên lớp lá mục như thể mỗi bước đều phải thương lượng với mặt đất. Giờ đầu còn sức tích lũy từ đêm nghỉ trong kho, nhưng giờ thứ hai rút sạch từng chút, chân trái yếu trước, rồi chân phải theo sau, và Kael phải đỡ nhiều hơn, Calla phải đỡ nhiều hơn, mỗi lần Mordren loạng choạng là cả hai cùng vươn ra như phản xạ.
 
-Mordren bước. Bước chậm. Chậm hơn giờ đầu. Giờ đầu là còn lực tích. Tích từ nghỉ. Nghỉ một giờ trong kho là ít. Ít không là đủ. Đủ để đi một giờ. Giờ thứ hai là lực hết. Hết là chân trái yếu. Chân phải yếu hơn. Yếu hơn là Kael đỡ nhiều hơn. Calla đỡ nhiều hơn.
+Sera dừng lại không phải vì bản thân mệt mà vì Mordren cần nghỉ. Cô chọn một rừng nhỏ, vài hàng cây cao đủ để che khuất từ mọi hướng, ra hiệu cho cả nhóm ngồi xuống. Mordren ngồi kiểu người ngồi khi hai chân không giữ nổi cơ thể nữa, Kael và Calla mỗi người một cánh tay đỡ ông từ từ hạ xuống đất. Đất ẩm lạnh thấm qua lớp vải quần, và Mordren run lên, không nhiều, nhưng đủ để Sera nhận ra ông đang chịu đựng nhiều hơn vẻ ngoài cho thấy. Cô đứng canh, tay nắm chặt chuôi kiếm, còn Lira ngồi cách mười bước để tiết kiệm sức, ngồi không phải ngủ, chỉ là giữ cơ thể ở trạng thái sẵn sàng chạy nếu cần.
 
-Sera dừng. Không phải vì mệt. Phải vì Mordren. Mordren cần nghỉ. Cần là dừng. Dừng là rừng nhỏ. Rừng nhỏ là che. Che là nghỉ.
+Thệ Vang rừng lúc này sống động hơn. Không phải kiểu hoang vu ngoài thành, mà rõ ràng hơn, sắc nét hơn, có lẽ vì Sera khỏe hơn trước, có lẽ vì vùng đất này đang nói với cô bằng thứ ngôn ngữ không lời, bằng cảm xúc truyền trực tiếp qua lòng bàn chân, sự bình yên rõ rệt cho thấy nơi này đã lâu không có máu, đủ rõ để cô cảm nhận được như một luồng hơi ấm lan ra từ mặt đất.
 
-"Nghỉ nửa giờ," Sera nói.
+Kael mở túi lôi bình nước ra, kiểm tra dung lượng bên trong. Bình còn đầy, đủ cho ba ngày nếu giữ gìn, nhưng ba ngày đến đâu? Sera không biết, và cô chọn cách đi trước rồi tính sau, quen với việc hành động trước khi có đủ thông tin. Mordren uống chậm, cổ họng ông không quen với sự tự do được uống khi muốn. Hai năm bị giam đã biến mọi hành vi đơn giản thành thứ gì đó xa lạ khi được phép làm lại. Uống xong, ông ngẩng lên nhìn Sera, giọng khô khốc nhưng rõ hơn nhiều so với trong hầm ngục dưới lòng đất, nơi lạnh đến mức phổi co lại và mỗi chữ đều khó nhọc.
 
-Mordren ngồi. Ngồi kiểu người ngồi khi hai chân không giữ nổi. Kael đỡ. Calla đỡ. Đỡ xuống. Xuống đất. Đất ẩm. Ẩm là lạnh. Lạnh là Mordren run. Run là không tốt. Không tốt nhưng chịu.
+"Cô biết Pale Frontier?" Mordren hỏi, giọng trầm đầy lo lắng.
 
-Sera đứng canh. Lira ngồi — ngồi không là ngủ. Ngủ không. Chỉ ngồi. Ngồi là tiết kiệm. Tiết kiệm là còn lực. Còn lực là chạy nếu cần.
+"Không," Sera nói, "chỉ biết tên."
 
-Thệ Vang rừng: lạ. Lạ như ngoài thành. Nhưng rõ hơn. Rõ hơn là Sera khỏe. Khỏe là cảm nhận tốt. Tốt là đất nói. Đất nói nhỏ. Nhỏ là không lời. Không lời là cảm xúc. Cảm xúc là bình yên. Bình yên là nơi này chưa thấy máu lâu. Chưa thấy máu là tốt.
-
-Kael lấy nước. Bình còn. Còn là đủ. Đủ không là nhiều. Nhiều là ba ngày. Ba ngày đến đâu? Sera không biết. Không biết là đi trước. Đi trước là tính sau.
-
-Mordren uống. Uống chậm. Uống kiểu người uống khi cổ họng không quen. Không quen là hai năm không tự do. Tự do là uống khi muốn. Không tự do là giam. Giam là quen. Quen là lạ khi có lại.
-
-"Cô biết Pale Frontier?" Mordren hỏi. Giọng khô. Khô nhưng rõ. Rõ hơn trong hầm. Hầm là lạnh. Lạnh là phổi co. Co là khó nói. Ngoài là ấm hơn. Ấm hơn là nói dễ hơn.
-
-"Không," Sera nói. "Chỉ biết tên."
-
-"Pale Frontier là Bắc cực. Bắc cực là hoang. Hoang là không người. Không người là Bạch Quái Thú. Bạch Quái Thú là nguy hiểm. Nguy hiểm không là bất khả. Bất khả là có thể đi. Nhưng khó."
+"Pale Frontier là Bắc cực, hoang mạc không người, nơi trú ngụ của Bạch Quái Thú." Mordren nói chậm, mỗi chữ thận trọng như đang cân nhắc xem nên tiết lộ bao nhiêu. "Nguy hiểm, nhưng không bất khả. Có thể đi được, chỉ là khó hơn Giáo Hội nhiều."
 
 "Khó hơn Giáo Hội?"
 
-Mordren im. Im là nghĩ. Nghĩ là đánh giá. Đánh giá Sera hỏi. Hỏi là so sánh. So sánh là đúng câu hỏi.
+Mordren im lặng một lúc, đôi mắt cụp xuống như đang cân nhắc mức độ trung thực cần thiết. Rồi ông gật đầu, giọng trầm xuống.
 
-"Khó hơn. Giáo Hội là người. Người là đoán. Đoán là đối phó. Pale Frontier là không đoán. Không đoán là đất thay đổi. Đất thay đổi là không bản đồ. Không bản đồ là lạc. Lạc là chết."
+"Khó hơn. Giáo Hội là người, dễ đoán được, đối phó được. Pale Frontier không đoán được. Đất thay đổi liên tục, bản đồ vô dụng, lạc là chết."
 
-"Có đường không?"
+"Đường có không?"
 
-"Có. Đường cũ. Đường Thần Chiến. Thần Chiến là quân đi. Quân đi là đường. Đường còn. Còn là không tốt. Không tốt là di tích. Di tích là Thần Tử Di Thương. Thần Tử Di Thương là vết thương thực tại. Vết thương là hút người vào. Hút vào là biến đổi. Biến đổi là không ra."
+"Có, đường cũ từ Thần Chiến, nơi quân đội từng hành quân. Đường vẫn còn, nhưng không tốt." Mordren ngừng lại, đôi mắt trở nên xa xăm khi nhớ đến những gì ông từng nghe. "Dọc đường là Thần Tử Di Thương, vết thương thực tại, những khoảng không rách toạc giữa thế giới này. Chúng hút người vào, biến đổi họ, và không bao giờ nhả ra."
 
-Sera nghe. Nghe và đếm. Đếm từ. Từ là cảnh báo. Cảnh báo là Pale Frontier không chỉ xa. Xa là không duy nhất. Duy nhất là nguy hiểm.
+Sera nghe và đếm từng từ, nhận ra Pale Frontier không chỉ xa mà còn mang một loại nguy hiểm khác hẳn so với bất kỳ thứ gì cô từng đối mặt, không phải kẻ thù có thể chém, mà là chính thực tại có thể nuốt chửng.
 
-"Huyền Môn Cốt," Sera nói. "Ở đâu trong đó?"
+"Huyền Môn Cốt," Sera nói, "ở đâu trong đó?"
 
-"Giữa. Giữa hoang nguyên. Không dẫn đến đâu — hoặc dẫn đến nơi không nên đến. Câu này là người ta nói. Người ta nói là tôi chưa đến. Chưa đến là không biết chính xác. Chỉ biết: Huyền Môn Cốt cần Thệ Hạch. Thệ Hạch là mở. Mở là cổng. Cổng là lãnh vực."
+"Giữa hoang nguyên. Không dẫn đến đâu, hoặc dẫn đến nơi không nên đến. Câu này người ta nói, còn tôi chưa đến nên không biết chính xác." Mordren ngồi thẳng hơn một chút, đôi mắt sáng lên khi đề cập đến chủ đề quan trọng nhất. "Nhưng tôi biết: Huyền Môn Cốt cần Thệ Hạch để mở, chúng là chìa khóa, là cánh cổng dẫn vào lãnh vực."
 
-"Thệ Hạch của Trọng Nham Hỏa Đạo," Sera nói. "Vỡ. Vỡ là bốn mươi tám mảnh. Trong kiếm tôi. Dùng được không?"
+"Thệ Hạch của Trọng Nham Hỏa Đạo," Sera nói, giọng đều đều nhưng mắt liếc xuống thanh kiếm bên hông. "Vỡ, bốn mươi tám mảnh, tất cả trong kiếm tôi. Dùng được không?"
 
-Mordren nhìn kiếm. Nhìn lâu. Nhìn kiểu người nhìn khi nhìn thấy cái chết của Đoàn mình. "Không. Thệ Hạch vỡ là không nguyên. Không nguyên là không mở cổng. Không mở là không kích hoạt. Giáo Hội cần Thệ Hạch nguyên. Nguyên là còn. Còn hai. Hai là đủ. Đủ là mở."
+Mordren nhìn kiếm, nhìn rất lâu, ánh mắt ông trĩu nặng như đang nhìn thấy cái chết của cả một Đoàn người, rồi lắc đầu.
+
+"Không. Thệ Hạch vỡ là không nguyên, không nguyên thì không mở cổng được. Giáo Hội cần Thệ Hạch nguyên."
 
 "Hai của ai?"
 
-"Một của Bạc Ty Linh Đoàn. Một của Thanh Lam Thần Đạo. Hai Đoàn. Hai Thệ Hạch. Giáo Hội đã có. Có sáu. Sáu là từ sáu Đoàn tan. Tan là họ gây. Gây là thu. Thu là cất. Cất là chờ. Chờ là tôi không biết ở đâu. Chỉ biết là cần hai nữa. Hai nữa là Trọng Nham Hỏa Đạo là thứ bảy. Thứ bảy là vỡ. Vỡ là không dùng. Không dùng là cô an toàn."
+"Một thuộc Bạc Ty Linh Đoàn, một thuộc Thanh Lam Thần Đạo, hai Group, hai Thệ Hạch, Giáo Hội đã có cả." Mordren nhẩm tính, giọng đều đều như đang liệt kê tài sản của kẻ thù. "Cùng sáu cái từ sáu Group tan rã mà anh tôi gây nên, thu giữ, cất giấu, chờ đợi, tổng cộng tám. Còn thiếu hai nữa, và cái thứ bảy, từ Trọng Nham Hỏa Đạo, đang trong tay cô, nhưng đã vỡ nên vô dụng. Nghĩa là cô an toàn."
 
-Sera nghe. An toàn là không vì Thệ Thiết. Không vì là vỡ. Vỡ là không có giá trị nghi lễ. Giá trị nghi lễ là không có là không bị giết vì kiếm. Không bị giết vì kiếm là bị giết vì biết. Biết là Dự Án. Dự Án là bí mật. Bí mật là giết.
+Sera hiểu rằng an toàn ở đây không có nghĩa là không bị đe dọa, một Thệ Hạch vỡ không có giá trị nghi lễ, nên chúng sẽ không giết cô vì thanh kiếm. Nhưng giết thì vẫn có thể giết, nếu biết cô biết về Dự Án. Dự Án là bí mật, và bí mật thì luôn có giá bằng máu.
 
-"Tại sao anh ông muốn mở cổng?" Sera hỏi.
+"Tại sao anh ông muốn mở cổng?" Sera hỏi, giọng tò mò.
 
-"Vì tin. Tin là đúng. Đúng là Thần Đế trở lại là trật tự. Trật tự là kết thúc hỗn loạn. Hỗn loạn là tám trăm năm. Tám trăm năm là quá dài. Quá dài là thế giới vỡ. Vỡ là cần gắn."
+Mordren cúi đầu, giọng trầm xuống thành một thứ gì đó gần như thì thầm. "Vì tin. Tin là Thần Đế trở lại sẽ mang trật tự, chấm dứt tám trăm năm hỗn loạn. Tám thế kỷ quá dài, thế giới đã vỡ nát cần được gắn lại."
 
-"Thần Đế gây Thần Chiến," Sera nói. "Gây là hủy diệt. Hủy diệt không là trật tự."
+"Thần Đế gây Thần Chiến," Sera nói, giọng sắc hơn cô tưởng. "Gây là hủy diệt. Hủy diệt không phải trật tự."
 
-Mordren im. Im lâu. Im kiểu người im khi nghe điều mình nghi từ lâu. "Đúng. Tôi biết. Biết là không tin. Không tin là bị bắt. Bị bắt là giam. Giam là không nói. Không nói là anh tôi nghĩ tôi im. Nghĩ tôi im là không giết ngay. Không giết ngay là đợi. Đợi là cô đến."
+Mordren im lặng rất lâu, cái im lặng của người đã nghi ngờ điều tương tự từ lâu nhưng chưa bao giờ dám nói thành lời. Rồi ông ngẩng lên, đôi mắt trống rỗng nhưng kiên quyết.
 
-"Tôi không phải để cứu ông," Sera nói. "Tôi đến để phá Dự Án."
+"Đúng. Tôi biết rõ, nhưng không tin. Không tin thì bị bắt. Bị bắt thì bị giam. Bị giam thì không nói được. Im lặng kéo dài, anh tôi tưởng tôi vẫn đồng ý, nên chưa giết ngay. Đợi, đợi cho đến khi cô đến."
 
-"Biết. Nhưng cô đến là tôi sống. Tôi sống là có thể nói. Có thể nói là cô biết nhiều hơn. Nhiều hơn là đúng. Đúng là tôi giúp. Giúp là đi cùng. Đi cùng là không gánh nặng. Không gánh nặng là tự đi. Tự đi là chậm. Chậm không là dừng."
+"Tôi không phải để cứu ông," Sera nói, "tôi đến để phá Dự Án."
 
-Sera gật. Gật là ghi nhận. Ghi nhận là Mordren biết mình chậm. Biết là không đòi hỏi. Không đòi hỏi là chấp nhận. Chấp nhận là đồng minh thực dụng. Thực dụng là tốt.
+"Biết." Mordren gật đầu, một cái gật đầu của người đã chấp nhận vận mệnh mà không cần giải thích thêm. "Nhưng cô đến thì tôi sống. Tôi sống thì nói được. Nói được thì cô biết nhiều hơn. Biết nhiều hơn thì đúng hơn. Đúng hơn thì tôi giúp được. Giúp bằng cách đi cùng, tự đi chậm, nhưng không dừng."
 
-Lira ngồi cách mười bước. Mười bước là diện cảnh giác. Cảnh giác là không ngủ. Không ngủ là quan sát. Quan sát Sera và Mordren nói. Nói là thông tin. Thông tin là cô ta cũng nghe. Nghe là biết. Biết là cùng mục tiêu.
+Sera gật đầu, chấp nhận logic thực dụng của ông: một đồng minh biết rõ giới hạn bản thân còn hơn một kẻ kiêu ngạo đòi được cõng. Cô quay sang thấy Lira ngồi mười bước phía xa, mắt không rời cuộc đối thoại, mỗi lời nói đều là thông tin, và thông tin chính là thứ Lira thu thập bằng cách nghe mà không hỏi. Kael ngồi cạnh Mordren, im lặng lắng nghe, học hỏi lý do tại sao cả nhóm đang đi về hướng chết, và thấy đủ để không cần đặt thêm câu hỏi nào. Calla thì ngửa mặt nhìn lên tán cây cao, đôi mắt theo dõi những tán lá đan xen trên đầu, sự che chở từ những thân gỗ vững chắc nhắc cô về thứ gì đó xa xưa, không phải Caelmyr hay bất kỳ nơi nào cụ thể, chỉ là an toàn khi được cây cối bao quanh.
 
-Kael ngồi cạnh Mordren. Không nói. Không nói là lắng nghe. Lắng nghe là học. Học là biết. Biết tại sao đi. Tại sao đi là đúng. Đúng là không hỏi lại.
+Nửa giờ trôi qua rồi Sera đứng lên, năm người theo sau. Mordren đứng chậm rãi, chậm hơn bất kỳ ai trong nhóm, nhưng vẫn đứng được, vẫn bước được, và bước có nghĩa là tiếp tục.
 
-Calla nhìn cây. Nhìn kiểu người nhìn khi nhớ. Nhớ Caelmyr? Không. Nhớ nhà? Không. Nhớ kiến trúc. Kiến trúc cây. Cây cao. Cao là che. Che là tốt. Tốt là nghỉ.
+"Đi," Sera nói, "hướng Bắc, nghỉ tiếp khi trời sáng."
 
-Nửa giờ hết. Sera đứng. Năm người đứng. Mordren đứng — đứng chậm. Đứng chậm nhưng đứng. Đứng là đi. Đi là tiếp tục.
-
-"Đi," Sera nói. "Hướng Bắc. Nghỉ tiếp khi trời sáng."
-
-Năm người đi. Mordren giữa Kael và Calla. Sera trước. Lira sau. Năm bước. Năm bước là khoảng cách an toàn. An toàn không có. Chỉ có năm bước.
-
-Sera quay đầu một lần. Không phải để nhìn. Để đếm. Đếm bóng. Bóng của Lira không có. Không có là Lira đi sau, sau cùng, nên không thấy. Không thấy là đúng.
-
-Đúng là Lira đang ở đâu. Ở đâu là cô ta dừng. Dừng là ngửi. Ngửi đất. Đất có vết chân. Vết chân không phải của họ. Không phải là của ai khác. Của ai khác là mới.
-
-Mới là nặng. Nặng là giày nặng. Giày nặng là người đi gần đây. Gần đây là chưa lâu. Chưa lâu là kẻ đó vừa đi. Vừa đi là hướng Bắc.
-
-Hướng Bắc là họ.
-
-Sera không nói. Nói không cần. Không cần là Lira thấy. Thấy là Lira đuổi kịp. Đuổi kịp là cô ta gật. Gật là không nói. Không nói là cả hai biết. Biết là có kẻ khác hướng Bắc. Hướng Bắc là Huyền Môn Cốt. Huyền Môn Cốt là mục tiêu.
-
-Mordren không biết. Không biết là tốt. Tốt là không hỏi. Không hỏi là đi. Đi là tiếp tục.
-
-Tiếp tục là năm bước. Năm bước là khoảng cách an toàn. An toàn không có. Chỉ có năm bước — và kẻ nào đó đi trước họ, hướng về cánh cổng chưa ai mở.
+Năm người di chuyển, Mordren giữa Kael và Calla, Sera đi đầu, Lira giữ hậu trâu phía sau, mỗi người cách nhau năm bước, khoảng cách đủ gần để hỗ trợ nhưng đủ xa để phản ứng nếu có chuyện xảy ra.

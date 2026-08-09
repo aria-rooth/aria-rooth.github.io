@@ -6,82 +6,60 @@ total: 66
 title: "Chương 55: Bắt"
 ---
 
-**Chương 55: Mảnh Đầu Tiên**
+Cánh cửa phòng làm việc mở toang, và Mordren Chấp Sự bước vào.
 
-Hang đất cách Huyền Môn Cốt một dặm. Tối. Đất khô, cỏ thưa, không gió. Sera ngồi, kiếm đặt ngang đùi. Bốn mươi bảy mảnh. Đếm lại. Bốn mươi bảy.
+Hắn không vội, không cảnh giác, không giơ vũ khí, chỉ bước vào phòng với hai vai rộng và áo choàng đen phủ từ cổ xuống gót chân, tóc buộc cao để lộ gương mặt góc cạnh với hàm vuông và đôi mắt sáng lạnh. Hắn bước vào như thể đã thuộc lòng từng tấc đá trên sàn, mỗi bước đặt đúng vị trí, mỗi cử chỉ mang dáng dấp của kẻ quen ra lệnh suốt nửa đời người. Hắn không nhìn Sera ngay, mà nhìn quanh phòng, khảo sát ánh đèn, kiểm tra cửa sổ đóng kín, rồi mới quay lại.
 
-Mordren Chấp Sự ngồi đối diện, lưng dựa vách. Ông không nói. Ông nhìn. Nhìn kiểu người đã học cách im lặng sau hai năm tù. Hai năm trong hắc lao, nơi mỗi tiếng thở đều bị vách đá nuốt trọn, nơi lời nói trở thành thứ xa xỉ mà ông đã bỏ lại cùng với thanh kiếm của mình. Ông nhìn Sera bằng đôi mắt không chớp, như thể cô là một bản đồ mà ông đang cố đọc lại sau nhiều năm lãng quên.
+Hắn kéo ghế gỗ ra, ngồi xuống, hai tay đặt trên đầu gối, ghế gỗ kêu nhẹ dưới trọng lượng hắn.
 
-Sera nhắm mắt. Aldric dạy: *im lặng, nghe một, hiểu, dẫn, lực, dùng.* Sáu bước. Cô chưa từng làm được bước nào. Aldric — người thầy già với bàn tay run rẩy và đôi mắt sáng quắc — đã nói với cô trước khi ông ra đi: "Sáu bước không phải để học. Sáu bước là để sống. Ngươi sẽ hiểu khi ngươi không còn lựa chọn nào khác." Cô đã cười nhạt lúc đó. Bây giờ cô không cười nữa.
+"Cô là người cuối cùng." Mordren nói, giọng trầm, khàn,mỗi từ nhả ra chậm rãi. "Tôi tự hỏi cô trông thế nào."
 
-Thệ Vang ồn. Bốn mươi bảy giọng nói cùng lúc, không từ, chỉ áp lực — như bốn mươi bảy bàn tay đè lên ngực. Không phải tiếng thì thầm, không phải tiếng gào. Đó là thứ áp lực nặng hơn cả tiếng ồn, thứ đè lên xương cốt và ép vào từng thớ thịt. Cô từng chống lại. Chống là mệt. Mệt là thua. Cô đã học được điều đó qua những đêm không ngủ, qua những lần nôn ra máu vì cố đẩy lùi thứ không thể đẩy lùi.
+Sera đứng sau cánh cửa, kiếm rút sẵn, lưỡi giấu trong bóng đổ. Cô chờ hắn bước vào, chờ hắn ngồi xuống, chờ cơ hội tốt nhất. Jorin thì thầm trong tâm trí: *"Chờ hắn ngồi. Khi hắn ngồi, hắn yếu nhất."*
 
-*Im lặng.* Cô không chống. Cô ngồi yên. Áp lực không giảm, nhưng cô không đẩy lại. Cô để nó đè. Cô để nó nặng. Cô để nó tồn tại mà không phản ứng. Giống như đứng giữa mưa mà không cố tránh — nước sẽ thấm, nhưng không thể nhấn chìm nếu ngươi không chống lại dòng chảy.
+Mordren ngồi, hai tay buông thỏng, tay trái gác trên tay vịn ghế, tay phải đặt trên đầu gối, không vũ khí, không tư thế phòng thủ, không dấu hiệu của kẻ sắp chiến đấu. Hắn xem cô như khách, hắn mời cô nói chuyện, hắn muốn cô ngồi xuống và trả lời câu hỏi của hắn.
 
-*Nghe một.* Không nghe tất cả. Nghe một. Cô chọn giọng quen nhất — Jorin. Người dạy cô đọc địa hình. Người nợ cô một mạng. Jorin — gã lính trinh sát với bộ ria lòa xòa và nụ cười lệch, người từng kéo cô ra khỏi một cái bẫy mà cô không nhìn thấy, người từng ngồi hàng giờ bên đống lửa để giải thích cách đọc dấu vết trên đất. Ông không phải người tốt. Ông từng giết người không vì lý do chính đáng. Nhưng ông là người đầu tiên dạy cô cách nhìn.
+Cô không phải khách, cô là người đến giết.
 
-Giọng Jorin: *"Bên trái."*
+Sera lao ra sau cánh cửa, đòn nhanh, mũi kiếm chém ngang cổ tay trái của hắn, cắt đứt mạch máu, buộc hắn phải phòng thủ. Jorin dẫn đường, giọng nói vang lên trong tâm trí: *"Chém từ dưới lên, đùi trái."* Sera đổi hướng, lưỡi kiếm chúc xuống, cắt ngang đùi hắn, nhưng Mordren không di chuyển.
 
-Một từ. Cô nhớ. Năm xưa, trận đầu tiên cô đi cùng đội. Jorin chỉ huy. Cô đi bên trái, sai vị trí. Một mũi tên — Jorin đỡ bằng vai. Ông nợ cô một mạng vì cô đã cứu ông khỏi cái chết đó? Không. Ông nợ cô vì ông đã chọn đỡ. Ông nói: *"Mạng này là của cô. Khi nào cần, trả."* Cô đã không hiểu lúc đó. Cô tưởng ông nói về mũi tên. Nhưng ông không nói về mũi tên. Ông nói về sự lựa chọn. Ông đã chọn đứng giữa cô và cái chết, không phải vì cô xứng đáng, mà vì ông quyết định làm vậy.
+Hắn giơ tay trái mà không đứng dậy, chỉ một cánh tay trần ngửa ra đón lưỡi kiếm của cô bằng xương thịt. Kiếm chạm vào lòng bàn tay hắn và dừng lại, không phải dừng vì hắn chặn mà dừng vì lưỡi kiếm không thể xuyên qua da thịt hắn. Sera dồn toàn bộ lực vào mũi kiếm, cánh tay rung lên vì va chạm, nhưng Mordren không hề nhúc nhích, thậm chí không chớp mắt.
 
-Ông chết trước khi trả. Chết trong một trận phục kích mà cô không có mặt. Chết với món nợ chưa trả, với lời hứa chưa giữ. Cô đã nghĩ đó là sự bất công. Bây giờ cô hiểu — đó không phải bất công. Đó là điều chưa xong.
+Hắn chỉ đứng dậy khi cô đã kiệt sức.
 
-*Hiểu.* Thề ước của Jorin không phải "trả nợ." Là "hoàn thành điều chưa xong." Ông chưa dạy cô xong cách đọc địa hình. Ông chưa thấy cô đứng vững. Đó là điều chưa xong. Ông đã dạy cô cách nhìn, nhưng chưa dạy cô cách đứng. Ông đã dạy cô cách đọc dấu vết, nhưng chưa dạy cô cách đọc chính mình. Và ông đã chết trước khi có thể làm điều đó.
+Một cử động nhẹ nhàng, hai tay buông xuống, hắn đứng dậy khỏi ghế, và sức nặng từ thân hình hắn đẩy Sera lùi ba bước. Cú đẩy không phải đòn đánh, chỉ là hắn đứng lên, nhưng trọng lực từ cơ thể hắn tạo ra sóng chấn động lan qua sàn đá, qua bàn chân cô, lên đến cột sống. Sera thấy tay mình tê buốt, ngón tay tóm kiếm mất lực, lưỡi kiếm rung lên bốn năm nhịp mới ổn định.
 
-*Dẫn.* Sera không phán xét. Jorin không vô tội — ông từng giết, từng ra lệnh, từng chọn sai. Ông từng để người chết vì mệnh lệnh của mình. Ông từng chọn bên sai trong những cuộc tranh chấp nhỏ. Nhưng cô không hoàn thành vì ông xứng đáng. Cô hoàn thành vì cô chọn. Cô chọn để hoàn thành điều ông để lại, không phải vì ông là người tốt, mà vì cô là người quyết định làm điều đó. Sự lựa chọn nằm ở cô, không nằm ở ông.
+Khoảng cách Tier 5 và Tier 8 không phải khoảng cách của sức mạnh, đó là khoảng cách của sự tồn tại, là khoảng cách giữa người và bóng tối. Một tay, hắn đỡ bằng một tay, và cô không là gì với hắn, nhưng hắn không giết cô, hắn muốn cô nói.
 
-*Lực.* Cô đặt tay lên kiếm. Thệ Vang không chống. Lần đầu tiên, nó nghe. Cô cảm nhận được sự khác biệt — không phải ở âm thanh, mà ở trọng lượng. Kiếm vẫn nặng, nhưng không còn đè lên tâm trí cô như trước. Nó đang chờ. Đang lắng nghe. Đang để cô dẫn dắt.
+Mordren cúi đầu nhìn cô, ánh mắt không nóng không lạnh, chỉ là sự quan sát thuần túy của kẻ đã thấy mọi thứ trên đời và không còn gì khiến hắn ngạc nhiên. "Cô biết về di vật," hắn nói,mỗi từ rõ ràng như được chạm trên đá, "Tôi cần biết cô biết bao nhiêu."
 
-*Dùng.* Cô nói, không thành tiếng: *"Jorin. Ta đã học xong. Ta đứng vững. Nợ đã trả."*
+Sera siết chặt kiếm, cố đẩy tê buốt ra khỏi bàn tay, cô không đáp, cô lao tới lần nữa. Lần này cô dùng chiêu Jorin dạy: ba nhát nhanh liên tiếp, nhát đầu vào vai, nhát hai vào hông, nhát ba vào đầu gối, đánh lạc hướng để tìm khoảng hở giữa những lớp phòng thủ vô hình của hắn.
 
-Kiếm rung. Một nhịp. Rồi — nhẹ. Không phải nhẹ về trọng lượng vật lý, mà nhẹ về áp lực tinh thần. Một mảnh đã buông. Một giọng nói đã im. Một thề ước đã hoàn thành.
+Mordren đỡ cả ba nhát bằng tay trái, mỗi nhát chạm vào da hắn phát ra tiếng kim loại va đá, Sera thấy cánh tay mình rung lên mãnh liệt, ba lần liên tiếp, mỗi lần lực phản lại mạnh hơn lần trước. Cô lùi lại, thở gấp, máu dồn lên mặt, mắt hoa, nhưng hắn vẫn chưa dùng tay phải, hắn đứng yên, hai tay buông thỏng, như thể cô chỉ là đứa trẻ vung đũa gỗ.
 
-Sera mở mắt. Kiếm trên tay. Nhẹ hơn. Không nhiều, nhưng cô đo được. Bốn mươi bảy. Đếm lại. Bốn mươi sáu.
+"Đủ rồi." Mordren giơ tay phải lên, lòng bàn tay mở ra, ra hiệu.
 
-Cô rút sổ. Ghi: *Jorin — hoàn thành.* Trước đây cô chỉ ghi số. Lần này cô ghi tên. Cô nhìn dòng chữ mới viết, cảm nhận sự khác biệt giữa một con số và một cái tên. Một con số chỉ là một mảnh vỡ. Một cái tên là một con người, một câu chuyện, một lựa chọn.
+Cánh cửa sau mở tung, sáu bóng người bước vào, mỗi người mặc áo trắng dài, cổ đeo xích bạc, mặt bịt khăn vải đen chỉ để lộ đôi mắt sáng lạnh sau lớp vải. Thẩm Vấn Giả, sáu người xếp thành hình bán nguyệt quanh Sera, mỗi người cách nhau hai thước, không vũ khí cầm tay nhưng Linh Nguyên từ mỗi người toát ra đủ để không khí đặc lại và ánh đèn dầu chao đảo.
 
-Lãnh vực — im. Không ồn. Bốn mươi sáu mảnh lắng nghe, không đè. Lần đầu tiên, cô đứng trong lãnh vực của mình mà không bị nuốt. Cô có thể cảm nhận từng mảnh như những ngọn lửa nhỏ — một số cháy sáng, một số âm ỉ, một số đang tắt. Nhưng không mảnh nào đè lên cô nữa. Chúng đang chờ. Đang quan sát. Đang đánh giá.
+Sera quay người, kiếm chĩa ra, nhưng sáu hướng đều bị chặn, sáu bức tường Linh Nguyên vô hình ép cô vào giữa, mỗi bước cô lùi lại gần hơn một bức tường cứng hơn đá và lạnh hơn băng. Cô đã chiến đấu với quái vật trong rừng, đã chiến đấu với những kẻ thù chưa từng thấy mặt, nhưng chưa bao giờ bị bao vây bởi sáu Thẩm Vấn Giả cùng lúc.
 
-Mordren Chấp Sự vẫn nhìn. Ông không nói. Nhưng mắt ông — lần đầu ông thấy ai đó làm được điều ông không làm được. Ông gật. Một cái. Đủ. Cái gật của một người từng thử và thất bại, nhìn thấy người khác làm được điều mình không thể. Không ghen tị. Không ngưỡng mộ. Chỉ là sự công nhận.
+Cô lao vào Thẩm Vấn Giả bên trái, mũi kiếm đâm thẳng vào ngực hắn. Hắn không tránh, giơ tay lên, bàn tay đón lưỡi kiếm và xoay, lực xoáy từ Linh Nguyên đẩy kiếm lệch hướng, cô chệch người, ngã về phía trước. Hắn túm lấy cổ tay cô, siết, đau đến mức cô suýt buông kiếm. Hai Thẩm Vấn Giả còn lại túm vai cô từ phía sau, giữ cô đứng dậy, giữ cô quỳ xuống, giữ cô bất động, mỗi bàn tay trên vai cô đều nặng như tảng đá.
 
-"Ba ngày," Sera nói. "Bốn mươi sáu mảnh. Ba ngày."
+Dây Thệ Trói xuất hiện từ cổ tay Thẩm Vấn Giả, mảnh như sợi tóc nhưng cứng như thép, nó quấn quanh cổ tay Sera, siết, và mỗi lần siết cô thấy Linh Nguyên trong cơ thể bị chặn lại, như mạch nước bị đắp đê. Cô giãy giụa, cố giật ra, nhưng dây siết chặt hơn, lần này đến từ cả hai cổ tay, cô không còn tay nào để cầm kiếm.
 
-"Ít," Mordren nói. Giọng khàn, như giấy nhàu. "Mordren đến trước."
+Kiếm rơi xuống sàn, leng keng, âm thanh vang lên trong căn phòng tĩnh lặng như lời thì thầm cuối cùng của một người sắp mất tất cả.
 
-Sera không trả lời. Cô đứng dậy, kiếm bên hông. Nhẹ hơn — cô đi nhanh hơn. Một dặm đến Huyền Môn Cốt. Cô cần thời gian. Thời gian là thứ cô không có. Ba ngày cho bốn mươi sáu mảnh — mỗi mảnh là một con người, một câu chuyện, một thề ước chưa hoàn thành. Ba ngày là không đủ. Nhưng cô không có lựa chọn nào khác.
+Sera quỳ trên mặt đất, hai tay bị trói sau lưng, mồ hôi ròng ròng trên trán, ngực phập phồng vì thở gấp,mắt cô vẫn mở, mắt gặp mắt Mordren. Hắn đang đứng trước mặt cô, ánh đèn dầu hắt lên gương mặt hắn, bóng đổ dài trên tường, và trong đôi mắt hắn không có giận dữ, không có chiến thắng, chỉ có sự bình thản của kẻ đã biết kết quả từ trước.
 
-Cô bước ra cửa hang. Đất dưới chân — rung. Nhẹ. Không phải gió. Không phải thú. Sera nhìn xuống. Bụi bay. Bụi không tự bay. Cô đã học cách đọc địa hình từ Jorin — và cô biết rằng đất rung theo một nhịp đều đặn, nhịp của bước chân có chủ đích, không phải bước chân của thú hoang.
+"Cô sẽ nói," Mordren nói, giọng không nóng không lạnh,mỗi từ rõ ràng. "Không phải hôm nay — ngày mai."
 
-Cô ngẩng lên trời. Xa xa, một vệt sáng. Có thể là chim. Có thể không. Vệt sáng di chuyển theo đường thẳng, không phải đường bay của chim. Nó đang tiến về phía Huyền Môn Cốt. Hoặc đang tiến về phía cô.
+Hắn quay lưng.
 
-Cô quay vào hang. Bốn mươi sáu mảnh. Ba ngày. Và một vệt sáng trên trời. Cô không có thời gian để lo về vệt sáng. Cô có thời gian để lo về bốn mươi sáu mảnh đang chờ cô.
+"Mang cô ta xuống ngục."
 
-Cô ngồi xuống. Nhắm mắt. *Im lặng, nghe một.*
+Hai Thẩm Vấn Giả kéo Sera dậy, mỗi người túm một cánh tay, kéo cô về phía cửa sau. Sera cố giãy giụa, cố quay lại, cố nhìn thanh kiếm nằm trên sàn, nhưng dây Thệ Trói siết chặt hơn mỗi lần cô cựa quậy, đau đến mức cô thấy mắt mờ đi, đầu gối khuỵu xuống, và cô ngã sấp xuống sàn đá lạnh.
 
-Mảnh thứ hai. Mảnh của người Đoàn không vô tội. Nó kháng cự — ngay khi cô chạm, áp lực đẩy lại. Không như Jorin. Mảnh này không muốn được nghe. Nó không muốn được giải phóng. Nó muốn giữ lấy sự tức giận, sự oán hận, sự đau đớn của mình.
+Cô bị kéo ra khỏi phòng, cánh cửa đóng lại, và tiếng gỗ va chạm vang lên lần cuối trong căn phòng nơi bản đồ Pale Frontier vẫn trải rộng trên bàn viết, con số 7 được đánh dấu bằng đường kẻ đỏ, và chiếc ghế gỗ Mordren vừa ngồi vẫn còn hơi ấm của thân hình hắn.
 
-Sera không ép. Cô ghi nhận: *Mảnh 46 — kháng cự.* Rồi cô thử mảnh khác. Cũng kháng. Mảnh thứ ba. Kháng. Mảnh thứ tư. Kháng. Mỗi mảnh đều kháng cự theo cách riêng của nó — một số đẩy mạnh, một số im lặng, một số cố gắng kéo cô vào ký ức của chúng.
+Thanh kiếm nằm trên sàn, ánh đèn dầu chiếu lên lưỡi kiếm, và trên lưỡi kiếm, Thệ Vang im lặng lần đầu tiên kể từ khi cô nhặt nó lên. Không tiếng thì thầm, không áp lực đè lên tâm trí, chỉ sự trống rỗng mênh mông.
 
-Chỉ Jorin dễ. Vì Jorin gần với lựa chọn của cô. Những mảnh khác — những người không vô tội — chúng sẽ không buông dễ dàng. Chúng không muốn được tha thứ. Chúng không muốn được hoàn thành. Chúng muốn giữ lấy sự tồn tại của mình trong cơn đau.
-
-Ba ngày. Bốn mươi sáu mảnh. Mỗi mảnh kháng cự.
-
-Sera mở mắt. Kiếm nhẹ hơn, nhưng chưa đủ. Cô nhìn Mordren. Ông vẫn nhìn cô. Ánh mắt ông không đổi, nhưng cô có thể cảm nhận được sự chú ý của ông — ông đang quan sát cách cô xử lý, cách cô tiếp cận, cách cô thất bại.
-
-"Ông từng thử," Sera nói. Không hỏi. Khẳng định.
-
-"Từng," Mordren nói. "Hai năm tù để học rằng thệ ước chỉ tự giải phóng."
-
-"Ông không can thiệp."
-
-"Không."
-
-Sera gật. Cô hiểu. Ông không dạy cô vì dạy là can thiệp. Cô phải tự làm. Giống như cô phải tự chọn. Ông đã thử và thất bại — và ông biết rằng nếu ông can thiệp, cô sẽ không bao giờ học được cách tự đứng vững. Ông đang để cô tự vấp ngã, tự đứng dậy, tự tìm đường.
-
-Cô nhắm mắt. *Im lặng, nghe một.* Mảnh 46 kháng. Cô không ép. Cô nghe. Nghe không phải để hoàn thành — nghe để hiểu tại sao nó kháng. Cô lắng nghe tiếng thì thầm của mảnh vỡ, cố tìm ra nguồn gốc của sự kháng cự. Có thể là sợ hãi. Có thể là tức giận. Có thể là điều gì đó khác — điều mà cô chưa từng nghĩ đến.
-
-Bên ngoài, đất rung lần nữa. Nhẹ hơn. Xa hơn. Nhưng đang đến gần. Nhịp đều đặn, có chủ đích. Không phải thú. Không phải gió. Một kẻ đang tiến về phía hang.
-
-Sera không mở mắt. Cô có ba ngày. Và một kẻ thù đang đến. Cô có ba ngày để giải phóng bốn mươi sáu mảnh — và một kẻ thù đang đến gần hơn mỗi giờ. Cô không có thời gian để lo về kẻ thù. Cô có thời gian để lo về những mảnh vỡ đang kháng cự.
-
-Cô nghe tiếp.
+Sera bị kéo xuống hành lang tối.

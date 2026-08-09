@@ -3,43 +3,77 @@ layout: ../../../../layouts/ChapterLayout.astro
 chapter: 64
 story: "/works/aethermoor/trong-the"
 total: 66
-title: "Chương 64: chapter-64"
+title: "Chương 64: Đột Phá"
 ---
 
-Sáu ngày sau khi thoát, Sera đi không ngừng. Thẩm Vấn Giả gần — cô cảm nhận được họ qua Thệ Vang, một áp lực mơ hồ phía sau lưng tăng dần mỗi ngày. Fenris không chạy được. Già, chậm, bị đuổi kịp — chưa, nhưng gần hơn mỗi ngày.
+Sera đứng giữa rừng, kiếm nặng trên vai, bốn mươi bảy mảnh Thệ Vang lắng xuống lần đầu kể từ đêm Đoàn tan. Cô không chạy, không chiến đấu, chỉ đứng im lắng nghe tiếng gió xuyên qua tán lá. Trong sự im lặng đó, cô đưa ra quyết định sẽ thay đổi mọi thứ — cô sẽ quay lại Caelmyr.
 
-Fenris hiểu ra khi nhìn dấu chân trên đường. "Nó không đuổi mình đâu," ông nói, giọng khàn vì ho. "Nó đi trước rồi. Chọn sẵn chỗ chờ." Sera biết. Không đổi hướng — Pale Frontier là Huyền Môn Cốt, phải phá trước Mordren. Thời gian không còn.
+Không phải vì cô muốn trốn, không phải vì cô sợ Pale Frontier. Cô quay lại vì còn một việc chưa xong, một giai đoạn cần kết thúc trước khi cô bước sang giai đoạn tiếp theo. Kael vẫn ở trong thành, nợ Đoàn một thề ước chưa trả hết. Lần cuối cô gặp hắn, hắn đã nói rằng cô ấm hơn trước. Giờ cô ấm hơn nữa, khác đến mức chính cô cũng không chắc mình còn là người mà Kael từng biết.
 
-Ngày thứ bảy, Fenris ho ra máu. Máu chảy từ miệng xuống cằm, nhỏ giọt onto đất xám. Ông ngồi xuống vệ đường, lau máu bằng tay áo, nhìn vết đỏ trên vải. Phổi hỏng. Tuổi sáu mươi không chịu được nữa. Đi chậm hơn. Bị đuổi kịp — chết.
+Con đường từ rừng về Caelmyr mất nửa ngày. Cô đi qua cánh đồng cỏ thưa, nơi đất chuyển từ nâu sang xám. Cô nhận ra mình đang bước trên chính con đường đã chạy trốn không đầy mười ngày trước, khi máu từ cổ tay nhỏ xuống kiếm, khi Thệ Vang gào thét trong đầu. Giờ bốn mươi bảy mảnh không còn gào thét mà chỉ thì thầm, như bốn mươi bảy người đang thì thầm với nhau trong phòng nhỏ.
 
-"Fenris," Sera dừng lại, "ông không đi tiếp được nữa."
+Khi thành phố hiện ra phía xa, Sera dừng lại. Đây là nơi Giáo Hội đã giam cầm và tra khảo cô, và cũng là nơi cô đã tìm thấy Fenris, người đã dạy cô rằng tuyệt vọng có thể sinh ra đột phá.
 
-Fenris ngồi im một lúc, nhìn ra cánh đồng cỏ thưa. Gió thổi nhẹ, cỏ nghiêng về một hướng. Ông nói, giọng bình thản của người đã nghĩ kỹ: "Tôi biết. Già rồi. Nhưng cháu phải đi. Đừng chờ tôi — chờ thì chết cả hai."
+Cô bước vào thành qua cổng phía Nam, nơi không có lính canh vì đây là cửa dành cho thương nhân và thường dân. Kiếm được bọc trong vải bẩn để trông giống một món hàng rẻ tiền. Thệ Vang giữ im lặng, như biết rằng đây là lúc cần sự thận trọng.
 
-Sera im. Không bỏ — thề mới cấm bỏ người. Nhưng Fenris nói đúng. Cô đi một mình, nhanh, kịp, phá, sống. Fenris nhìn cô: "Cháu đi đi. Tôi nằm đây nghỉ. Chúng nó có bắt cũng chẳng moi được gì — tôi biết có mỗi cách nấu cơm với rèn dao."
+Kael sống ở khu phố phía Đông, gần chợ đêm, nơi mùi thịt nướng và rượu rẻ trộn lẫn với mùi nước cống. Cô đã đến đây một lần, trong đêm đầu tiên ở Caelmyr với Lira, khi Kael mở cửa và nói rằng hắn không muốn dính vào.
 
-Sera nhìn Fenris. Già, mệt, ho máu ướt tay đỏ. Không còn lâu. Cô gật, không nói. Đi một mình — quen rồi, từ Arc 1.
+Cô dừng trước cửa nhà hắn. Khung cửa gỗ sơn trắng đã bong tróc, mái hiên nhỏ che một chậu hoa đã héo. Sera gõ cửa, hai tiếng rõ ràng, không quá mạnh, không quá nhẹ.
 
-Đi không ngoái. Fenris không muốn nhìn, nhìn thì đau, đau thì chậm. Một mình, Thệ Vang ồn hơn — bốn mươi bảy mảnh không còn Aldric, hoàn thành nhẹ nhất nhưng vẫn nặng.
+Cánh cửa mở ra, và Kael đứng đó, tóc cắt ngắn hơn lần cuối, râu mọc lộn xộn, mắt hơi đỏ vì thiếu ngủ. Hắn nhìn Sera, và đôi mắt mở to hơn một chút, không phải vì sợ, mà vì nhận ra.
 
-Đi nửa ngày. Rồi cả ngày. Đêm không ngủ vì Thệ Vang ồn hơn khi một mình, không yên, không lọc, đau. Ngày thứ tám đến biên giới Pale Frontier — đất đổi màu, cỏ thưa dần, mặt đất xám như tro. Di tích Thần Chiến — vết thương tám trăm năm không lành. Aether cạn, cây cối chết, chỉ còn đất và gió.
+"Cô." Hắn nói một từ, giọng trầm, như thể từ đó chứa đựng tất cả những gì hắn muốn nói.
 
-Pale Frontier lạnh — không phải lạnh tự nhiên, là lạnh vì Aether chết hút sinh lực. Linh Phong yếu hơn, Thệ Vang ồn hơn, đau. Đi tiếp. Hai giờ, ba giờ, bốn giờ. Mệt vì không ngủ bảy ngày, không ăn, chân run. Đi, ngã, đứng, đi tiếp.
+"Kael." Sera đáp, giữ giọng đều, bình tĩnh.
 
-Tiếng chân phía sau. Nhiều — Thẩm Vấn Giả đuổi kịp. Không tránh. Đối mặt — một mình, yếu vì mệt, không chiến đấu, chết. Sera quay, rút kiếm. Thệ Thiết nặng, bốn mươi bảy mảnh ồn, đau, không tập trung. Mười hai người. Dẫn đầu: Linh Chủ, hơn Sera một bậc. Nhiều — Sera Linh Phong yếu hơn, không thắng. Chạy không, bị bao bốn phía, không lối.
+Hắn nhìn cô một lúc lâu. Mắt hắn di chuyển từ khuôn mặt cô xuống vai, xuống tay, xuống vết sẹo trên cổ tay mà dây Thệ Trói đã để lại. Hắn không hỏi tại sao cô ở đây, không hỏi cô đã thoát khỏi ngục như thế nào, không hỏi Fenris còn sống hay đã chết. Hắn chỉ quay người, bước vào nhà, và nói: "Vào đi. Đóng cửa lại."
 
-Tuyệt vọng. Fenris nói tuyệt vọng sinh đột phá — Linh Chủ, áp đặt ý chí lên không gian hẹp, kiểm soát. Nhưng chưa đủ. Tuyệt vọng thật sự — không lối. Đây.
+Nhà Kael nhỏ, một phòng chính với bếp ở góc, giường ngủ phía sau tấm màn vải. Bàn gỗ giữa phòng đầy giấy tờ và bản đồ cũ, đèn dầu cháy thấp, ánh sáng vàng nhạt làm mềm những đường nét trên khuôn mặt hắn. Hắn ngồi xuống ghế, rót trà từ ấm đất nung, đẩy tách về phía cô.
 
-Sera đứng, kiếm trước mặt. Mười hai người bao. Linh Chủ bước tới: "Giao kiếm ra. Thống Lĩnh muốn cô sống."
+"Uống đi. Trà cũ, nhưng còn nóng."
 
-Sera không giao. Đánh — một mình, chết. Không hoàn thành. Bốn mươi bảy mảnh, bốn mươi bảy người chết mang thề phải hoàn thành. Không chết ở đây.
+Sera ngồi xuống đối diện, hai tay ôm tách trà ấm. Mùi thảo mộc rẻ tiền bốc lên, cay nồng nhưng quen thuộc. Kael đang nhìn mình, đôi mắt hắn tập trung vào một điểm trên trán cô.
 
-Thệ Vang — bốn mươi bảy giọng cùng lúc. Lần đầu tiên tất cả rõ. Không ồn — yên lạ, vì không bao giờ yên. Tất cả cùng nói một lời — không phải lời, là cảm giác: sống, không bỏ, chiến đấu.
+"Cô khác rồi." Hắn nói, giọng thấp, như đang tự mình nhận ra điều đó lần đầu.
 
-Ý chí từ sâu hơn Thệ Vang, sâu hơn bốn mươi bảy — Sera. Thề mới không trong kiếm, trong cô. Ý chí áp đặt lên không gian hẹp quanh Sera năm bước — lãnh vực nhỏ, không gì vào được, cấm, sinh lực ép. Linh Chủ. Sera là Linh Chủ — đột phá trong tuyệt vọng. Điều kiện đủ.
+Sera đặt tách trà xuống bàn. Cô không biết cách nói cho hắn nghe rằng bốn mươi bảy mảnh Thệ Vang đang nói chuyện trong đầu cô, rằng cô nghe được giọng của những người chết và họ đang hướng dẫn cô.
 
-Không gian quanh Sera đặc, nặng. Lực ép — mười hai người lùi vì sợ. Ý chí cô mạnh hơn. Linh Chủ mới, chưa ổn, lực chảy ồn, đau đầu — vẫn đánh. Sera tiến, kiếm chém. Thệ Vang dẫn bốn mươi bảy mảnh cùng hướng — tên gần nhất chém trúng, ngã. Mười một còn.
+"Tôi nghe được họ," cô nói, giọng chắc chắn, và Kael không hỏi thêm gật đầu, như thể câu trả lời đó đủ để hắn hiểu mọi thứ. Hắn đứng dậy, bước đến tủ gỗ phía sau bàn, mở ngăn kéo trên cùng, lấy ra một mảnh giấy gấp đôi. Hắn đưa cho cô, và khi cô nhận, cô thấy giấy mỏng, cũ, có nếp gấp ngang giữa.
 
-Mười một lùi. Linh Chủ đối diện — ngã, chết. Sera không tiếc — bốn mươi bảy đòi công bằng. Hai tên ngã, ba bốn — đủ. Lùi vì sợ Sera mạnh hơn. Linh Chủ mới, ý chí ép không tiến. Sera tiến, thoát bẫy.
+"Địa chỉ một người ở bến cảng phía Bắc." Hắn nói và ngồi lại ghế. "Tên hắn là Davan. Hắn có thuyền, chạy hàng hóa dọc bờ biển phía Tây. Hắn đưa người đến Pale Frontier được, nếu trả đúng giá và nếu cô không hỏi hắn tại sao hắn biết đường."
 
-Sống. Nhưng đầu đau — đột phá chưa ổn, lực tràn, không kiểm soát. Thệ Vang ồn lại, bốn mươi bảy cùng lúc, đau. Chạy — không dừng — đến Huyền Môn Cốt.
+Sera mở giấy, chữ viết nhỏ gọn không phải của Kael, rồi đọc địa chỉ, ghi nhớ, gấp giấy lại và cất vào túi trong của áo choàng.
+
+"Còn cái này." Kael nói, lấy ra một tờ giấy lớn hơn, gấp nhiều lần. Hắn mở ra trên bàn, và Sera thấy một bản đồ đường hầm ngầm bên dưới Caelmyr. Đường kẻ đỏ chạy xuyên suốt từ cổng phía Đông đến bến cảng phía Bắc.
+
+"Đường hầm Thessault." Kael nói, tay chỉ vào đường kẻ đỏ. "Fenris đã đưa cô ra bằng đường này. Nhưng còn một nhánh khác, phía Nam, nối với đường hầm dẫn đến Pale Frontier. Không ai dùng nó nữa vì nó đã bỏ hoang, nhưng nó vẫn thông."
+
+Sera nhìn bản đồ và nhớ đường hầm tối, mùi nước cống, tiếng đuổi theo phía sau. Giờ nó không chỉ là lối thoát mà còn là lối đi tiếp.
+
+"Hắn thay đổi lịch trình." Kael tiếp tục, giọng thấp hơn. "Mordren không còn ra giáo đường mỗi sáng. Hắn ở trong trụ sở, ra lệnh qua người khác. Nhưng chiều nào hắn cũng ra vườn sau, một mình, đúng giờ Ngọ. Đó là lúc hắn yếu nhất, không có cận vệ xung quanh, chỉ có tường và cây."
+
+"Rồi sao?" Sera hỏi, mắt sáng — "Không sao cả," Kael nói, nhìn cô thẳng thắn. "Tôi chỉ cho cô biết vì cô cần biết. Còn cô làm gì với thông tin đó là chuyện của cô."
+
+Im lặng giữa hai người kéo dài, đèn dầu cháy leo lét. Sera nhìn Kael, và trong khoảnh khắc đó, cô thấy hắn không còn là người đàn ông đã mở cửa với đôi mắt mệt mỏi. Hắn là người đang sống với một bí mật có thể giết hắn và cả gia đình hắn, và hắn vẫn đưa thông tin cho cô vì thề ước cũ.
+
+"Cảm ơn," cô nói, giọng trầm, và Kael lắc đầu thẳng thắn. "Đừng cảm ơn. Tôi nợ Đoàn. Đây là cách tôi trả."
+
+Sera đứng dậy, bước đến bàn viết phía góc phòng. Cô thấy giấy và bút lông, mực còn ướt trong lọ. Cô ngồi xuống, viết một bức thư ngắn cho Lira, chữ viết vội nhưng rõ:
+
+"Lira. Tôi sẽ đến Pale Frontier. Nếu còn sống, hẹn gặp ở Draven. Nếu tôi không đến, đừng tìm. Tiếp tục sống."
+
+Cô gấp thư, để lại trên bàn, biết rằng Kael sẽ đưa nó đến tay Lira. Hắn nợ Đoàn, và hắn sẽ trả.
+
+Khi cô quay lại, Kael đang đứng ở cửa, tay nắm khung cửa, mắt nhìn ra đường tối bên ngoài. Hắn không quay lại khi cô đến gần, chỉ nói, giọng trầm hơn bình thường:
+
+"Cô khác rồi. Không phải vì cô mạnh hơn. Mà vì cô biết mình đang đi đâu."
+
+Sera bước ra cửa, đứng cạnh hắn. Gió đêm từ hướng biển thổi vào, lạnh và mặn. Cô nhìn ra đường, nơi đèn dầu vàng rải rác, và cô biết rằng lần cuối cùng cô đứng ở đây, cô đã là người chạy trốn. Giờ cô là người quay lại.
+
+Kael nhìn cô lâu, đôi mắt hắn sâu và tĩnh. Hắn nói, giọng vừa đủ để cô nghe:
+
+"Ghen tị, tôi đã trốn ba năm mà không nghe được gì."
+
+Sera không đáp mà bước ra đường, kéo áo choàng lên, và đi về phía cổng phía Bắc, nơi đường hầm Thessault bắt đầu. Bốn mươi bảy mảnh Thệ Vang trong đầu cô im lặng, nhưng không phải vì chúng đã ngủ. Chúng đang chờ, như bốn mươi bảy người đang chờ đến lượt.
+
+Cô biết đường đi và thời gian, biết điều gì đang chờ ở cuối con đường. Và lần này, cô không chạy trốn.

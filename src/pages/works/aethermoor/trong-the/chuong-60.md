@@ -6,84 +6,98 @@ total: 66
 title: "Chương 60: Đối Mặt"
 ---
 
-Hang đất tối om, chỉ có một khe hở trên trần cho ánh sáng lọt vào. Sera ngồi dựa vào vách đá, thanh kiếm đặt trên đùi, hai tay ôm lấy chuôi. Bốn mươi sáu mảnh còn lại. Ba ngày. Cô nhắm mắt, hít một hơi sâu, và nhớ lại lời Aldric dạy qua ký ức: im lặng, nghe một, hiểu, dẫn, lực, dùng.
+Sera nghe Fenris trở mình bên kia bức tường, tiếng xương già ma xát với nền đá lạnh. Ông đã không ngủ từ ba đêm trước, kể từ lúc kể cho cô nghe về Trọng Nham Hỏa Đạo, về di vật thần cổ, về ba mươi năm im lặng mà ông giữ kín. Hai người ngồi trong bóng tối riêng biệt nhưng chung một sự tỉnh thức.
 
-Lần này không cần ông chỉ dẫn. Cô tự làm.
+"Fenris." Cô gọi nhỏ qua khe tường, giọng khàn đặc sau nhiều ngày chỉ nói chuyện với chính mình.
 
-Im lặng. Hang đất rơi vào tĩnh mịch, chỉ còn tiếng tim cô đập chậm rãi trong lồng ngực. Thệ Vang xao động quanh cô như mặt nước bị chạm nhẹ, rồi dần lắng xuống. Cô chọn một mảnh — không phải mảnh gần nhất, mà là mảnh rung lên khi cô nghĩ về sự phản bội. Nó đáp lại bằng một cơn rét chạy dọc sống lưng.
+Giọng ông đáp lại, trầm và mỏi mệt: "Cô muốn hỏi điều gì."
 
-Nghe một.
+Đây không phải câu hỏi thật sự. Sera biết ông hiểu cô muốn hỏi gì từ trước khi cô mở miệng.
 
-Ký ức mở ra không phải bằng hình ảnh mà bằng mùi: khói gỗ ướt, nến sáp ong, và mùi đất sau mưa. Một người đàn ông trẻ, áo giáp Đoàn còn mới, đứng trong phòng lễ khi mọi người đã rời đi. Hắn nhìn xuống bàn tay mình — bàn tay vừa đặt lên bản đồ vị trí đóng quân của Đoàn, bản đồ sẽ được chuyển cho Giáo Hội.
+"Tại sao ông giúp tôi."
 
-Hắn không hèn nhát. Hắn run, nhưng không phải vì sợ. Hắn run vì hắn tin mình đúng.
+Im lặng kéo dài đủ lâu để cô đếm được hai mươi nhịp thở trước khi Fenris lên tiếng.
 
-Sera nghe hắn nói với chính mình, giọng khàn đặc: "Đoàn tìm di vật cấm. Di vật đánh thức thần chết. Ta không thể để họ. Ta phải dừng họ lại — dù bằng cách này."
+"Vì tôi muốn biết sự thật." Giọng ông đều đều, không xúc động. "Ba mươi năm tôi phục vụ Giáo Hội, tám năm điều tra Pale Frontier, rồi tôi phát hiện cả hai bên đều tìm kiếm thứ mà họ không hiểu. Trọng Nham Hỏa Đạo giấu di vật, Giáo Hội muốn đoạt nó, còn tôi chỉ muốn biết nó thực sự là gì."
 
-Hiểu.
+Sera lắng nghe, tay vô thức chạm lên dây Thệ Trói quấn quanh cổ tay. Dây phát ra hơi nóng yếu ớt mỗi khi ngón tay cô lướt qua, nhắc cô rằng sợi xích ấy được rèn bằng chính lời thề của cô và không thể tháo ra bằng sức thường.
 
-Hắn phản bội không vì tham lam. Hắn phản bội vì hắn thấy Đoàn đi sai đường — tìm kiếm thứ vũ khí thần cổ mà hắn tin sẽ hủy diệt tất cả. Hắn chọn Giáo Hội vì Giáo Hội hứa sẽ chôn vùi di vật đó. Hắn không biết Giáo Hội muốn dùng nó.
+"Ông không tin tôi." Sera nói, giọng thẳng thắn.
 
-Sera mở mắt. Tay cô siết chặt chuôi kiếm. Mảnh thứ hai không phải thề của người vô tội — nhưng cũng không phải thề của kẻ ác. Nó là thề của người tin mình đúng, và sự tin đó đã giết cả Đoàn.
+"Không." Fenris đáp lại ngay, không do dự. "Tôi không tin cô, song tôi tin rằng cô đang giữ thứ quan trọng nhất trên đời này, và tôi cần biết nó là gì trước khi chết trong cái hang lạnh lẽo."
 
-Cô không phán xét. Cô quan sát, hiểu, rồi quyết định.
+Sera ngồi dựa vào tường, mắt nhìn lên trần ngục tối mịt. Cô hiểu Fenris vì ông giống cô ở một điểm: cả hai đều bị tổ chức mà họ phụng sự phản bội, cả hai đều mất tất cả vì sự thật phơi bày, và cả hai đều cần đi ra ngoài để tìm câu trả lời.
 
-"Ta hoàn thành," cô nói khẽ. "Không phải vì Đoàn. Vì ta chọn."
+"Thệ Trói không tháo được bằng tay." Cô chuyển sang vấn đề thực tế. "Nó được gắn bằng lời thề của chính tôi, chỉ mất đi khi lời thề đó tan vỡ."
 
-Thệ Vang rung lên đáp lại — không phải lời nói, mà là một luồng ấm chảy từ kiếm vào lòng bàn tay. Kiếm nhẹ đi một chút, nhưng chưa đủ. Mảnh thứ hai chưa giải phóng hoàn toàn — nó cần hành động bên ngoài hang này, cần tìm ra tung tích kẻ phản bội, người vẫn còn sống ở đâu đó ngoài kia.
+"Cô có thể phá nó bằng Aether không?" Fenris hỏi.
 
-Cô ghi nhận điều đó. Một mục tiêu dài hạn.
+Sera nhìn xuống cổ tay, nơi dây Thệ Trói phát ra ánh sáng đỏ mờ. Mỗi lần dồn Aether vào dây là cơn đau chạy lên đến tận xương tủy buộc cô phải dừng. Đau của lời thề bị kéo căng, như thể sợi dây nhắc cô rằng cô đã hứa phải giữ lời.
 
-Rồi cô nhớ lại một chi tiết khác — một ký ức không phải của kẻ phản bội, mà của Aldric. Ông đứng trong bóng tối của phòng lễ, nhìn kẻ phản bội rời đi, và không ngăn lại. Ông biết. Ông biết từ trước — và ông không nói với ai.
+"Có thể. Song cô phải chấp nhận đau. Aether sẽ làm nóng dây cho đến khi nó đứt, và lời thề sẽ chống cự lại bằng chính sức mạnh của nó."
 
-Sera dừng lại. Người thầy đã dạy cô kỹ thuật này, người đã nuôi cô lớn trong Đoàn — ông cũng giữ bí mật. Ông để mặc kẻ phản bội hành động, để mặc Đoàn bị tiêu diệt, và chỉ để lại cho cô một kỹ thuật nghe kiếm.
+"Đau đến mức nào."
 
-Cô không biết phải nghĩ gì về điều đó. Cô chỉ biết ghi nhận.
+"Đau đến mức tôi có thể ngất đi. Nếu ngất, Aether ngừng dẫn, dây liền lại và mạnh hơn trước."
 
-Bên ngoài hang, gió thổi qua vùng đất cạn khô. Ba ngày. Bốn mươi sáu mảnh. Và một câu hỏi mới: Aldric còn giấu cô điều gì nữa?
+Fenris không nói gì thêm trong một lúc lâu, rồi ông gõ nhẹ hai lần vào tường. Âm thanh nhỏ nhưng rõ ràng giữa đêm tĩnh lặng.
 
-Sera đặt kiếm lên đùi, nhắm mắt, và bắt đầu nghe mảnh thứ ba.
+"Kế hoạch." Giọng ông thay đổi, trở nên sắc bén hơn. "Sáng mai tôi sẽ giả ốm, giả ốm đủ nặng để lính canh phải gọi thầy thuốc. Thầy thuốc mở cửa phòng tôi để khám. Trong lúc đó, cô bắt đầu phá dây."
 
----
+Sera tính toán trong đầu. Nếu Fenris giả ốm đủ thuyết phục, lính canh sẽ tập trung vào phòng ông, và cô sẽ có thời gian.
 
-Cô hít vào một hơi dài, để không khí ẩm mốc của hang đất tràn đầy phổi, rồi thở ra chậm rãi. Kỹ thuật của Aldric không phải là ép buộc — nó là sự nhường nhịn. Cô không tìm kiếm ký ức; cô để ký ức tìm đến mình. Mảnh thứ ba nằm trong đống hỗn độn của những lời thề chưa trọn, nhưng nó không rung lên như mảnh phản bội. Nó rung lên như một sợi dây đàn bị bấm sai nốt — lệch, chua, và đau.
+"Kiếm của tôi ở đâu."
 
-Cô mở lòng mình ra.
+"Phòng giữ vũ khí trên tầng hai. Kiếm bị giữ cùng những đồ vật tịch thu khác, khoá trong phòng cuối hành lang."
 
-Ký ức đến không phải bằng mùi lần này, mà bằng âm thanh. Tiếng bước chân trên nền đá ẩm, tiếng kim loại va vào nhau khi ai đó mặc giáp vội vàng. Một người phụ nữ — mái tóc đen cắt ngắn, vết sẹo chạy từ lông mày xuống gò má — đang chạy qua hành lang dưới lòng đất của Đoàn. Cô ta không phải chiến binh; bộ giáp cô ta mặc quá rộng, và cách cô ta giữ thanh kiếm cho thấy cô ta chưa từng dùng nó. Nhưng cô ta chạy như thể mạng sống của mình phụ thuộc vào từng bước chân.
+"Nếu tôi phá được dây và lấy được kiếm, chúng ta cần thoát ra trước khi lính canh phát hiện."
 
-Cô ta dừng lại trước một cánh cửa gỗ, đẩy mạnh. Bên trong là một căn phòng nhỏ, chất đầy giấy tờ và bản đồ. Một ngọn nến duy nhất cháy trên bàn. Cô ta với tay lấy một tập tài liệu — nhưng tay cô ta run, và tập tài liệu rơi xuống sàn, giấy tờ bay tứ tung.
+"Đó là phần của tôi." Fenris nói, giọng có chút gì giống sự hài lòng của người đã chờ đợi rất lâu. "Ba mươi năm sống trong Giáo Hội cho tôi biết mọi ngóc ngách, từng lối đi, từng cửa sau. Tôi biết đường ra."
 
-Cô ta quỳ xuống nhặt, nhưng rồi dừng lại. Cô ta nhìn vào một trang giấy — một bức thư, viết tay, với con dấu của Giáo Hội ở góc. Mắt cô ta mở to. Cô ta đọc đi đọc lại, rồi ngồi bệt xuống sàn, ôm mặt.
+Đêm đó, hai người chuẩn bị cho ngày mai bằng sự im lặng. Sera ngồi trong bóng tối, để cơ thể quen với ý tưởng về cơn đau sắp đến. Đau của vết thương chiến trận, đau của mất mát người thân, đau của lời thề bị phản bội, cô đã trải qua tất cả. Thế nhưng đau của việc tự phá lời thề thì chưa từng.
 
-"Ta tưởng mình đúng," cô ta thì thầm. "Ta tưởng Giáo Hội sẽ chôn vùi di vật. Nhưng họ — họ muốn dùng nó. Họ muốn đánh thức thần chết."
+Sáng hôm sau, khi ánh sáng đầu tiên lọt qua khe cửa sổ nhỏ trên trần ngục, Fenris bắt đầu.
 
-Sera cảm nhận được sự sụp đổ trong lời nói đó. Người phụ nữ này không phải kẻ phản bội — cô ta là người đã bị lừa. Cô ta tin rằng mình đang cứu Đoàn khỏi chính mình, nhưng thực ra cô ta đã trao cho Giáo Hội chìa khóa để hủy diệt tất cả. Và khi cô ta nhận ra điều đó, đã quá muộn.
+Ông ho dữ dội, tiếng ho vang dội qua bức tường đá. Ông kêu đau bụng, rồi nôn mửa khiến cả hang đất chấn động. Lính canh chạy đến, mở cửa phòng Fenris, và ông nằm co ro trên nền đá, mặt tái mét.
 
-Ký ức chuyển cảnh. Người phụ nữ đứng trước một vách đá — không phải hang này, mà một nơi khác, cao hơn, gió thổi mạnh hơn. Cô ta đang cầm thanh kiếm của mình — thanh kiếm mà cô ta không biết dùng — và trước mặt cô ta là một vực sâu. Cô ta nhìn xuống, rồi nhìn lại phía sau, nơi có ánh lửa của trại Đoàn ở xa xa.
+"Lão già sắp chết rồi." Lính canh chửi thề, giọng bực bội, vẫn gọi thầy thuốc.
 
-"Ta không thể sửa chữa," cô ta nói, giọng vỡ vụn. "Ta không thể quay lại. Ta đã đốt cầu."
+Trong lúc sự tập trung dồn về phòng Fenris, Sera bắt đầu.
 
-Cô ta nhìn thanh kiếm trong tay mình. Rồi cô ta làm một điều mà Sera không ngờ tới — cô ta quỳ xuống, đặt thanh kiếm lên đất, và nói một lời thề. Không phải với Đoàn. Không phải với Giáo Hội. Mà với chính mình.
+Cô hít vào một hơi sâu, rồi dồn Aether từ đan điền xuống cánh tay, chạy dọc theo mạch máu đến tận đầu ngón tay nơi chạm vào dây Thệ Trói. Aether nóng lên, chảy vào sợi dây như nước sôi đổ lên kim loại, và ngay lập tức cơn đau ập đến.
 
-"Ta thề sẽ tìm ra di vật trước Giáo Hội. Ta thề sẽ tiêu hủy nó — dù ta có phải chết. Ta thề sẽ không để bất kỳ ai dùng nó."
+Đau như nghìn mũi kim đồng thời đâm vào da thịt, đau như lửa đốt xương, đau như lời thề đang gào thét trong từng tế bào đòi cô dừng lại. Sera nghiến răng, mắt mở to nhìn sợi dây bắt đầu phát sáng đỏ rực trên cổ tay.
 
-Lời thề đó vang lên trong không gian trống rỗng, không ai nghe thấy. Nhưng Thệ Vang đã ghi nhận nó. Và bây giờ, Sera đang nghe nó.
+Aether tiếp tục chảy, dây tiếp tục nóng, và cơn đau tiếp tục tăng lên cho đến khi cô không còn phân biệt được đâu là dây, đâu là da thịt, đâu là Aether, đâu là lời thề.
 
-Cô mở mắt. Hang đất tối om trở lại quanh cô. Mảnh thứ ba không phải là lời thề của kẻ phản bội — nó là lời thề của người đã cố sửa chữa sai lầm của mình, nhưng không bao giờ có cơ hội. Người phụ nữ đó — cô ta đã chết, Sera biết điều đó từ cách ký ức kết thúc. Cô ta chết trước khi tìm được di vật.
+Rồi có tiếng nứt, nhẹ như sợi tóc đứt.
 
-Nhưng cô ta đã để lại một manh mối. Trong ký ức, khi cô ta nhìn xuống vực sâu, Sera đã thấy một thứ — một dãy núi ở phía xa, với một đỉnh núi có hình dạng kỳ lạ, như một bàn tay khum lại. Cô ta đã nhìn về hướng đó trước khi thề. Đó có thể là nơi di vật được giấu.
+Dây Thệ Trói trên cổ tay trái nứt ra một đường nhỏ, ánh sáng đỏ thoát ra như máu chảy từ vết thương. Sera dồn thêm Aether, chấp nhận cơn đau tăng gấp đôi, chấp nhận tiếng gào thét của lời thề vang trong đầu cô như muốn vỡ tung.
 
-Sera ghi nhận điều đó. Một mục tiêu khác — xa hơn, nguy hiểm hơn, nhưng cụ thể hơn.
+Đường nứt lan rộng, đỏ rực, và rồi sợi dây đứt.
 
-Cô nhìn xuống thanh kiếm trên đùi. Thệ Vang vẫn còn nặng, nhưng nhẹ hơn một chút so với trước. Ba mảnh đã được nghe. Ba mảnh đã được hiểu. Nhưng chỉ một mảnh được giải phóng hoàn toàn — mảnh đầu tiên, lời thề của người vô tội. Hai mảnh còn lại vẫn còn đó, chờ đợi hành động.
+Thệ Trói rơi xuống đất, cứng đờ, và ánh sáng đỏ tắt hẳn. Sera nhìn cổ tay trái, nơi da thịt đỏ ửng như bị bỏng, dây đã mất. Cô thở hổn hển, mồ hôi đầm đìa, cơn đau còn âm ỉ trong xương.
 
-Cô không vội. Ba ngày là đủ — nếu cô dùng thời gian một cách khôn ngoan. Cô không thể nghe tất cả bốn mươi sáu mảnh trong ba ngày nếu cô dừng lại để suy nghĩ về từng mảnh. Cô phải nghe, hiểu, và chuyển sang mảnh tiếp theo. Hành động sẽ đến sau.
+Cô tiếp tục với tay phải, sợi dây còn lại. Aether lại chảy, cơn đau lại ập đến, lần này dữ dội hơn vì cơ thể đã kiệt sức. Sera ngã người về phía trước, đầu gối đập xuống đá lạnh, tay vẫn giữ vững và Aether vẫn chảy.
 
-Nhưng câu hỏi về Aldric vẫn còn đó, như một mảnh vụn trong tâm trí cô. Ông biết về kẻ phản bội. Ông biết về người phụ nữ bị lừa. Ông biết về tất cả — và ông không làm gì cả. Ông để mọi thứ xảy ra, rồi để lại cho cô một kỹ thuật và một thanh kiếm.
+Lần này nhanh hơn vì sợi dây đã yếu đi khi cô phá sợi đầu, và cô đã vượt qua được ngưỡng đau cần thiết để lời thề không còn chống cự. Dây đứt, rơi xuống đất, và Sera ngã ngửa ra sau, lưng đập mạnh vào tường.
 
-Có phải ông đang dạy cô một bài học? Hay ông đang trốn tránh trách nhiệm của mình?
+Cô nằm đó, thở, nhìn lên trần ngục, chờ cơn đau tan dần.
 
-Sera không có câu trả lời. Cô chỉ có một thanh kiếm, bốn mươi ba mảnh còn lại, và ba ngày.
+Rồi cô đứng dậy, chậm rãi, chân run, tay bỏng rát, cô đứng được vì Fenris đang giữ sự chú ý của lính canh.
 
-Cô nhắm mắt, hít một hơi sâu, và để không khí ẩm mốc của hang đất tràn đầy phổi. Rồi cô mở lòng mình ra, và bắt đầu nghe mảnh thứ tư.
+Sera bước ra khỏi phòng giam. Hành lang tối, không có ai vì lính canh đã tập trung ở phòng Fenris. Cô rẽ phải, lên cầu thang đến tầng hai.
+
+Cửa khoá nhưng phía trên có cửa sổ nhỏ. Đủ lớn cho một người chui qua nếu người đó nhỏ nhắn như cô.
+
+Cô trèo lên, chui qua cửa sổ, rơi xuống bên trong phòng giữ vũ khí. Đồ vật tịch thu chất đống trên kệ gỗ, và ở giữa, nổi bật nhất, chính là thanh kiếm Thệ Vang.
+
+Cô chạm vào chuôi kiếm, và thế giới rung chuyển.
+
+Bốn mươi bảy mảnh thề ước cùng lúc bùng lên trong tâm trí cô, bốn mươi bảy giọng nói hét lên đồng thời, mỗi giọng mang theo một lời thề, một ước nguyện, một mạng sống đã mất. Đau, không phải đau của Thệ Trói, mà là đau của sự nhớ nhung, đau của sự nhận ra, đau của việc biết rằng bốn mươi bảy người đang sống trong thanh kiếm và họ đang chờ cô.
+
+Sera ôm chặt kiếm vào ngực, để bốn mươi bảy mảnh lắng xuống, rồi cô đứng dậy, kiếm trong tay, bước ra khỏi phòng giữ vũ khí bằng cửa chính.
+
+Fenris đã đợi ở cửa sau, lưng tựa vào tường. Ông chỉ gật đầu, rồi quay lưng đi trước, dẫn đường qua những lối tắt mà ba mươi năm đã dạy cho ông.
+
+Hai người chạy, bóng đêm che chở, và phía sau họ, Giáo Hội bắt đầu phát hiện sự vắng mặt.

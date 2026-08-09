@@ -3,43 +3,63 @@ layout: ../../../../layouts/ChapterLayout.astro
 chapter: 59
 story: "/works/aethermoor/trong-the"
 total: 66
-title: "Chương 59: Kế Hoạch"
+title: "Chương 59: Chapter 59"
 ---
 
-**Chương 59 — Mảnh Đầu Tiên**
+Sera không thể nào ngủ được. Cô ngồi trong bóng tối của hang đất, lưng dựa vách đá lạnh, kiếm đặt ngang đùi mà cô không chạm vào. Gió Pale Frontier rít qua khe đá phía trên, mang theo mùi khoáng chua và cái lạnh khô đặc trưng của đất đã chết từ lâu. Bốn mươi lăm mảnh thề ước im lặng trong Thệ Vang, lần đầu tiên kể từ đêm diệt môn không một giọng nào thì thầm.
 
-Hang đất tối om, chỉ có một khe hở trên trần cho ánh sáng lọt vào. Sera ngồi dựa vào vách đá, thanh kiếm đặt trên đùi, hai tay ôm lấy chuôi. Bốn mươi bảy mảnh thề ước đang ồn ào trong đầu cô — không phải tiếng nói, mà là áp lực, là sức nặng đè lên xương ức từng nhịp. Mỗi nhịp thở cô hít vào, sức nặng ấy lại dồn xuống một chút, như thể có ai đó đang đặt thêm đá lên ngực cô. Cô đã quen với cảm giác này — quen đến mức đôi khi cô tự hỏi liệu mình có còn biết sống thiếu nó hay không. Nhưng hôm nay thì khác. Hôm nay cô không chỉ chịu đựng. Hôm nay cô bắt đầu trả.
+Cô không biết tại sao mình vẫn tỉnh. Cơ thể mệt mỏi đến mức ngón tay run khi duỗi ra, mắt bỏng rát như thể có sạn cọ vào giác mạc, nhưng đầu thì tỉnh đến kỳ lạ. Câu nói của Fenris lặp đi lặp lại trong đầu, mỗi chữ đập xuống một nhịp chậm, không vội, không ngừng, cho đến khi nó trở thành một phần của nhịp thở cô.
 
-Cô nhắm mắt. Ký ức về Aldric hiện lên — ông già thợ rèn đứng bên lò, tay gõ nhịp lên đe, giọng trầm: "Im lặng. Nghe một. Hiểu. Dẫn. Lực. Dùng." Sáu bước. Cô lặp lại trong đầu, chậm rãi, như đếm nhịp thở. Aldric chưa từng giải thích vì sao sáu bước ấy lại theo thứ tự đó. Ông chỉ nói rằng nếu cô đảo lộn chúng, cô sẽ không bao giờ nghe được điều mình cần nghe. Cô từng nghĩ đó là lời nói vô nghĩa của một ông già mê tín. Nhưng bây giờ, ngồi trong hang đất tối, cô không còn chắc nữa.
+"Đoàn các ngươi không vô tội."
 
-*Im lặng.* Cô hạ vai, buông lỏng các ngón tay. Tiếng ồn trong đầu không giảm, nhưng khoảng cách giữa cô và nó rộng ra. Cô không cố đẩy nó đi. Cô chỉ đứng yên, như đứng bên bờ sông nhìn nước chảy qua. Những mảnh thề ước vẫn nhấp nhô, vẫn va vào nhau, nhưng cô không còn ở trong dòng nước nữa. Cô đứng trên bờ.
+Fenris nói điều đó đêm qua, giọng bình thản của người đã sống sáu mươi năm trong Giáo Hội. Ông kể về Trọng Nham Hỏa Đạo năm năm trước, khi ông còn là Thẩm Vấn Giả điều tra, khi ông phát hiện họ tìm di vật thần cổ trong lòng đất Pale Frontier. Họ giấu việc tìm kiếm, nghiên cứu thứ tìm được, và muốn dùng nó để có quyền lực.
 
-*Nghe một.* Cô không nghe tất cả. Cô chọn một giọng — giọng quen thuộc nhất, trầm và khàn, từng dạy cô đọc địa hình. Jorin. Giọng ấy không vang lên từ ngoài. Nó vang lên từ bên trong, từ một nơi sâu hơn cả ký ức — từ nơi cô giữ những lời hứa chưa trả.
+Sera nghe xong không nói gì. Cô chỉ ngồi trong bóng tối, mắt nhìn vào khoảng không phía trước. Fenris không có lý do để nói dối. Ông bị giam vì từ chối đốt làng, bị bỏ mặc trong phòng đá lạnh suốt nhiều năm, và ông chọn nói ra sự thật. Dù cô muốn phản bác, miệng cô vẫn đóng im vì cô biết ông nói đúng.
 
-"Bên trái," giọng nói. "Ta nợ một mạng. Bên trái, trong trận Veren."
+Đoàn của cô không vô tội. Trọng Nham Hỏa Đạo tìm di vật thần cổ, biết thứ đó nguy hiểm nhưng vẫn tìm kiếm. Giáo Hội thay vì ngăn chặn lại muốn đoạt lấy để mở cổng đến Thần Chiến, đánh thức Thần Đế đã ngủ tám trăm năm. Mordren Thống Lĩnh muốn trở thành Thần Đế mới, muốn ngồi lên ngai vàng của thần chết. Tất cả đều xoay quanh một thứ mà cô đang ngồi ngay bên cạnh.
 
-Sera nhớ. Trận Veren, năm cô mười chín. Mưa trắng xóa, bùn ngập đến mắt cá chân, tiếng thép va vào thép vang lên như tiếng chuông vỡ. Jorin đẩy cô sang trái, hứng nhát kiếm định chém vào cô. Ông sống, nhưng mất ba ngón tay. Cô chưa bao giờ trả được mạng đó. Cô từng nghĩ mình sẽ trả bằng cách chiến đấu bên cạnh ông, nhưng ông rời Đoàn ngay sau đó, và cô không bao giờ gặp lại ông nữa. Cho đến bây giờ.
+Di vật nằm trong thanh kiếm trên đùi cô. Bốn mươi bảy mảnh thề ước từ bốn mươi bảy người đã chết trong đêm diệt môn, mỗi mảnh mang theo một giọng nói và một ước nguyện mà cô bắt đầu nghe được. Cô đã nghe vài giọng trong số đó, đã bắt đầu hiểu rằng mỗi mảnh không phải con số mà là mạng sống thật, là người thật có tên riêng và gương mặt mà cô vẫn nhớ rõ.
 
-*Hiểu.* Không phải nợ máu. Là nợ mạng — ông cho cô mạng sống, cô chưa trả. Trả nợ tức hoàn thành. Cô không cần phải tìm ông, không cần phải xin lỗi. Cô chỉ cần hoàn thành lời thề ước của ông — lời thề ước mà ông đã mang theo suốt đời, lời thề ước mà ông chưa bao giờ nói ra thành tiếng nhưng luôn đè nặng trong lòng. Cô không biết ông đã thề gì. Cô chỉ biết rằng mảnh thề ước ấy đang ở trong đầu cô, và nó muốn được trả.
+Nhưng cô chưa bao giờ đặt ra câu hỏi mà bây giờ cô không thể dừng nghĩ.
 
-*Dẫn.* Cô không ép giọng nói. Cô để nó dẫn — để ký ức trận Veren hiện lên đầy đủ: mưa, bùn, tiếng thép, bàn tay Jorin đẩy vai cô. Cô thấy lại cảnh ông ngã xuống, máu từ bàn tay phải chảy ra hòa vào bùn đỏ. Cô thấy lại ánh mắt ông — không phải ánh mắt đau đớn, mà là ánh mắt của một người vừa hoàn thành điều gì đó. Ông không hối tiếc. Ông chỉ nhìn cô và gật đầu, như thể nói: "Đến lượt con."
+Bốn mươi bảy người đó có biết về di vật không? Họ có biết Trọng Nham Hỏa Đạo đang tìm kiếm thứ gì trong đất Pale Frontier? Họ có biết Thệ Hạch trên bệ đá là vật cấm, là cánh cửa mở đến Thần Chiến và thần chết? Và nếu họ biết, họ có đồng ý không?
 
-*Lực.* Cô không dùng sức mạnh để giữ. Cô dùng lực để đẩy — đẩy mảnh thề ước ra khỏi lồng ngực, lên phía thanh kiếm. Cô cảm nhận nó di chuyển, như một dòng nước chảy qua cánh tay, qua cổ tay, qua các ngón tay đang ôm chuôi kiếm. Nó không đau. Nó nhẹ nhàng hơn cô tưởng. Cô từng nghĩ trả nợ sẽ là một cuộc vật lộn, một trận chiến. Nhưng thực ra, nó chỉ là một sự buông tay.
+Cô nhớ đêm lửa trại, đêm cuối cùng cả Đoàn được vui vẻ trước khi mọi thứ sụp đổ.
 
-*Dùng.* Cô mở mắt. Thanh kiếm trên đùi rung nhẹ — một lần, rồi im. Cô đếm lại trong đầu. Bốn mươi sáu. Mảnh Jorin đã rời đi.
+Trời đêm trong vắt, sao sáng đến mức bóng đổ hiện rõ trên bãi cỏ. Lửa trại cháy giữa bãi, gỗ thông kêu tách tách, khói trắng bay lên rồi tan vào bầu trời đen. Mười hai người ngồi quanh lửa, mỗi người một cốc canh khoai tây nóng, cười nói ồn ào đến mức tiếng lửa cháy bị át hẳn. Jorin kể về trận đánh ở biên giới Thessault, giọng khàn khàn, tay giơ lên bắt chước động tác chém kiếm. Mấy người mới vào Đoàn cười ngặt nghẽo đến mức cốc canh sóng sánh suýt đổ. Aldric ngồi ở góc, lưng dựa thùng gỗ, tay xoay thanh sắt trên lửa cho nóng. Ông không cười nhưng khóe mắt có nếp nhăn, dấu hiệu duy nhất cho thấy ông đang lắng nghe.
 
-Lãnh vực quanh cô — thứ vốn luôn ồn ào, luôn nhức nhối — bỗng yên. Không phải im lặng của cái chết, mà là im lặng của nước đứng yên sau cơn mưa. Bốn mươi sáu mảnh còn lại không la hét nữa. Chúng lắng nghe. Cô có thể cảm nhận từng mảnh một, như thể chúng đang xếp hàng chờ đợi, mỗi mảnh mang theo một câu chuyện riêng, một món nợ riêng, một con người riêng. Cô không biết họ là ai. Cô chỉ biết rằng họ đang chờ.
+Không ai nói về di vật. Không ai nhắc đến Pale Frontier, đến Thệ Hạch, đến thứ gì mà bây giờ Sera biết chính là nguyên nhân khiến Giáo Hội tiêu diệt cả Đoàn. Mười hai người ngồi quanh lửa uống canh, nhìn lửa cháy và sao sáng trên đầu, hoàn toàn không biết rằng thứ họ phụng sự là một cánh cổng dẫn đến thần chết.
 
-Trong ký ức, Aldric không còn đứng ở góc phòng. Ông bước tới, đứng ngay trước mặt cô, và gật đầu. Không nói gì. Chỉ gật — như người thầy xác nhận học trò đã tự tìm được đường. Cô chưa từng thấy ông gật đầu với ai như thế. Ngay cả khi cô rèn được thanh kiếm đầu tiên, ông cũng chỉ nhìn rồi quay đi. Nhưng bây giờ, ông gật. Và cô biết mình đã làm đúng.
+Thệ Vang rung lên, nhẹ như hơi thở, và trong rung nhẹ đó ký ức đến. Không phải từ trí nhớ của cô. Từ kiếm, từ một trong bốn mươi bảy người đã chết.
 
-Sera cúi xuống nhìn thanh kiếm. Nó nhẹ hơn. Không nhiều — nhưng cô nhận ra ngay, như người quen với gánh nặng nhận biết khi một phần đã được đặt xuống. Cô đặt tay lên lưỡi kiếm, cảm nhận kim loại lạnh. Nó không còn là vật vô tri nữa. Nó đã trở thành nơi chứa những lời thề ước — những lời thề ước mà cô sẽ lần lượt trả.
+Đêm lửa trại khác, mắt của người khác. Cô thấy lửa đỏ ngay trước mắt mình. Nghe tiếng cười của chính mình, tiếng cười trẻ hơn, vui hơn, chưa biết gì về Thệ Hạch hay Pale Frontier. Thấy tay mình cầm cốc canh, ngón tay còn đầy đủ, chưa mất thứ gì. Thấy khuôn mặt những người xung quanh, mỗi khuôn mặt là một người sẽ chết trong đêm diệt môn, mỗi khuôn mặt đang cười, đang sống, đang ở đây trong khoảnh khắc ngắn ngủi này.
 
-"Thề ước của người không vô tội," cô nói khẽ. "Thật. Đúng."
+Một người nâng cốc lên và nói gì đó không rõ, rồi tiếng cười ầm lên. Không ai nói về di vật. Không ai nhắc đến thứ ẩn sau phòng thề. Họ nói về trận mưa tuần trước, về con đường về trại bị sạt lở, về việc canh khoai tây thiếu muối. Những điều nhỏ nhặt thuộc về cuộc sống mà họ chưa biết sắp kết thúc.
 
-Jorin không vô tội — ông từng giết người trong chiến tranh, từng ra lệnh đốt làng. Cô biết điều đó. Cô biết ông không phải người tốt, không phải người xấu — ông chỉ là người đã sống qua chiến tranh và mang theo những vết sẹo không nhìn thấy được. Nhưng cô không phán xét. Cô hoàn thành vì cô chọn. Không phải vì Đoàn, không phải vì nghĩa vụ. Vì cô muốn — lần đầu tiên, cô chủ động hành động trên một thề ước thay vì phản ứng với nó. Cô không còn là con rối của những mảnh vỡ nữa. Cô là người điều khiển chúng.
+Ký ức mờ dần, tan ra như khói lửa bay lên trời, và Sera trở về bóng tối hang đất.
 
-Cô đứng dậy, kiếm trong tay. Bốn mươi sáu mảnh còn lại — cần ba ngày để hoàn thành tất cả. Ba ngày trước khi Mordren đến. Cô nhìn về phía khe hở trên trần, nơi ánh sáng lọt vào, và thì thầm với chính mình:
+Cô không thể khóc từ đêm diệt môn. Nhưng có thứ gì đó nặng hơn nước mắt đang đè lên ngực cô, nặng hơn cả bốn mươi lăm mảnh thề ước cộng lại, nặng đến mức mỗi hơi thở đều phải chống chọi với sức ép ấy để đi vào phổi.
 
-"Ai đến trước — Mordren hay Sera — sẽ quyết định."
+Họ hoàn toàn không biết gì. Họ thề bảo vệ một Đoàn mà họ nghĩ là vô tội, phụng sự một sứ mệnh mà họ nghĩ là đúng đắn. Họ chết vì lời thề đó, và lời thề đó được giữ lại trong thanh kiếm, chờ đợi một người sống để hoàn thành. Nhưng người sống không biết gì hơn người chết. Cô cũng không biết cho đến đêm qua, khi Fenris mở mắt trong bóng tối phòng giam và nói rằng Đoàn không vô tội.
 
-Cô ngồi xuống, đặt kiếm lên đùi, và bắt đầu nghe mảnh thứ hai.
+Giờ đây cô đã biết sự thật. Và biết nghĩa là mang thêm một gánh nặng mà bốn mươi bảy người chết không thể gánh thay cho cô.
+
+Cô tự hỏi nếu họ biết, họ có thề khác đi không. Nếu Jorin biết thệ ước của ông là phục vụ một đoàn tìm di vật thần cổ, ông có còn đẩy cô sang trái trong trận Veren không. Nếu Aldric biết ông đang rèn kiếm cho một đoàn sẽ bị tiêu diệt, ông có còn dạy cô sáu bước lắng nghe không.
+
+Câu trả lời không bao giờ đến với cô. Chỉ có bóng tối, tiếng gió xuyên khe đá, và sự im lặng của những người chết không thể hỏi lại.
+
+Sera từ từ nhắm mắt xuống. Lần này không phải để ngủ vì cô biết mình sẽ không ngủ được. Cô nhắm mắt để nhìn rõ hơn, để thấy gương mặt những người trong ký ức lửa trại, để nghe tiếng cười của họ, để nhớ rằng họ là người thật chứ không phải mảnh thề ước hay con số.
+
+Bốn mươi bảy con người đã khuất. Bốn mươi bảy cuộc đời đã qua. Bốn mươi bảy lần họ chọn ở lại, chọn phụng sự, chọn tin vào điều có thể là dối trá.
+
+Cô không phán xét ai trong họ. Cô cũng từng tin vào điều tương tự, cũng từng đứng trong phòng thề, tay áp lên Thệ Hạch, thề "đến cuối cùng" mà không biết cuối cùng sẽ đưa cô đến đâu.
+
+Nhưng bây giờ thì cô đã biết. Và biết là lựa chọn của riêng cô, không phải của họ.
+
+Trời gần sáng khi cô mở mắt lần cuối. Ánh sáng mờ lọt qua khe hang, xám nhạt, mang theo mùi đất ẩm. Bốn mươi lăm mảnh thề ước vẫn im lặng, chờ đợi. Fenris ở phòng bên hơi thở đều đặn, ngủ thật lần đầu sau nhiều ngày.
+
+Sera nhìn lên trần hang, ánh sáng le lói yếu ớt như sợi chỉ bạc, và nói với bóng tối:
+
+"Các ngươi không biết. Nhưng ta đã biết rõ rồi."
+
+Không phải vì lý do của Đoàn. Vì bốn mươi bảy người đã tin vào điều sai, và vì cô là người cuối cùng còn đứng ở đây, giữa bóng tối và ánh sáng le lói, mang theo lời thề mà họ không kịp hiểu.

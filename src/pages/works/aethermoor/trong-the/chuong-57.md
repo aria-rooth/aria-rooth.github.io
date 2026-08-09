@@ -6,64 +6,88 @@ total: 66
 title: "Chương 57: Ngục"
 ---
 
-Hang đất tối. Sera ngồi giữa, kiếm đặt trước mặt — cách tay ba bước. Cô đã đếm nhịp tim mình hai trăm lần kể từ khi Jorin im lặng. Bốn mươi bảy mảnh còn lại. Mảnh đầu tiên đã xong — nhưng chưa đủ để tin.
+Trong bóng tối, giọng đếm vẫn đều đặn, và Sera ngồi im lắng nghe.
 
-Cô nhắm mắt. Aldric dạy: im lặng, nghe một, hiểu, dẫn, lực, dùng. Sáu bước. Cô đã dùng chúng cho Jorin — "Bên trái" — nợ mạng, trả nợ tức hoàn thành. Kiếm nhẹ đi một phần. Nhưng lãnh vực vẫn ồn. Vẫn chưa ổn.
+Ba mươi bảy. Ba mươi tám. Ba mươi chín.
 
-Mảnh thứ hai đến không báo trước. Giọng nữ, già hơn Jorin. "Tôi sẽ trả. Bao giờ cũng trả." Sera giữ im lặng. Nghe một. Không phải lời — là hình: một người phụ nữ đứng trước cửa gỗ, tay cầm túi vải, không bước vào. Nợ. Nợ với ai? Hình không nói. Chỉ lặp lại: "Bao giờ cũng trả."
+Giọng nói phát ra từ bức tường bên trái, xuyên qua lớp đá dày, đến tai cô như thứ gì đó bị lọc qua nước, không rõ nghĩa, nhưng nhịp điệu thì rõ ràng, đều đặn, không bỏ sót một nhịp nào. Người đếm không vội, không chậm, chỉ giữ một tốc độ cố định như thể mỗi con số là một bước chân trên con đường dài vô tận, và người ấy không quan trọng phải đến đâu, chỉ quan trọng phải giữ được nhịp.
 
-Sera dẫn. Cô hình dung lời thề như một sợi chỉ — từ người phụ nữ đến cánh cửa. Lực. Cô đẩy nhẹ, không phá. Dùng. Sợi chỉ căng ra, rồi đứt. Giọng nói im. Kiếm rung nhẹ trên đá — nhẹ hơn. Bốn mươi sáu.
+Sera đã đếm theo từ lâu. Cô không nhớ mình bắt đầu từ con số nào, chỉ nhớ rằng ban đầu cô đếm để giết thời gian, rồi cô đếm để giữ cho mình không phát điên, và bây giờ cô đếm vì đó là việc duy nhất còn lại để làm. Hai tay vẫn bị trói sau lưng, dây Thệ Trói vẫn quấn quanh cổ tay, kiếm vẫn không ở bên cạnh, và cô không có gì ngoài bốn bức tường đá ẩm ướt, một vũng nước đọng ở góc phòng, và giọng nói già nua từ ngục bên.
 
-Cô mở mắt. Lãnh vực quanh cô — vốn luôn ồn ào như ong vỡ tổ — đột nhiên yên. Không tiếng thì thầm. Không áp lực. Chỉ có hơi thở của cô và tiếng đất lặng. Lần đầu tiên kể từ khi Thệ Hạch vỡ, Thệ Vang không gào.
+Rồi giọng nói kia dừng hẳn.
 
-Sera đếm lại. Bốn mươi sáu mảnh. Mỗi mảnh cần nghe, hiểu, dẫn, hoàn thành. Mảnh Jorin mất nửa ngày. Mảnh này — nhanh hơn, vì cô đã biết cách. Nếu nhịp này giữ được... ba ngày. Ba ngày cho tất cả. Cô ghi vào trí nhớ: ba ngày, không hơn.
+Không phải ngắt quãng giữa chừng, mà dừng hẳn, đủ lâu để Sera nhận ra sự vắng mặt. Cô nghiêng đầu về phía bức tường, lắng nghe, và nghe thấy tiếng thở chậm, nặng, như thể người kia vừa hoàn thành việc gì đó lớn rồi chợt mệt mỏi, một thứ mệt mỏi không thuộc về thân xác mà thuộc về phần nào đó sâu hơn, phần mà dây Thệ Trói không chạm đến được.
 
-Cô đặt tay lên kiếm. Nhẹ. Thật sự nhẹ — không phải tưởng tượng. Quy tắc xác nhận: thề ước được giải phóng, kiếm nhẹ lại. Cô không nói gì về Jorin. Không cảm xúc. Chỉ ghi: mảnh một, xong. Mảnh hai, xong. Bốn mươi sáu còn.
+"Ngươi đếm mấy rồi?"
 
-Rồi cô nghe tiếng bước chân.
+Giọng nói phát ra rõ ràng hơn, không còn bị tường đá lọc đi, như thể người kia đã áp miệng vào khe nứt giữa hai tảng đá lớn mà nói. Sera ngẩng lên, ngạc nhiên vì người kia đã nói chuyện, và hơn nữa, đã nói với cô.
 
-Ngoài cửa hang. Không phải thú — bước chân có nhịp, có chủ đích. Một người. Dừng lại. Rồi tiếp tục. Dừng. Tiếp tục. Như đang tìm gì.
+"Ba mươi chín," cô đáp, giọng khàn vì cả ngày không uống nước.
 
-Sera không cử động. Tay vẫn trên kiếm. Cô tính: khoảng cách từ cửa hang đến chỗ cô — mười bốn bước. Người kia — nếu vào — sẽ mất ba giây. Cô cần hai để đứng. Một để rút kiếm. Đủ.
+"Ta bốn mươi hai," người kia nói. "Đếm bốn mươi hai lần rồi. Mỗi lần một trăm. Mỗi lần dừng ở một trăm rồi quay lại một."
 
-Nhưng cô chưa rút. Vì mảnh thứ ba đang đến — không phải giọng, mà là một nơi. Một căn phòng đá, không cửa sổ, có vết cháy trên tường. Lời thề không thuộc về người — thuộc về nơi đó. Cô chưa từng nghe kiểu này. Aldric chưa dạy.
+Sera không hỏi tại sao lại vậy. Cô đã biết rõ lý do. Khi bị nhốt đủ lâu trong bóng tối, đếm trở thành thứ duy nhất giữ cho tâm trí không tan rã, và quay lại từ đầu là cách duy nhất để duy trì nhịp mà không rơi vào hố sâu của sự tuyệt vọng.
 
-Tiếng bước chân dừng hẳn. Im lặng kéo dài — đủ lâu để Sera biết người kia đang đứng, đang nghe, đang cảm nhận điều gì đó. Có thể là lãnh vực vừa ổn định — một xung động phát ra khi Thệ Vang yên lần đầu. Có thể là Thệ Thiết. Có thể là cô.
+"Ta nghe ngươi nói từ sáng," Sera nói. "Không phải đếm. Giọng ngươi nói gì đó khác."
 
-Sera chọn. Cô không đứng dậy. Cô nhắm mắt, quay về căn phòng đá trong ký ức. Một mảnh nữa. Rồi cô sẽ di chuyển. Kỹ thuật của Aldric đòi hỏi trọn vẹn — không phản ứng với thế giới bên ngoài. Cô tin điều đó. Cô đếm: một mảnh nữa, rồi xử lý tiếng chân.
+Một khoảng im lặng kéo dài. Rồi người kia cười, tiếng cười khô, ngắn, không vui vẻ.
 
-Ngoài cửa, bước chân bắt đầu lại. Gần hơn.
+"Ngươi nghe được?"
 
-Căn phòng đá hiện ra rõ hơn trong tâm trí cô. Không phải ký ức của cô — ký ức của người đã thề. Sera học cách đọc nó như Aldric dạy: không vội, không sợ, không thêm gì từ bản thân. Cô thấy những vết cháy — không phải lửa thường. Chúng đen, sâu, có hình dạng như những ngón tay cào xuống tường. Ai đó đã đứng trong phòng này, đã hứa điều gì đó trong tuyệt vọng, và lời hứa ấy đã in vào đá.
+"Không rõ. Nhưng nhịp khác."
 
-Cô không nghe lời nói. Cô nghe cấu trúc. Lời thề này không có chủ thể rõ ràng — nó gắn với nơi, không gắn với người. Điều đó có nghĩa: người thề đã chết, hoặc đã rời đi, nhưng lời thề vẫn mắc lại như một mảnh vải trên cành cây. Nó không đòi trả. Nó chỉ đòi được hoàn thành — được giải phóng khỏi nơi nó bị bỏ lại.
+"Ta kể chuyện," người kia nói. "Ta kể cho chính ta nghe. Để nhớ."
 
-Sera hít vào. Cô hình dung căn phòng như một cái bẫy. Lời thề là cái bẫy. Người thề đã tự nhốt mình trong đó — hoặc bị nhốt. Cô không cần biết ai. Cô chỉ cần tháo bẫy.
+"Nhớ gì?"
 
-Lực. Cô đẩy vào vết cháy — không phải để phá, mà để hiểu hình dạng của chúng. Chúng giống như một cánh cửa bị bịt kín. Cô tìm bản lề. Không có. Cô tìm khóa. Không có. Chỉ có sự im lặng của đá và sức nặng của một lời hứa không ai giữ.
+"Nhớ tại sao ta ở đây."
 
-Dùng. Cô kéo sợi chỉ — nhưng sợi chỉ này không đứt như mảnh thứ hai. Nó giãn ra, rồi quấn lại quanh cổ tay cô. Sera giữ bình tĩnh. Aldric từng nói: "Khi lời thề không muốn rời, đừng kéo. Hãy hỏi nó cần gì." Cô hỏi. Không bằng lời — bằng sự im lặng có chủ đích. Cô mở lòng mình ra, không phòng thủ, và chờ.
+Sera giữ im lặng chờ đợi. Cô không giỏi kiên nhẫn, nhưng trong bóng tối, cô đã học được rằng những câu chuyện đến từ người khác đều đáng để chờ đợi, vì chúng là thứ duy nhất nhắc cô rằng thế giới bên ngoài vẫn tồn tại.
 
-Câu trả lời đến không phải dạng giọng nói. Nó đến dạng một cảm giác: nóng. Nóng như than hồng trên da. Căn phòng đá không chỉ có vết cháy — nó đã từng là nơi ai đó bị thiêu. Không phải xác thịt — mà là danh tính. Người đó đã bị xóa khỏi chính mình, và lời thề là thứ duy nhất còn lại — một dấu vết của sự tồn tại.
+Người kia nói tiếp, giọng chậm lại như thể đang chọn từng chữ.
 
-Sera hiểu. Lời thề này không cần được trả. Nó cần được thừa nhận. Nó cần ai đó nhìn thấy nó, biết rằng nó từng là một phần của một người — và rằng người đó đã không chọn rời đi một cách tự nguyện.
+"Tên ta là Fenris. Ta là Thẩm Vấn Giả của Giáo Hội, phục vụ ba mươi năm. Ba mươi năm đặt câu hỏi, ba mươi năm nghe câu trả lời, ba mươi năm biết rằng mỗi câu trả lời đều là lời nói dối được đóng gói bằng sự chân thành. Ta đã thẩm vấn cả người vô tội lẫn kẻ có tội, đã nghe cả lời khai lẫn lời van xin, và ta đã học được một điều trong ba mươi năm ấy: sự thật không bao giờ đến từ miệng người nói, nó đến từ khoảng lặng giữa các từ."
 
-Cô không nói gì. Cô chỉ giữ sự im lặng của mình — nhưng lần này, cô thêm vào đó một điều: sự công nhận. Cô nhìn căn phòng đá, nhìn vết cháy, nhìn sợi chỉ quấn quanh cổ tay mình, và cô gật đầu — một cái gật nhỏ, không ai thấy, nhưng đủ.
+Sera ngồi im lặng lắng nghe. Cô không biết Thẩm Vấn Giả là gì, nhưng cô biết ba mươi năm là một khoảng thời gian đủ dài để một người trở thành thứ gì đó mà chính họ cũng không nhận ra.
 
-Sợi chỉ lỏng ra. Không đứt — nhưng nó không còn siết nữa. Nó trượt khỏi cổ tay cô, rơi xuống nền đá tưởng tượng, và tan thành bụi. Kiếm của cô rung lên — một lần, nhẹ — rồi im. Bốn mươi lăm.
+"Ta bị nhốt vì sai thời điểm," Fenris nói tiếp. "Không phải vì ta nói sai, không phải vì ta biết quá nhiều, mà vì ta hỏi đúng câu hỏi vào lúc không nên hỏi. Có thời điểm thích hợp để đặt câu hỏi, và có thời điểm thích hợp để im lặng. Ta đã chọn sai."
 
-Sera mở mắt. Cô không biết mình đã ở trong trạng thái đó bao lâu. Nhưng cô biết tiếng bước chân ngoài cửa đã không còn. Không phải vì người kia đã đi — mà vì cô không nghe thấy nữa. Cô lắng nghe. Không có gì. Chỉ có gió lùa qua khe đá và tiếng tim cô đập — chậm hơn trước, đều hơn trước.
+"Sai ở đâu?"
 
-Cô đứng dậy. Kiếm trong tay. Cô bước về phía cửa hang — không nhanh, không chậm. Mười bốn bước. Cô đếm từng bước một. Đến bước thứ mười, cô thấy bóng người — đứng nghiêng, dựa vào vách đá, không nhìn vào hang. Một người đàn ông. Áo choàng tối. Không vũ khí thấy rõ.
+"Fevrath," Fenris nói. "Ngươi nghe tên đó chưa?"
 
-Sera dừng lại. Cô không rút kiếm. Cô chờ.
+Sera lắc đầu trong bóng tối, rồi nhận ra người kia không thể thấy.
 
-Người đàn ông quay đầu. Mắt ông ta — già, mệt, có quầng thâm sâu — nhìn cô không chớp. Ông ta không nói. Ông ta chỉ nhìn cô, rồi nhìn thanh kiếm, rồi nhìn lại cô. Một khoảng lặng dài — đủ để Sera nhận ra ông ta không phải Thệ Thiết. Không phải thợ săn. Không phải kẻ thù.
+"Ta cũng không nghe," Fenris nói. "Đó là vấn đề. Ta hỏi về Fevrath, và người ta hỏi không muốn trả lời. Họ không muốn ai hỏi về Fevrath. Và ta đã hỏi, ở đúng phòng thẩm vấn, đúng trước mặt đúng người, và ba ngày sau ta bị nhốt vào đây."
 
-Ông ta là người đã đứng ngoài cửa, đã nghe, đã cảm nhận lãnh vực vừa yên — và đã quyết định không vào.
+Sera nghĩ đến những gì cô biết về Giáo Hội, về lệnh diệt, về đêm mà thế giới cô sụp đổ. Cô muốn hỏi Fenris về điều đó, nhưng cô biết rằng hỏi một Thẩm Vấn Giả về bí mật của Giáo Hội là việc nguy hiểm hơn bất kỳ thứ gì khác.
 
-Sera không hỏi. Cô chỉ gật đầu — một cái gật nhỏ, giống cái gật cô đã dành cho căn phòng đá. Người đàn ông nhìn cô thêm một lần nữa, rồi quay đi, bước vào bóng tối. Không một lời. Không một dấu vết.
+Fenris dường như đọc được suy nghĩ của cô.
 
-Sera đứng đó, kiếm trong tay, bốn mươi lăm mảnh còn lại trong đầu. Cô không biết người đàn ông là ai. Cô không biết ông ta muốn gì. Nhưng cô biết một điều: lãnh vực quanh cô vẫn yên — và lần đầu tiên kể từ khi Thệ Hạch vỡ, cô không cảm thấy mình đang bị theo dõi.
+"Ngươi muốn hỏi ta về lệnh diệt," ông nói, không phải câu hỏi mà là khẳng định. "Ta biết vì ai cũng muốn hỏi điều đó khi ngồi trong bóng tối đủ lâu. Và ta sẽ nói cho ngươi, không phải vì ta nợ ngươi gì, mà vì ta đang tự hỏi chính câu hỏi đó, và việc nói ra thành lời có thể giúp ta tìm được câu trả lời."
 
-Cô quay vào hang. Ngồi xuống. Kiếm đặt trước mặt — cách tay ba bước. Cô nhắm mắt. Bốn mươi lăm. Cô bắt đầu nghe mảnh thứ tư.
+Sera không nói gì, chỉ lắng nghe.
+
+"Mordren không ra lệnh diệt."
+
+Bốn chữ ấy rơi vào bóng tối như hòn đá rơi xuống nước sâu, và Sera cảm thấy ngực mình thắt lại. Cô đã luôn tin rằng Mordren là kẻ chủ mưu, rằng chính tay hắn đã ra lệnh cho đêm diệt môn. Nhưng Fenris nói không phải Mordren, và trong giọng ấy, cô nghe thấy sự chắc chắn của người đã thẩm vấn hàng trăm người, đã học được phân biệt nói dối và sự thật.
+
+"Lệnh từ cấp cao hơn," Fenris nói. "Từ Thánh Đường chính. Không phải từ tay Mordren, không phải từ bất kỳ ai bên ngoài Thánh Đường. Lệnh đến từ chính nơi mà ngươi tin rằng sẽ bảo vệ ngươi."
+
+Sera từ từ nuốt nước bọt. Cô muốn nói rằng điều đó không thể nào, rằng Giáo Hội không thể ra lệnh diệt chính những người phục vụ họ, rằng Thánh Đường không thể phản bội niềm tin của hàng ngàn tín đồ. Nhưng cô biết rằng trong bóng tối, lời biện hộ không có trọng lượng, và sự thật không cần sự đồng thuận để tồn tại.
+
+"Ta đã thẩm vấn những người bị bắt sau đêm diệt," Fenris nói. "Những người sống sót, những người chứng kiến, những người bị tình nghi. Và trong hàng trăm lời khai ấy, có một mẫu số chung: không ai thấy Mordren ra lệnh. Không ai nghe Mordren nói. Họ chỉ thấy áo trắng, nghe giọng nói phát ra từ phía Thánh Đường, và nhận lệnh diệt từ tay của chính người mà họ từng gọi là đồng chí."
+
+"Vậy tại sao ta lại bị nhốt?" Sera hỏi, giọng run lên.
+
+"Bởi vì ngươi biết quá nhiều," Fenris đáp. "Và bởi vì người ra lệnh không muốn bất kỳ ai biết rằng lệnh đến từ chính họ. Ngươi không bị nhốt vì tội, ngươi bị nhốt vì thời điểm. Ngươi biết điều gì đó vào lúc không nên biết, và người ra lệnh chọn cách giấu ngươi đi thay vì đối mặt với sự thật."
+
+Sera ngồi trong bóng tối, im lặng, và cô cảm thấy rằng thế giới mà cô biết đã sụp đổ lần thứ hai. Lần đầu là đêm diệt môn, khi người cô tin tưởng nhất biến mất. Lần này là khi cô nhận ra kẻ thù không phải một người duy nhất, mà là cả hệ thống mà cô đã phụng sự suốt đời.
+
+Fenris không nói thêm lời nào. Tiếng đếm trở lại, chậm rãi, đều đặn, như thể ông đã hoàn thành việc kể chuyện và quay lại việc duy nhất còn lại để làm.
+
+Sera cũng bắt đầu đếm theo. Không phải để giết thời gian, không phải để giữ cho mình tỉnh táo, mà để ghi nhớ. Mỗi con số là một lời nhắc nhở rằng cô vẫn sống, rằng cô vẫn có thể nghe, có thể hiểu, có thể chọn.
+
+Ba mươi. Ba mươi mốt. Ba mươi hai.
+
+Phía bên kia tường đá, Fenris đếm cùng cô, và trong khoảng không giữa hai giọng đếm, có một sự im lặng không còn đáng sợ nữa.

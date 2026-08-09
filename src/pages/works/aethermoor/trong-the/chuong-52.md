@@ -6,34 +6,58 @@ total: 66
 title: "Chương 52: Huyền Môn Cốt"
 ---
 
-Đêm thứ năm. Hang đất cách Huyền Môn Cốt một dặm — Sera đã khảo sát cổng ban ngày, giờ quay lại để đo đạc chính xác. Cô đếm bước từ cửa hang đến mép đất cạn: một trăm bốn mươi ba. Đất khô nứt, không một ngọn cỏ — cổng hút Aether, hút cả sự sống. Cô dừng lại ở mép, cúi xuống, chạm ngón tay vào vết nứt. Đất vỡ thành bụi mịn, khô ran, không hơi ẩm. Cô đã thấy đất chết trước đây — sau trận hỏa hoạn, sau khi một trận dịch quét qua làng mạc. Nhưng đất này không chết vì lửa hay bệnh. Nó chết vì bị hút cạn. Cổng đứng đó, im lìm, và mỗi ngày nó lại ăn thêm một phần sự sống quanh mình. Sera ghi nhận điều đó, không dừng lâu. Cô còn việc phải làm.
+Trời chưa sáng hẳn, sương đêm còn phủ dày trên mặt đất khô phía cửa hang. Sera ngồi tựa vách đá, kiếm đặt ngang đùi, mắt nhìn ra vùng đất hoang nơi cổng Huyền Môn Cốt đứng sừng sững giữa bóng tối. Bốn mươi sáu mảnh Thệ Vang lắng nghe, im lặng hơn bất kỳ đêm nào kể từ khi cô nhận kiếm. Jorin đã ra đi, lời hứa của ông đã được giữ, và thế giới xung quanh cô bớt đi một tiếng ồn mà cô không cần nghe nữa. Đất dưới chân nứt thành vảy, từng mảnh vỡ nhỏ rơi xuống khi cô dịch người, và mùi bụi khô trộn lẫn với hương khói đêm lạnh lẽo lan vào mũi cô.
 
-Cô đi theo bóng tối, chân kiểu Aldric: nhẹ, không bước. Gió đêm thổi từ hướng Caelmyr — mang mùi khói, mùi người. Thành phố ngủ cách đó nửa dặm. Trụ sở Bắc nằm giữa — ba tầng đá trắng, hai lính canh ngoài, một trong, tuần tra mỗi hai giờ. Sera ghi nhận, không dừng. Mục tiêu đêm nay không phải trụ sở. Cô lướt qua bóng râm của những tảng đá lớn, giữ khoảng cách với con đường mòn mà lính canh hay đi. Một lần, cô nghe tiếng bước chân xa xa — hai người, đều đặn, không vội. Cô nép vào một hốc đá, nín thở, đếm nhịp tim. Họ đi ngang, không nhìn về phía cô. Đợi thêm ba mươi nhịp nữa, cô mới tiếp tục.
+Phía xa, cổng đứng bất động giữa đất hoang, đá đen nuốt ánh trăng còn sót lại, để lại một khoảng tối đặc quánh giữa vùng trời đang chuyển mình. Sera đã quen với sự hiện diện của nó, quen với cách nó hút Aether từ mọi thứ xung quanh, quen với cái chết lặng lẽ mà nó mang đến. Cô không nhìn về phía cổng. Cô nhìn về hướng Nam, nơi trụ sở Giáo Hội nằm chờ đợi ở phía trước, và cô biết sáng mai cô sẽ bước đi về phía đó.
 
-Cổng hiện ra giữa đất hoang: ba người cao, đá đen không phản chiếu ánh trăng. Ban ngày cô đã thấy nó. Giờ cô thấy chi tiết hơn — và dừng lại. Ánh trăng không chạm được vào bề mặt đá; nó như bị nuốt trọn, để lại một khoảng tối đặc quánh giữa vùng đất sáng mờ. Cô đứng cách khoảng mười bước, quan sát toàn cảnh trước khi đến gần. Cổng không có khung, không có bản lề — chỉ là ba phiến đá dựng thẳng, khớp với nhau thành một hình chữ nhật đứng. Không có cánh cửa. Không có lối vào. Chỉ có khóa.
+Tiếng bước chân nhẹ vang lên từ phía sau. Sera không quay lại vì cô nhận ra nhịp điệu đó ngay từ âm thanh đầu tiên, chậm và đều, giày đế mềm chạm đất khô như thể mỗi bước là một quyết định đã được cân nhắc kỹ lưỡng. Lira bước ra từ bóng tối trong hang, dừng lại cách Sera ba bước, và đứng im lặng một lúc đủ để ngọn gió đêm mang mùi hương thảo dược khô trên quần áo cô lan đi.
 
-Khóa. Di vật thần cổ — năm vòng xoay đồng tâm, khắc ký tự không thuộc bất kỳ ngôn ngữ nào cô biết. Cô đã học ba thứ tiếng địa phương, hai thứ tiếng cổ, và một phần ngôn ngữ nghi lễ của các tu sĩ phương Bắc. Không ký tự nào trong số đó khớp với những gì cô thấy. Nhưng trên vòng ngoài cùng: vết cạy. Sắt non cạy vào khe — để lại xước dọc, mới, chưa gỉ. Cô nghiêng đầu, nhìn kỹ vết xước dưới ánh trăng. Sắt non để lại vết xước bạc, mềm, không sâu. Kẻ dùng nó không phải thợ khóa — thợ khóa sẽ dùng dụng cụ cứng hơn, chính xác hơn. Kẻ này dùng vội, dùng bừa, và rời đi khi không mở được.
+"Sera." Giọng Lira trầm, không vội, mang theo thứ âm sắc mà Sera đã quen nghe trong những đêm dài canh gác bên nhau. "Tôi muốn nói chuyện."
 
-Sera quỳ xuống. Đất trước khóa: dấu giày. Không phải giày lính — đế mềm, khía ngang, cỡ nhỏ hơn chân cô. Hai dấu, quay mặt vào cổng, rồi quay đi. Một người đã đứng đây, thử mở, rồi rời. Cô đặt bàn tay cạnh dấu giày, so sánh. Dấu chân nhỏ hơn cô một chút — có thể là phụ nữ, hoặc người có vóc dáng nhỏ. Khía ngang trên đế — loại giày thường thấy ở thợ thủ công, không phải lính, không phải quý tộc. Người này đi bộ từ xa đến, đứng một lúc, thử mở, rồi quay đi. Không có dấu vết của việc chờ đợi, không có dấu hiệu của việc có người đi cùng.
+Sera gật nhẹ, tay vẫn buông trên đùi, không chạm kiếm. Cô đợi một lúc, rồi Lira bước thêm một bước, ngồi xuống bên phải, cách một khoảng đủ xa để giữ khoảng cách nhưng đủ gần để nói chuyện mà không cần nói to. Đất dưới chỗ ngồi lún nhẹ khi Lira sửa lại tư thế, kéo đầu gối lên, tay ôm lấy ống chân.
 
-Cô chạm vào vết cạy. Sắt non — không phải dụng cụ của kẻ nghiệp dư, mà là thứ ai đó dùng vội. Kẻ biết cổng tồn tại, biết khóa ở đâu, nhưng không có chìa. Kẻ đó đã thử, thất bại, và sẽ quay lại. Sera nhìn quanh lần nữa, tìm dấu vết khác. Không có. Chỉ hai dấu giày, một vết cạy, và sự im lặng của vùng đất chết. Cô tự hỏi: kẻ đó biết từ đâu? Từ Calla? Từ Mordren? Hay từ một nguồn khác mà cô chưa biết?
+"Em trai tôi ở nơi khác." Lira nói, giọng rơi xuống đều đặn, như người kể câu chuyện đã thuộc lòng từ lâu. "Tôi đã đi theo cô quá xa rồi, Sera. Từ khi rời khỏi vùng đất phương Bắc, tôi đã đi xa hơn bất kỳ khoảng cách nào tôi từng đặt chân đến trong đời."
 
-Thệ Vang rung nhẹ — không phải cảnh báo, mà là ghi nhận. Bốn mươi sáu mảnh lắng nghe, im lặng. Sera hít sâu, giữ nhịp. Kỹ thuật Aldric dạy: im lặng, nghe một. Cô nghe — không có gì ngoài gió. Thệ Vang yên. Kỹ thuật hoạt động ngoài luyện tập. Cô giữ hơi thở đều, để cảm giác lan tỏa từ trung tâm ra ngoài. Không có tiếng bước chân, không có tiếng thở, không có tiếng kim loại chạm vào đá. Chỉ có gió đêm và tiếng côn trùng xa xa từ phía Caelmyr. Cô mở mắt, thở ra chậm rãi. An toàn — ít nhất là trong khoảnh khắc này.
+Sera quay sang nhìn Lira. Ánh trăng còn sót lại chiếu lên khuôn mặt cô, để lộ đôi mắt hẹp nhưng sáng, đôi môi mím lại thành một đường thẳng, và đôi lông mày đang chau xuống vì một nỗi lo mà cô không muốn nói thành lời. Sera biết Lira không nói suông, cô đã sống đủ lâu để biết sự khác biệt giữa người đang do dự và người đã quyết định rồi.
 
-Cô đứng dậy, lùi ba bước, đo lại. Bản vẽ Calla mô tả cổng cao hai người rưỡi, khóa ở giữa, đá xám. Thực tế: ba người, khóa lệch sang trái, đá đen. Sai từng chi tiết. Không phải sai nhỏ — sai toàn bộ cấu trúc. Cô lấy từ trong túi áo một mảnh giấy gấp — bản vẽ Calla đưa cho cô trước khi rời đi. Cô mở ra, đối chiếu từng đường nét với thực tế trước mắt. Chiều cao sai, vị trí khóa sai, màu đá sai, thậm chí số lượng phiến đá cũng sai — bản vẽ ghi hai phiến, thực tế là ba. Cô gấp giấy lại, nhét vào túi. Không phải lỗi sao chép. Không phải lỗi trí nhớ. Sai từ gốc.
+"Đây không phải phản bội." Lira nói tiếp, giọng mạnh hơn một chút, như cô cần chắc chắn Sera nghe rõ từng từ. "Tôi đã làm những gì tôi cần làm. Đã đi cùng cô qua những nơi mà tôi không bao giờ nghĩ mình sẽ đến. Đã chiến đấu bên cạnh cô, đã đứng canh khi cô ngủ, đã mang tin cho cô khi không ai khác dám." Lira dừng lại, hít một hơi sâu, rồi nói nhỏ hơn: "Nhưng em trai tôi vẫn ở đâu đó phía Bắc, và tôi không thể tiếp tục đi về hướng Nam được nữa."
 
-Sera nhìn về hướng Caelmyr. Calla từng sống ở đây, từng vẽ lại kiến trúc trụ sở chính xác đến từng phòng. Nhưng bản vẽ cổng — sai. Cô không nghĩ Calla cố tình lừa. Cô nghĩ: Calla chưa từng thấy cổng. Chỉ nghe kể lại. Và kể lại thì sai. Cô tự hỏi: ai đã kể cho Calla? Một người từng đến đây, từng thấy cổng, nhưng mô tả sai — hoặc cố tình mô tả sai. Nếu là cố tình, thì người đó không muốn ai tìm thấy cổng thật. Nhưng Calla đã vẽ lại và đưa cho cô. Vậy Calla có biết bản vẽ sai không? Hay Calla tin rằng nó đúng?
+Gió thổi qua cửa hang, mang theo bụi khô và mùi đất chết từ phía cổng. Sera nghe thấy sức nặng trong từng lời Lira nói, cái trọng lượng mà cô đã thấy ở những người đang đứng trước ngã ba đường, nơi mỗi hướng đi đều mang theo một giá phải trả. Cô không hỏi Lira tại sao, vì câu trả lời đã nằm ngay trong lời nói: gia đình, nghĩa vụ, và khoảng cách giữa hai chữ đó với những gì Sera đang làm.
 
-Cô rút kiếm — nhẹ hơn. Không phải cảm giác: cô đếm lại. Bốn mươi sáu mảnh. Hoàn thành Jorin làm kiếm nhẹ đi một phần. Cô xoay cổ tay — kiếm vun vút, không kéo tay. Quy tắc thứ tư xác nhận: thề ước được giải phóng, kiếm nhẹ lại. Cô thử thêm vài động tác — chém ngang, chém chéo, đâm tới. Mỗi động tác đều mượt hơn trước, không có sức nặng kéo tay xuống. Cô nhớ lại lời Jorin khi trao kiếm: "Thề ước nặng bao nhiêu, kiếm nặng bấy nhiêu. Giải phóng thề ước, kiếm sẽ nhẹ đi." Bốn mươi sáu mảnh — mỗi mảnh là một lời thề, một nhiệm vụ, một mạng người. Cô không biết mảnh nào đã được giải phóng, nhưng cô cảm nhận được sự khác biệt.
+"Cô cần gì?" Sera hỏi, giọng trầm, không phán xét, không níu kéo, chỉ là một câu hỏi đơn giản dành cho người sắp rời đi.
 
-Cô tra kiếm vào vỏ, nhìn cổng lần cuối. Đá đen hút ánh trăng — không phản chiếu, không phát sáng. Chỉ im lặng và chờ. Cô đứng đó thêm một lúc, để mắt quan sát từng chi tiết: vị trí khóa, hướng các vòng xoay, độ sâu của vết cạy, khoảng cách giữa các phiến đá. Cô ghi nhớ tất cả, không cần giấy. Khi quay đi, cô biết mình sẽ cần quay lại — nhưng lần tới, cô sẽ chuẩn bị tốt hơn.
+Lira quay sang, đôi mắt gặp mắt Sera, và trong khoảnh khắc đó, Sera thấy điều mà Lira thường giấu rất kỹ. Không phải sự yếu đuối hay sự hối hận, mà là sự nhẹ nhõm của người đã chịu đựng đủ lâu và giờ được phép nói ra. "Thời gian," Lira nói, giọng nhỏ nhưng rõ ràng, như cô đã học thuộc câu trả lời từ trước khi đặt ra câu hỏi. "Và cô sống sót."
 
-Sera quay lưng, đếm bước về hang. Một trăm bốn mươi ba. Giữa đường, cô dừng — nhìn dấu giày lần nữa. Kẻ đó có thể là người của Mordren. Hoặc không. Nhưng nếu Mordren đã cử người đến trước, thời gian của cô ngắn hơn cô tưởng. Cô nhìn dấu giày thêm lần nữa, ghi nhớ hình dạng, kích thước, độ sâu. Nếu gặp lại dấu giày này ở nơi khác, cô sẽ nhận ra. Cô tự hỏi: kẻ đó có quay lại không? Có thể đang quan sát cô từ xa? Cô lắng nghe — chỉ có gió. Không có gì khác.
+Sera không nói gì ngay, cô nhìn xuống kiếm, nhìn những mảnh thép cũ đang phản chiếu ánh trăng mờ, và cô hiểu rằng Lira không đang bỏ chạy. Cô đang chọn một con đường khác, con đường mà cô cần đi trước khi quá muộn. Sera đã thấy đủ nhiều người chết vì không về kịp khi người thân cần họ, và cô sẽ không thêm một ai vào danh sách đó.
 
-Cô bước tiếp. Trong đầu, danh sách dài thêm một mục: kẻ lạ đã thử mở cổng. Và một câu hỏi: Calla biết bao nhiêu, và biết từ đâu? Cô không có câu trả lời — chưa có. Nhưng cô có thời gian, và cô có Thệ Vang. Cô sẽ tìm ra.
+"Lần đầu tiên trong đời," Lira nói, giọng cô mang một chút mỉm cười buồn bã, "tôi được chọn. Không phải bị bắt đi, không phải bị buộc phải theo, không phải bị đẩy vào cuộc chiến mà tôi không hiểu. Lần này tôi chọn đi về phía Bắc, về nơi em trai tôi đang ở, và tôi chọn điều đó vì tôi muốn."
 
-Đêm chưa hết. Sera ngồi ở cửa hang, kiếm trên đùi, mắt nhìn về phía cổng. Thệ Vang yên — bốn mươi sáu mảnh lắng nghe cùng cô. Đoàn từng biết về nơi này. Cô không biết họ biết gì. Nhưng cô sẽ tìm ra. Cô nhìn lên bầu trời, ước lượng thời gian — còn khoảng ba giờ trước khi trời sáng. Đủ để nghỉ ngơi một chút, đủ để lên kế hoạch cho ngày mai. Cô tựa lưng vào vách hang, giữ kiếm trong tầm tay, và để mắt nhắm lại — nhưng tai vẫn mở, vẫn nghe từng âm thanh của đêm. Cổng vẫn đứng đó, im lìm, chờ đợi. Và Sera sẽ quay lại — sớm hơn kẻ lạ kia nghĩ.
+Sera gật đầu. Cô hiểu điều đó vì cô đã từng bị bắt đi, bị buộc phải theo, bị đẩy vào những cuộc chiến mà cô không hiểu, và cô biết giá của việc không được chọn. Cô cũng biết giá của việc được chọn, và cô sẽ không lấy đi điều đó từ Lira.
+
+"Đường phía Bắc an toàn hơn phía Nam," Sera nói, giọng trầm và chắc chắn. "Trụ sở Giáo Hội ở đó, Mordren đang tìm tôi ở hướng này. Cô đi về phía Bắc sẽ không gặp rắc rối gì cả."
+
+Lira đứng dậy, phủi bụi khô trên ống quần, rồi quay lưng về phía cổng Huyền Môn Cốt một lần cuối. Ánh trăng đã bắt đầu nhạt, và đường chân trời phía Đông đang chuyển từ đen sang xám đậm, báo hiệu một ngày mới sắp đến. "Tôi sẽ không nói tạm biệt," Lira nói, giọng cô vang lên rõ ràng giữa sự im lặng của đêm. "Bởi vì tôi sẽ quay lại. Khi cô cần tôi nhất, tôi sẽ ở đây."
+
+Cô bước đi. Không quay lại, không vẫy tay, không dừng lại ở ngưỡng cửa. Bóng dáng mảnh khảnh của Lira hòa vào bóng tối phía Bắc, và từng bước chân đều mang theo sự quyết đoán của người biết chính xác mình đang đi về đâu. Sera đứng dậy, kiếm trong tay, và nhìn theo cho đến khi không còn thấy gì ngoài vùng đất khô và bầu trời đang chuyển mình.
+
+Một mình, lại một mình, nhưng lần này khác. Lần này Sera không phải đi vì bị bắt, không phải chạy vì bị truy đuổi, không phải ẩn náu vì sợ hãi. Lần này cô đứng đây vì cô chọn, và cô sẽ tiếp tục vì cô muốn.
+
+Thệ Vang lắng xuống, không còn ồn ào, không còn rung động, chỉ còn bốn mươi ba mảnh im lặng chờ đợi, như những người lính đã xếp hàng sẵn sàng cho trận chiến sắp tới. Sera lắng nghe sự im lặng đó, không phải bằng tai mà bằng toàn bộ cơ thể, bằng từng thớ thịt đang giãn ra sau những ngày liên tục căng thẳng.
+
+Cô ngồi xuống lại, kiếm ngang đùi, và nhìn về phía Nam. Trụ sở Giáo Hội vẫn ở đó, vẫn chờ đợi, vẫn mang theo những bí mật mà cô cần giải đáp. Nhưng trước khi đến đó, cô cần nghỉ ngơi một chút, cần để cơ thể hồi phục, và cần để tâm trí tĩnh lặng trước khi đối mặt với những gì sắp tới.
+
+Đêm dần qua, bầu trời phía Đông chuyển từ xám sang hồng nhạt rồi sang vàng, và những tia nắng đầu tiên bắt đầu chiếu xuống vùng đất khô phía cổng Huyền Môn Cốt. Sera đứng dậy, balo trên vai, kiếm vững chắc trong tay, và bắt đầu bước về phía Nam. Cô không quay lại nhìn cổng, không quay lại nhìn hướng Bắc nơi Lira đã đi, chỉ bước thẳng về phía trước với đôi mắt nhìn về con đường phía trước.
+
+Thệ Vang trở nên im lặng hoàn toàn, bốn mươi ba mảnh chờ xem cô làm gì tiếp theo. Và Sera biết rằng mỗi bước cô đi, mỗi quyết định cô đưa ra đều sẽ mang theo sự chờ đợi đó, sự kỳ vọng đó, và trách nhiệm đó trên đôi vai vốn đã nặng nề từ lâu.
 
 ---
+
+*POV 2B: Lira đi. Tôi một mình lần nữa. Lần này tôi chọn.*
+
+*Cost/Thệ: Mất đồng minh duy nhất, tạm thời. Bible: 43 mảnh, 2 hoàn thành qua luyện tập.*
+
+*Phục bút: Lira đi Bắc, sẽ quay lại khi Sera cần nhất.*
+
+*Hook: Thệ Vang đêm đó im lặng. 43 mảnh chờ xem cô làm gì.*
 
 *→ [Chương 53: Cửa Phía Tây](2b-ch53.md)*

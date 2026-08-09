@@ -3,91 +3,91 @@ layout: ../../../../layouts/ChapterLayout.astro
 chapter: 61
 story: "/works/aethermoor/trong-the"
 total: 66
-title: "Chương 61: chapter-61"
+title: "Chương 61: Thoát"
 ---
 
 ← [Chương 56–60](2b-ch56-60.md)
 
 ---
 
-Sera đếm. Đếm từng nhịp thở của tên canh ngoài cửa. Nhịp mười lăm mỗi phút. Mười lăm — chậm. Chậm vì buồn ngủ. Buồn ngủ vì đêm thứ hai. Không khí tù ngột. Mùi mồ hôi cũ. Mùi đá ẩm. Mùi của năm ngày không rửa.
+Sera đếm từng nhịp thở của tên canh ngoài cửa. Mười lăm nhịp mỗi phút, chậm rãi vì buồn ngủ, và buồn ngủ vì đây đã là đêm thứ hai. Không khí tù ngột, mùi mồ hôi cũ, mùi đá ẩm, mùi của năm ngày không rửa.
 
-Đêm thứ hai. Fenris nói: lính canh mới. Mới nên chưa quen. Chưa quen thì chậm phản ứng. Chậm phản ứng là cơ hội. Cơ hội: bảy mươi giây. Bảy mươi giây từ lúc canh đổi đến lúc lính canh mới quen với bóng tối. Bảy mươi — đủ nếu nhanh.
+Đêm thứ hai, Fenris đã nói: lính canh mới. Mới nên chưa quen, chưa quen thì chậm phản ứng, và chậm phản ứng chính là cơ hội. Bảy mươi giây từ lúc canh đổi đến lúc lính mới quen với bóng tối, đủ nếu nhanh.
 
-Sera nằm. Không ngủ. Không ngủ từ đêm đầu. Không ngủ nên đếm. Đếm nhịp lính canh. Lính canh cũ ra. Lính canh mới vào. Bóng qua khe cửa. Bóng đổi — đổi, lính canh mới. Lưng đau. Đá lạnh thấm qua áo. Dây trói chân cọ vào mắt cá — nhức, đều, như nhịp tim chậm.
+Sera nằm mà không ngủ từ đêm đầu, nên đếm nhịp lính canh thay nhau ra vào. Qua khe cửa, bóng chuyển, lính canh mới. Lưng đau, đá lạnh thấm qua áo, dây trói chân cọ vào mắt cá nhức nhối đều đặn như nhịp tim chậm.
 
-Bước chân lính canh mới. Nặng. Nặng vì mệt. Mệt vì đêm khuya. Đêm khuya nên buồn ngủ. Buồn ngủ nên chậm. Chậm — bảy mươi giây.
+Bước chân của lính canh mới nặng nề vì mệt, và mệt vì đêm khuya, nên buồn ngủ rồi chậm, chậm đúng bảy mươi giây.
 
-Sera đợi. Đợi kiểu Sera đợi — đếm nhịp tim. Nhịp: sáu mươi hai. Bình thường. Bình thường, cơ thể sẵn. Sẵn thì lên. Lên thì đi.
+Sera đợi, đếm nhịp tim mình: sáu mươi hai, bình thường và cơ thể sẵn sàng để hành động, tiến về phía trước.
 
-Nhịp thở lính canh mới: mười hai mỗi phút. Mười hai — chậm hơn canh cũ. Chậm hơn nên buồn ngủ hơn. Buồn ngủ hơn tức cơ hội lớn hơn.
+Nhịp thở lính canh mới chỉ mười hai mỗi phút, chậm hơn cả canh cũ. Chậm hơn thì buồn ngủ hơn, và buồn ngủ hơn nghĩa là cơ hội lớn hơn.
 
-Fenris gõ tường. Gõ nhẹ. Hai lần. Hai — "tôi sẵn." Sẵn, cùng lúc. Cùng lúc thì thoát.
+Fenris gõ tường, nhẹ hai lần. Hai lần, "tôi sẵn." Sẵn thì cùng lúc, cùng lúc thì thoát.
 
-Sera ngồi dậy. Chậm. Chậm để không phát ra tiếng. Im thì không cảnh báo. Ngồi, rút chân. Rút chân — dây. Dây trói chân lỏng. Lỏng từ ngày thứ nhất. Ngày thứ nhất vướng, buộc chặt. Nhưng Sera nhỏ. Nhỏ nên cổ chân nhỏ. Nhỏ nên dây lỏng sau năm ngày. Lỏng thì rút. Rút thì tự do chân.
+Sera ngồi dậy chậm rãi để không phát ra tiếng, vì im lặng nghĩa là không cảnh báo. Cô rút chân khỏi dây trói, lỏng từ ngày thứ nhất vì Sera nhỏ, cổ chân nhỏ, dây lỏng sau năm ngày. Lỏng thì rút được, rút được thì tự do cho đôi chân.
 
-Tay. Tay khó hơn. Trói sau lưng. Sau lưng nên không nhìn. Không nhìn thì đếm bằng cảm giác. Dây vòng quanh cổ tay. Hai vòng. Hai vòng — chặt. Chặt nên đau. Đau, da cổ tay sưng, nóng, căng. Chặt thì cần cắt. Cắt mà không dao. Không dao thì gãy. Gãy vì mỏi. Mỏi dây — năm ngày. Năm ngày cọ vào tường đá. Cọ mòn. Mòn đến gần gãy.
+Tay thì khó hơn vì trói sau lưng nên không nhìn được, chỉ đếm bằng xúc giác. Dây vòng quanh cổ tay hai vòng, chặt đến đau. Da cổ tay sưng nóng căng ra, và chặt thì cần cắt, mà không dao thì phải cọ cho đến khi gãy. Năm ngày dây cọ vào tường đá đã mòn đến gần gãy.
 
-Sera cọ. Cọ dây vào góc tường. Góc tường sắc. Sắc nên cắt. Cắt chậm — năm ngày. Năm ngày, bốn phần năm đứt. Bốn phần năm, còn một. Một — đứt đêm nay. Máu loang nhẹ. Không nhiều. Nhưng nóng. Nóng trên da lạnh.
+Sera cọ dây vào góc tường sắc, cắt chậm. Năm ngày, bốn phần năm đã đứt. Còn lại một phần, đứt đêm nay. Máu loang nhẹ trên da lạnh, không nhiều nhưng nóng.
 
-Cọ tiếp. Tay phải. Cọ. Da cổ tay rách. Rách — đau. Đau nhưng nhỏ. Nhỏ nên bỏ qua. Bỏ qua, tiếp tục. Tiếp tục cọ. Cọ cho đến khi dây đứt.
+Cô cọ tiếp ở tay phải, da cổ tay rách ra đau nhói, nhưng nhỏ nên bỏ qua. Tiếp tục cọ, cho đến khi dây đứt.
 
-Dây đứt. Tay phải tự do. Tự do, máu chảy về ngón. Ngứa ran. Đau nhói. Cởi tay trái. Cởi nhanh. Nhanh thì không tiếng. Không tiếng, lính canh không nghe.
+Dây đứt, tay phải tự do. Máu chảy về ngón, ngứa ran, đau nhói. Cô cởi tay trái nhanh gọn, không tiếng động để lính canh không nghe.
 
-Sera đứng. Đứng chậm. Chân tê. Tê như kim châm. Tê vì năm ngày không đứng đúng cách. Đứng, máu chảy. Chảy mang nóng. Nóng, chân hồi. Hồi — đau. Đau nhưng đi được.
+Sera đứng dậy, chậm rãi vì chân tê như kim châm. Năm ngày không đứng đúng cách, máu trở lại nóng hổi, chân hồi phục nhưng đau, vẫn đi được.
 
-Đến cửa. Cửa gỗ dày. Dày nên không phá được. Không phá được thì phải mở. Mở thì khóa. Khóa ở ngoài. Ngoài có lính canh. Lính canh chậm phản ứng. Chậm — bảy mươi giây.
+Sera đến cửa, cửa gỗ dày không phá được, chỉ có thể mở, mà khóa ở ngoài. Ngoài có lính canh chậm phản ứng, bảy mươi giây.
 
-Sera đợi. Đợi nhịp thở lính canh chậm nhất. Chậm nhất tức ngủ sâu nhất. Sâu nhất — bốn mươi giây nữa. Đếm. Bốn mươi. Ba mươi. Hai mươi. Mười. Năm.
+Sera đợi nhịp thở lính canh chậm nhất, tức ngủ sâu nhất. Đếm: bốn mươi, ba mươi, hai mươi, mười, năm.
 
-Gõ cửa. Gõ nhẹ. Nhẹ để lính canh nghe. Nghe thì đến. Đến thì gần. Gần thì mở khóa. Mở khóa rồi quay lưng. Quay lưng — hai giây. Hai giây — đủ.
+Gõ cửa, nhẹ để lính canh nghe rồi đến, rồi gần, rồi mở khóa. Mở khóa xong quay lưng, hai giây, đủ.
 
-Lính canh đến. "Gì?" Giọng buồn ngủ. Khàn. Mùi rượu nhẹ. Buồn ngủ nên chậm. Chậm thì mở khóa. Mở, nhìn vào. Nhìn vào thấy bóng. Bóng — Sera. Sera đứng. Đứng, lính canh giật. Giật — một giây. Một giây — chậm.
+Lính canh đến, giọng buồn ngủ khàn khàn, mùi rượu nhẹ. "Gì?" Buồn ngủ nên chậm chạp, mở khóa từ từ, nhìn thấy bóng là Sera đang đứng. Lính canh giật mình, một giây, chậm.
 
-Sera đánh. Đánh bằng cùi chỏ tay phải. Cùi chỏ — xương cứng. Cổ họng — yếu. Va chạm chát. Tiếng khụt. Yếu nên ngạt. Ngạt nên không kêu. Không kêu, không tiếp viện. Không tiếp viện — bốn mươi giây trước khi ai đó nghe.
+Sera đánh, bằng cùi chỏ tay phải. Xương cứng va vào cổ họng yếu, tiếng khụt chát chúa. Yếu nên ngạt, không kêu được, và không kêu thì không tiếp viện. Bốn mươi giây trước khi ai đó nghe.
 
-Lính canh ngã. Ngã không tiếng. Không tiếng, Sera bắt. Bắt dây. Dây trói lính canh. Trói nhanh. Nhanh — mười lăm giây. Mười lăm — đủ. Đủ, ra ngoài.
+Lính canh ngã không tiếng và Sera bắt dây trói nhanh trong mười lăm giây, rồi ra ngoài.
 
-Hành lang. Tối. Tối, nhìn bằng Thệ Vang. Thệ Vang mờ nhưng chỉ hướng. Hướng: phía trên bên phải. Phía trên bên phải — tầng hai. Tầng hai — kiếm.
+Hành lang tối mịt, nhìn bằng Thệ Vang mờ nhưng chỉ hướng. Hướng phía trên bên phải, tầng hai, nơi có kiếm.
 
-Sera đi. Đi nhẹ. Nhẹ — chân kiểu Aldric. Aldric dạy bốn năm trước. Trước, còn sống. Sống thì dạy. Dạy, còn mãi. Còn trong cơ nhớ. Cơ nhớ thành bước. Bước — không tiếng.
+Sera đi nhẹ nhàng bằng kiểu chân của Aldric. Aldric dạy bốn năm trước, khi còn sống. Sống thì truyền dạy, kýức còn mãi, thành bước chân không tiếng.
 
-Hành lang: mười hai bước. Rẽ trái. Tám bước. Lính canh xa. Xa nên không nghe. Không nghe, tiếp tục.
+Hành lang mười hai bước, rẽ trái, tám bước. Lính canh xa, không nghe được, tiếp tục.
 
-Phòng Fenris. Sera dừng. Gõ nhẹ. Hai lần. Cửa không khóa. Không khóa vì Fenris không nguy hiểm. Không nguy hiểm nên không cần khóa. Không cần — Mordren coi thường. Coi thường là lỗ hổng.
+Sera dừng lại trước phòng Fenris, gõ nhẹ hai lần. Cửa không khóa, vì Fenris không nguy hiểm. Không nguy hiểm nên không cần khóa, Mordren coi thường, coi thường là lỗ hổng.
 
-Cửa mở. Fenris đứng. Đứng kiểu người già đứng — chậm, chống tay vào tường. Tường đỡ. Đỡ để đứng. Đứng — sẵn. Sẵn thì đi.
+Cửa mở và Fenris đứng đó, kiểu người già, chậm, chống tay vào tường để giữ mình, sẵn sàng thì cùng đi.
 
-"Nhanh," Sera nói. Một từ.
+"Nhanh," Sera nói, chỉ một từ gọn ghẽ.
 
-Fenris gật. Không hỏi. Hỏi mất thời gian. Thời gian — không đủ.
+Fenris gật đầu mà không hỏi, vì hỏi mất thời gian, và thời gian không đủ.
 
-Hai người đi. Sera trước. Fenris sau. Fenris chậm. Chậm vì chân yếu. Chân yếu vì sáu mươi tuổi. Sáu mươi — không chạy được. Không chạy được thì đi nhanh nhất có thể. Nhanh nhất vẫn chậm hơn Sera muốn. Muốn không quan trọng. Quan trọng là cùng đi. Cùng đi vì Fenris biết đường. Biết đường thì không lạc. Không lạc thì sống.
+Hai người đi, Sera trước Fenris sau. Fenris chậm vì chân yếu, vì sáu mươi tuổi, sáu mươi thì không chạy được. Không chạy được thì đi nhanh nhất có thể, nhưng nhanh nhất vẫn chậm hơn Sera muốn. Muốn không quan trọng, quan trọng là cùng đi. Cùng đi vì Fenris biết đường, biết đường thì không lạc, không lạc thì sống.
 
-Phía trước: tiếng chân. Hai người. Thẩm Vấn Giả tuần tra. Tuần tra ban đêm. Đêm — hai người. Hai, Sera đánh. Đánh nhanh. Nhanh trước khi kêu. Kêu thì tiếp viện. Tiếp viện thì chết.
+Phía trước có tiếng chân — hai người, Thẩm Vấn Giả tuần tra ban đêm. Hai người thì Sera đánh được, đánh nhanh trước khi kêu, tiếp viện sẽ đến, sẽ chết.
 
-Sera kéo Fenris vào bóng. Bóng tối. Tối nên không thấy. Không thấy thì đợi. Đợi tiếng chân gần. Gần — năm bước. Bốn. Ba. Hai.
+Sera kéo Fenris vào bóng tối. Tối nên không thấy, không thấy thì đợi. Đợi tiếng chân gần, năm bước, bốn, ba, hai.
 
-Sera ra. Ra đánh. Đánh tên gần nhất — cùi chỏ cổ họng. Tên thứ hai quay. Quay chậm. Chậm, Sera đánh tiếp. Đấm thái dương. Ngã. Ngã không tiếng. Không tiếng — xong. Xong trong hai giây.
+Sera ra đánh, cùi chỏ vào cổ họng tên gần nhất. Tên thứ hai quay chậm, Sera đấm thái dương rồi ngã. Không tiếng, xong trong hai giây.
 
-Hai người ngã. Sera kiểm tra. Sống. Sống — tốt. Tốt vì không giết. Không giết vì thề mới. Thề mới: không giết khi không cần. Không cần thì đánh ngất. Ngất — đủ.
+Hai người ngã, Sera kiểm tra: sống, tốt, tốt vì không giết. Thề mới không giết khi không cần thiết, cần thì đánh ngất.
 
-"Đi." Sera kéo Fenris. Fenris nhìn hai người ngã. Nhìn mà không nói. Không nói vì hiểu. Hiểu rằng Sera khác. Khác — không giết.
+"Đi." Sera kéo Fenris ra đi ngay, Fenris nhìn hai người ngã, không nói vì hiểu rằng Sera khác biệt, vì không giết.
 
-Cầu thang. Mười hai bước lên. Lên — tầng hai. Tầng hai — kiếm. Kiếm — Thệ Thiết. Thệ Thiết — bốn mươi tám mảnh. Bốn mươi tám — nặng. Nặng, cô muốn. Muốn cho gần. Gần thì Thệ Vang sáng. Sáng, cảm nhận rõ. Rõ — hướng. Hướng: phòng cuối hành lang.
+Cầu thang, mười hai bước lên đến tầng hai. Kiếm, Thệ Thiết, bốn mươi tám mảnh nặng nề. Cô muốn cho gần, để Thệ Vang sáng rõ, cảm nhận hướng — hướng đến phòng cuối hành lang.
 
-Phòng cuối. Cửa đóng. Khóa. Khóa vì kiếm trong. Kiếm trong — quan trọng. Quan trọng nên khóa. Khóa thì phá. Phá thì ồn. Ồn thì lính canh đến. Lính canh đến nhanh. Nhanh — không.
+Phòng cuối có cửa đóng và khóa, khóa vì kiếm quan trọng trong đó, quan trọng nên khóa, phải phá. Phá thì ồn, lính canh sẽ đến nhanh.
 
-Sera nhìn Fenris. Fenris hiểu. Hiểu, mò túi. Túi — chìa khóa. Chìa lấy từ tên canh ngất. Ngất, chìa trong túi. Túi — dễ. Dễ vì kinh nghiệm. Kinh nghiệm sáu tháng. Sáu tháng — Fenris biết cách.
+Sera nhìn Fenris và ông hiểu ngay, mò túi, tìm chìa khóa, lấy từ tên canh ngất. Kinh nghiệm sáu tháng, Fenris biết cách.
 
-Khóa mở. Cửa mở. Phòng nhỏ. Bàn. Trên bàn: kiếm. Thệ Thiết. Sera nhìn kiếm lần đầu sau năm ngày. Năm ngày xa. Xa nên nhớ. Nhớ, tay thèm. Thèm cảm giác chuôi. Thèm trọng lượng. Nặng — bốn mươi tám mảnh. Bốn mươi tám — nhà.
+Khóa mở, cửa mở, phòng nhỏ, bàn, trên bàn là kiếm — Thệ Thiết. Sera nhìn kiếm lần đầu sau năm ngày xa, xa nên nhớ, tay thèm nắm chuôi và thèm trọng lượng, nặng, bốn mươi tám mảnh, nhà.
 
-Sera cầm kiếm. Lạnh trước. Rồi nóng. Nóng từ trong. Từ bốn mươi tám mảnh. Cầm — nặng. Nặng hơn trước. Trước: bốn mươi tám. Giờ: bốn mươi tám cộng cộng hưởng. Cộng hưởng — Aldric. Aldric chết. Chết, thề ước dồn. Dồn thêm. Thêm nên nặng hơn. Nặng hơn nhưng quen. Quen, tay nhận. Nhận — đủ.
+Sera cầm kiếm lên, lạnh trước rồi nóng từ trong, từ bốn mươi tám mảnh. Nặng hơn trước, nặng hơn vì Aldric, Aldric chết, thề ước dồn thêm. Nặng hơn nhưng quen tay, đủ.
 
-Thệ Vang bùng. Bùng — bốn mươi tám giọng. Không — tất cả cùng lúc. Cùng lúc, quá nhiều. Nhiều như sóng. Sóng đập trong đầu. Đau như xé. Đầu như vỡ. Vỡ chậm. Chậm, đứng không nổi.
+Thệ Vang bùng lên, bốn mươi tám giọng nói cùng lúc. Quá nhiều như sóng đập trong đầu, đau như xé, đầu như vỡ chậm, đứng không nổi.
 
-Sera chống kiếm. Chống để đứng. Đứng không ngã. Không ngã vì chịu. Chịu Thệ Vang. Thệ Vang — bốn mươi tám mảnh cùng nói. Nói gì? Không rõ. Không rõ vì quá nhiều. Nhiều, chưa kiểm soát. Chưa kiểm soát — Fenris kéo.
+Sera chống kiếm để đứng, không ngã vì chịu được. Chịu Thệ Vang, bốn mươi tám mảnh cùng nói, không rõ vì quá nhiều, chưa kiểm soát được thì Fenris kéo.
 
 "Sera. Đi."
 
-Giọng Fenris. Già. Khẩn. Khẩn như cha gọi con lúc cháy nhà. Khẩn, phải rời. Rời để sống. Sống, đi. Đi, Sera bước. Bước, Thệ Vang dịu. Dịu vì cô cầm kiếm. Cầm quen. Quen, kiểm soát một phần. Một phần — đủ đi. Đi — thoát.
+Giọng Fenris già và khẩn, khẩn như cha gọi con lúc cháy nhà, khẩn nên phải rời để sống. Sera bước, Thệ Vang dịu vì cô cầm kiếm quen, nên kiểm soát được một phần, một phần đủ đi, thoát.

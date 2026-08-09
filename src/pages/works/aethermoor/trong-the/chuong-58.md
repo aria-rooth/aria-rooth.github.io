@@ -6,40 +6,56 @@ total: 66
 title: "Chương 58: Thề Mới"
 ---
 
-Sera ngồi trong hang đất, cách Huyền Môn Cốt một dặm về phía tây. Kiếm Thệ Thiết đặt ngang gối. Bốn mươi lăm mảnh còn lại — cô đã đếm ba lần, kết quả không đổi. Bên ngoài, gió Pale Frontier rít qua khe đá, từng luồng khô lạnh mang theo mùi đất nứt và xa xa là hương khói của một trại lửa nào đó không rõ nguồn. Cô nhắm mắt.
+Im lặng kéo dài trong ngục tối đủ lâu để Sera đếm được hai trăm nhịp thở của chính mình. Cô ngồi dựa vào tường đá ẩm ướt, dây Thệ Trói vẫn quấn quanh cổ tay và phát ra ánh sáng đỏ nhạt mỗi khi cô hít vào sâu. Bên kia bức tường Fenris không nói gì thêm sau khi hỏi về di vật. Ông để sự im lặng làm việc, để câu hỏi tự xoay vòng trong đầu người nghe cho đến khi họ không chịu đựng nổi.
 
-*Im lặng. Nghe một. Hiểu. Dẫn. Lực. Dùng.*
+Sera chịu đựng được, nhưng cô vẫn muốn nghe.
 
-Sáu chữ của Aldric. Lần đầu ông dạy cô khi cô mười hai tuổi, trước khi ông chết trong đêm diệt môn. Lần thứ hai — qua ký ức, khi cô hoàn thành mảnh Jorin. Giờ là lần thứ ba. Lần cuối.
+"Cô muốn biết." Fenris nói, giọng khàn qua khe tường, không phải câu hỏi mà là xác nhận.
 
-Cô thả mình vào Thệ Vang. Bốn mươi lăm giọng thì thầm, mỗi giọng một thề ước chưa trọn. Cô lướt qua chúng như lướt qua hàng chữ trên trang giấy — không dừng lại, chỉ ghi nhận. Có giọng vỡ vụn như kính nứt, có giọng trầm đục như tiếng gõ vào quan tài, có giọng trẻ đến mức cô phải kìm lại để không dừng quá lâu. Rồi cô cảm nhận một giọng khác. Không phải của người chết. Của cô.
+Sera không đáp lại, chỉ nghiêng đầu về phía bức tường chung rồi lắng nghe. Cô nghe thấy Fenris hít vào chậm rãi, như thể ông đang chuẩn bị kể một câu chuyện đã giấu kín suốt ba mươi năm.
 
-Giọng trẻ hơn. Trẻ hơn mười năm. Trẻ đến mức cô gần như không nhận ra.
+"Di vật không phải vũ khí." Fenris nói, từng chữ chậm rãi rõ ràng, như thể mỗi âm tiết đều nặng bằng viên đá ông đang tựa lưng vào. "Mười hai năm tôi phục vụ Giáo Hội, tám năm trong đội khảo sát Pale Frontier, và tôi chưa bao giờ thấy thứ gì giống nó trên đời."
 
-*"Tôi, Sera Voss, xin thề với Trọng Nham Hỏa Đạo. Đến cuối cùng."*
+Sera lắng nghe mà không cử động. Cô biết ông sẽ nói, và cô cần nghe tất cả.
 
-Cô nhớ ngày đó. Phòng thề, nến trắng, Thệ Hạch năm cạnh trên bệ đá. Cô mười bảy tuổi, vừa được thăng Hiệp Sĩ, tin rằng "cuối cùng" nghĩa là chết trong trận chiến vì Đoàn. Tin rằng Đoàn vô tội. Tin rằng phụng sự là không hỏi. Cô nhớ cảm giác đứng trước Thệ Hạch, lòng bàn tay áp lên bề mặt lạnh, hơi thở đều đặn vì đã luyện tập nghi thức ấy hàng trăm lần trong sân tập. Cô nhớ ánh mắt của Aldric đứng ở góc phòng, không gật đầu, không mỉm cười — chỉ nhìn, như thể ông đang đọc một điều gì đó mà cô chưa thể thấy.
+"Thần Tử Di Thương." Fenris thì thầm, và bốn chữ ấy vọng qua bức tường đá đủ rõ để in sâu vào tâm trí cô. "Vết thương của một vị thần đã chết. Không phải thần bị giết, cũng không phải thần tự tìm đến cái chết. Ông ta chết vì chiến đấu với thứ gì đó lớn hơn cả bản thân ông ta, và vết thương ấy khi ông ta ngã xuống không hề lành lại, vẫn mở và vẫn chảy."
 
-Cô đã giữ lời thề đó. Giữ qua mười năm. Giữ qua đêm diệt môn — khi hai mươi ba người chết, khi Thệ Hạch vỡ, khi cô là người duy nhất còn đứng. Cô vẫn giữ. Nhưng "cuối cùng" — cô đã định nghĩa lại nó từng ngày một, không phải bằng lời, mà bằng hành động. Có những đêm cô nằm thức, lặp lại lời thề trong đầu như một câu thần chú, tự hỏi liệu mình có đang bóp méo ý nghĩa ban đầu hay đang làm tròn nó theo cách đúng đắn hơn. Câu trả lời không bao giờ đến rõ ràng. Chỉ có sự tiếp tục.
+Sera thấy có gì đó dịch chuyển chậm trong lồng ngực, không phải nỗi đau mà là sự dịch chuyển của niềm tin. Nó giống như nền đất dưới chân đang nứt ra từng đường nhỏ, đủ để ánh sáng lọt vào nhưng chưa đủ để mọi thứ sụp đổ. Cô không nói gì, chỉ lắng nghe.
 
-Cô không giết Kael khi hắn cầu xin. Cô không bỏ Lira lại. Cô không trả thù theo cách Đoàn dạy. Cô đến Huyền Môn Cốt không phải vì lệnh — vì cô chọn. Đó là cách cô giữ lời thề: không phải theo cách Đoàn định nghĩa, mà theo cách cô tự định nghĩa. Từng quyết định nhỏ, từng bước đi lệch khỏi giáo điều, từng lần chọn lắng nghe tiếng nói bên trong thay vì mệnh lệnh được khắc sẵn — tất cả đều là những sợi chỉ cô tự dệt nên tấm vải mới cho lời thề cũ.
+"Chảy Linh Nguyên nguyên thủy." Fenris tiếp tục, giọng đều đặn không nóng không lạnh. "Không phải Linh Nguyên mà chúng ta tu luyện trong đan điền. Linh Nguyên nguyên thủy là nguyên liệu tạo ra thế giới, là thứ mà thần dùng để đúc nên đất nước gió lửa và mọi thứ tồn tại. Nó chảy ra từ vết thương ấy nhỏ giọt suốt hàng ngàn năm, và thứ nó chạm vào đều thay đổi vĩnh viễn."
 
-*Hiểu.*
+Sera nhớ đến lời Mordren Chấp Sự kể về Pale Frontier, về Bạch Quái Thú, về đất thay đổi không theo quy luật nào. Lúc đó cô nghĩ đó chỉ là lời cảnh báo cần tránh xa. Bây giờ cô hiểu: đó là máu của một vị thần chết nhỏ giọt xuống mặt đất và thay đổi mọi thứ nó chạm vào.
 
-Mảnh thứ tư không phải thề ước mới. Nó là thề ước cũ nhất — của chính cô. Và nó không cần hoàn thành bằng hành động bên ngoài. Nó cần cô chấp nhận: Đoàn không vô tội. Họ tìm di vật thần cổ, giấu, nghiên cứu, muốn dùng. Họ không khác Mordren. Nhưng thề ước của họ vẫn thật. Và cô vẫn chọn giữ — không phải vì họ xứng đáng, vì cô chọn. Cô nhớ những đêm trong thư viện Đoàn, đọc lại các bản ghi chép về các cuộc khai quật, nhận ra những khoảng trống được cố tình bỏ qua, những cái tên bị xóa mờ. Cô đã thấy nhưng không hỏi. Đó cũng là một phần của lời thề — sự im lặng có tội.
+"Giáo Hội tìm thấy nó." Fenris nói, giọng trầm hơn, như thể mỗi chữ đều mang thêm trọng lượng của ba mươi năm giấu kín. "Họ theo dõi máu thần chảy ra từ vết thương rồi thấm xuống đất, truy ngược về nguồn trong hai mươi năm. Khi họ tìm được, họ hiểu rằng thứ này không thể phá hủy hay di chuyển hay niêm phong bởi bàn tay con người."
 
-*Dẫn. Lực. Dùng.*
+Im lặng kéo dài giữa hai bức tường, chỉ có tiếng nước nhỏ giọt từ trần ngục và tiếng thở đều đặn của hai người bị nhốt trong bóng tối.
 
-Cô kéo lời thề cũ về phía mình. Không phải để trói buộc — để hiểu. Để biến nó thành của cô. Lời thề "đến cuối cùng" không còn là sợi xích nối cô với Đoàn. Nó là con đường cô tự chọn đi tiếp. Cô cảm nhận từng chữ trong lời thề như một nút thắt trên sợi dây — không phải để cột mình lại, mà để đánh dấu quãng đường đã đi. Mỗi nút thắt là một lần cô đứng trước lựa chọn và không quay đầu.
+"Phong Quang Thánh Giáo muốn dùng nó." Fenris nói tiếp, giọng có chút gì giống sự chua chát bị kìm nén suốt nhiều năm. "Họ muốn dùng Linh Nguyên nguyên thủy để đánh thức thần chết. Không phải thần mà họ thờ phụng. Họ muốn đánh thức một vị thần khác, cổ xưa hơn và mạnh hơn gấp nhiều lần, vị thần mà họ tin rằng đang ngủ say dưới lòng đất Pale Frontier từ thuở ban đầu."
 
-Thệ Vang rung lên. Không phải tiếng ồn — một nhịp đều, như tim. Bốn mươi lăm giọng thì thầm lắng xuống, từng giọng một, cho đến khi chỉ còn sự yên lặng. Yên lặng hoàn toàn. Lần đầu tiên kể từ đêm diệt môn, Thệ Vang không ồn. Cô ngồi trong khoảng lặng đó, cảm nhận nó như một thứ gì đó có trọng lượng — không nặng nề, mà vững chãi. Như đất dưới chân sau một trận động đất đã ngừng rung.
+Sera nuốt nước bọt, miệng khô đến mức lưỡi dính vào hàm trên. Cô nhận ra mình đã nín thở quá lâu rồi thở ra chậm rãi.
 
-Cô mở mắt. Kiếm trên gối — cô nhấc lên. Nhẹ hơn. Cô biết con số: bốn mươi lăm. Nhưng cô không đếm nữa theo nghĩa cũ. Con số không còn là thước đo. Thước đo là: cô có thể nhấc kiếm, có thể đi tiếp, có thể đứng một mình. Cô xoay nhẹ lưỡi kiếm trong ánh sáng mờ từ khe đá, quan sát những vết khía trên thân kiếm — mỗi vết là một lời thề đã được giải tỏa, một mảnh vỡ được đặt đúng chỗ. Kiếm không còn là vật nhắc nhở về những gì đã mất. Nó là công cụ cho những gì còn ở phía trước.
+"Nhưng Giáo Hội không phải lực lượng duy nhất muốn dùng Thần Tử Di Thương." Fenris nói, và lần này giọng ông dừng lại.
 
-Aldric không nói nữa. Cô chờ. Im lặng. Ông đã dẫn đường ba lần — giờ là lúc cô tự đi. Kỹ thuật đã thành của cô. Cô nhớ bàn tay ông đặt lên vai cô lần cuối, trước khi ông quay lưng bước vào bóng tối của đêm diệt môn. Ông không nói lời từ biệt. Ông chỉ nói: "Nghe một." Giờ cô hiểu — ông không có ý bảo cô nghe lời ông. Ông bảo cô nghe chính mình.
+Sera biết ông sắp nói điều gì. Cô biết từ cách giọng ông dao động, và từ cách bức tường đá giữa họ dường như mỏng đi một lớp vô hình.
 
-Bên ngoài hang, cô cảm nhận lãnh vực của mình — ổn định, không rò rỉ. Và cô nhận ra: nó yên không chỉ vì cô. Có người đứng ngoài, cách hang chừng trăm bước, giữ cho lãnh vực không bị xáo trộn. Cô không biết ông ta là ai. Không biết ông ta muốn gì. Nhưng lần đầu tiên, cô không bị theo dõi — cô được giữ. Sự an toàn này có giá. Chưa rõ giá gì. Cô ghi nhận điều đó như một mảnh thề ước chưa trọn khác — không vội giải quyết, chỉ đặt nó sang một bên để xử lý khi đến lúc.
+"Trọng Nham Hỏa Đạo." Fenris nói tên Đoàn của cô, và mỗi âm tiết va vào tai cô như hạt mưa đá rơi xuống mặt nước tĩnh lặng. "Đoàn của cô. Đoàn mà cô đã thề phục vụ suốt mười năm. Đoàn mà cô đã mất tất cả người thân để bảo vệ bằng mọi giá."
 
-Cô đặt kiếm xuống, dựa vào vách đá. Nhắm mắt. Ngủ — lần đầu tiên sau tám ngày, không phải vì kiệt sức, vì cô biết mình có thể. Hơi thở chậm lại. Cơ bắp từng gồng cứng từng ngày dần thả lỏng. Trong giấc ngủ chập chờn, cô thấy lại phòng thề — nến trắng, Thệ Hạch năm cạnh, bóng Aldric ở góc phòng. Nhưng lần này, khi cô mười bảy tuổi trong giấc mơ nhìn lên, ông không đứng ở góc nữa. Ông đứng ngay trước mặt cô, và ông gật đầu.
+Sera không đáp lại lời Fenris, chỉ siết chặt hai bàn tay cho đến khi móng tay cắm vào lòng bàn tay đau nhói.
 
-Bốn mươi lăm mảnh còn lại. Ba ngày. Cô sẽ hoàn thành chúng. Không phải vì Đoàn. Vì cô chọn.
+"Trọng Nham Hỏa Đạo không vô tội." Fenris nói, giọng đều không phán xét không thương hại. "Họ giữ di vật. Không phải để bảo vệ thế giới khỏi sự tàn phá của Linh Nguyên nguyên thủy. Họ giữ vì họ muốn dùng nó trước Giáo Hội, trước bất kỳ ai khác trên đời."
+
+Từng chữ rơi xuống trong bóng tối ngục nhà, và Sera thấy mặt đất dưới chân cô dường như rung lên một lần nhẹ nhàng mà không ai ngoài cô nhận ra. Niềm tin mà cô xây dựng suốt mười năm, giữ gìn qua đêm diệt môn, bảo vệ bằng cả mạng sống, nó không sụp đổ nhưng nó nứt. Một vết nứt nhỏ mỏng như sợi tóc chạy từ đáy lên đến đỉnh, đủ để ánh sáng lọt vào nhưng chưa đủ để mọi thứ vỡ tan.
+
+"Cô nghĩ Chấp sự giữ nó vì lương tâm?" Fenris nói, giọng nhẹ nhàng hơn, như thể ông biết những gì ông đang nói sẽ thay đổi cách cô nhìn thế giới mãi mãi. "Ông ấy giữ vì ông muốn dùng nó trước. Trước Giáo Hội, trước bất kỳ ai khác. Chấp sự Mordren không phải người tốt, nhưng ông ta cũng không phải kẻ xấu thuần túy. Ông ta là người có tham vọng rất lớn, và tham vọng đó lớn hơn cả chính Giáo Hội."
+
+Sera ngồi trong bóng tối, mắt mở nhưng không nhìn thấy gì ngoài bức tường đen phía trước. Cô nghe tiếng Fenris thở đều qua khe tường, và cô nghe tiếng máu mình chảy trong tai chậm rãi đều đặn.
+
+"Cô mang thề ước của một Đoàn không trong sạch." Fenris nói, giọng rất trầm rất thấp, đủ để chỉ có cô nghe được qua bức tường đá dày. "Bốn mươi tám mảnh. Bốn mươi tám người đã thề phục vụ một đoàn tìm di vật thần cổ để dùng cho mục đích riêng của chính họ. Câu hỏi là, cô có biết điều đó từ trước hay không?"
+
+Sera muốn nói rằng cô không biết, rằng cô chỉ là Hiệp Sĩ trẻ chỉ biết làm theo mệnh lệnh, rằng cô tin tưởng Đoàn vô tội từ tận đáy lòng. Nhưng những lời nói ấy không đến được nơi cần đến. Chúng đứng ở cửa miệng rồi quay đi, bởi cô không thể nói dối chính bản thân mình trong bóng tối này khi sự thật vừa được phơi bày đủ rõ để cô không còn khả năng giả vờ.
+
+Cô ngồi trong bóng tối. Cô nhìn lên trần ngục, nơi những vệt nước nhỏ chảy thành dòng trên bề mặt đá gồ ghề, và cô thấy chúng giống những vết thương nhỏ trên da mặt đất. Như vết thương của thần chết, nhỏ giọt không ngừng nghỉ, thay đổi mọi thứ nó chạm vào vĩnh viễn không bao giờ quay lại được nữa.
+
+Bốn mươi tám mảnh im lặng. Đoàn của cô im lặng. Không phải im lặng của sự đồng thuận hay sự xấu hổ, mà là im lặng của những người đã chết và không còn khả năng biện hộ cho những gì mà tổ chức họ phục vụ đã gây ra trên đời.
+
+Sera không trả lời Fenris. Cô ngồi im trong bóng tối đặc quánh, nhìn lên trần ngục, và để sự thật lắng xuống như nước đục sau cơn lũ. Nó không tan đi, mà trầm xuống, trở thành một lớp mới ở đáy, thay đổi vĩnh viễn hình dạng của mọi thứ ở phía trên nó.
