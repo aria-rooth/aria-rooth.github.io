@@ -58,9 +58,9 @@ Sera ngồi im lặng lắng nghe. Cô không biết Thẩm Vấn Giả là gì,
 
 Sera lắc đầu trong bóng tối, rồi nhận ra người kia không thể thấy.
 
-"Ta cũng không nghe," Fenris nói. "Đó là vấn đề. Ta hỏi về Fevrath, và người ta hỏi không muốn trả lời. Họ không muốn ai hỏi về Fevrath. Và ta đã hỏi, ở đúng phòng thẩm vấn, đúng trước mặt đúng người, và ba ngày sau ta bị nhốt vào đây."
+"Ta cũng không nghe," Fenris nói. "Đó là vấn đề. Ta hỏi về Fevrath, và người ta hỏi không muốn trả lời. Họ không muốn ai hỏi về Fevrath. Và ta đã hỏi, ngay trong phòng thẩm vấn, trước mặt người đó, rồi ba ngày sau ta bị nhốt vào đây."
 
-Sera nghĩ đến những gì cô biết về Giáo Hội, về lệnh diệt, về đêm mà thế giới cô sụp đổ. Cô muốn hỏi Fenris về điều đó, nhưng cô biết rằng hỏi một Thẩm Vấn Giả về bí mật của Giáo Hội là việc nguy hiểm hơn bất kỳ thứ gì khác.
+Sera nghĩ đến những gì cô biết về Giáo Hội, về lệnh diệt mười hai Đoàn, về đêm mà thế giới cô sụp đổ. Cô muốn hỏi Fenris về điều đó, nhưng cô biết rằng hỏi một Thẩm Vấn Giả về bí mật của Giáo Hội là việc nguy hiểm hơn bất kỳ thứ gì khác.
 
 Fenris dường như đọc được suy nghĩ của cô.
 
