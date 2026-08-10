@@ -60,23 +60,23 @@ Sera lắc đầu trong bóng tối, rồi nhận ra người kia không thể t
 
 "Ta cũng không nghe," Fenris nói. "Đó là vấn đề. Ta hỏi về Fevrath, và người ta hỏi không muốn trả lời. Họ không muốn ai hỏi về Fevrath. Và ta đã hỏi, ngay trong phòng thẩm vấn, trước mặt người đó, rồi ba ngày sau ta bị nhốt vào đây."
 
-Sera nghĩ đến những gì cô biết về Giáo Hội, về lệnh diệt mười hai Đoàn, về đêm mà thế giới cô sụp đổ. Cô muốn hỏi Fenris về điều đó, nhưng cô biết rằng hỏi một Thẩm Vấn Giả về bí mật của Giáo Hội là việc nguy hiểm hơn bất kỳ thứ gì khác.
+Sera nghĩ đến những gì cô biết về Giáo Hội, về vụ thảm sát mười hai Đoàn, về đêm mà thế giới cô sụp đổ. Cô muốn hỏi Fenris về điều đó, nhưng cô biết rằng hỏi một Thẩm Vấn Giả về bí mật của Giáo Hội là việc nguy hiểm hơn bất kỳ thứ gì khác.
 
 Fenris dường như đọc được suy nghĩ của cô.
 
-"Ngươi muốn hỏi ta về lệnh diệt," ông nói, không phải câu hỏi mà là khẳng định. "Ta biết vì ai cũng muốn hỏi điều đó khi ngồi trong bóng tối đủ lâu. Và ta sẽ nói cho ngươi, không phải vì ta nợ ngươi gì, mà vì ta đang tự hỏi chính câu hỏi đó, và việc nói ra thành lời có thể giúp ta tìm được câu trả lời."
+"Ngươi muốn hỏi ta về vụ thảm sát," ông nói, không phải câu hỏi mà là khẳng định. "Ta biết vì ai cũng muốn hỏi điều đó khi ngồi trong bóng tối đủ lâu. Và ta sẽ nói cho ngươi, không phải vì ta nợ ngươi gì, mà vì ta đang tự hỏi chính câu hỏi đó, và việc nói ra thành lời có thể giúp ta tìm được câu trả lời."
 
 Sera không nói gì, chỉ lắng nghe.
 
-"Mordren không ra lệnh diệt."
+"Mordren không ra lệnh thảm sát."
 
 Bốn chữ ấy rơi vào bóng tối như hòn đá rơi xuống nước sâu, và Sera cảm thấy ngực mình thắt lại. Cô đã luôn tin rằng Mordren là kẻ chủ mưu, rằng chính tay hắn đã ra lệnh cho đêm diệt môn. Nhưng Fenris nói không phải Mordren, và trong giọng ấy, cô nghe thấy sự chắc chắn của người đã thẩm vấn hàng trăm người, đã học được phân biệt nói dối và sự thật.
 
-"Lệnh từ cấp cao hơn," Fenris nói. "Từ Thánh Đường chính. Không phải từ tay Mordren, không phải từ bất kỳ ai bên ngoài Thánh Đường. Lệnh đến từ chính nơi mà ngươi tin rằng sẽ bảo vệ ngươi."
+"Lệnh từ cấp cao hơn," Fenris nói. "Từ Thánh Đường chính. Không phải Mordren ra lệnh, mà là Thánh Đường ra lệnh, rồi đổ lên đầu hắn."
 
 Sera từ từ nuốt nước bọt. Cô muốn nói rằng điều đó không thể nào, rằng Giáo Hội không thể ra lệnh diệt chính những người phục vụ họ, rằng Thánh Đường không thể phản bội niềm tin của hàng ngàn tín đồ. Nhưng cô biết rằng trong bóng tối, lời biện hộ không có trọng lượng, và sự thật không cần sự đồng thuận để tồn tại.
 
-"Ta đã thẩm vấn những người bị bắt sau đêm diệt," Fenris nói. "Những người sống sót, những người chứng kiến, những người bị tình nghi. Và trong hàng trăm lời khai ấy, có một mẫu số chung: không ai thấy Mordren ra lệnh. Không ai nghe Mordren nói. Họ chỉ thấy áo trắng, nghe giọng nói phát ra từ phía Thánh Đường, và nhận lệnh diệt từ tay của chính người mà họ từng gọi là đồng chí."
+"Ta đã thẩm vấn những người bị bắt sau đêm thảm sát," Fenris nói. "Những người sống sót, những người chứng kiến, những người bị tình nghi. Và trong hàng trăm lời khai ấy, có một mẫu số chung: không ai thấy Mordren ra lệnh. Không ai nghe Mordren nói. Họ chỉ thấy áo trắng, nghe giọng nói phát ra từ phía Thánh Đường, và nhận lệnh từ Thánh Đường của chính người mà họ từng gọi là đồng chí."
 
 "Vậy tại sao ta lại bị nhốt?" Sera hỏi, giọng run lên.
 
