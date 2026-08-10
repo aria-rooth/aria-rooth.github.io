@@ -28,7 +28,7 @@ Giọng nói phát ra rõ ràng hơn, không còn bị tường đá lọc đi, 
 
 Sera không hỏi tại sao lại vậy. Cô đã biết rõ lý do. Khi bị nhốt đủ lâu trong bóng tối, đếm trở thành thứ duy nhất giữ cho tâm trí không tan rã, và quay lại từ đầu là cách duy nhất để duy trì nhịp mà không rơi vào hố sâu của sự tuyệt vọng.
 
-"Ta nghe ngươi nói từ sáng," Sera nói. "Không phải đếm. Giọng ngươi nói gì đó khác."
+"Tôi nghe ngươi nói từ sáng," Sera nói. "Không phải đếm. Giọng ngươi nói gì đó khác."
 
 Một khoảng im lặng kéo dài. Rồi người kia cười, tiếng cười khô, ngắn, không vui vẻ.
 
@@ -78,7 +78,7 @@ Sera từ từ nuốt nước bọt. Cô muốn nói rằng điều đó không 
 
 "Ta đã thẩm vấn những người bị bắt sau đêm thảm sát," Fenris nói. "Những người sống sót, những người chứng kiến, những người bị tình nghi. Và trong hàng trăm lời khai ấy, có một mẫu số chung: không ai thấy Mordren ra lệnh. Không ai nghe Mordren nói. Họ chỉ thấy áo trắng, nghe giọng nói phát ra từ phía Thánh Đường, và nhận lệnh từ Thánh Đường của chính người mà họ từng gọi là đồng chí."
 
-"Vậy tại sao ta lại bị nhốt?" Sera hỏi, giọng run lên.
+"Vậy tại sao tôi lại bị nhốt?" Sera hỏi, giọng run lên.
 
 "Bởi vì ngươi biết quá nhiều," Fenris đáp. "Và bởi vì người ra lệnh không muốn bất kỳ ai biết rằng lệnh đến từ chính họ. Ngươi không bị nhốt vì tội, ngươi bị nhốt vì thời điểm. Ngươi biết điều gì đó vào lúc không nên biết, và người ra lệnh chọn cách giấu ngươi đi thay vì đối mặt với sự thật."
 

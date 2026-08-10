@@ -6,7 +6,7 @@ total: 66
 title: "Chương 58: Thề Mới"
 ---
 
-Im lặng kéo dài trong ngục tối đủ lâu để Sera đếm được hai trăm nhịp thở của chính mình. Cô ngồi dựa vào tường đá ẩm ướt, dây Thệ Trói vẫn quấn quanh cổ tay và phát ra ánh sáng đỏ nhạt mỗi khi cô hít vào sâu. Bên kia bức tường Fenris không nói gì thêm sau khi hỏi về di vật. Ông để sự im lặng làm việc, để câu hỏi tự xoay vòng trong đầu người nghe cho đến khi họ không chịu đựng nổi.
+Im lặng kéo dài trong ngục tối đủ lâu để Sera đếm được hai trăm nhịp thở của chính mình. Cô ngồi dựa vào tường đá ẩm ướt, dây Thệ Trói vẫn quấn quanh cổ tay và phát ra ánh sáng đỏ nhạt mỗi khi cô hít vào sâu. Bên kia bức tường Fenris im lặng, như thể đã nói đủ cho một đêm. Ông để sự im lặng làm việc, để câu hỏi tự xoay vòng trong đầu người nghe cho đến khi họ không chịu đựng nổi.
 
 Sera chịu đựng được, nhưng cô vẫn muốn nghe.
 
