@@ -26,7 +26,7 @@ Fenris gõ tường, nhẹ hai lần. Hai lần, "tôi sẵn." Sẵn thì cùng 
 
 Sera ngồi dậy chậm rãi để không phát ra tiếng, vì im lặng nghĩa là không cảnh báo. Cô rút chân khỏi dây trói, lỏng từ ngày thứ nhất vì Sera nhỏ, cổ chân nhỏ, dây lỏng sau năm ngày. Lỏng thì rút được, rút được thì tự do cho đôi chân.
 
-Tay khó hơn vì bị trói sau lưng, không nhìn được, chỉ đếm bằng xúc giác. Dây vòng quanh cổ tay hai vòng, chặt đến đau. Da cổ tay sưng nóng căng ra, và chặt thì cần cắt, mà không dao thì phải cọ cho đến khi gãy. Năm ngày dây cọ vào tường đá đã mòn đến gần gãy.
+Tay khó hơn vì bị trói sau lưng, không nhìn được, chỉ đếm bằng xúc giác. Dây vòng quanh cổ tay hai vòng, chặt đến đau. Da cổ tay sưng nóng căng ra, và chặt, cần cắt, nhưng không có dao, chỉ còn cách cọ vào tường cho đến khi dây đứt. Năm ngày dây cọ vào tường đá đã mòn đến gần gãy.
 
 Sera cọ dây vào góc tường sắc, cắt chậm. Năm ngày, bốn phần năm đã đứt. Còn lại một phần, đứt đêm nay. Máu loang nhẹ trên da lạnh, không nhiều nhưng nóng.
 
@@ -62,7 +62,7 @@ Cửa mở và Fenris đứng đó, chậm rãi, chống tay vào tường để
 
 Fenris gật đầu mà không hỏi, vì hỏi mất thời gian, và thời gian không đủ.
 
-Hai người đi, Sera trước Fenris sau. Fenris chậm vì chân yếu, vì sáu mươi tuổi, cơ thể đã mỏi mệt, không còn chạy nhanh được nữa, chỉ còn cách đi nhanh hết sức, nhưng nhanh nhất vẫn chậm hơn Sera muốn. Muốn không quan trọng, quan trọng là cùng đi. Cùng đi vì Fenris biết đường, biết đường thì không lạc, không lạc thì sống.
+Hai người đi, Sera trước Fenris sau. Fenris chậm vì chân yếu, vì sáu mươi tuổi, cơ thể đã mỏi mệt, không còn chạy nhanh được nữa, chỉ còn cách đi nhanh hết sức, nhưng nhanh nhất vẫn chậm hơn Sera muốn. Muốn không quan trọng, quan trọng là cùng đi. Cùng đi vì Fenris biết đường, và biết đường thì không lạc, không lạc thì sống.
 
 Phía trước có tiếng chân — hai người, Thẩm Vấn Giả tuần tra ban đêm. Hai người thì Sera đánh được, đánh nhanh trước khi kêu, tiếp viện sẽ đến, sẽ chết.
 
