@@ -44,4 +44,4 @@ Tiếng thì thầm tiếp tục, đều đặn, không ngừng nghỉ, và Sera
 
 Tiếng đếm tiếp tục đều đặn, ba mươi bốn, ba mươi lăm, ba mươi sáu.
 
-Giọng nói vẫn đều, vẫn khàn, vẫn già, và Sera nhắm mắt lại, để mặc cho những con số ấy trôi qua như nước chảy qua khe đá, và cô nghĩ rằng có lẽ đây là lý do cô bị nhốt vào đây. Không phải để trừng phạt, không phải để giam giữ, mà để nghe. Để nghe một giọng nói mà không ai khác lắng nghe, để biết rằng ở tận cùng bóng tối, sự sống vẫn tồn tại, và nó không cần ánh sáng để duy trì, nó chỉ cần một giọng nói đều đều, đếm đi đếm lại, từ sáng đến tối, từ tối đến sáng.
+Giọng nói trầm khàn, đều đặn như tiếng đồng hồ cát đã chạy quá lâu, và Sera nhắm mắt lại, để mặc cho những con số ấy trôi qua như nước chảy qua khe đá, và cô nghĩ rằng có lẽ đây là lý do cô bị nhốt vào đây. Không phải để trừng phạt, không phải để giam giữ, mà để nghe. Để nghe một giọng nói mà không ai khác lắng nghe, để biết rằng ở tận cùng bóng tối, sự sống vẫn tồn tại, và nó không cần ánh sáng để duy trì, nó chỉ cần một giọng nói đều đều, đếm đi đếm lại, từ sáng đến tối, từ tối đến sáng.
