@@ -78,11 +78,23 @@ Sera từ từ nuốt nước bọt. Cô muốn nói rằng điều đó không 
 
 "Ta đã thẩm vấn những người bị bắt sau đêm thảm sát," Fenris nói. "Những người sống sót, những người chứng kiến, những người bị tình nghi. Và trong hàng trăm lời khai ấy, có một mẫu số chung: không ai thấy Mordren ra lệnh. Không ai nghe Mordren nói. Họ chỉ thấy áo trắng, nghe giọng nói phát ra từ phía Thánh Đường, và nhận lệnh từ Thánh Đường của chính người mà họ từng gọi là đồng chí."
 
-"Vậy tại sao tôi lại bị nhốt?" Sera hỏi, giọng run lên.
+Fenris im lặng một lúc. Rồi ông nói, giọng trầm hơn:
 
-"Bởi vì ngươi biết quá nhiều," Fenris đáp. "Và bởi vì người ra lệnh không muốn bất kỳ ai biết rằng lệnh đến từ chính họ. Ngươi không bị nhốt vì tội, ngươi bị nhốt vì thời điểm. Ngươi biết điều gì đó vào lúc không nên biết, và người ra lệnh chọn cách giấu ngươi đi thay vì đối mặt với sự thật."
+"Cô biết gì về di vật?"
+
+Sera không trả lời. Cô lắng nghe tiếng thở của ông qua tường, tiếng gió thổi qua khe nứt trên trần ngục, và tiếng tim mình đập đều đặn trong lồng ngực.
+
+"Ông biết gì?" cô hỏi lại.
+
+Một khoảng im lặng kéo dài. Fenris không vội trả lời. Ông để câu hỏi xoay vòng trong bóng tối đủ lâu để nó mất đi lớp vỏ lịch sự và lộ ra lớp thịt trần trụi bên trong.
 
 Sera ngồi trong bóng tối, im lặng, và cô cảm thấy rằng thế giới mà cô biết đã sụp đổ lần thứ hai. Lần đầu là đêm diệt môn, khi người cô tin tưởng nhất biến mất. Lần này là khi cô nhận ra kẻ thù không phải một người duy nhất, mà là cả hệ thống mà cô đã phụng sự suốt đời.
+
+"Nội ứng," Fenris nói, giọng rất nhỏ, như thể chính ông cũng không muốn nghe thấy mình nói ra.
+
+Sera ngẩng lên.
+
+"Người đó vẫn còn sống. Và người đó biết cô đang ở đây."
 
 Fenris không nói thêm lời nào. Tiếng đếm trở lại, chậm rãi, đều đặn, như thể ông đã hoàn thành việc kể chuyện và quay lại việc duy nhất còn lại để làm.
 
