@@ -14,11 +14,11 @@ Sera đã không ngủ từ đêm đầu tiên. Cô đếm nhịp lính canh tha
 
 Fenris đã nói từ đêm đầu: lính canh mới, người mới chưa quen ca, phản ứng chậm theo bản năng. Bảy mươi giây từ lúc canh đổi đến lúc tên mới quen với bóng tối, đủ nếu nhanh. Sera đợi, đếm nhịp tim mình: sáu mươi hai, bình thường, cơ thể sẵn sàng hành động. Nhịp thở lính canh mới chỉ mười hai mỗi phút, chậm hơn cả canh cũ, chậm đến mức cô biết hắn đang buồn ngủ sâu, và buồn ngủ sâu tức là cơ hội đang mở ra như một khe cửa hẹp giữa hai tảng đá.
 
-Fenris gõ tường, nhẹ hai lần, tiếng vang mỏng như sợi chỉ giữa im lặng, hai lần, "tôi sẵn." Sẵn sàng rồi, cùng lúc, cùng thoát.
+Fenris gõ tường, nhẹ hai lần, tiếng vang mỏng như sợi chỉ giữa im lặng, hai lần, "sẵn sàng rồi." Sẵn sàng rồi, cùng lúc, cùng thoát.
 
 Sera ngồi dậy chậm rãi, từng chút một, để không phát ra tiếng động nào giữa đêm tĩnh lặng. Cô rút chân khỏi dây trói, thứ dây lỏng từ ngày thứ nhất vì Sera nhỏ, cổ chân nhỏ, dây lỏng sau năm ngày cọ vào đá đã mòn đến gần gãy. Thoải là rút được, đôi chân được tự do, thứ máu nóng chảy trở lại khiến ngón chân tê buốt như hàng nghìn mũi kim châm vào da thịt.
 
-Tay khó hơn nhiều vì bị trói sau lưng, không nhìn được, chỉ đếm bằng xúc giác. Dây vòng quanh cổ tay hai vòng, chặt đến đau, da cổ tay sưng nóng căng ra, nóng đến mức cô có thể cảm thấy mạch máu đang đập dưới lớp da mỏng bị siết. Năm ngày cô cọ dây vào góc tường đá sắc, cọ chậm rãi mỗi đêm khi lính canh ngủ say, cọ cho đến khi sợi thừng mỏng đi, mòn đi, bốn phần năm đã rách. Còn lại một phần, đứt đêm nay.
+Sera gặp khó khăn hơn với hai tay bị trói sau lưng, không nhìn được gì, chỉ còn cách đếm bằng xúc giác. Dây vòng quanh cổ tay hai vòng, chặt đến đau, da cổ tay sưng nóng căng ra, nóng đến mức cô có thể cảm thấy mạch máu đang đập dưới lớp da mỏng bị siết. Năm ngày cô cọ dây vào góc tường đá sắc, cọ chậm rãi mỗi đêm khi lính canh ngủ say, cọ cho đến khi sợi thừng mỏng đi, mòn đi, bốn phần năm đã rách. Còn lại một phần, đứt đêm nay.
 
 Sera cọ dây vào góc tường sắc, cắt chậm từng sợi thừng mỏng. Máu loang nhẹ trên cổ tay, không nhiều nhưng nóng trên da lạnh, nóng đến mức cô nhắm mắt lại, cắn răng chịu đựng, tiếp tục cọ cho đến khi dây đứt. Da cổ tay rách ra đau nhói, nhưng cô bỏ qua, tiếp tục, cho đến khi sợi dây cuối cùng đứt lìa, tay phải tự do, máu chảy về ngón ngứa ran. Cô cởi tay trái nhanh gọn, không tiếng động, không để lính canh nghe.
 
@@ -26,9 +26,9 @@ Sera đứng dậy chậm rãi vì chân tê như kim châm, năm ngày không �
 
 Gõ cửa, nhẹ để lính canh nghe rồi đến, rồi gần, rồi mở khóa. Mở khóa xong quay lưng, hai giây, đủ.
 
-Lính canh đến, giọng buồn ngủ khàn khàn, mùi rượu nhẹ phảng phất qua khe cửa. "Gì?" Tên này buồn ngủ, chậm chạp, mở khóa từ từ, nhìn thấy bóng là Sera đang đứng. Lính canh giật mình, một giây, chậm.
+Lính canh đến, giọng buồn ngủ khàn khàn, mùi rượu nhẹ phảng phất qua khe cửa. "Gì?" Tên này buồn ngủ, chậm chạp, mở khóa từ từ, cánh cửa vừa hé mở thì thấy Sera đã đứng chờ sẵn bên trong. Lính canh giật mình, đứng sững một giây rồi mới kịp phản ứng.
 
-Sera đánh, bằng cùi chỏ tay phải. Xương cứng va vào cổ họng yếu, tiếng khụt chát chúa giữa đêm yên tĩnh. Vùng họng yếu, ngạt thở, không kêu được, bốn mươi giây trước khi ai đó nghe thấy. Lính canh ngã không tiếng, và Sera bắt dây trói hắn nhanh trong mười lăm giây, rồi ra ngoài.
+Sera vung cùi chỏ tay phải đánh thẳng vào cổ họng hắn, xương tay va mạnh vào vùng sụn mềm, tiếng khụt bật ra giữa đêm yên tĩnh. Hắn ngạt thở, miệng há nhưng không phát ra tiếng nào, và bốn mươi giây nữa mới có người nghe thấy. Lính canh khuỵu xuống, Sera đè hắn xuống đất rồi trói tay hắn lại bằng chính sợi dây trên cổ tay mình, nhanh gọn trong mười lăm giây, rồi bước ra ngoài.
 
 Hành lang tối mịt, cô nhìn bằng Thệ Vang, Thệ Vang mờ nhưng chỉ hướng, phía trên bên phải, tầng hai, nơi có kiếm. Sera đi nhẹ nhàng bằng kiểu chân của Aldric, Aldric dạy bốn năm trước, khi còn sống. Người chết để lại kỹ năng, ký ức còn mãi, thành bước chân không tiếng, mỗi bước chạm đất nhẹ như cánh rơi, mỗi bước di chuyển nhanh như bóng trượt qua tường đá.
 
