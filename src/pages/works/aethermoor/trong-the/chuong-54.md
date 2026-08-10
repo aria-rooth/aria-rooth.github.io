@@ -3,69 +3,43 @@ layout: ../../../../layouts/ChapterLayout.astro
 chapter: 54
 story: "/works/aethermoor/trong-the"
 total: 66
-title: "Chương 54: Pale Frontier"
+title: "Chương 54: Xâm Nhập Trụ Sở"
 ---
 
-Một giờ đi bộ đã trôi qua kể từ khi cả nhóm rời nơi ẩn náu. Một giờ trong rừng Thệ Vang đủ để rời xa nơi ẩn náu, nhưng chưa đủ để an toàn, xa không có nghĩa là thoát, chỉ có nghĩa là còn khoảng cách giữa họ và bất kỳ ai đuổi theo. Mordren bước chậm hơn giờ đầu, đôi chân trượt trên lớp lá mục như thể mỗi bước đều phải thương lượng với mặt đất. Giờ đầu còn sức tích lũy từ đêm nghỉ trong kho, nhưng giờ thứ hai rút sạch từng chút, Mordren bước chậm, chân trái yếu trước rồi chân phải theo sau, Kael đỡ một bên, Calla đỡ bên kia, cả hai cùng vươn ra mỗi khi hắn loạng choạng, mỗi lần Mordren loạng choạng là cả hai cùng vươn ra như phản xạ.
+Đêm thứ tư sau khi rời kho, Sera đứng cách Giáo Hội hai dãy nhà, bóng tối phủ hoàn toàn con đường đá hẹp. Trụ sở Giáo Hội cao bốn tầng, tường đá xám đậm, mái ngói đen kịt, cửa sổ đóng kín bằng gỗ sồi dày. Hai vệ sĩ đứng hai bên cổng chính, giáp bạc phản chiếu ánh đèn dầu leo lét. Sera quan sát từ nóc nhà đối diện, nằm sấp trên mái ngói ẩm, tay trái cầm Thệ Vang.
 
-Sera dừng lại không phải vì bản thân mệt mà vì Mordren cần nghỉ. Cô chọn một rừng nhỏ, vài hàng cây cao đủ để che khuất từ mọi hướng, ra hiệu cho cả nhóm ngồi xuống. Mordren ngồi xuống, hai chân run rẩy, không còn giữ nổi sức nặng của cơ thể, Kael và Calla mỗi người một cánh tay đỡ ông từ từ hạ xuống đất. Đất ẩm lạnh thấm qua lớp vải quần, và Mordren run lên, không nhiều, nhưng đủ để Sera nhận ra ông đang chịu đựng nhiều hơn vẻ ngoài cho thấy. Cô đứng canh, tay nắm chặt chuôi kiếm, còn Lira ngồi cách mười bước để tiết kiệm sức, ngồi không phải ngủ, chỉ là giữ cơ thể ở trạng thái sẵn sàng chạy nếu cần.
+Đây là lần đầu cô xâm nhập một mình. Lira không ở bên cạnh để lên kế hoạch, Kael không canh gác phía sau, không có ai chia sẻ rủi ro hay cùng nhau đưa ra quyết định. Mọi thứ phụ thuộc vào bản thân cô, vào khả năng phán đoán mà cô tự rèn luyện suốt ba đêm trong kho bỏ hoang. Cô đã chọn đến đây, và chọn có nghĩa là chấp nhận hậu quả.
 
-Thệ Vang rừng lúc này sống động hơn. Không phải kiểu hoang vu ngoài thành, mà rõ ràng hơn, sắc nét hơn, có lẽ vì Sera khỏe hơn trước, có lẽ vì vùng đất này đang nói với cô bằng thứ ngôn ngữ không lời, bằng cảm xúc truyền trực tiếp qua lòng bàn chân, sự bình yên rõ rệt cho thấy nơi này đã lâu không có máu, đủ rõ để cô cảm nhận được như một luồng hơi ấm lan ra từ mặt đất.
+Sera nhắm mắt, tay cầm Thệ Vang ép xuống mái ngói ẩm. Lưỡi kiếm nóng lên, không phải nhiệt độ cháy mà là một rung động chậm rãi lan ra từ lưỡi thép xuyên qua bàn tay cô, qua xương cổ tay, lên đến vai và xuống đến bàn chân đang tỳ trên mái ngói. Thệ Vang phản ứng với lòng đất, và lòng đất phản ứng lại. Sera thở chậm, để nhịp tim hòa vào nhịp rung của thanh kiếm, rồi cô mở mắt.
 
-Kael mở túi lôi bình nước ra, kiểm tra dung lượng bên trong. Bình còn đầy, đủ cho ba ngày nếu giữ gìn, nhưng ba ngày đến đâu? Sera không biết, và cô chọn cách đi trước rồi tính sau, quen với việc hành động trước khi có đủ thông tin. Mordren uống chậm, cổ họng ông không quen với sự tự do được uống khi muốn. Hai năm bị giam đã biến mọi hành vi đơn giản thành thứ gì đó xa lạ khi được phép làm lại. Uống xong, ông ngẩng lên nhìn Sera, giọng khô khốc nhưng rõ hơn nhiều so với trong hầm ngục dưới lòng đất, nơi lạnh đến mức phổi co lại và mỗi chữ đều khó nhọc.
+Bản đồ tòa nhà hiện ra trong tâm trí cô, không phải hình ảnh rõ ràng mà là nhận biết về cấu trúc, cột đá chống đỡ trần nhà, cầu thang xoắn ốc dẫn lên tầng trên, hành lang dài hẹp chia thành từng phòng nhỏ. Đất dưới chân Giáo Hội giữ lại mọi thứ: dấu vết của bước chân, trọng lượng của đồ đạc, áp lực từ những bức tường đá chồng chất lên nhau. Thệ Vang đọc những dấu vết đó, dịch chúng thành thông tin Sera có thể hiểu. Tầng một là kho và bếp, tầng hai là phòng ngủ của Thẩm Vấn Giả, tầng ba là văn phòng cấp cao, tầng tư là kho lưu trữ. Cô cần đến tầng ba.
 
-"Cô biết Pale Frontier?" Mordren hỏi, giọng trầm đầy lo lắng.
+Sera mở mắt, rút Thệ Vang khỏi mái ngói, rồi trượt xuống tường phía sau tòa nhà. Chân chạm đất mềm, không phát ra tiếng động, cô dựa lưng vào tường đá lắng nghe. Hai vệ sĩ vẫn ở cổng trước, giọng nói vọng lại nhỏ dần rồi tắt hẳn khi gió đổi hướng. Sera di chuyển dọc theo tường phía sau, tay lần trên bề mặt đá gồ ghề tìm được một cửa sổ nhỏ ở tầng một, kính đã vỡ từ lâu, chỉ còn khung gỗ mục. Cô đút tay vào mò bên trong rồi tìm được bản lề cửa sổ, kéo nhẹ. Bản lề kêu lên một tiếng nhỏ, nhưng đủ để cô nhíu mày. Cô dừng lại năm nhịp thở chờ, không ai đến.
 
-"Không," Sera nói, "chỉ biết tên."
+Cô leo vào, chân chạm sàn gỗ kêu nhẹ, rồi đứng dậy trong bóng tối đặc quánh. Không gian tầng một là kho chứa đồ cũ, thùng gỗ xếp thành hàng, mùi bụi và mùi gỗ mục trộn lẫn nhau. Sera lần theo hành lang, tay chạm tường đá, bước chân nhẹ nhàng trên sàn gỗ. Cô tìm được cầu thang ở góc phía tây, cầu thang xoắn ốc bằng đá, hẹp đến mức hai người khó đứng cạnh nhau. Cô bắt đầu leo từng bậc, tay trái cầm Thệ Vang, tay phải chạm tường.
 
-"Pale Frontier là Bắc cực, hoang mạc không người, nơi trú ngụ của Bạch Quái Thú." Mordren nói chậm, mỗi chữ thận trọng như đang cân nhắc xem nên tiết lộ bao nhiêu. "Nguy hiểm, nhưng không bất khả. Có thể đi được, chỉ là khó hơn Giáo Hội nhiều."
+Tầng hai yên lặng, hành lang dài hun hút, cửa phòng đóng kín, không có bóng người. Sera tiếp tục leo lên đến tầng ba rồi dừng lại. Hành lang tầng ba khác với hai tầng dưới, sàn lát đá hoa văn, tường có treo tranh, đèn dầu đặt trên bệ đá cách nhau năm bước, ánh sáng vàng nhạt chiếu rõ con đường phía trước. Cô không thấy ai, nhưng sự yên lặng ở đây mang một chất khác, không phải trống rỗng mà là chờ đợi.
 
-"Khó hơn Giáo Hội?"
+Sera di chuyển dọc hành lang, mắt quét từng cánh cửa. Đa số là phòng nhỏ, cửa gỗ đơn giản, không có gì đặc biệt. Cô đi đến cuối hành lang, nơi có một cánh cửa rộng hơn hẳn so với những cánh còn lại, gỗ sẫm màu chạm khắc hoa văn phức tạp, hoa văn là những đường cong đan xen nhau tạo thành hình ảnh một tòa tháp giữa hai bàn tay chắp lại. Cửa gỗ chạm khắc không có khoá. Sera đẩy nhẹ, bản lề kêu lên một tiếng nhỏ, cửa mở vào trong.
 
-Mordren im lặng một lúc, đôi mắt cụp xuống như đang cân nhắc mức độ trung thực cần thiết. Rồi ông gật đầu, giọng trầm xuống.
+Phòng bên trong rộng hơn cô tưởng, bàn viết bằng gỗ sồi đặt giữa phòng, ghế dựa bọc da đen, đèn dầu trên bàn cháy sáng, ánh đèn chiếu lên mặt bàn nơi những tờ giấy và bản đồ đang trải rộng. Sera bước vào, đóng cửa lại phía sau, rồi đứng yên nhìn quanh. Tường treo bản đồ lớn, vẽ đường bờ biển phía bắc với những vùng đất trắng xóa không tên. Trên bàn, bên cạnh đèn dầu, là một bản đồ nhỏ hơn, được đánh dấu bằng nhiều chấm đỏ và đường kẻ đen nối liền chúng với nhau.
 
-"Khó hơn. Giáo Hội là người, dễ đoán được, đối phó được. Pale Frontier không đoán được. Đất thay đổi liên tục, bản đồ vô dụng, lạc là chết."
+Sera tiến đến bàn, tay cầm Thệ Vang đặt xuống bên cạnh, rồi cúi nhìn những tờ giấy trên mặt bàn. Tờ đầu tiên là bản đồ Pale Frontier, vẽ chi tiết hơn bản đồ trên tường, có ghi chú bằng mực đen ở lề, chữ viết nhỏ gọn đều đặn. Cô đọc lướt qua, những cái tên xa lạ với cô, Bạch Quái Thú, Vực Thẳm Thần Tử, Rừng Cũ , nhưng một phần trong cô hiểu được sự nghiêm trọng của chúng, chúng không phải địa danh bình thường mà là ranh giới giữa sự sống và cái chết.
 
-"Đường có không?"
+Tờ thứ hai là ghi chú về Dự Án Thệ Hội Tụ, viết tay của Mordren, mỗi dòng ngắn gọn, mỗi chữ mang theo sự chắc chắn của người đã dành nửa đời nghiên cứu chủ đề này. Sera đọc chậm, cố ghi nhớ từng dòng. Dự Án Thệ Hội Tụ là kế hoạch tập hợp mười hai Đoàn, mỗi Đoàn giữ một mảnh của lời thề cổ đại, và khi tất cả mười hai mảnh được tụ hội, cánh cổng sẽ mở ra. Cô đã biết về Dự Án từ trước, nhưng những ghi chú này cho cô thấy quy mô thực sự của nó: mười hai Đoàn, không phải tám như cô từng nghe, và chúng đã bị diệt từng đoàn một.
 
-"Có, đường cũ từ Thần Chiến, nơi quân đội từng hành quân. Đường vẫn còn, nhưng không tốt." Mordren ngừng lại, đôi mắt trở nên xa xăm khi nhớ đến những gì ông từng nghe. "Dọc đường là Thần Tử Di Thương, vết thương thực tại, những khoảng không rách toạc giữa thế giới này. Chúng hút người vào, biến đổi họ, và không bao giờ nhả ra."
+Tờ thứ ba là danh sách. Mười hai dòng, mỗi dòng ghi tên một Đoàn, bên cạnh là số thứ tự từ một đến mười hai, và bên phải mỗi tên là một con số, có thể là số thành viên, có thể là số thệ ước, cô không chắc. Bảy dòng đầu tiên bị gạch chéo bằng mực đỏ, dòng thứ tám cũng bị gạch, nhưng mực đỏ chưa khô hẳn, mới hơn bảy dòng trên. Sera đọc tên từng Đoàn bị gạch: Bạc Ty Linh Đoàn, Thanh Lam Thần Đạo, Phong Quang Thánh Giáo, và những cái tên khác cô chưa từng nghe. Dòng thứ bảy là Trọng Nham Hỏa Đạo, Đoàn của cô, của thanh kiếm trong tay cô, của bốn mươi bảy mảnh thệ ước đang im lặng trong lưỡi thép.
 
-Sera nghe và đếm từng từ, nhận ra Pale Frontier không chỉ xa mà còn mang một loại nguy hiểm khác hẳn so với bất kỳ thứ gì cô từng đối mặt, không phải kẻ thù có thể chém, mà là chính thực tại có thể nuốt chửng.
+Trọng Nham Hỏa Đạo, số bảy. Sera đọc lại dòng đó, rồi đếm những dòng chưa bị gạch. Còn năm dòng chưa bị gạch, năm Đoàn còn tồn tại, năm mục tiêu tiếp theo của Giáo Hội. Cô muốn ghi nhớ tên từng Đoàn, muốn đọc kỹ hơn những ghi chú bên cạnh, nhưng thời gian không cho phép. Cô đã ở trong phòng của Mordren quá lâu, và mỗi giây trôi qua đều là một giây cô có thể bị phát hiện.
 
-"Huyền Môn Cốt," Sera nói, "ở đâu trong đó?"
+Cô đang cầm tờ danh sách, mắt dán vào dòng thứ tám khi nghe thấy tiếng bước chân từ hành lang. Tiếng bước chân trầm, đều đặn, mỗi bước đặt chắc chắn trên sàn đá hoa văn. Không phải bước chân của vệ sĩ đi tuần, vệ sĩ bước nhanh hơn, nhẹ hơn, và thường đi theo cặp. Tiếng bước chân này thuộc về một người duy nhất, và người đó đang đi về phía phòng này, không vội vã, không do dự, như thể đã thuộc lòng quãng đường từ đầu đến cuối hành lang.
 
-"Giữa hoang nguyên. Không dẫn đến đâu, hoặc dẫn đến nơi không nên đến. Câu này người ta nói, còn tôi chưa đến nên không biết chính xác." Mordren ngồi thẳng hơn một chút, đôi mắt sáng lên khi đề cập đến chủ đề quan trọng nhất. "Nhưng tôi biết: Huyền Môn Cốt cần Thệ Hạch để mở, chúng là chìa khóa, là cánh cổng dẫn vào lãnh vực."
+Mordren Chấp Sự đã biết cô ở đây. Hắn đã biết từ trước khi cô leo qua cửa sổ, có thể từ khi cô đặt chân lên mái nhà đối diện. Hắn đang lên cầu thang, bước từng bậc chậm rãi, và trong đầu Sera hiện lên hình ảnh hắn, tóc buộc cao, áo choàng đen, đôi mắt sáng lạnh quan sát mọi thứ xung quanh. Hắn không cần vệ sĩ, không cần ai đi cùng, chỉ cần bản thân hắn và sự kiên nhẫn của kẻ đã quen chờ đợi.
 
-"Thệ Hạch của Trọng Nham Hỏa Đạo," Sera nói, giọng đều đều nhưng mắt liếc xuống thanh kiếm bên hông. "Vỡ, bốn mươi tám mảnh, tất cả trong kiếm tôi. Dùng được không?"
+Sera buông tờ danh sách xuống bàn, tay phải rút Thệ Vang khỏi mặt bàn, lưỡi kiếm sáng lên dưới ánh đèn dầu. Cô quay người, bước nhanh về phía cánh cửa, đứng sau nó, lưng dựa vào tường gỗ lạnh. Kiếm giơ ngang ngực, mũi kiếm hướng ra phía cửa, hai chân trụ vững trên sàn đá. Cô nghe tiếng bước chân ngày càng gần, ngày càng rõ, mỗi bước mang theo một nhịp thở chậm rãi, không hề gấp gáp.
 
-Mordren nhìn kiếm, nhìn rất lâu, ánh mắt ông trĩu nặng như đang nhìn thấy cái chết của cả một Đoàn người, rồi lắc đầu.
+Tiếng bước chân dừng ngay ngoài cửa. Im lặng kéo dài năm nhịp thở, rồi tay nắm cửa bằng đồng thau quay nhẹ, bản lề kêu lên một tiếng nhỏ, cánh cửa gỗ chạm khắc mở ra. Mordren Chấp Sự bước vào, không vệ sĩ, không kiếm, không bất kỳ vũ khí nào trên người. Hắn đứng giữa phòng, dưới ánh đèn dầu, đôi mắt quét qua bàn viết rồi dừng lại ở cánh cửa đang mở sau lưng hắn. Hắn không ngạc nhiên khi thấy Sera đứng sau cánh cửa, kiếm chĩa về phía hắn, cơ thể căng cứng sẵn sàng cho đòn tấn công bất cứ lúc nào.
 
-"Không. Thệ Hạch vỡ là không nguyên, không nguyên thì không mở cổng được. Giáo Hội cần Thệ Hạch nguyên."
+Hắn chỉ đứng đó, hai vai rộng, áo choàng đen phủ từ cổ xuống gót chân, tóc buộc cao để lộ gương mặt góc cạnh với hàm vuông và đôi mắt sáng lạnh. Hắn nhìn cô, nhìn rất lâu, rồi hắn mở miệng, giọng trầm, khàn, mỗi từ nhả ra chậm rãi như thể mỗi chữ đều cần thời gian để đến đúng vị trí.
 
-"Hai của ai?"
-
-"Một thuộc Bạc Ty Linh Đoàn, một thuộc Thanh Lam Thần Đạo, hai Group, hai Thệ Hạch, Giáo Hội đã có cả." Mordren nhẩm tính, giọng đều đều như đang liệt kê tài sản của kẻ thù. "Cùng sáu cái từ sáu Group tan rã mà anh tôi gây nên, thu giữ, cất giấu, chờ đợi, tổng cộng tám. Còn thiếu hai nữa, và cái thứ bảy, từ Trọng Nham Hỏa Đạo, đang trong tay cô, nhưng đã vỡ nên vô dụng. Nghĩa là cô an toàn."
-
-Sera hiểu rằng an toàn ở đây không có nghĩa là không bị đe dọa, một Thệ Hạch vỡ không có giá trị nghi lễ, nên chúng sẽ không giết cô vì thanh kiếm. Nhưng giết thì vẫn có thể giết, nếu biết cô biết về Dự Án. Dự Án là bí mật, và bí mật thì luôn có giá bằng máu.
-
-"Tại sao anh ông muốn mở cổng?" Sera hỏi, giọng tò mò.
-
-Mordren cúi đầu, giọng trầm xuống thành một thứ gì đó gần như thì thầm. "Vì tin. Tin là Thần Đế trở lại sẽ mang trật tự, chấm dứt tám trăm năm hỗn loạn. Tám thế kỷ quá dài, thế giới đã vỡ nát cần được gắn lại."
-
-"Thần Đế gây Thần Chiến," Sera nói, giọng sắc hơn cô tưởng. "Chiến tranh là hủy diệt, không phải đem lại trật tự."
-
-Mordren im lặng rất lâu, cái im lặng của người đã nghi ngờ điều tương tự từ lâu nhưng chưa bao giờ dám nói thành lời. Rồi ông ngẩng lên, đôi mắt trống rỗng nhưng kiên quyết.
-
-"Đúng. Tôi biết rõ, nhưng không tin, và tin hay không thì hắn cũng sẽ giam cô lại. Im lặng kéo dài, anh tôi tưởng tôi vẫn đồng ý, nên chưa giết ngay. Đợi, đợi cho đến khi cô đến."
-
-"Tôi không phải để cứu ông," Sera nói, "tôi đến để phá Dự Án."
-
-"Biết." Mordren gật đầu, một cái gật đầu của người đã chấp nhận vận mệnh mà không cần giải thích thêm. "Nhưng cô đến thì tôi sống, còn sống thì còn nói được điều gì đó có giá trị với cô."
-
-Sera gật đầu, chấp nhận logic thực dụng của ông: một đồng minh biết rõ giới hạn bản thân còn hơn một kẻ kiêu ngạo đòi được cõng. Cô quay sang thấy Lira ngồi mười bước phía xa, mắt không rời cuộc đối thoại, mỗi lời nói đều là thông tin, và thông tin chính là thứ Lira thu thập bằng cách nghe mà không hỏi. Kael ngồi cạnh Mordren, im lặng lắng nghe, học hỏi lý do tại sao cả nhóm đang đi về hướng chết, và thấy đủ để không cần đặt thêm câu hỏi nào. Calla thì ngửa mặt nhìn lên tán cây cao, đôi mắt theo dõi những tán lá đan xen trên đầu, sự che chở từ những thân gỗ vững chắc nhắc cô về thứ gì đó xa xưa, không phải Caelmyr hay bất kỳ nơi nào cụ thể, chỉ là an toàn khi được cây cối bao quanh.
-
-Nửa giờ trôi qua rồi Sera đứng lên, năm người theo sau. Mordren đứng chậm rãi, chậm hơn bất kỳ ai trong nhóm, nhưng vẫn đứng được, vẫn bước được, và bước có nghĩa là tiếp tục.
-
-"Đi," Sera nói, "hướng Bắc, nghỉ tiếp khi trời sáng."
-
-Năm người di chuyển, Mordren giữa Kael và Calla, Sera đi đầu, Lira giữ hậu trâu phía sau, mỗi người cách nhau năm bước, khoảng cách đủ gần để hỗ trợ nhưng đủ xa để phản ứng nếu có chuyện xảy ra.
+Tìm được gì chưa?
